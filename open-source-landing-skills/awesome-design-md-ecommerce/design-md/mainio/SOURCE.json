@@ -1,0 +1,807 @@
+{
+  "source_url": "https://www.mainioclothing.fi/en/",
+  "final_url": "https://www.mainioclothing.fi/en/",
+  "captured_at": "2026-09-29T04:37:19.271333+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.mainioclothing.fi/en/",
+      "final_url": "https://www.mainioclothing.fi/en/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "final_url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.mainioclothing.fi/en/#computed-style-snapshot",
+      "final_url": "https://www.mainioclothing.fi/en/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "e5c2e592bf4aff191d7ecbe82c1ae8a3877fd5a08a7edfb02346317fb22e70f6",
+      "snapshot": "rendered-style-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 184,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#363636": {
+      "count": 10,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#ecede9": {
+      "count": 15,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#1c1b1b": {
+      "count": 11,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#fafafa": {
+      "count": 40,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 110,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "#939393": {
+      "count": 75,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 49,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "#36363633": {
+      "count": 8,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "#1c1b1b99": {
+      "count": 5,
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+    ],
+    "sans-serif": [
+      "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": ":root",
+      "declarations": "--use-sticky-header: 1;\n      --use-unsticky-header: 0;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": ":root",
+      "declarations": "--header-is-not-transparent: 0;\n      --header-is-transparent: 1;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": ".supports-sticky .Search[aria-hidden=\"true\"] + .Header--transparent",
+      "declarations": "box-shadow: none;color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_VXLqDz .Button",
+      "declarations": "color: #363636;\n    border-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_VXLqDz .Button::before",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_VXLqDz .Button:hover",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3JrhVh .Button",
+      "declarations": "color: #363636;\n    border-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3JrhVh .Button::before",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3JrhVh .Button:hover",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3HgrDn .Button",
+      "declarations": "color: #363636;\n    border-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3HgrDn .Button::before",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/en/",
+      "selector": "#section-slideshow_3HgrDn .Button:hover",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": "body",
+      "declarations": "font-family:Montserrat,sans-serif;font-weight:400;font-style:normal;color:#5c5c5c;background:#fff;line-height:1.65"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": "shopify-product-reviews .spr-button-primary:not(input),#shopify-product-reviews input.spr-button-primary,#shopify-product-reviews .spr-pagination-prev>a,#shopif",
+      "declarations": "position:relative;display:inline-block;padding:14px 28px;line-height:normal;border:1px solid transparent;border-radius:0;text-transform:uppercase;font-size:13px;text-align:center;letter-spacing:.2em;font-family:Montserrat,sans-serif;font-weight:500;font-style:normal;background-color:transparent;transition:color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86);z-index:1;-webkit-tap-highlight-color:initial"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".Button--primary,.shopify-payment-button__button--unbranded,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button-primary",
+      "declarations": "color:#fff;border-color:#5c5c5c"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".Button--primary:before,.shopify-payment-button__button--unbranded:before,#shopify-product-reviews .spr-summary-actions-newreview:before,#shopify-product-review",
+      "declarations": "background-color:#5c5c5c"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": "ton__button--unbranded:not([disabled]):hover,#shopify-product-reviews .spr-summary-actions-newreview:not([disabled]):hover,#shopify-product-reviews .spr-button-",
+      "declarations": "color:#5c5c5c;background-color:transparent"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".Button--secondary,#shopify-product-reviews .spr-pagination-prev>a,#shopify-product-reviews .spr-pagination-next>a",
+      "declarations": "color:#939393;border:1px solid rgba(147,147,147,.2)"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".Button--secondary:before,#shopify-product-reviews .spr-pagination-prev>a:before,#shopify-product-reviews .spr-pagination-next>a:before",
+      "declarations": "background-color:#5c5c5c;transform-origin:right center;transform:scaleX(0)"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".Button--secondary:not([disabled]):hover,#shopify-product-reviews .spr-pagination-prev>a:not([disabled]):hover,#shopify-product-reviews .spr-pagination-next>a:n",
+      "declarations": "color:#fff;border-color:#5c5c5c"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".RoundButton,.flickity-prev-next-button",
+      "declarations": "position:relative;width:45px;height:45px;border:none;border-radius:50%;background:#fff;color:#5c5c5c;cursor:pointer;text-align:center;z-index:1;box-shadow:0 2px 10px #36363626;vertical-align:middle;line-height:0;transform:scale(1.001);transition:background .15s ease-in-out,opacity .15s ease-in-out,transform .2s ease-in-out,color .2s ease-in-out;overflow:hidden"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".RoundButton.is-active,.is-active.flickity-prev-next-button",
+      "declarations": "background:#5c5c5c;color:#fff;outline:none"
+    },
+    {
+      "source": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+      "selector": ".RoundButton--flat",
+      "declarations": "box-shadow:0 1px 5px #36363626;color:#5c5c5c80"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Mainio",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "4ef47cbe378924782f8265b0ce25903f8239e005afe2b1773e78ea34cd112e4e"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1c1b1b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1b1b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.body": {
+      "value": "#363636",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#5c5c5c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e7e7e7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ecede9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.border-outline": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/en/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#1c1b1b99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "colors.divider-soft": {
+      "value": "#36363633",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "colors.neutral-quiet": {
+      "value": "#939393",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589"
+      ]
+    },
+    "colors.checkout-accent-unverified": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.checkout-accent-unverified-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-outline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "overlayColor": "{colors.overlay-scrim}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.sustainability-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.divider-soft}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "#section-announcement",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#363636": {
+        "selector": "#section-slideshow_VXLqDz .Button",
+        "property": "color",
+        "declaration": "#363636",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#ecede9": {
+        "selector": ".CollectionItem--8e090ac4-7717-4cf3-b0f7-d6f8168edb8a .Heading,\n    .CollectionItem--8e090ac4-7717-4cf3-b0f7-d6f8168edb8a .flickity-page-dots",
+        "property": "color",
+        "declaration": "#ecede9",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#1c1b1b": {
+        "selector": ".CollectionItem--8e090ac4-7717-4cf3-b0f7-d6f8168edb8a .CollectionItem__Link",
+        "property": "color",
+        "declaration": "#1c1b1b",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#fafafa": {
+        "selector": "#section-1571295258471,\n  #section-1571295258471 .Heading",
+        "property": "color",
+        "declaration": "#fafafa",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#000000": {
+        "selector": "#section-1579036091597 .Form__Submit",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.mainioclothing.fi/en/",
+        "snapshot": "homepage.html",
+        "sha256": "631410dc83b4e94476dd69ee0ab7aaff00ec4a6a20acd78c99ceba8f833d0de4"
+      },
+      "#00000000": {
+        "selector": ".shopify-payment-button__button",
+        "property": "box-shadow",
+        "declaration": "0 0 #0000",
+        "url": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.mainioclothing.fi/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#5c5c5c": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#5c5c5c",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      },
+      "#939393": {
+        "selector": ".supports-hover .Link--secondary:hover,.Link--secondary.is-active",
+        "property": "color",
+        "declaration": "#939393",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      },
+      "#e7e7e7": {
+        "selector": ".flickity-page-dots .dot",
+        "property": "border",
+        "declaration": "1px solid #e7e7e7",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      },
+      "#36363633": {
+        "selector": ".Drawer:before",
+        "property": "box-shadow",
+        "declaration": "2px 0 10px #36363633,-2px 0 10px #36363633",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      },
+      "#1c1b1b99": {
+        "selector": ".NewsletterPopup .Form__Input::-webkit-input-placeholder,.NewsletterPopup #shopify-product-reviews .spr-form-input-text::-webkit-input-placeholder,#shopify-product-reviews .NewsletterPopup .spr-form-input-text::-webkit-input-placeholder,.NewsletterPopup #shopify-product-reviews .spr-form-input-email",
+        "property": "color",
+        "declaration": "#1c1b1b99",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      }
+    },
+    "font_families": {
+      "Montserrat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Montserrat",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://www.mainioclothing.fi/cdn/shop/t/63/assets/theme.scss.css?v=22061385888101823181780432589",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "84917e44c802187d37139591a69ade1564270b5b0b2978684f27ad44045e0d64"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

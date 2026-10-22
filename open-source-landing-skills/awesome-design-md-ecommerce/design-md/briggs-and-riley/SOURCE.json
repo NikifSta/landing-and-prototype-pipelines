@@ -1,0 +1,843 @@
+{
+  "source_url": "https://briggs-riley.com",
+  "final_url": "https://www.briggs-riley.com/",
+  "captured_at": "2026-09-28T09:30:29.694765+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://briggs-riley.com",
+      "final_url": "https://www.briggs-riley.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "535974a16abf66c90be7923135393523f6db92277b1962cb89ad779c6ca86e9a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/uzo4rph.css",
+      "final_url": "https://use.typekit.net/uzo4rph.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "4b7e7fd4815a8d02e912ff95775541f28fbac1f251f5e6a38f18af81372cc00b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "final_url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/custom.css?v=149302248270779024371787248760",
+      "final_url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/custom.css?v=149302248270779024371787248760",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "994b9dfd029591c111a08b56e16e2ab836326777743b55e2c158f2b0b1d58350",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/acdc-product-registration.scss?v=49732250243485747701696231252",
+      "final_url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/acdc-product-registration.scss?v=49732250243485747701696231252",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "36f5302ea4fa94227679faaec9125c1065a7054cb19fc61043e0b7171e2c67ee",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ee5600": {
+      "count": 23,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 159,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#000000": {
+      "count": 54,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#4a4e54": {
+      "count": 126,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#ff6b0e": {
+      "count": 11,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 4,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#d9d9d6": {
+      "count": 69,
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "#62676f": {
+      "count": 4,
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "#3e4146": {
+      "count": 6,
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 7,
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://www.briggs-riley.com/"
+    ],
+    "ivypresto-display": [
+      "https://use.typekit.net/uzo4rph.css"
+    ],
+    "serif": [
+      "https://use.typekit.net/uzo4rph.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Montserrat;\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 32px;\n    --typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:Montserrat;\n    --typeBasePrimaryMedium:Montserrat;\n    --typeBasePrimaryMediumWeight:500;\n    --typeBasePrimarySemiBold:Montserrat;\n    --typeBasePrimarySemiBoldWeight:600;\n    --typeBasePrimaryBold:Montserrat;\n    --typeBasePrimaryBoldWeight:700;\n    --typeBaseAccent:'ivypresto-display', serif;;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 16px;\n    --typeBaseWeight: 400;\n    --typeBaseSpacing: 0.0em;\n    --typeBaseLineHeight: 1.5;\n\n    --typeCollectionTitle: 16px;\n\n   "
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "background-color: white;\n    color: black;\n    margin-left: 16px;\n    border: 1px solid #ccc;\n    font-size: 10px; \n    min-height: 0;\n    height: auto;\n    \n    min-width: 180px;\n    margin-left: 29px;\n    position: relative;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "width: 100%;\n    height: auto; \n    margin: 0; \n    padding: 15px var(--drawer-gutter);\n    background-color: white;\n    text-align: left;\n    color: black;\n    font-size: 1.3em;\n    min-width: 180px;\n    position: relative;\n    border: none;\n    flex: 1 1 auto; \n    margin: 0;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "background-color: white;\n    color: black;\n    margin-left: 16px;\n    border: 1px solid #ccc;\n    font-size: 10px; \n    min-height: 0;\n    height: auto;\n    \n    min-width: 180px;\n    margin-left: 29px;\n    position: relative;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "width: 100%;\n    height: auto; \n    margin: 0; \n    padding: 15px var(--drawer-gutter);\n    background-color: white;\n    text-align: left;\n    color: black;\n    font-size: 1.3em;\n    min-width: 180px;\n    position: relative;\n    border: none;\n    flex: 1 1 auto; \n    margin: 0;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": ".hero--template--14896782245930__hero_video_7Xh7aX .hero__text-wrap .hero__link .btn",
+      "declarations": "background: #ee5600 !important;\n      border-color: #ee5600 !important;\n      color: #fafafa !important;\n      font-size: 14px !important;\n      margin-top: 32px !important;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": ".newsletter-section__content .input-group-btn button,\n  #newsletter-signup.newsletter-custom-form .btn",
+      "declarations": "background-color: #ee5600;\n    letter-spacing: 0.1em;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": ".newsletter__input .btn",
+      "declarations": "background-color: #ee5600;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": ".input-group-btn button[disabled],\n  #newsletter-signup .btn[disabled]",
+      "declarations": "background-color: #000 !important;\n    color: #fff !important;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "background-color: white;\n    color: black;\n    margin-left: 16px;\n    border: 1px solid #ccc;\n    font-size: 10px; \n    min-height: 0;\n    height: auto;\n    \n    min-width: 180px;\n    margin-left: 29px;\n    position: relative;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/",
+      "selector": "#localization_form .disclosure__button",
+      "declarations": "width: 100%;\n    height: auto; \n    margin: 0; \n    padding: 15px var(--drawer-gutter);\n    background-color: white;\n    text-align: left;\n    color: black;\n    font-size: 1.3em;\n    min-width: 180px;\n    position: relative;\n    border: none;\n    flex: 1 1 auto; \n    margin: 0;"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorBtnPrimary:#4a4e54;--colorBtnPrimaryLight:#62676f;--colorBtnPrimaryDim:#3e4146;--colorBtnPrimaryText:#ffffff;--colorCartDot:#ff6b0e;--colorLink:#4a4e54;--colorTextBody:#4a4e54;--colorPrice:#4a4e54;--colorTextSavings:#ff6b0e;--colorSaleTag:#ff6b0e;--colorSaleTagText:#ffffff;--colorBody:#ffffff;--colorBodyDim:#f2f2f2;--colorFooter:#1c1d1d;--colorFooterText:#4a4e54;--colorBorder:#d9d9d6;--colorNav:#ffffff;--colorNavText:#000000;--colorAnnouncement:#EE5600;--colorAnnouncementText:#ffffff;--colorHeroText:#ffffff;--colorModalBg:#d9d9d6;--colorImageOverlay:#d9d9d6;--colorImageOverlayOpacity:0;--colorImageOverlayTextShadow:0;--colorSmallImageBg:#ffffff;--colorLargeImageBg:#4a4e54;--colorGridO"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;--drawer-gutter:30px"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;color:#fff;color:var(--colorBtnPrimaryText);background:#4a4e54;background:var(--colorBtnPrimary);border-radius:50%"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".hero .flickity-button",
+      "declarations": "color:#4a4e54;color:var(--colorTextBody);background-color:#fff;background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".hotspot__button-content",
+      "declarations": "color:#4a4e54;color:var(--colorTextBody);background-color:#fff;background-color:var(--colorBody);opacity:0;visibility:hidden;pointer-events:none;padding:1rem;position:absolute;top:calc(100% + 1rem);left:50%;transform:translate(-50%);transition:opacity .3s ease-in-out;min-width:5rem;border-radius:5px;box-shadow:3px 3px 10px 3px #0003"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "position:absolute;top:-10px;left:50%;content:\"\";width:0px;height:0px;border-style:solid;border-width:0 5px 10px 5px;transform:translate(-50%);border-color:transparent transparent #ffffff transparent;border-color:transparent transparent var(--colorBody) transparent"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".comparison__button:before",
+      "declarations": "content:\"\";width:2px;position:absolute;background-color:#fff!important"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".comparison__button:after",
+      "declarations": "content:\"\";width:2px;height:50%;position:absolute;bottom:0%;left:50%;transform:translate(-50%);background-color:#fff!important"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "body,html",
+      "declarations": "background-color:#fff;background-color:var(--colorBody);color:#4a4e54;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.92);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight)"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".h1,.h2,.h3,h1,h2,h3,h4,.h4",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "button",
+      "declarations": "overflow:visible;color:currentColor"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.spr-container .spr-button,.spr-container .spr-summary-actions a",
+      "declarations": "line-height:1.42;text-decoration:none;text-align:center;white-space:normal;font-size:calc(var(--typeBaseSize) - 4px);font-size:max(calc(var(--typeBaseSize) - 4px),13px);font-weight:700;text-transform:uppercase;letter-spacing:.3em;display:inline-block;padding:11px 20px;margin:0;width:auto;min-width:90px;vertical-align:middle;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:var(--buttonRadius);color:#fff;color:var(--colorBtnPrimaryText);background:#4a4e54;background:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover,.spr-container .spr-button:hover,.spr-container .spr-summary",
+      "declarations": "color:#fff;color:var(--colorBtnPrimaryText);background-color:#4a4e54;background-color:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "ton__button--unbranded[disabled],.spr-container .spr-button.disabled,.spr-container .spr-button[disabled],.spr-container .spr-summary-actions a.disabled,.spr-co",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "d]:hover,.spr-container .spr-button.disabled:hover,.spr-container .spr-button[disabled]:hover,.spr-container .spr-summary-actions a.disabled:hover,.spr-containe",
+      "declarations": "color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "spr-summary-actions a.disabled:before,[data-button_style=angled] .spr-container .spr-summary-actions a[disabled]:after,[data-button_style=angled] .spr-container",
+      "declarations": "background-color:#f6f6f6;border-top:1px solid;border-top-color:#b6b6b6;border-bottom:1px solid;border-bottom-color:#b6b6b6"
+    },
+    {
+      "source": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+      "selector": "ta-button_style=angled] .spr-container .spr-button:before,[data-button_style=angled] .spr-container .spr-summary-actions a:after,[data-button_style=angled] .spr",
+      "declarations": "content:\"\";position:absolute;display:block;top:0;bottom:0;width:20px;transform:skew(-12deg);background-color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "High-End Luggage | Shop Lifetime Guarantee Luxury Travel Luggage\n\n– Briggs and Riley",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ee5600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#4a4e54",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9d9d6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#4a4e54",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value": "#62676f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "colors.secondary-dim": {
+      "value": "#3e4146",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "colors.footer-bg": {
+      "value": "#1c1d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.nav-text": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.badge-accent": {
+      "value": "#ff6b0e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/"
+      ]
+    },
+    "colors.accent-alert": {
+      "value": "#d02e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "colors.success": {
+      "value": "#56ad6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'ivypresto-display', serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.0,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.1em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.secondary}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.nav-text}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "height": "72px"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.hairline}",
+        "titleTypography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.footer-bg}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.badge-accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.warranty-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "accent": "{colors.primary}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ee5600": {
+        "selector": ":root",
+        "property": "--colorprimarybuttonbackground",
+        "declaration": "#ee5600",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--colorprimarybuttontexthover",
+        "declaration": "#ffffff",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--colorsecondarybuttonbackground",
+        "declaration": "#000000",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#4a4e54": {
+        "selector": ":root",
+        "property": "--colortertiarybuttontext",
+        "declaration": "#4a4e54",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#999999": {
+        "selector": "::-webkit-scrollbar-thumb:hover",
+        "property": "background",
+        "declaration": "#999",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#ff6b0e": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#ff6b0e",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#1c1d1d": {
+        "selector": ".cart-progress-bar__text",
+        "property": "color",
+        "declaration": "#1c1d1d",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#fafafa": {
+        "selector": ".hero--template--14896782245930__hero_video_7Xh7aX .hero__text-wrap .hero__link .btn",
+        "property": "color",
+        "declaration": "#fafafa",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#d9d9d6": {
+        "selector": ".footer__title",
+        "property": "color",
+        "declaration": "#d9d9d6",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "#62676f": {
+        "selector": ":root",
+        "property": "--colorbtnprimarylight",
+        "declaration": "#62676f",
+        "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e"
+      },
+      "#3e4146": {
+        "selector": ":root",
+        "property": "--colorbtnprimarydim",
+        "declaration": "#3e4146",
+        "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e"
+      },
+      "#f2f2f2": {
+        "selector": ":root",
+        "property": "--colorbodydim",
+        "declaration": "#f2f2f2",
+        "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e"
+      },
+      "#d02e2e": {
+        "selector": "input.error,textarea.error",
+        "property": "border-color",
+        "declaration": "#d02e2e",
+        "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e"
+      },
+      "#56ad6a": {
+        "selector": ".note--success",
+        "property": "color",
+        "declaration": "#56ad6a",
+        "url": "https://www.briggs-riley.com/cdn/shop/t/451/assets/theme.css?v=166915555941969663961781293356",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "0b50c497d710f89475ceee61cd880d091010dfb745a267e473a034b190863b6e"
+      }
+    },
+    "font_families": {
+      "Montserrat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Montserrat",
+        "url": "https://www.briggs-riley.com/",
+        "snapshot": "homepage.html",
+        "sha256": "11717ad1b724f3ba9d77d8bd3da28fa22a1d4550ce77f41a67b581ac77a64a6f"
+      },
+      "ivypresto-display": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"ivypresto-display\"",
+        "url": "https://use.typekit.net/uzo4rph.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4b7e7fd4815a8d02e912ff95775541f28fbac1f251f5e6a38f18af81372cc00b"
+      },
+      "serif": {
+        "selector": ".tk-ivypresto-display",
+        "property": "font-family",
+        "declaration": "\"ivypresto-display\",serif",
+        "url": "https://use.typekit.net/uzo4rph.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4b7e7fd4815a8d02e912ff95775541f28fbac1f251f5e6a38f18af81372cc00b"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,779 @@
+{
+  "source_url": "https://farrow-ball.com",
+  "final_url": "https://www.farrow-ball.com/",
+  "captured_at": "2026-09-28T09:05:30.055585+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://farrow-ball.com",
+      "final_url": "https://www.farrow-ball.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "6ab12ac51138f1e57e2cd67eb91a7560297d9c36da4948d6ffee532992ec9843",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/mage/calendar.min.css",
+      "final_url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/mage/calendar.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7348aa5d12baa382054d93b9633d86be2a2c6a2ef800bf145f6c67d7c991ed3a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "final_url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/Adyen_Payment/css/adyen.min.css",
+      "final_url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/Adyen_Payment/css/adyen.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "59d6dfdc3024520ff464e58c7cbb8bf7e58dd73012ec61c4c1f94e84cb77eaff",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/Amasty_Base/vendor/slick/amslick.min.css",
+      "final_url": "https://www.farrow-ball.com/static/version1790582998/base/Magento/base/default/Amasty_Base/vendor/slick/amslick.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e183c6eeb9a3d2e36bfec17059b9cb7293e607ef25b23b34de5c6acd188167f8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.farrow-ball.com/static/version1790582998/frontend/Magento/base/default/Amasty_LibSwiperJs/vendor/swiper/swiper.min.css",
+      "final_url": "https://www.farrow-ball.com/static/version1790582998/frontend/Magento/base/default/Amasty_LibSwiperJs/vendor/swiper/swiper.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "238c057dcc9299913cd9cda1011cc4395ca6343cd774aa69b36b7f5e2400a313",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 521,
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "#cecece": {
+      "count": 11,
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 38,
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "#45484b": {
+      "count": 504,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#397082": {
+      "count": 184,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#242627": {
+      "count": 7,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#a82635": {
+      "count": 33,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 46,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#467c5b": {
+      "count": 7,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#135d95": {
+      "count": 8,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#eceae1": {
+      "count": 50,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "#3f4d57": {
+      "count": 8,
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Verlag": [
+      "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+    ],
+    "sans-serif": [
+      "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+    ],
+    "Open Sans": [
+      "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=V0YDOJP]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#4a5b6b;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "color: rgb(255, 255, 255);\ncolor: rgb(255, 255, 255);\n#html-body [data-pb-style=LUY662Y]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#636f68;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=OA3JFY9]",
+      "declarations": "width:90%;border-width:.5px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=KND95X5]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#eae1d3;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(33.3333% - 80px);margin:10px 40px;padding-left:20px;padding-right:20px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=PTTRC3H]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#eae1d3;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(33.3333% - 80px);margin:10px 40px;padding-left:20px;padding-right:20px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=XS9MY3S]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#eae1d3;background-position:center top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(33.3333% - 80px);margin:10px 40px;padding-left:20px;padding-right:20px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=M1F84LP]",
+      "declarations": "width:100%;border-width:1px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=Y94CF7G]",
+      "declarations": "width:100%;border-width:1px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=E32I297]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#805348;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:50%;align-self:center"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=LYT48UT]",
+      "declarations": "width:90%;border-width:1px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=CM2JW0B]",
+      "declarations": "width:100%;border-width:1px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=UF7HP50]",
+      "declarations": "background-color:#6f7b71;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=M3F13DU]",
+      "declarations": "width:90%;border-width:1px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=G7130TV]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#f6f6f6;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(25% - 20px);margin:10px;padding:20px 15px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=QK6GNTS]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#f6f6f6;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(25% - 20px);margin:10px;padding:20px 15px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=EUBNSFO]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#f6f6f6;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(25% - 20px);margin:10px;padding:20px 15px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=NWQSN4Q]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#f6f6f6;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:calc(25% - 20px);margin:10px;padding:20px 15px;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=BJSWJ2D]",
+      "declarations": "width:90%;border-width:.5px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=DRY7OKR]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#7a9396;background-position:left top;background-size:contain;background-repeat:no-repeat;background-attachment:scroll"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=LYNG3I5]",
+      "declarations": "border-radius:0;min-height:600px;background-color:transparent;padding-top:180px"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=QM4YBEH],#html-body [data-pb-style=R2PMC2H]",
+      "declarations": "background-color:#4a5b6b;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=LVX0734]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#4a5b6b;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;border-radius:8px;width:50%;align-self:stretch"
+    },
+    {
+      "source": "https://www.farrow-ball.com/",
+      "selector": "#html-body [data-pb-style=O20IGTW]",
+      "declarations": "width:100%;border-width:1px;border-color:#939393;display:inline-block"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "body",
+      "declarations": "color:#45484b;font-family:'Verlag','Helvetica Neue',Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.5;font-size:1.8rem"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "h1",
+      "declarations": "color:#45484b;font-family:'Verlag';font-weight:400;line-height:1.1;font-size:4rem;margin-top:0;margin-bottom:2.7rem"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "h5,.product-suggest-name",
+      "declarations": "color:#45484b;font-family:'Verlag';font-weight:700;line-height:1.1;font-size:1.8rem;margin-top:2.7rem;margin-bottom:2.7rem"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "h6,.product-suggest-code",
+      "declarations": "color:#45484b;font-family:'Verlag';font-weight:700;line-height:1.1;font-size:1.3rem;margin-top:2.7rem;margin-bottom:2.7rem"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small",
+      "declarations": "color:#45484b;font-family:'Verlag','Helvetica Neue',Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "button,.quote-details-items .actions-toolbar>.action",
+      "declarations": "background-image:none;background:#fff;border:1px solid #45484b;color:#45484b;cursor:pointer;display:inline-block;font-family:'Verlag','Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:400;margin:0;padding:18px 27px;font-size:1.8rem;line-height:.1rem;box-sizing:border-box;vertical-align:middle"
+    },
+    {
+      "source": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+      "selector": "button:focus,button:active,.quote-details-items .actions-toolbar>.action:focus,.quote-details-items .actions-toolbar>.action:active",
+      "declarations": "background:#498ca1;border:1px solid #45484b;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Farrow & Ball | Handcrafted Paint and Wallpaper | Farrow & Ball",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#397082",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#242627",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#45484b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cecece",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eceae1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value": "#467c5b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#a82635",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.accent-slate": {
+      "value": "#3f4d57",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#135d95",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Verlag, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Verlag, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Verlag, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Verlag, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.accent-slate}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sage}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.colour-swatch-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(255, 255, 255)",
+        "url": "https://www.farrow-ball.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ab12ac51138f1e57e2cd67eb91a7560297d9c36da4948d6ffee532992ec9843"
+      },
+      "#cecece": {
+        "selector": ".advanced-search-header-2.additional",
+        "property": "border-top",
+        "declaration": "1px solid #cecece",
+        "url": "https://www.farrow-ball.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ab12ac51138f1e57e2cd67eb91a7560297d9c36da4948d6ffee532992ec9843"
+      },
+      "#f6f6f6": {
+        "selector": "#html-body [data-pb-style=G7130TV]",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://www.farrow-ball.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ab12ac51138f1e57e2cd67eb91a7560297d9c36da4948d6ffee532992ec9843"
+      },
+      "#45484b": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#45484b",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#397082": {
+        "selector": "a:hover,.alink:hover",
+        "property": "color",
+        "declaration": "#397082",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#242627": {
+        "selector": "code",
+        "property": "color",
+        "declaration": "#242627",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#a82635": {
+        "selector": "input.mage-error,select.mage-error,textarea.mage-error",
+        "property": "border-color",
+        "declaration": "#a82635",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#757575": {
+        "selector": ".abs-remove-button-for-blocks:before,.sidebar .product-items .action.delete:before,.sidebar .block-compare .action.delete:before,.table-comparison .cell.remove .action.delete:before,.block-compare .action.delete:before,.filter-current .action.remove:before",
+        "property": "color",
+        "declaration": "#757575",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#467c5b": {
+        "selector": ".message.success",
+        "property": "color",
+        "declaration": "#467c5b",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#135d95": {
+        "selector": "._amblog-button:hover",
+        "property": "background",
+        "declaration": "#135d95",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#eceae1": {
+        "selector": ".amlocator-main-container .amlocator-filters-container",
+        "property": "border-top",
+        "declaration": "1px solid #eceae1",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "#3f4d57": {
+        "selector": ".amblog-index-index .amblog-grid-list .amblog-content .amblog-date,.amblog-index-category .amblog-grid-list .amblog-content .amblog-date,.amblog-index-tag .amblog-grid-list .amblog-content .amblog-date,.amblog-index-index .amblog-grid-list .amblog-content .amblog-views,.amblog-index-category .amblog",
+        "property": "color",
+        "declaration": "#3f4d57",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      }
+    },
+    "font_families": {
+      "Verlag": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Verlag\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Verlag\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      },
+      "Open Sans": {
+        "selector": ".shipping-address-modal .modal-inner-wrap .admin__action-select-shipping-addressmultiselect-search-count,.billing-address-modal .modal-inner-wrap .admin__action-select-shipping-addressmultiselect-search-count",
+        "property": "font-family",
+        "declaration": "\"Open Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.farrow-ball.com/static/version1790582998/frontend/FarrowAndBall/theme-frontend-farrow-and-ball/default/css/styles-m.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e79708e3f439ded75900ce530b9bc20d734a672ee789bad6291f9c67f33a8226"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

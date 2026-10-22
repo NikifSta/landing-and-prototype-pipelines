@@ -1,0 +1,934 @@
+{
+  "source_url": "https://elvie.com",
+  "final_url": "https://elvie.com/",
+  "captured_at": "2026-09-29T03:58:44.933049+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://elvie.com",
+      "final_url": "https://elvie.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css",
+      "final_url": "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cf482fc2e9d9c77b2d342ba051bf60f7db585c96296591ef13b2b236f507bbae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://elvie.com/cdn/shop/t/24/assets/typography-CtwIhrln.css",
+      "final_url": "https://elvie.com/cdn/shop/t/24/assets/typography-CtwIhrln.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "64580b83adec5f8b1b7d4c1ae8dbc39d8fd832487292255d64b8ffe0596644c9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "final_url": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "16334061f125cb75ae268f7105dc1ee0c92ed8e6c8bce4089e7a5ef241d8baab",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+      "final_url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ee99b527c3639fa66cd8ce1188ef0b77c5b3702983bd675a56269880718e8c8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://elvie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://elvie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#478947": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 72,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#c2ccb6": {
+      "count": 3,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#000000": {
+      "count": 34,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#54b8b3": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#484b5d": {
+      "count": 14,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#a70100": {
+      "count": 3,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#7e6b45": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#1c1d27": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#575b70": {
+      "count": 2,
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "#faf8f6": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css"
+      ]
+    },
+    "#007aff": {
+      "count": 5,
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css"
+      ]
+    },
+    "#00000000": {
+      "count": 10,
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css"
+      ]
+    }
+  },
+  "font_families": {
+    "MuseoSans": [
+      "https://elvie.com/"
+    ],
+    "system-ui": [
+      "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css"
+    ],
+    "Noto Sans": [
+      "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css"
+    ],
+    "sans-serif": [
+      "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://elvie.com/",
+      "selector": ".product-badge[data-handle=\"up-to-27-off\"]",
+      "declarations": "color: #A70100;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": ".product-badge[data-handle=\"best-seller\"]",
+      "declarations": "color: #7e6b45;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": ".product-badge[data-handle=\"new\"]",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": ".product-form .product-form__cart-submit",
+      "declarations": "--color-background-primary-button: #484b5d; --color-text-primary-button: #fff; --color-background-primary-button-hover: #575b70;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": "#rebuy-cart .rebuy-button",
+      "declarations": "background-color: #484b5d; border-color: #484b5d; color: #fff;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": "#rebuy-cart .rebuy-button:hover",
+      "declarations": "background-color: #575b70;"
+    },
+    {
+      "source": "https://elvie.com/",
+      "selector": ".product__details .rebuy-widget-content .super-title",
+      "declarations": "font-family: var(--font-heading); font-weight: var(--font-heading-weight); letter-spacing: var(--font-heading-base-letter-spacing); font-size: var(--font-size-heading-5-base);"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/typography-CtwIhrln.css",
+      "selector": ".btn",
+      "declarations": "font-family:var(--global-font-family-body);font-weight:400"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/typography-CtwIhrln.css",
+      "selector": ":root",
+      "declarations": "--font-size-body-20: var(--font-size-desktop-font-size-body-20);--font-size-body-25: var(--font-size-desktop-font-size-body-25);--font-size-body-50: var(--font-size-desktop-font-size-body-50);--font-size-body-60: var(--font-size-desktop-font-size-body-60);--font-size-body-75: var(--font-size-desktop-font-size-body-75);--font-size-body-100: var(--font-size-desktop-font-size-body-100);--font-size-body-150: var(--font-size-desktop-font-size-body-150);--font-size-body-200: var(--font-size-desktop-font-size-body-200);--font-size-body-250: var(--font-size-desktop-font-size-body-250);--font-size-body-300: var(--font-size-desktop-font-size-body-300);--font-size-body-350: var(--font-size-desktop-font"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:27px;width:calc(var(--swiper-navigation-size)/ 44 * 27);height:44px;height:var(--swiper-navigation-size);margin-top:-22px;margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#007aff;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:44px;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-feature-settings:;font-variant:normal;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rebuy-widget.widget-type-product-addon .rebuy-addon__item-custom-measurement",
+      "declarations": "border-radius:4px;margin-bottom:4px;padding:2px 6px;background-color:var(--color-background-rebuy-addon-measurement);color:var(--color-text-rebuy-addon-measurement)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rebuy-widget.widget-type-product-addon .rebuy-addon__item-custom-title",
+      "declarations": "font-weight:300;color:var(--color-background-footer)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rebuy-cart .rebuy-widget .rebuy-button,.rebuy-cart .rebuy-button,.rebuy-cart .rebuy-cart__progress-bar-wrapper .rebuy-cart__progress-bar-meter-fill",
+      "declarations": "background:var(--color-background-footer);border-color:var(--color-background-footer)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--media-below-480: (max-width: 479px);--media-above-480: (min-width: 480px);--media-below-720: (max-width: 719px);--media-above-720: (min-width: 720px);--media-below-960: (max-width: 959px);--media-above-960: (min-width: 960px);--media-below-1200: (max-width: 1199px);--media-above-1200: (min-width: 1200px);--media-below-1400: (max-width: 1399px);--media-above-1400: (min-width: 1400px);--media-above-1440: (min-width: 1440px);--max-width: 1400px;--max-width-narrow: 747px;--flyout-mobile-gap: var(--spacing-9);--flyout-width: calc(375px + var(--flyout-mobile-gap))"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--flyout-width: 460px"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--spacing-unit: 4px;--spacing-unit-half: 2px;--spacing-1: calc(var(--spacing-unit) * 1);--spacing-2: calc(var(--spacing-unit) * 2);--spacing-3: calc(var(--spacing-unit) * 3);--spacing-4: calc(var(--spacing-unit) * 4);--spacing-5: calc(var(--spacing-unit) * 5);--spacing-6: calc(var(--spacing-unit) * 6);--spacing-7: calc(var(--spacing-unit) * 7);--spacing-8: calc(var(--spacing-unit) * 8);--spacing-9: calc(var(--spacing-unit) * 9);--spacing-10: calc(var(--spacing-unit) * 10);--spacing-11: calc(var(--spacing-unit) * 11);--spacing-12: calc(var(--spacing-unit) * 12);--spacing-15: calc(var(--spacing-unit) * 15);--spacing-16: calc(var(--spacing-unit) * 16);--spacing-17: calc(var(--spacing-unit) * 17"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--z-index-quick-search: 520"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--space-outer: 3.3vw"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--space-outer: max(18px, min(3.3vw, 3.3vw))"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ":root",
+      "declarations": "--height-input: 48px;--quick-buy-button-height: 60px;--easing: cubic-bezier(.33, 0, 0, 1);--duration-ultra-fast: .1s;--duration-fast: .3s;--duration-normal: .5s;--duration-slow: 1.2s;--delay-small: 33ms;--delay-normal: 67ms;--delay-long: 133ms;--aspect-ratio-square: 1;--aspect-ratio-portrait: 2 / 3;--aspect-ratio-portrait-alt: 4 / 5;--aspect-ratio-landscape: 3 / 2;--aspect-ratio-landscape-alt: 5 / 4;--aspect-ratio-widescreen: 16 / 9;--aspect-ratio-ultrawide: 21 / 9"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": "html:not(.no-js) body.user-is-tabbing :focus",
+      "declarations": "outline-color:var(--color-text-link)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);font-size:var(--font-size-body-100);line-height:var(--line-height-body);color:var(--color-text);letter-spacing:var(--font-body-base-letter-spacing);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": "body>.page",
+      "declarations": "background-color:var(--color-background);margin:0 auto;width:100%;min-height:100vh;display:flex;flex-direction:column"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rte p,.rte li,.shopify-policy__body p,.shopify-policy__body li",
+      "declarations": "font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);line-height:var(--line-height-body);letter-spacing:var(--font-body-base-letter-spacing)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rte table th,.shopify-policy__body table th",
+      "declarations": "background-color:var(--color-background-meta);text-align:left;font-weight:inherit;background:var(--color-background-meta)"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rte hr,.shopify-policy__body hr",
+      "declarations": "background-color:var(--color-border);border:none;height:1px;margin:32px 0;margin:var(--spacing-8) 0"
+    },
+    {
+      "source": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+      "selector": ".rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.shopify-policy__body h1,.shopify-policy__body h2,.shopify-policy__body h3,.shopify-policy__body h4,.shopify-pol",
+      "declarations": "margin-top:32px;margin-top:var(--spacing-8);margin-bottom:16px;margin-bottom:var(--spacing-4);font-family:var(--font-heading);line-height:var(--line-height-heading);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-base-letter-spacing);text-transform:var(--font-heading-text-transform);color:var(--color-text)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Smarter technology for women | Elvie Trainer and Elvie Pump | Elvie",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#484b5d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#575b70",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#737373",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e8e8e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#faf8f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#54b8b3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#a70100",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#7e6b45",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.accent-link": {
+      "value": "#007aff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value": "#478947",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value": "#c2ccb6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.dark-ink": {
+      "value": "#1c1d27",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#9ca3af",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "MuseoSans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "MuseoSans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "MuseoSans, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Noto Sans, system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Noto Sans, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Noto Sans, system-ui, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "MuseoSans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.primary-hover}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "focusBorderColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.dark-ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "transparent",
+        "saleColor": "{colors.accent-sale}",
+        "bestSellerColor": "{colors.accent-gold}",
+        "newColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.pump-compare-table": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headerBackgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "accentColor": "{colors.accent-teal}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#478947": {
+        "selector": ":root",
+        "property": "--color-text-success",
+        "declaration": "#478947",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-background",
+        "declaration": "#ffffff",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#c2ccb6": {
+        "selector": ":root",
+        "property": "--color-border",
+        "declaration": "#c2ccb6",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#f5f5f5": {
+        "selector": ":root",
+        "property": "--color-background-meta",
+        "declaration": "#f5f5f5",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#e8e8e8": {
+        "selector": ":root",
+        "property": "--color-background-darker-meta",
+        "declaration": "#e8e8e8",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#111111": {
+        "selector": ":root",
+        "property": "--color-outline-background-primary-button",
+        "declaration": "#111111",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-text-primary-button",
+        "declaration": "#000000",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#54b8b3": {
+        "selector": ":root",
+        "property": "--color-background-primary-button-hover",
+        "declaration": "#54b8b3",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#484b5d": {
+        "selector": ":root",
+        "property": "--color-background-footer",
+        "declaration": "#484b5d",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#a70100": {
+        "selector": ":root",
+        "property": "--color-products-stock-bad",
+        "declaration": "#A70100",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#7e6b45": {
+        "selector": ".product-badge[data-handle=\"best-seller\"]",
+        "property": "color",
+        "declaration": "#7e6b45",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#333333": {
+        "selector": "inline-style",
+        "property": "--color-background-overlay-button-hover",
+        "declaration": "#333333",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#1c1d27": {
+        "selector": "#shopify-section-template--18562591621276__rich_text_RYUUb3 .rich-text",
+        "property": "background-color",
+        "declaration": "#1c1d27",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#575b70": {
+        "selector": ".product-form .product-form__cart-submit",
+        "property": "--color-background-primary-button-hover",
+        "declaration": "#575b70",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "#faf8f6": {
+        "selector": ":root",
+        "property": "--global-theme-colors-general-background",
+        "declaration": "#faf8f6",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf482fc2e9d9c77b2d342ba051bf60f7db585c96296591ef13b2b236f507bbae"
+      },
+      "#737373": {
+        "selector": ":root",
+        "property": "--global-theme-colors-secondary-button-outline-background",
+        "declaration": "#737373",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/variables-Ce9H5gR1.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "cf482fc2e9d9c77b2d342ba051bf60f7db585c96296591ef13b2b236f507bbae"
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "16334061f125cb75ae268f7105dc1ee0c92ed8e6c8bce4089e7a5ef241d8baab"
+      },
+      "#00000000": {
+        "selector": ".swiper-3d .swiper-slide-shadow-left",
+        "property": "background-image",
+        "declaration": "linear-gradient(to left,#00000080,#0000)",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/theme-CSiy-IMO.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "16334061f125cb75ae268f7105dc1ee0c92ed8e6c8bce4089e7a5ef241d8baab"
+      },
+      "#9ca3af": {
+        "selector": "input::-moz-placeholder,textarea::-moz-placeholder",
+        "property": "color",
+        "declaration": "#9ca3af",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "5ee99b527c3639fa66cd8ce1188ef0b77c5b3702983bd675a56269880718e8c8"
+      }
+    },
+    "font_families": {
+      "MuseoSans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"MuseoSans\"",
+        "url": "https://elvie.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6524da45ab2c90e2c05414e467faf895976f226e55d742c78e620e38f3e934a9"
+      },
+      "system-ui": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "5ee99b527c3639fa66cd8ce1188ef0b77c5b3702983bd675a56269880718e8c8"
+      },
+      "Noto Sans": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "5ee99b527c3639fa66cd8ce1188ef0b77c5b3702983bd675a56269880718e8c8"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://elvie.com/cdn/shop/t/24/assets/custom-DFyemLhu.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "5ee99b527c3639fa66cd8ce1188ef0b77c5b3702983bd675a56269880718e8c8"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

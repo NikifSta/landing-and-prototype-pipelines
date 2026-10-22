@@ -1,0 +1,785 @@
+{
+  "source_url": "https://brewdrkombucha.com",
+  "final_url": "https://www.brewdrkombucha.com/",
+  "captured_at": "2026-09-29T04:16:02.347482+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://brewdrkombucha.com",
+      "final_url": "https://www.brewdrkombucha.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0815cbbedf7ed452785f2dea92408946d05e7b53bf1e21d71c512097a2a2d1a1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "final_url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+      "final_url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f75e846cc83bd11432f4b1e21a45f31bc85283d11d372f7b19accd1bf6a2635c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css",
+      "final_url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "653e073e97423adda5bc3917a241ee8497dd38a48f14bcde0098a4e54fd0fa5e",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 46,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#333333": {
+      "count": 33,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 225,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#006072": {
+      "count": 108,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#fafaf4": {
+      "count": 9,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#1ecad3": {
+      "count": 12,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#05414c": {
+      "count": 9,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#d7f2f3": {
+      "count": 12,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#013741": {
+      "count": 9,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 32,
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+    ],
+    "Arial": [
+      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+    ],
+    "gopher": [
+      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+    ],
+    "Bricolage Grotesque": [
+      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+    ],
+    "din-2014-narrow": [
+      "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": "button, input, optgroup, select, textarea",
+      "declarations": "color: inherit;\n  font: inherit;\n  margin: 0;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": "body",
+      "declarations": "color: #333;\n  background-color: #fff;\n  min-height: 100%;\n  margin: 0;\n  font-family: Arial, sans-serif;\n  font-size: 14px;\n  line-height: 20px;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".w-button",
+      "declarations": "color: #fff;\n  line-height: inherit;\n  cursor: pointer;\n  background-color: #3898ec;\n  border: 0;\n  border-radius: 0;\n  padding: 9px 15px;\n  text-decoration: none;\n  display: inline-block;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ":where(button.w-popover-trigger)",
+      "declarations": "color: inherit;\n  cursor: pointer;\n  font: inherit;\n  line-height: inherit;\n  text-align: inherit;\n  -webkit-text-decoration: inherit;\n  text-decoration: inherit;\n  background-color: #0000;\n  border: 0;\n  margin: 0;\n  padding: 0;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".w-nav-button",
+      "declarations": "float: right;\n  cursor: pointer;\n  -webkit-tap-highlight-color: #0000;\n  tap-highlight-color: #0000;\n  -webkit-user-select: none;\n  user-select: none;\n  padding: 18px;\n  font-size: 24px;\n  display: none;\n  position: relative;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".w-nav-button.w--open",
+      "declarations": "color: #fff;\n  background-color: #c8c8c8;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ":root",
+      "declarations": "--dark-slate-grey: #006072;\n  --floral-white: #fafaf4;\n  --_brew-dr-library---deep-teal: #006072;\n  --walsh--walsh-dark-green: #204f58;\n  --walsh--walsh-mid-green: #47888a;\n  --spark-library--black: black;\n  --spark-library--background--interactive: #f0ecfd;\n  --spark-library--foreground-interactive: #5532fa;\n  --spark-library--white: white;\n  --spark-library--foreground-interactive-hover: #1e116e;\n  --_brew-dr-library---clear-mind: #1ecad3;\n  --_brew-dr-library---natural: #fffeef;\n  --spark-library--light-steel-purple: #a695fb;\n  --kütüp-library--dark-slate-grey-x: #2e5261;\n  --_brew-dr-library---teal-base: #05414c;\n  --kütüp-library--dim-grey: #6e6e6e;\n  --kütüp-library--burntsienna: #e76f"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": "body",
+      "declarations": "color: #333;\n  font-family: gopher, sans-serif;\n  font-size: 14px;\n  line-height: 20px;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".button",
+      "declarations": "color: #006172;\n  background-image: linear-gradient(183deg, #f7a76c, #9f5d3a 50%, #faa86e);\n  border-radius: 100px;\n  padding: 5px;\n  font-size: 24px;\n  font-weight: 700;\n  line-height: 1.2;\n  text-decoration: none;\n  transition: all .2s;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".button-text",
+      "declarations": "text-align: center;\n  text-transform: uppercase;\n  background-color: #fafaf5;\n  border-radius: 100px;\n  padding: 15px 50px;\n  font-family: din-2014-narrow, sans-serif;\n  font-size: 22px;\n  font-weight: 800;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".button-is-learn",
+      "declarations": "z-index: 10;\n  text-align: center;\n  text-transform: uppercase;\n  cursor: pointer;\n  border-radius: 100px;\n  padding: 10px 60px;\n  font-family: din-2014-narrow, sans-serif;\n  font-size: 34px;\n  font-weight: 600;\n  line-height: 40px;\n  transition: all .2s;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".submit-button",
+      "declarations": "background-color: var(--dark-slate-grey);\n  border-top-right-radius: 100px;\n  border-bottom-right-radius: 100px;\n  flex-direction: row;\n  font-family: din-2014-narrow, sans-serif;\n  font-size: 24px;\n  line-height: 24px;\n  display: flex;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".button-quote",
+      "declarations": "color: #285566;\n  text-transform: uppercase;\n  transform-style: preserve-3d;\n  background-color: #fecf03;\n  border-radius: 100px;\n  padding-left: 50px;\n  padding-right: 50px;\n  font-family: din-2014, sans-serif;\n  font-size: 24px;\n  font-weight: 700;\n  line-height: 30px;\n  position: relative;\n  top: 41px;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo",
+      "declarations": "color: #e53e51;\n  text-align: center;\n  text-transform: lowercase;\n  font-family: gopher, sans-serif;\n  font-size: 110px;\n  line-height: 1.2;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-impact",
+      "declarations": "color: #016172;\n  text-align: left;\n  text-transform: none;\n  margin-top: 0;\n  padding-right: 0;\n  font-family: Bricolage Grotesque, sans-serif;\n  font-size: 110px;\n  line-height: 1;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-impact.is-center",
+      "declarations": "color: #013741;\n  text-align: center;\n  max-width: none;\n  padding-right: 0;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-community",
+      "declarations": "color: #05414c;\n  text-transform: none;\n  margin-top: 0;\n  margin-bottom: -90px;\n  font-family: Bricolage Grotesque, sans-serif;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.text-is-blue",
+      "declarations": "color: #036072;\n  text-transform: none;\n  font-family: Handelson One, Georgia, sans-serif;\n  font-size: 140px;\n  line-height: .8;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.text-is-blue.align-left",
+      "declarations": "text-align: center;\n  margin-top: 60px;\n  font-family: Bricolage Grotesque, sans-serif;\n  font-size: 90px;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.text-is-blue.align-left.is-contact",
+      "declarations": "margin-top: -21px;\n  margin-bottom: 27px;\n  font-family: Bricolage Grotesque, sans-serif;\n  line-height: .9;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.text-is-blue.is-48",
+      "declarations": "font-family: Bricolage Grotesque, sans-serif;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-about",
+      "declarations": "color: #006072;\n  text-transform: none;\n  font-family: Bricolage Grotesque, sans-serif;\n  line-height: 1;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-flavors",
+      "declarations": "color: #fafaf4;\n  letter-spacing: .05em;\n  -webkit-text-stroke-color: #fafaf4;\n  text-transform: uppercase;\n  font-size: 8vw;\n  font-weight: 900;\n  line-height: 1;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-flavors.is-blue",
+      "declarations": "color: var(--dark-slate-grey);\n  font-size: 70px;\n  font-weight: 700;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-faq",
+      "declarations": "z-index: 1;\n  color: #006072;\n  text-transform: none;\n  margin-top: 0;\n  margin-bottom: 45px;\n  font-family: Bricolage Grotesque, sans-serif;\n  font-size: 100px;\n  line-height: 1;\n  position: relative;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-uplift",
+      "declarations": "color: #013741;\n  text-transform: none;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-asset",
+      "declarations": "color: var(--dark-slate-grey);\n  text-transform: none;\n  font-family: Bricolage Grotesque, sans-serif;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".h1-jumbo.is-sipjoy",
+      "declarations": "color: #016172;\n  text-transform: none;\n  font-size: 12vh;\n  font-weight: 800;\n  line-height: 1;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".contact-button",
+      "declarations": "border: 1px none var(--dark-slate-grey);\n  color: #006172;\n  text-align: center;\n  text-transform: uppercase;\n  background-color: #fafaf5;\n  border-radius: 100px;\n  padding: 15px 50px;\n  font-family: din-2014-narrow, sans-serif;\n  font-size: 24px;\n  font-weight: 700;\n  line-height: 1.2;\n  transition: all .2s;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+      "selector": ".contact-button:hover",
+      "declarations": "background-color: #fff;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Brew Dr. Kombucha | Elevate Your Tea – Organic, raw, gut-friendly kombucha",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#006072",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#013741",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafaf4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#1ecad3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.accent-tint": {
+      "value": "#d7f2f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "colors.surface-deep": {
+      "value": "#05414c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Bricolage Grotesque, sans-serif",
+        "fontSize": "110px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "-1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "gopher, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "din-2014-narrow, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 800,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": "20px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "18px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "din-2014-narrow, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 800,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "shadow": "0 1px 3px rgba(0,0,0,0.08)"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-deep}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-tint}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "iconColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.flavor-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.accent}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "mark",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#333333": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#ffffff": {
+        "selector": "body",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#dddddd": {
+        "selector": ".w-form-done",
+        "property": "background-color",
+        "declaration": "#ddd",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#006072": {
+        "selector": ":root",
+        "property": "--dark-slate-grey",
+        "declaration": "#006072",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#fafaf4": {
+        "selector": ":root",
+        "property": "--floral-white",
+        "declaration": "#fafaf4",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#1ecad3": {
+        "selector": ":root",
+        "property": "--_brew-dr-library---clear-mind",
+        "declaration": "#1ecad3",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#05414c": {
+        "selector": ":root",
+        "property": "--_brew-dr-library---teal-base",
+        "declaration": "#05414c",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#d7f2f3": {
+        "selector": ".section.is-impact-hero",
+        "property": "background-image",
+        "declaration": "linear-gradient(#fefefe, #d7f2f3 73%, #84dade)",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#013741": {
+        "selector": ".h1-jumbo.is-impact.is-center",
+        "property": "color",
+        "declaration": "#013741",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#f5f5f5": {
+        "selector": ".consent_prefs_tracker-template",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "#777777": {
+        "selector": ".h1 .small,.h1 small,.h2 .small,.h2 small,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 small,h5 .small,h5 small,h6 .small,h6 small",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "f75e846cc83bd11432f4b1e21a45f31bc85283d11d372f7b19accd1bf6a2635c"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "gopher": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "gopher, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "Bricolage Grotesque": {
+        "selector": ".container",
+        "property": "font-family",
+        "declaration": "Bricolage Grotesque, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      },
+      "din-2014-narrow": {
+        "selector": ".nav-link",
+        "property": "font-family",
+        "declaration": "din-2014-narrow, sans-serif",
+        "url": "https://cdn.prod.website-files.com/63d900a749fdb3235eb00992/css/brew-dr.webflow.shared.5f72663cd.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4d82633adf1a62194996d8e241f60b466c7bedc561b3fb21513422490d0e1bc1"
+      }
+    }
+  },
+  "derived_colors": {
+    "#00000014": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.0784313725490196
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,790 @@
+{
+  "source_url": "https://www.ehx.com",
+  "final_url": "https://www.ehx.com/",
+  "captured_at": "2026-09-28T05:07:31.200858+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.ehx.com",
+      "final_url": "https://www.ehx.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "25091b162ee2b14bd391b9a4859befc19217d031178cb0d70c23c37a198537a4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f5820372f57efa4c8e03770baca675ee59ba259fa417e5d9d033cde673c8252",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "114eb4786c45b03f64a109d2846c56080ed43c9345ef5630f6de1f69cace61aa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "89cadb7ec27905cd1b2619f8334059ebae710e2c6c89e9bd452f74789fa6dc2d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b65186431e4401d295f0a93a6d5facf95f635f7202db2ee4bf0e7ea20a520fd4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 5,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#000000": {
+      "count": 177,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 58,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#777777": {
+      "count": 4,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Rubik": [
+      "https://www.ehx.com/"
+    ],
+    "sans-serif": [
+      "https://www.ehx.com/"
+    ],
+    "Open Sans": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 1300px;--wp--style--global--wide-size: 1300px;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "st-type-archive-product.woocommerce .container-wrap,.tax-product_cat.woocommerce .container-wrap,.post-type-archive-product.woocommerce #page-header-wrap,.tax-p",
+      "declarations": "background-color:#f8f8f8;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product.material,.woocommerce-page ul.products li.product.material",
+      "declarations": "background-color:#ffffff;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "ommerce ul.products li.product.minimal .background-color-expand,.woocommerce-page ul.products li.product.minimal .product-wrap,.woocommerce-page ul.products li.",
+      "declarations": "background-color:#ffffff;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "er:not(#gform_wrapper_0):not(#gform_wrapper_1):not(#gform_wrapper_4):not(#gform_wrapper_9):not(#gform_wrapper_2):not(#gform_wrapper_6):not(#gform_wrapper_10):no",
+      "declarations": "margin: 0!important; background-color: #f5f5f5; height: 50px;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product .price del .woocommerce-Price-amount",
+      "declarations": "color: red!important;text-decoration: line-through;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product .price del .woocommerce-Price-amount bdi",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#page-header-bg h1, #page-header-bg .result-num",
+      "declarations": "color:#fff!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body[data-ext-responsive=\"true\"].single-post .container-wrap .post-area a:not([class])",
+      "declarations": "color:#000!important;text-decoration:underline;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".single-post .page-header-bg-image-wrap",
+      "declarations": "background-color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".single-post .product-meta p",
+      "declarations": "color:#999!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body.material .nectar-button.has-icon.large",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body[data-fancy-form-rcs=\"1\"] .woocommerce-ordering .select2-container--default .select2-selection--single",
+      "declarations": "background-color: white;border: solid 1px #e0e0e0!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":hover .select2-selection--single .select2-selection__rendered,body[data-fancy-form-rcs=\"1\"] .select2-container--default.select2-container--open .select2-select",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".archive .page-header-bg-image:after",
+      "declarations": "background-color: rgba(0,0,0,0.5);"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".button,.woocommerce-message,.woocommerce-page button.single_add_to_cart_button,.nectar_image_with_hotspots .nectar_hotspot",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "-box a.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, ",
+      "declarations": "background-color: #333333; box-shadow: none; -webkit-box-shadow: none; background-image: none; text-shadow: none; -webkit-text-shadow: none; border: none; background-repeat: no-repeat; color: #FFFFFF; cursor: pointer; display: inline-block; font-size: 12px; line-height: 12px; padding: 10px 10px; font-family:Rubik;text-transform:uppercase!important;position: relative; text-align: center; text-transform: uppercase; font-weight: bold; transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body .nectar-button.see-through-2:hover, body .col.dark .nectar-button.see-through-2:hover, body .nectar-button.see-through-3:hover, body .col.dark .nectar-butt",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#top .span_9 > .slide-out-widget-area-toggle .lines:before, body #header-outer[data-permanent-transparent=\"1\"].transparent:not(.dark-slide) > #top .span_9 > .sl",
+      "declarations": "background-color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body.material #header-outer a.cart-contents .cart-wrap span,#header-outer .first-load a.cart-contents .cart-wrap span, #header-outer #mobile-cart-link.first-loa",
+      "declarations": "color:#000!important;font-weight:bold;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#header-outer .widget_shopping_cart a.button:hover, .nectar-slide-in-cart .widget_shopping_cart a.button:hover",
+      "declarations": "background-color:#000!important;color:#fff!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#header-outer[data-lhe=\"animated_underline\"].transparent #top nav > ul > li > a:after, #header-outer.transparent #top nav>ul>li[class*=\"button_bordered\"]>a:befo",
+      "declarations": "border-color: #88e89e!important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Electro-Harmonix",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f8f8f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.panel-dark": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.panel-light": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#cf2e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hairlineColor": "{colors.panel-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "saleTextColor": "{colors.accent-sale}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.panel-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "hairlineColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sale}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.media-demo-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "borderColor": "{colors.border-strong}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "captionTypography": "{typography.caption}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#dddddd": {
+        "selector": ":root",
+        "property": "--wp-editor-canvas-background",
+        "declaration": "#ddd",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#eeeeee": {
+        "selector": ":root .has-very-light-gray-background-color",
+        "property": "background-color",
+        "declaration": "#eee",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#313131": {
+        "selector": ":root .has-very-dark-gray-background-color",
+        "property": "background-color",
+        "declaration": "#313131",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--wp--preset--color--white",
+        "declaration": "#ffffff",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#cf2e2e": {
+        "selector": ":root",
+        "property": "--wp--preset--color--vivid-red",
+        "declaration": "#cf2e2e",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#32373c": {
+        "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#f8f8f8": {
+        "selector": ".post-type-archive-product.woocommerce .container-wrap,.tax-product_cat.woocommerce .container-wrap,.post-type-archive-product.woocommerce #page-header-wrap,.tax-product_cat.woocommerce #page-header-wrap",
+        "property": "background-color",
+        "declaration": "#f8f8f8",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#222222": {
+        "selector": "#footer-outer input[type=\"email\"]",
+        "property": "background-color",
+        "declaration": "#222",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#f5f5f5": {
+        "selector": ".gform_wrapper:not(#gform_wrapper_0):not(#gform_wrapper_1):not(#gform_wrapper_4):not(#gform_wrapper_9):not(#gform_wrapper_2):not(#gform_wrapper_6):not(#gform_wrapper_10):not(#gform_wrapper_7) > form .gform_button",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#e0e0e0": {
+        "selector": "body[data-fancy-form-rcs=\"1\"] .woocommerce-ordering .select2-container--default .select2-selection--single",
+        "property": "border",
+        "declaration": "solid 1px #e0e0e0",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "#777777": {
+        "selector": "#footer-outer #copyright li a .icon-salient-facebook-messenger",
+        "property": "background-color",
+        "declaration": "#777",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      }
+    },
+    "font_families": {
+      "Rubik": {
+        "selector": ".related-posts[data-style=\"material\"] .meta-category a,.masonry.material .masonry-blog-item .meta-category a",
+        "property": "font-family",
+        "declaration": "rubik",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "sans-serif": {
+        "selector": "#top nav .buttons li#dcpcart .rsCartCount",
+        "property": "font-family",
+        "declaration": "Rubik, sans-serif",
+        "url": "https://www.ehx.com/",
+        "snapshot": "homepage.html",
+        "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee"
+      },
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "114eb4786c45b03f64a109d2846c56080ed43c9345ef5630f6de1f69cace61aa"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

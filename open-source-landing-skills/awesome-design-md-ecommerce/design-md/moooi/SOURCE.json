@@ -1,0 +1,844 @@
+{
+  "source_url": "https://moooi.com",
+  "final_url": "https://www.moooi.com/us",
+  "captured_at": "2026-09-28T04:20:42.949300+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://moooi.com",
+      "final_url": "https://www.moooi.com/us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "final_url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css",
+      "final_url": "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "76f5629365c0420c51ef1274775934ac3136477750e1dbf7fff13025ac07d6ec",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f8f4ed": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#208649": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#d24532": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#1f2735": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#0e131a": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#fbe839": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#00000000": {
+      "count": 63,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_BROWN_8c6aef": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_BROWN_Fallback_8c6aef": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_GILL_SANS_0505e8": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_GILL_SANS_Fallback_0505e8": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_SANGBLEU_SANS_069a48": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_SANGBLEU_SANS_Fallback_069a48": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_FINE_375fe6": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_FINE_Fallback_375fe6": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "body,html",
+      "declarations": "height:auto;color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "body",
+      "declarations": "font-size:16px;font-size:1.0666666667vw;font-weight:400;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";width:100%;line-height:1.35;color:var(--dark-grey);-webkit-overflow-scrolling:touch"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "button",
+      "declarations": "padding:0;font:inherit;color:inherit;cursor:pointer;background-color:#0000;border:0;border-radius:0"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_copy__eBJcO table>tbody>tr:nth-of-type(2n)>*",
+      "declarations": "background-color:var(--light-beige)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_is-bottom-on-mobile__UI5PJ .styles_close-button___CaGt",
+      "declarations": "width:38px;height:38px;padding:.7em;margin-top:0;color:var(--black);background-color:var(--white);box-shadow:3px 3px 8px rgb(from var(--black) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_has-close-button-outside__SUTbx .styles_close-button___CaGt",
+      "declarations": "top:0;right:auto;left:calc(100% + .5rem);margin-top:0;background-color:var(--white);box-shadow:3px 3px 10px rgb(from var(--black) r g b/10%);transition:transform .25s cubic-bezier(.165,.84,.44,1);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn",
+      "declarations": "display:flex;gap:8px;align-items:center;padding:4px 10px;margin-left:-9px;color:var(--dark-grey);transition:color .2s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn:focus,.styles_back-button__hEaSn:focus-visible,.styles_back-button__hEaSn:hover",
+      "declarations": "color:var(--grey)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn .styles_back-button-label__vAXGk",
+      "declarations": "font-weight:500;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";font-size:12px;text-transform:uppercase;letter-spacing:.1em"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__kzc_O.styles_has-close-button-outside__SUTbx .styles_close-button___CaGt",
+      "declarations": "background-color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_scroll-top-button__r02tK",
+      "declarations": "display:none;background-color:#0000;transition:opacity .5s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__TxmU7 .styles_country-selector-button__a7iYS",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__z_ak7 .styles_tel-dropdown-button__hIlcf:hover",
+      "declarations": "background-color:rgb(from var(--black) r g b/3%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__z_ak7 .styles_tel-dropdown-button__hIlcf:active",
+      "declarations": "background-color:rgb(from var(--black) r g b/3%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__t9srg .styles_tel-dropdown-button__hIlcf:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/5%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__t9srg .styles_tel-dropdown-button__hIlcf:active",
+      "declarations": "background-color:rgb(from var(--white) r g b/5%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_container__WbfXW .styles_button__clQTD,.styles_container__WbfXW .styles_text__nwusK",
+      "declarations": "font-size:18px;font-size:1.2vw;font-weight:200;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";line-height:1"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc",
+      "declarations": "position:absolute;top:0;left:0;z-index:28;display:flex;flex-shrink:0;align-items:center;height:16px;margin:2.7777777778vw 2.7777777778vw 2.7777777778vw 0;color:var(--dark-grey);pointer-events:auto;transition:color .2s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc:focus,.styles_return-button__dEUtc:focus-visible,.styles_return-button__dEUtc:hover",
+      "declarations": "color:var(--grey)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc .styles_return-button-label__uC_1n",
+      "declarations": "font-size:12px;font-size:.8vw;font-weight:500;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";text-transform:uppercase;letter-spacing:.1em"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_is-bottom-on-mobile__JxvOo .styles_close-button__vYdH5",
+      "declarations": "width:38px;height:38px;padding:.7em;margin-top:0;color:var(--black);background-color:var(--white);box-shadow:3px 3px 8px rgb(from var(--black) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_has-close-button-outside__l09nh .styles_close-button__vYdH5",
+      "declarations": "top:0;right:auto;left:calc(100% + .5rem);margin-top:0;background-color:var(--white);box-shadow:3px 3px 10px rgb(from var(--black) r g b/10%);transition:transform .25s cubic-bezier(.165,.84,.44,1);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__nDkjT.styles_has-close-button-outside__l09nh .styles_close-button__vYdH5",
+      "declarations": "background-color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button-label__NjEtf",
+      "declarations": "font-weight:400;line-height:1em;font-family:var(--type-sangbleu-sans);font-size:13px;font-size:.8666666667vw;margin-left:max(9px,.4166666667vw)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button__bd4SM",
+      "declarations": "color:var(--white);pointer-events:auto;background-color:#0000;box-shadow:3px 3px 10px #0000;transition:box-shadow .2s cubic-bezier(.445,.05,.55,.95),background .2s cubic-bezier(.445,.05,.55,.95)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__UGPxM .styles_button__bd4SM",
+      "declarations": "color:var(--black);background-color:rgb(from var(--white) r g b/50%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__9UDut .styles_button__bd4SM",
+      "declarations": "color:var(--festive)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__UGPxM .styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/90%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__9UDut .styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--festive) r g b/20%)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Together, we create A Life Extraordinary - Moooi",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.body": {
+      "value": "#3d3d3d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b6b6b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f4ed",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#0e131a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#1f2735",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-forest": {
+      "value": "#208649",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value": "#d24532",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#fbe839",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "__TYPE_SANGBLEU_SANS_069a48, __TYPE_SANGBLEU_SANS_Fallback_069a48, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 400,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "__TYPE_TIEMPOS_FINE_375fe6, __TYPE_TIEMPOS_FINE_Fallback_375fe6, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "__TYPE_BROWN_8c6aef, __TYPE_BROWN_Fallback_8c6aef, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "__TYPE_GILL_SANS_0505e8, __TYPE_GILL_SANS_Fallback_0505e8, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.35,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "__TYPE_GILL_SANS_0505e8, __TYPE_GILL_SANS_Fallback_0505e8, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.35,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "__TYPE_GILL_SANS_0505e8, __TYPE_GILL_SANS_Fallback_0505e8, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": "1em",
+        "letterSpacing": "1.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "__TYPE_GILL_SANS_0505e8, __TYPE_GILL_SANS_Fallback_0505e8, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 200,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "hoverColor": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.border-dark}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-forest}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.lightbox-modal": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "closeButtonSize": "38px",
+        "closeButtonBackground": "{colors.on-primary}",
+        "closeButtonColor": "{colors.ink}",
+        "shadow": "3px 3px 8px rgb(from {colors.ink} r g b / 20%)",
+        "rounded": "{rounded.none}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--white",
+        "declaration": "#ffffff",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--black",
+        "declaration": "#000000",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#f8f4ed": {
+        "selector": ":root",
+        "property": "--beige",
+        "declaration": "#f8f4ed",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#f3f3f3": {
+        "selector": ":root",
+        "property": "--options-grey",
+        "declaration": "#f3f3f3",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#6b6b6b": {
+        "selector": ":root",
+        "property": "--accessible-grey-dark",
+        "declaration": "#6b6b6b",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#3d3d3d": {
+        "selector": ":root",
+        "property": "--grey-button",
+        "declaration": "#3d3d3d",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#208649": {
+        "selector": ":root",
+        "property": "--accessible-green-text",
+        "declaration": "#208649",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#d24532": {
+        "selector": ":root",
+        "property": "--red",
+        "declaration": "#d24532",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#1f2735": {
+        "selector": ":root",
+        "property": "--midnight-blue",
+        "declaration": "#1f2735",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#0e131a": {
+        "selector": ":root",
+        "property": "--festive-dark",
+        "declaration": "#0e131a",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#fbe839": {
+        "selector": ":root",
+        "property": "--filter-color-yellow",
+        "declaration": "#fbe839",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://www.moooi.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037"
+      },
+      "#e0e0e0": {
+        "selector": ".styles_variant-version-3__GUiIH:hover:not(.styles_is-disabled__gO_LZ)",
+        "property": "background-color",
+        "declaration": "#e0e0e0",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ".react-datepicker",
+        "property": "font-family",
+        "declaration": "Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_BROWN_8c6aef": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_BROWN_8c6aef",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_BROWN_Fallback_8c6aef": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_BROWN_Fallback_8c6aef",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_GILL_SANS_0505e8": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_GILL_SANS_0505e8",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_GILL_SANS_Fallback_0505e8": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_GILL_SANS_Fallback_0505e8",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_SANGBLEU_SANS_069a48": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_SANGBLEU_SANS_069a48",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_SANGBLEU_SANS_Fallback_069a48": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_SANGBLEU_SANS_Fallback_069a48",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_TIEMPOS_FINE_375fe6": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_TIEMPOS_FINE_375fe6",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      },
+      "__TYPE_TIEMPOS_FINE_Fallback_375fe6": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__TYPE_TIEMPOS_FINE_Fallback_375fe6",
+        "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

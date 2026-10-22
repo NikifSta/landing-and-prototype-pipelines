@@ -1,0 +1,689 @@
+{
+  "source_url": "https://benjaminmoore.com",
+  "final_url": "https://www.benjaminmoore.com/en-us",
+  "captured_at": "2026-09-28T09:56:26.825613+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://benjaminmoore.com",
+      "final_url": "https://www.benjaminmoore.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.clarip.com/benjaminmoore/cookieconsent/assets/css/cookieconsent.min.css",
+      "final_url": "https://cdn.clarip.com/benjaminmoore/cookieconsent/assets/css/cookieconsent.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bcd2853426f7193eb37b187357bc3340899f69a68d12f5f10d17e5765553aada",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.clarip.com/benjaminmoore/donotsell/assets/css/donotsell-extended.min.css",
+      "final_url": "https://cdn.clarip.com/benjaminmoore/donotsell/assets/css/donotsell-extended.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "647931985dc1f92016d6ae2959f2d6e074485a93c2eb3fbf6a5c98c4926ccfc6",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 62,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#efefef": {
+      "count": 48,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#367fda": {
+      "count": 120,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 4,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#af8840": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#306e6d": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#2b3762": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#daca9c": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#9c6040": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#eeece1": {
+      "count": 1,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "#b36957": {
+      "count": 2,
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    }
+  },
+  "font_families": {
+    "Macklin": [
+      "https://www.benjaminmoore.com/en-us"
+    ],
+    "Moderat": [
+      "https://www.benjaminmoore.com/en-us"
+    ],
+    "sans-serif": [
+      "https://www.benjaminmoore.com/en-us"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": "body",
+      "declarations": "background-color:#EFEFEF;font-size:1rem;font-weight:normal;line-height:20px;margin:0;overflow:hidden auto;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".gsKBQJ .dotsWrapper button",
+      "declarations": "height:8px;width:8px;background-color:#000000;border-radius:100%;opacity:0.4;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".bhIDaq .dotsWrapper button",
+      "declarations": "height:8px;width:8px;background-color:#000000;border-radius:100%;opacity:0.4;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".llqvGm button.toggleBtn",
+      "declarations": "display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;border:none;text-align:start;font-family:inherit;padding:16px 24px;background-color:#EFEFEF;color:#1A1A1A;border-bottom:1px solid #1A1A1A;border-radius:0;box-shadow:none;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": "body",
+      "declarations": "background-color:#EFEFEF;font-size:1rem;font-weight:normal;line-height:20px;margin:0;overflow:hidden auto;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".gsKBQJ .dotsWrapper button",
+      "declarations": "height:8px;width:8px;background-color:#000000;border-radius:100%;opacity:0.4;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".bhIDaq .dotsWrapper button",
+      "declarations": "height:8px;width:8px;background-color:#000000;border-radius:100%;opacity:0.4;"
+    },
+    {
+      "source": "https://www.benjaminmoore.com/en-us",
+      "selector": ".llqvGm button.toggleBtn",
+      "declarations": "display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;border:none;text-align:start;font-family:inherit;padding:16px 24px;background-color:#EFEFEF;color:#1A1A1A;border-bottom:1px solid #1A1A1A;border-radius:0;box-shadow:none;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Benjamin Moore Paints & Exterior Stains | Benjamin Moore",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#367fda",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.body": {
+      "value": "#444444",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d6d6d6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#efefef",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeece1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value": "#b36957",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-clay": {
+      "value": "#9c6040",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-forest": {
+      "value": "#306e6d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-navy": {
+      "value": "#2b3762",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#af8840",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "colors.accent-sand": {
+      "value": "#daca9c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.benjaminmoore.com/en-us"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Macklin, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Macklin, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineBottom": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-tile": {
+      "value": {
+        "backgroundColor": "{colors.accent-terracotta}",
+        "rounded": "{rounded.xs}",
+        "labelTypography": "{typography.caption}",
+        "labelColor": "{colors.canvas}",
+        "padding": "{spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".fwrbgx",
+        "property": "fill",
+        "declaration": "#FFFFFF",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#1a1a1a": {
+        "selector": ".bTVdEh",
+        "property": "fill",
+        "declaration": "#1A1A1A",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#efefef": {
+        "selector": ".dIVrBW",
+        "property": "fill",
+        "declaration": "#EFEFEF",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#367fda": {
+        "selector": ".cMmHXQ a:focus",
+        "property": "outline",
+        "declaration": "2px solid #367fda",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#444444": {
+        "selector": ".gIqpNu",
+        "property": "background",
+        "declaration": "#444444",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#d6d6d6": {
+        "selector": ".fUZIwG",
+        "property": "border",
+        "declaration": "2px solid #D6D6D6",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#777777": {
+        "selector": ".fZMKNW",
+        "property": "border-bottom",
+        "declaration": "1px solid #777777",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#af8840": {
+        "selector": ".fKKinI",
+        "property": "background-color",
+        "declaration": "#AF8840",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#306e6d": {
+        "selector": ".qZWrt",
+        "property": "background-color",
+        "declaration": "#306E6D",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#2b3762": {
+        "selector": ".cNYtCv",
+        "property": "background-color",
+        "declaration": "#2B3762",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#daca9c": {
+        "selector": ".ccYA-Dj",
+        "property": "background-color",
+        "declaration": "#DACA9C",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#9c6040": {
+        "selector": ".eFDuQG",
+        "property": "background-color",
+        "declaration": "#9C6040",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#eeece1": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "rgb(238,236,225)",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "#b36957": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#B36957",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      }
+    },
+    "font_families": {
+      "Macklin": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Macklin\"",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "Moderat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Moderat\"",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "Moderat,Helvetica,sans-serif",
+        "url": "https://www.benjaminmoore.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "53df5e293df5142153344e10ac3fb3071b5bb9faccbb03154c864885138eb2d3"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

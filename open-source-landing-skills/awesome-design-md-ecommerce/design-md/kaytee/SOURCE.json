@@ -1,0 +1,863 @@
+{
+  "source_url": "https://kaytee.com",
+  "final_url": "https://www.kaytee.com/",
+  "captured_at": "2026-09-28T09:17:55.210397+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kaytee.com",
+      "final_url": "https://www.kaytee.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "14ab9ddd76a2eed23064a6330ba1766613f11e1593b43125234522bf6bacfd90",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kaytee.com/-/media/Feature/Experience-Accelerator/Bootstrap-4/Bootstrap-4/Styles/optimized-min.css?t=20220526T122629Z",
+      "final_url": "https://www.kaytee.com/-/media/Feature/Experience-Accelerator/Bootstrap-4/Bootstrap-4/Styles/optimized-min.css?t=20220526T122629Z",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7139f07f917998f1a482f070139ce5b0e448669a8f77e9710e74e1a2307f564e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "final_url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kaytee.com/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?t=20220526T122632Z",
+      "final_url": "https://www.kaytee.com/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?t=20220526T122632Z",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "416f487c40290dd1451e3cc8dc480489dda90cfd5d389eb08d7f0e867a6f847c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "final_url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z",
+      "final_url": "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6dfd56ca095bbdc40fea0755e192111b0bd5d50129217567dffa326ec29b114f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 378,
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "#333333": {
+      "count": 135,
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "#000000": {
+      "count": 88,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+      ]
+    },
+    "#dddddd": {
+      "count": 108,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 6,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+      ]
+    },
+    "#9f1c33": {
+      "count": 6,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#f47523": {
+      "count": 41,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#231f20": {
+      "count": 5,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#006e43": {
+      "count": 17,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#15909c": {
+      "count": 10,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#75767a": {
+      "count": 4,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "#fdf9f4": {
+      "count": 5,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    },
+    "#f0b323": {
+      "count": 3,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    },
+    "#263971": {
+      "count": 10,
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://www.kaytee.com/"
+    ],
+    "Helvetica": [
+      "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+    ],
+    "Arial": [
+      "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+    ],
+    "Gotham": [
+      "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+    ],
+    "Open Sans": [
+      "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+    ],
+    "Montserrat": [
+      "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button",
+      "declarations": "font-family:Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;font-size:1em"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #e78f08;background:#f6a828 url(\"../images/ui-bg_gloss-wave_35_f6a828_500x100.png\") 50% 50% repeat-x;color:#fff;font-weight:bold"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+      "declarations": "border:1px solid #ccc;background:#f6f6f6 url(\"../images/ui-bg_glass_100_f6f6f6_1x400.png\") 50% 50% repeat-x;font-weight:bold;color:#1c94c4"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-st",
+      "declarations": "border:1px solid #fbcb09;background:#fdf5ce url(\"../images/ui-bg_glass_100_fdf5ce_1x400.png\") 50% 50% repeat-x;font-weight:bold;color:#c77405"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+      "declarations": "border:1px solid #fbd850;background:#fff url(\"../images/ui-bg_glass_65_ffffff_1x400.png\") 50% 50% repeat-x;font-weight:bold;color:#eb8f00"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #fed22f;background:#ffe45c url(\"../images/ui-bg_highlight-soft_75_ffe45c_1x100.png\") 50% top repeat-x;color:#363636"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#363636"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #cd0a0a;background:#b81900 url(\"../images/ui-bg_diagonals-thick_18_b81900_40x40.png\") 50% 50% repeat;color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?t=20220526T122632Z",
+      "selector": "uote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,",
+      "declarations": "margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Base-Themes/Main-Theme/styles/optimized-min.css?t=20220526T122632Z",
+      "selector": "body",
+      "declarations": "line-height:1;color:#000;background:#fff;font-family:Arial,Helvetica,sans-serif;font-size:12px;position:relative;overflow:auto;height:100%"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion .toggle-header",
+      "declarations": "cursor:pointer;background-color:transparent"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion .toggle-header:hover",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-2 .toggle-header",
+      "declarations": "background-color:#9f1c33"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-2 .toggle-header .component .field-heading",
+      "declarations": "cursor:pointer;color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-3 .toggle-header .component .field-heading",
+      "declarations": "color:#fff;font-size:1.6rem;font-weight:600;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-3 .toggle-header .label",
+      "declarations": "border-bottom-left-radius:8px;border-bottom-right-radius:8px;background-color:#008d5a;padding:2.65rem 0;border-bottom:3px solid #fff;overflow:hidden"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-3 .item.active .toggle-header",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-3 .item.active .toggle-header .field-heading",
+      "declarations": "color:#434343"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.accordion.variant-3 .item.active .toggle-header .field-heading::after,.component.accordion.variant-3 .item.active .toggle-header .field-heading::befo",
+      "declarations": "background-color:#008d5a"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.product-attribute-listing.chew-meter .vertical-wrapper .chewmeter-rte h3",
+      "declarations": "font-family:Gotham,sans-serif;font-size:1.6rem;color:#595a5c;font-weight:400;text-transform:uppercase;margin-bottom:10px;line-height:1.1"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.product-attribute-listing.chew-meter .vertical-wrapper .chewmeter-rte a",
+      "declarations": "text-decoration:none;color:#f47523"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.product-attribute-listing.chew-meter .horizontal-wrapper .helps-with-rte h4",
+      "declarations": "color:#f47523;font-weight:700;font-size:1.6rem;margin:0"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.partnership-page .component-content .body-copy p",
+      "declarations": "text-align:center;font-size:24px;font-weight:700;color:#595a5c;margin-bottom:.6em"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size:0;line-height:0;display:block;width:10px;height:10px;cursor:pointer;color:transparent;border:0;outline:0;background:0 0;padding:0"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".event-list h1,.event-list h2,.event-list h3,.event-list h4,.event-list h5,.event-list h6",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".event-list h1,.event-list h2,.event-list h3,.event-list h4,.event-list h5,.event-list h6",
+      "declarations": "border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#89c6cc"
+    },
+    {
+      "source": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+      "selector": ".component.feature-content-tiles.variant-3 .body-copy .content-col figure .figcaption h2",
+      "declarations": "font-size:1.6rem;color:#8d8d8d;margin-top:15px;margin-bottom:20px;text-align:center"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kaytee: Pet Supplies | Kaytee Products",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#9f1c33",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.accent-orange": {
+      "value": "#f47523",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#15909c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.accent-navy": {
+      "value": "#263971",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    },
+    "colors.success": {
+      "value": "#006e43",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.gold": {
+      "value": "#f0b323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    },
+    "colors.ink": {
+      "value": "#231f20",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#75767a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fdf9f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kaytee.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Gotham', 'Montserrat', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Gotham', 'Montserrat', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.species-tile": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "accentColor": "{colors.accent-teal}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.md} {spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": ".accordion .items > .item > .toggle-header .component.content .component-content .field-heading::before",
+        "property": "border-left",
+        "declaration": "6px solid transparent",
+        "url": "https://www.kaytee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "14ab9ddd76a2eed23064a6330ba1766613f11e1593b43125234522bf6bacfd90"
+      },
+      "#ffffff": {
+        "selector": ".red-btn",
+        "property": "color",
+        "declaration": "white",
+        "url": "https://www.kaytee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "14ab9ddd76a2eed23064a6330ba1766613f11e1593b43125234522bf6bacfd90"
+      },
+      "#333333": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#333333",
+        "url": "https://www.kaytee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "14ab9ddd76a2eed23064a6330ba1766613f11e1593b43125234522bf6bacfd90"
+      },
+      "#000000": {
+        "selector": ".mejs__container",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d"
+      },
+      "#dddddd": {
+        "selector": ".ui-widget-content",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d"
+      },
+      "#f6f6f6": {
+        "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+        "property": "background",
+        "declaration": "#f6f6f6 url(\"../images/ui-bg_glass_100_f6f6f6_1x400.png\") 50% 50% repeat-x",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d"
+      },
+      "#9f1c33": {
+        "selector": ".component.accordion.variant-2 .toggle-header",
+        "property": "background-color",
+        "declaration": "#9f1c33",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#f47523": {
+        "selector": ".component.product-attribute-listing.chew-meter .vertical-wrapper .chewmeter-rte a",
+        "property": "color",
+        "declaration": "#f47523",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#231f20": {
+        "selector": ".header-shell.variant-2 .header-global-menu ul.items li.item ul.sub-menu-list li.sub-menu-item a",
+        "property": "color",
+        "declaration": "#231f20",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#006e43": {
+        "selector": ".header-shell .on-page-editor .header-shell.variant-3",
+        "property": "background-color",
+        "declaration": "#006e43",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#15909c": {
+        "selector": ".language-selector .language-selector-item:hover",
+        "property": "border-bottom",
+        "declaration": "1px solid #15909c",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#75767a": {
+        "selector": ".component.multi-column-content-tiles.variant-3 .inner-wrap",
+        "property": "color",
+        "declaration": "#75767a",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "#fdf9f4": {
+        "selector": ".animal-filter",
+        "property": "background-color",
+        "declaration": "#fdf9f4",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "6dfd56ca095bbdc40fea0755e192111b0bd5d50129217567dffa326ec29b114f"
+      },
+      "#f0b323": {
+        "selector": ".component.yellow .bottom-scrollable-items",
+        "property": "background-color",
+        "declaration": "#f0b323",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "6dfd56ca095bbdc40fea0755e192111b0bd5d50129217567dffa326ec29b114f"
+      },
+      "#263971": {
+        "selector": ".component.blue .bottom-scrollable-items .top-container .right-container .right-container-inner .cta a",
+        "property": "color",
+        "declaration": "#263971",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Kaytee/Kaytee/styles/pre-optimized-min.css?t=20260303T191317Z",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "6dfd56ca095bbdc40fea0755e192111b0bd5d50129217567dffa326ec29b114f"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ".fa.fa-twitter",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://www.kaytee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "14ab9ddd76a2eed23064a6330ba1766613f11e1593b43125234522bf6bacfd90"
+      },
+      "Helvetica": {
+        "selector": ".mejs__container",
+        "property": "font-family",
+        "declaration": "\"Helvetica\",Arial,serif",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d"
+      },
+      "Arial": {
+        "selector": ".mejs__container",
+        "property": "font-family",
+        "declaration": "\"Helvetica\",Arial,serif",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/SXA-Base-Theme/styles/optimized-min.css?t=20220806T032400Z",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "d6c1a739eb8a6df850f6fa1ed1be2c34e92a8f68f7e2897d3402e920e354269d"
+      },
+      "Gotham": {
+        "selector": ".component.product-attribute-listing.chew-meter .vertical-wrapper .chewmeter-rte h3",
+        "property": "font-family",
+        "declaration": "Gotham,sans-serif",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "Open Sans": {
+        "selector": ".event-list .scWebEditInput",
+        "property": "font-family",
+        "declaration": "\"Open Sans\",Helvetica,Verdana,Tahoma,sans-serif",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      },
+      "Montserrat": {
+        "selector": ".component.linked-thumbnail.quick-links h3",
+        "property": "font-family",
+        "declaration": "Montserrat,sans-serif",
+        "url": "https://www.kaytee.com/-/media/Themes/OneWeb/Default/Default/styles/pre-optimized-min.css?t=20240329T134239Z",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "f90dde0f21c0bfafd6b1dc46259dd7e8d942dd0abfb091ece45b47e13c462e1e"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

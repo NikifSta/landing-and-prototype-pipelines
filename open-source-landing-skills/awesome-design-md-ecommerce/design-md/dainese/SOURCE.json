@@ -1,0 +1,837 @@
+{
+  "source_url": "https://dainese.com",
+  "final_url": "https://www.dainese.com/us/en/",
+  "captured_at": "2026-09-28T10:02:31.781400+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dainese.com",
+      "final_url": "https://www.dainese.com/us/en/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "final_url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/global.css",
+      "final_url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e1e0ea73217a07f95c4aed43486c96de5918f0df37ca48fdcdc3e1a22ca2dc5d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/storePage.css",
+      "final_url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/storePage.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "30a378fca758b3495ec8a357a5579ad6b62f271ad709440f48e574930848a996",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/banner.css",
+      "final_url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/banner.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22f11b0cf4e485371dae29b287aa59a272f3720a240862083c3016d78b095d55",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/textCta.css",
+      "final_url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/experience/textCta.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cbdafa4f253ba7eab6aef5f4b336bf9be97e50468863859812b6ce46324eb82d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 150,
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "#000000": {
+      "count": 278,
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "#9d9d9c": {
+      "count": 69,
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "#e30613": {
+      "count": 23,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#ffef39": {
+      "count": 17,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#33a22a": {
+      "count": 26,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#83acbb": {
+      "count": 17,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 24,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 3,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 4,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#b6050f": {
+      "count": 2,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "#191919": {
+      "count": 3,
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Mulish": [
+      "https://www.dainese.com/us/en/"
+    ],
+    "Source Code Pro": [
+      "https://www.dainese.com/us/en/"
+    ],
+    "sans-serif": [
+      "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+    ],
+    "monospace": [
+      "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".display-7,.display-8,.display-9,.display-6,.display-5,.display-4,.display-3,.display-2,.display-1,h6,.h6,h5,.h5,h4,.h4,h3,.h3,h2,.h2,h1,.h1",
+      "declarations": "margin-top:0;margin-bottom:0;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".display-7,.display-8,.display-9,.display-6,.display-5,.display-4,.display-3,.display-2,.display-1,h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "margin-top:0;margin-bottom:0;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs: 0;--bs-breakpoint-md: 768px;--bs-breakpoint-xl: 1440px"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--bs-table-color-type: var(--bs-table-striped-color);--bs-table-bg-type: var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state: var(--bs-table-hover-color);--bs-table-bg-state: var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:10px .6rem;margin:-10px -0.6rem;-webkit-margin-end:.6rem;margin-inline-end:.6rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ea"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:10px .6rem;margin:-10px -0.6rem;-webkit-margin-end:.6rem;margin-inline-end:.6rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ea"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x: 0.6rem;--bs-btn-padding-y: 0.6rem;--bs-btn-font-family: Source Code Pro, monospace;--bs-btn-font-size:0.875rem;--bs-btn-font-weight: 400;--bs-btn-line-height: 1;--bs-btn-color: var(--bs-body-color);--bs-btn-bg: transparent;--bs-btn-border-width: 1px;--bs-btn-border-color: transparent;--bs-btn-border-radius: var(--bs-border-radius);--bs-btn-hover-border-color: transparent;--bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);--bs-btn-disabled-opacity: 0.65;--bs-btn-focus-box-shadow: 0 0 0 2px rgba(var(--bs-btn-focus-shadow-rgb), .5);display:inline-block;padding:var(--bs-btn-padding-y) var(--bs-btn-padding-x);font-family:var(--bs-btn-f"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-check+.btn:hover",
+      "declarations": "color:var(--bs-btn-color);background-color:var(--bs-btn-bg);border-color:var(--bs-btn-border-color)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn:focus-visible",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);outline:0;-webkit-box-shadow:var(--bs-btn-focus-box-shadow);box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-check:focus-visible+.btn",
+      "declarations": "border-color:var(--bs-btn-hover-border-color);outline:0;-webkit-box-shadow:var(--bs-btn-focus-box-shadow);box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-check:checked+.btn,:not(.btn-check)+.btn:active,.btn:first-child:active,.btn.active,.btn.show",
+      "declarations": "color:var(--bs-btn-active-color);background-color:var(--bs-btn-active-bg);border-color:var(--bs-btn-active-border-color)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn:disabled,.btn.disabled,fieldset:disabled .btn",
+      "declarations": "color:var(--bs-btn-disabled-color);pointer-events:none;background-color:var(--bs-btn-disabled-bg);border-color:var(--bs-btn-disabled-border-color);opacity:var(--bs-btn-disabled-opacity)"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-gray",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #9d9d9c;--bs-btn-border-color: #9d9d9c;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #acacab;--bs-btn-hover-border-color: #a7a7a6;--bs-btn-focus-shadow-rgb: 133, 133, 133;--bs-btn-active-color: #000;--bs-btn-active-bg: #b1b1b0;--bs-btn-active-border-color: #a7a7a6;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #9d9d9c;--bs-btn-disabled-border-color: #9d9d9c"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-red",
+      "declarations": "--bs-btn-color: #FFF;--bs-btn-bg: #E30613;--bs-btn-border-color: #E30613;--bs-btn-hover-color: #FFF;--bs-btn-hover-bg: #c10510;--bs-btn-hover-border-color: #b6050f;--bs-btn-focus-shadow-rgb: 231, 43, 54;--bs-btn-active-color: #FFF;--bs-btn-active-bg: #b6050f;--bs-btn-active-border-color: #aa050e;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #FFF;--bs-btn-disabled-bg: #E30613;--bs-btn-disabled-border-color: #E30613"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-yellow",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #FFEF39;--bs-btn-border-color: #FFEF39;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #fff157;--bs-btn-hover-border-color: #fff14d;--bs-btn-focus-shadow-rgb: 217, 203, 48;--bs-btn-active-color: #000;--bs-btn-active-bg: #fff261;--bs-btn-active-border-color: #fff14d;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #FFEF39;--bs-btn-disabled-border-color: #FFEF39"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-green",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #33A22A;--bs-btn-border-color: #33A22A;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #52b04a;--bs-btn-hover-border-color: #47ab3f;--bs-btn-focus-shadow-rgb: 43, 138, 36;--bs-btn-active-color: #000;--bs-btn-active-bg: #5cb555;--bs-btn-active-border-color: #47ab3f;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #33A22A;--bs-btn-disabled-border-color: #33A22A"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-black",
+      "declarations": "--bs-btn-color: #FFF;--bs-btn-bg: #000;--bs-btn-border-color: #000;--bs-btn-hover-color: #FFF;--bs-btn-hover-bg: black;--bs-btn-hover-border-color: black;--bs-btn-focus-shadow-rgb: 38, 38, 38;--bs-btn-active-color: #FFF;--bs-btn-active-bg: black;--bs-btn-active-border-color: black;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #FFF;--bs-btn-disabled-bg: #000;--bs-btn-disabled-border-color: #000"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-white",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #FFF;--bs-btn-border-color: #FFF;--bs-btn-hover-color: #000;--bs-btn-hover-bg: white;--bs-btn-hover-border-color: white;--bs-btn-focus-shadow-rgb: 217, 217, 217;--bs-btn-active-color: #000;--bs-btn-active-bg: white;--bs-btn-active-border-color: white;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #FFF;--bs-btn-disabled-border-color: #FFF"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-trail-gray",
+      "declarations": "--bs-btn-color: #FFF;--bs-btn-bg: #5c5d54;--bs-btn-border-color: #5c5d54;--bs-btn-hover-color: #FFF;--bs-btn-hover-bg: #4e4f47;--bs-btn-hover-border-color: #4a4a43;--bs-btn-focus-shadow-rgb: 116, 117, 110;--bs-btn-active-color: #FFF;--bs-btn-active-bg: #4a4a43;--bs-btn-active-border-color: #45463f;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #FFF;--bs-btn-disabled-bg: #5c5d54;--bs-btn-disabled-border-color: #5c5d54"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-trail-gray-2",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #7c7c71;--bs-btn-border-color: #7c7c71;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #909086;--bs-btn-hover-border-color: #89897f;--bs-btn-focus-shadow-rgb: 105, 105, 96;--bs-btn-active-color: #000;--bs-btn-active-bg: #96968d;--bs-btn-active-border-color: #89897f;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #7c7c71;--bs-btn-disabled-border-color: #7c7c71"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-ski-blue",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #83acbb;--bs-btn-border-color: #83acbb;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #96b8c5;--bs-btn-hover-border-color: #8fb4c2;--bs-btn-focus-shadow-rgb: 111, 146, 159;--bs-btn-active-color: #000;--bs-btn-active-bg: #9cbdc9;--bs-btn-active-border-color: #8fb4c2;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #83acbb;--bs-btn-disabled-border-color: #83acbb"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-asphalt-grey",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #9d9d9c;--bs-btn-border-color: #9d9d9c;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #acacab;--bs-btn-hover-border-color: #a7a7a6;--bs-btn-focus-shadow-rgb: 133, 133, 133;--bs-btn-active-color: #000;--bs-btn-active-bg: #b1b1b0;--bs-btn-active-border-color: #a7a7a6;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #9d9d9c;--bs-btn-disabled-border-color: #9d9d9c"
+    },
+    {
+      "source": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+      "selector": ".btn-snow-blue",
+      "declarations": "--bs-btn-color: #000;--bs-btn-bg: #bdd1d9;--bs-btn-border-color: #bdd1d9;--bs-btn-hover-color: #000;--bs-btn-hover-bg: #c7d8df;--bs-btn-hover-border-color: #c4d6dd;--bs-btn-focus-shadow-rgb: 161, 178, 184;--bs-btn-active-color: #000;--bs-btn-active-bg: #cadae1;--bs-btn-active-border-color: #c4d6dd;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);--bs-btn-disabled-color: #000;--bs-btn-disabled-bg: #bdd1d9;--bs-btn-disabled-border-color: #bdd1d9"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Quality Motorcycle, Bike and Ski Clothing for Men and Women | Dainese",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#e30613",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#191919",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6c757d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dee2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "colors.success": {
+      "value": "#33a22a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffef39",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#b6050f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#9d9d9c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/us/en/"
+      ]
+    },
+    "colors.neutral-dark": {
+      "value": "#343a40",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "colors.accent-steel": {
+      "value": "#83acbb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Mulish, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Source Code Pro, monospace",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.body}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.neutral-dark}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.success}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "selectedBorder": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#FFF",
+        "url": "https://www.dainese.com/us/en/",
+        "snapshot": "homepage.html",
+        "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://www.dainese.com/us/en/",
+        "snapshot": "homepage.html",
+        "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03"
+      },
+      "#9d9d9c": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#9D9D9C",
+        "url": "https://www.dainese.com/us/en/",
+        "snapshot": "homepage.html",
+        "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03"
+      },
+      "#e30613": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-red",
+        "declaration": "#E30613",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#ffef39": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-yellow",
+        "declaration": "#FFEF39",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#33a22a": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-green",
+        "declaration": "#33A22A",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#83acbb": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-ski-blue",
+        "declaration": "#83acbb",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#f5f5f5": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-dainese-gray",
+        "declaration": "#F5F5F5",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#dee2e6": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-300",
+        "declaration": "#dee2e6",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#6c757d": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-600",
+        "declaration": "#6c757d",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#343a40": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-gray-800",
+        "declaration": "#343a40",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#00000000": {
+        "selector": "body",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#b6050f": {
+        "selector": ".btn-red",
+        "property": "--bs-btn-hover-border-color",
+        "declaration": "#b6050f",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "#191919": {
+        "selector": ":root",
+        "property": "--ss-font-color",
+        "declaration": "#191919",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      }
+    },
+    "font_families": {
+      "Mulish": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Mulish\"",
+        "url": "https://www.dainese.com/us/en/",
+        "snapshot": "homepage.html",
+        "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03"
+      },
+      "Source Code Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Source Code Pro\"",
+        "url": "https://www.dainese.com/us/en/",
+        "snapshot": "homepage.html",
+        "sha256": "d8b97365a2548502883bcd585507907f3bed0fc4875c329157b4fedb5149bd03"
+      },
+      "sans-serif": {
+        "selector": ":root,[data-bs-theme=light]",
+        "property": "--bs-body-font-family",
+        "declaration": "\"Mulish\", sans-serif",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      },
+      "monospace": {
+        "selector": ".btn",
+        "property": "--bs-btn-font-family",
+        "declaration": "Source Code Pro, monospace",
+        "url": "https://www.dainese.com/on/demandware.static/Sites-dainese-us-Site/-/en_US/v1790572089253/css/critical.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f621ab7428da7474ff3439b5d734bae980dc934d5004cbb1d7463f22c1e34a5d"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

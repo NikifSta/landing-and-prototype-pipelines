@@ -1,0 +1,824 @@
+{
+  "source_url": "https://peets.com",
+  "final_url": "https://www.peets.com/",
+  "captured_at": "2026-09-28T05:00:14.719301+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://peets.com",
+      "final_url": "https://www.peets.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/dmr4ajq.css",
+      "final_url": "https://use.typekit.net/dmr4ajq.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "3060ec7ede4c405100b7d587e26575c03069a6b813c203de2b60073a940bade2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/bqf1ffc.css",
+      "final_url": "https://use.typekit.net/bqf1ffc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "1820bbe67c9e727d77a1b4a17e0ab3bf1749b9dba94c6cd9d058d5ab06a1d698",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+      "final_url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.peets.com/cdn/shop/t/678/assets/index.css?v=77952473054233640441790127285",
+      "final_url": "https://www.peets.com/cdn/shop/t/678/assets/index.css?v=77952473054233640441790127285",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eb6447ef71db9f45e572d7d9d01c9f659ff13a3ee372037048f0253ae3bd534d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.peets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.peets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#937031": {
+      "count": 149,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 255,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#000000": {
+      "count": 108,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#222222": {
+      "count": 70,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#f7f6f1": {
+      "count": 34,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#31251b": {
+      "count": 7,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#704f2e": {
+      "count": 3,
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "#767676": {
+      "count": 36,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#b9975b": {
+      "count": 14,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#b51b1b": {
+      "count": 3,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#00000080": {
+      "count": 6,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 14,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#fdfbf8": {
+      "count": 2,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "#3366cc": {
+      "count": 10,
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    }
+  },
+  "font_families": {
+    "DIN Condensed": [
+      "https://www.peets.com/"
+    ],
+    "sans-serif": [
+      "https://www.peets.com/"
+    ],
+    "Proxima Nova": [
+      "https://www.peets.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#header .header__link-wrap .header__link",
+      "declarations": "color: #000000;\n      font-size: 16px;\n      font-weight: 400;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#header .header__link-wrap .header__link:hover",
+      "declarations": "color: #937031;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#header .header__link-wrap .header__link::before",
+      "declarations": "background-color: #937031;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_7ihc8d .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_HXHin4 .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #927036;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_pyYjTW .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_Kg79jN .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_zNPb44 .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_7ihc8d .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_HXHin4 .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #927036;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_pyYjTW .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_Kg79jN .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#block-tout_zNPb44 .nav-tout__cta--button",
+      "declarations": "color: #ffffff;\n      background-color: #937031;\n      font-size: 13px;\n      font-weight: 600;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#navMobileMain .nav__mobile-links .nav__mobile-link--button,\n    #navMobileMain .nav__mobile-links .nav__mobile-link--link",
+      "declarations": "color: #937031;\n      font-size: 21px;\n      font-weight: 700;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#template--21013226291244__lp_full_content_hero_iEAhCQ .hero__cta-wrapper.main .btn",
+      "declarations": "background-color: #ffffff;\n    color: #927036;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#template--21013226291244__lp_full_content_hero_iEAhCQ .hero__cta-wrapper.secondary .btn",
+      "declarations": "background-color: #ffffff;\n    color: #ffffff;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_7CdPmc .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_7CdPmc .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_e3tMTf .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_e3tMTf .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_nxfGpa .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_nxfGpa .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_nF7U9X .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_nF7U9X .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_D3bqLY .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_D3bqLY .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_H6FWrb .homepage-promo-slot__actions .homepage-promo-slot__cta-button",
+      "declarations": "background-color: #927036;\n    color: #ffffff;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/",
+      "selector": "#promoSlot-promo_slot_H6FWrb .homepage-promo-slot__actions-secondary .homepage-promo-slot__secondary-cta-button",
+      "declarations": "background-color: #937031;\n    color: #927036;\n    padding-left: 25px;\n    padding-right: 25px;"
+    },
+    {
+      "source": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+      "selector": "body",
+      "declarations": "margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#fff;color:#222;font-family:grad,serif;font-weight:400"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Peet's Coffee | The Original Craft Coffee Since 1966",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#937031",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#704f2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#b9975b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#767676",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dcdcdc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f6f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fdfbf8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.surface-deep": {
+      "value": "#31251b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/"
+      ]
+    },
+    "colors.link": {
+      "value": "#3366cc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.alert": {
+      "value": "#b51b1b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "colors.scrim": {
+      "value": "#00000080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'DIN Condensed', sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 700,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'DIN Condensed', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "21px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hoverColor": "{colors.primary}",
+        "typography": "{typography.body-md}",
+        "borderColor": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-deep}",
+        "overlayColor": "{colors.scrim}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-deep}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.accent}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.surface-deep}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.subscription-toggle": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "activeColor": "{colors.primary}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#937031": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#937031",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#000000": {
+        "selector": "#header .header__link-wrap .header__link",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#222222": {
+        "selector": "inline-style",
+        "property": "--placeholder-color",
+        "declaration": "#222",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#f7f6f1": {
+        "selector": "inline-style",
+        "property": "--background-color",
+        "declaration": "#f7f6f1",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#31251b": {
+        "selector": "#shopify-section-template--21013226291244__homepage_featured_cards_C7mhqE .hp-featured-cards__title",
+        "property": "color",
+        "declaration": "#31251b",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#704f2e": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#704F2E",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "#767676": {
+        "selector": "th",
+        "property": "color",
+        "declaration": "#767676",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#b9975b": {
+        "selector": "#widget-container .auth-container .button.button-primary:hover,.btn--primary:hover",
+        "property": "background-color",
+        "declaration": "#b9975b",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#b51b1b": {
+        "selector": ".message--error",
+        "property": "color",
+        "declaration": "#b51b1b",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#00000080": {
+        "selector": ".bag-overlay",
+        "property": "background-color",
+        "declaration": "#00000080",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#dcdcdc": {
+        "selector": ".buy-stack .buy-stack-purchase-type__skeleton-heading",
+        "property": "background",
+        "declaration": "#dcdcdc",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#fdfbf8": {
+        "selector": ".buy-stack .buy-stack-purchase-type__frequency-select .style-select--frequency .ss-selected-option",
+        "property": "background",
+        "declaration": "#fdfbf8",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      },
+      "#3366cc": {
+        "selector": ".og-upsell-popup__select:focus-visible",
+        "property": "border",
+        "declaration": "2px solid #36c",
+        "url": "https://www.peets.com/cdn/shop/t/678/assets/style.css?v=115515049806726179571790127285",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "cbd5445c4f75b8cddb6af05e4cafc2403fa49d5da263a24e9cdb504c09ad5c85"
+      }
+    },
+    "font_families": {
+      "DIN Condensed": {
+        "selector": "#template--21013226291244__lp_full_content_hero_iEAhCQ .hero__heading",
+        "property": "font-family",
+        "declaration": "\"DIN Condensed\", sans-serif",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "sans-serif": {
+        "selector": "#template--21013226291244__lp_full_content_hero_iEAhCQ .hero__heading",
+        "property": "font-family",
+        "declaration": "\"DIN Condensed\", sans-serif",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      },
+      "Proxima Nova": {
+        "selector": ".ft-coffeebar__eyebrow",
+        "property": "font-family",
+        "declaration": "\"Proxima Nova\", sans-serif",
+        "url": "https://www.peets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "db532c849221bce63c9752ee9c3962cea1b5bb1b7f8769928a1af26fc8eb0934"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

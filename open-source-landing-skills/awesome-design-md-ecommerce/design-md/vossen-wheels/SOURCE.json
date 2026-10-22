@@ -1,0 +1,729 @@
+{
+  "source_url": "https://vossenwheels.com",
+  "final_url": "https://vossenwheels.com/",
+  "captured_at": "2026-09-28T09:42:03.148393+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://vossenwheels.com",
+      "final_url": "https://vossenwheels.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f3b488dcc4cfcb7d9143bff40f1e550f38e1db2c47cbd3c2488d4fe390fd9926",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css",
+      "final_url": "https://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "893485d48fc8651981b4810fee0d92ebd7fd85baa7f362ad3934a2c652be8dc9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css",
+      "final_url": "https://cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "6f37789f511d3d6abf8ad9b5de3a0ee9cd1ed468b61d1beac7a1765a0279c70b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+      "final_url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "final_url": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3a9792f0f57cf88966313443d575df8f7d2faa1f84e931655fbf878827c7e419",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 20,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 34,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#9c1116": {
+      "count": 2,
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "#d21c24": {
+      "count": 4,
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 11,
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800"
+    ],
+    "sans-serif": [
+      "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+    ],
+    "Helvetica": [
+      "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0"
+    ],
+    "Arial": [
+      "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://vossenwheels.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size: 0;\n    line-height: 0;\n\n    display: block;\n\n    width: 20px;\n    height: 20px;\n    padding: 5px;\n\n    cursor: pointer;\n\n    color: transparent;\n    border: 0;\n    outline: none;\n    background: transparent;"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "font-family: 'slick';\n    font-size: 6px;\n    line-height: 20px;\n\n    position: absolute;\n    top: 0;\n    left: 0;\n\n    width: 20px;\n    height: 20px;\n\n    content: '•';\n    text-align: center;\n\n    opacity: .25;\n    color: black;\n\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity: .75;\n    color: black;"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": ".sbi_no_avatar .sbi_header_img",
+      "declarations": "background:#333;color:#fff;width:50px;height:50px;position:relative"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": ".sb_instagram_header .sbi_header_hashtag_icon",
+      "declarations": "opacity:0;position:absolute;width:100%;top:0;bottom:0;left:0;text-align:center;color:#fff;background:rgba(0,0,0,.75)"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": ".sbi_no_avatar .sbi_header_hashtag_icon",
+      "declarations": "display:block;color:#fff;opacity:.9;-webkit-transition:background .6s linear,color .6s linear;-moz-transition:background .6s linear,color .6s linear;-o-transition:background .6s linear,color .6s linear;transition:background .6s linear,color .6s linear"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "#sb_instagram .sb_instagram_header .sbi_header_img_hover,.sb_instagram_header .sbi_header_img_hover",
+      "declarations": "opacity:0;position:absolute;width:100%;top:0;bottom:0;left:0;text-align:center;color:#fff;background:rgba(0,0,0,.75);z-index:2;transition:opacity .4s ease-in-out"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "-outerContainer .sbi_lb-dataContainer,#sbi_lightbox.sbi_palette_dark_lightbox .sbi_lightbox_tooltip,#sbi_lightbox.sbi_palette_dark_lightbox .sbi_share_close,.sb",
+      "declarations": "background-color:rgba(0,0,0,.85);color:rgba(255,255,255,.75)"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "Container .sbi_lb-details .sbi_lb-caption,#sbi_lightbox.sbi_palette_dark_lightbox .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_lb-number,.sbi_header_palett",
+      "declarations": "color:rgba(255,255,255,.75)"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "htbox .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_lb-details a,#sbi_lightbox.sbi_palette_dark_lightbox .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_l",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "terContainer .sbi_lb-dataContainer,#sbi_lightbox.sbi_palette_light_lightbox .sbi_lightbox_tooltip,#sbi_lightbox.sbi_palette_light_lightbox .sbi_share_close,.sbi",
+      "declarations": "color:rgba(0,0,0,.85);background-color:rgba(255,255,255,.75)"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "tainer .sbi_lb-details .sbi_lb-caption,#sbi_lightbox.sbi_palette_light_lightbox .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_lb-number,.sbi_header_palette_",
+      "declarations": "color:rgba(0,0,0,.85)"
+    },
+    {
+      "source": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+      "selector": "box .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_lb-details a,#sbi_lightbox.sbi_palette_light_lightbox .sbi_lb-outerContainer .sbi_lb-dataContainer .sbi_lb",
+      "declarations": "color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Vossen Wheels | Luxury & Performance Forged Wheels | Hybrid Forged",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#d21c24",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value": "#9c1116",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.button-dark": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://vossenwheels.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.button-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "accentColor": "{colors.primary}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#dddddd": {
+        "selector": ":root",
+        "property": "--wp-editor-canvas-background",
+        "declaration": "#ddd",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#eeeeee": {
+        "selector": ":root .has-very-light-gray-background-color",
+        "property": "background-color",
+        "declaration": "#eee",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#313131": {
+        "selector": ":root .has-very-dark-gray-background-color",
+        "property": "background-color",
+        "declaration": "#313131",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#ffffff": {
+        "selector": ".wp-block-button__link",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#9c1116": {
+        "selector": "div[class^=codespacing_map_zoom_in], div[class^=codespacing_light_map_zoom_in]",
+        "property": "border-bottom",
+        "declaration": "1px solid #9c1116",
+        "url": "https://vossenwheels.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a101abc3530256ae6e989c39b61f63748b3ecadf7aa84cd0047c48eea475e7ac"
+      },
+      "#999999": {
+        "selector": ".chosen-container .search-choice .group-name, .chosen-container .chosen-single .group-name",
+        "property": "color",
+        "declaration": "#999999",
+        "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474"
+      },
+      "#d21c24": {
+        "selector": ".chosen-container-single .chosen-single",
+        "property": "border-bottom",
+        "declaration": "2px solid #d21c24",
+        "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474"
+      },
+      "#f4f4f4": {
+        "selector": ".chosen-container .chosen-results li.no-results",
+        "property": "background",
+        "declaration": "#f4f4f4",
+        "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474"
+      },
+      "#333333": {
+        "selector": ".chosen-container-multi .chosen-choices li.search-choice",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f3b488dcc4cfcb7d9143bff40f1e550f38e1db2c47cbd3c2488d4fe390fd9926"
+      },
+      "sans-serif": {
+        "selector": ".chosen-container-single .chosen-search input[type=\"text\"]",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://vossenwheels.com/wp-content/themes/vossen/assets/css/chosen.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "8d0cb5c1b992876d520d7b7c1e05257d3b3d21c43b33c0e24d0508b1533c1474"
+      },
+      "Helvetica": {
+        "selector": ".sbi_lb-dataContainer",
+        "property": "font-family",
+        "declaration": "\"Open Sans\",Helvetica,Arial,sans-serif",
+        "url": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "3a9792f0f57cf88966313443d575df8f7d2faa1f84e931655fbf878827c7e419"
+      },
+      "Arial": {
+        "selector": ".sbi_lb-dataContainer",
+        "property": "font-family",
+        "declaration": "\"Open Sans\",Helvetica,Arial,sans-serif",
+        "url": "https://vossenwheels.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "3a9792f0f57cf88966313443d575df8f7d2faa1f84e931655fbf878827c7e419"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,963 @@
+{
+  "source_url": "https://youngdays.com",
+  "final_url": "https://youngdays.com/",
+  "captured_at": "2026-09-29T04:17:04.446423+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://youngdays.com",
+      "final_url": "https://youngdays.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+      "final_url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "453fc151c58fd2438e83ca26985e3039cec94d1ba5a0338332b828823b894a60",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://youngdays.com/cdn/shop/t/312/assets/component-popup-quick-view.min.css?v=163167844683670657471790315832",
+      "final_url": "https://youngdays.com/cdn/shop/t/312/assets/component-popup-quick-view.min.css?v=163167844683670657471790315832",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cf2876b3f2124176afce015b795aaec0e93ae3ff71f134832908086e7b11bdbb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://youngdays.com/cdn/shop/t/312/assets/component-popup-size-guide.min.css?v=142420431148936605531790315832",
+      "final_url": "https://youngdays.com/cdn/shop/t/312/assets/component-popup-size-guide.min.css?v=142420431148936605531790315832",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4b17ae318babf07d00cec1f14409cfae9c048cbcb1dae528719eb1af72fea703",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://youngdays.com/cdn/shop/t/312/assets/email-pop-up.min.css?v=103426604705086359531790315832",
+      "final_url": "https://youngdays.com/cdn/shop/t/312/assets/email-pop-up.min.css?v=103426604705086359531790315832",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4c8e573c0159ea1738cf81e73b6dcaa3f149a39639043d52b67cb14801f470cf",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#f7efe5": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#000000": {
+      "count": 56,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#605c58": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#dbba8e": {
+      "count": 14,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#7b61ff": {
+      "count": 4,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#dd534a": {
+      "count": 6,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#9acc7d": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#beb9b5": {
+      "count": 4,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#faf0e8": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#cdf3fc": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#f5ffcd": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "#6cc04a": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "#0000007f": {
+      "count": 4,
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Hrot Premium": [
+      "https://youngdays.com/"
+    ],
+    "ABC Diatype": [
+      "https://youngdays.com/"
+    ],
+    "Darumadrop One": [
+      "https://youngdays.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://youngdays.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n    grid-template-rows: auto auto 1fr auto;\n    grid-template-columns: 100%;\n    min-height: 100%;\n    margin: 0;\n    font-size: var(--font-size-body-base);\n    letter-spacing: normal;\n    line-height: var(--font-lh-body-base);\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .product-popup-modal__toggle,.product .quantity__button",
+      "declarations": "color:var(--color-heading-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .product-form__link-popup",
+      "declarations": "background-color:unset;border:unset;color:inherit;text-decoration:underline;text-transform:capitalize;cursor:pointer;letter-spacing:.01em;font-family:var(--font-body-family)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .product-form__link-popup:hover",
+      "declarations": "color:var(--color-link-text-hover-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .swiper-pagination .swiper-pagination-bullet-active",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .swiper-arrow.swiper-button-disabled",
+      "declarations": "color:var(--color-state-inactive);cursor:not-allowed"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__yotpo-star-rating .yotpo.bottomLine .yotpo-icon",
+      "declarations": "color:var(--color-accent-tertiary);font-size:17px;padding-right:3px"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__yotpo-star-rating .yotpo .star-rating",
+      "declarations": "color:var(--color-accent-tertiary)!important;font-family:var(--font-body-family);font-size:var(--font-size-body-base);line-height:1.4"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__yotpo-star-rating .yotpo .text-m",
+      "declarations": "font-weight:700;font-family:var(--font-body-family);font-size:var(--font-size-body-base);line-height:var(--font-lh-body-base);text-decoration:underline!important;margin-left:5px"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__yotpo-star-rating .yotpo .text-m:hover",
+      "declarations": "color:var(--color-link-text-hover-primary)!important"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__yotpo-star-rating .yotpo a.star-rating:hover",
+      "declarations": "color:var(--color-accent-tertiary)!important;text-decoration:underline!important"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__description a",
+      "declarations": "font-family:inherit;font-size:inherit"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__benefits",
+      "declarations": "background-color:var(--color-benefits-bg);padding:20px;border-radius:10px"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__accordion-heading",
+      "declarations": "position:relative;display:flex;align-items:center;cursor:pointer;padding-bottom:10px;font-family:var(--font-body-family);width:100%;background:0 0;border:none"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__accordion-heading::after,.product__accordion-heading::before",
+      "declarations": "display:block;position:absolute;content:\"\";right:0;top:calc(50% - 5px);width:10px;height:2px;border-radius:4px;background-color:#000;transition-duration:var(--duration-default)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product__accordion-heading:hover::after,.product__accordion-heading:hover::before",
+      "declarations": "background-color:var(--color-link-text-hover-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".notify-me[open] .notify-me__wrapper form .notify-me__tab-button .notify-me__tab-button-button",
+      "declarations": "text-transform:uppercase;border:none;border-bottom:1px solid transparent;background:0 0;cursor:pointer;padding:0;opacity:.7;color:#000;font-size:16px"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .quantity__button:not([disabled]):hover",
+      "declarations": "color:var(--color-link-text-hover-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .quantity__button[disabled]",
+      "declarations": "color:var(--color-state-inactive);cursor:not-allowed"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product .product-form__error-message-wrapper",
+      "declarations": "position:absolute;top:120%;left:0;padding:0;color:var(--color-error)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__submit[aria-disabled=true]",
+      "declarations": "color:inherit;background-color:var(--color-btn-primary-bg-hover)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input input[type=radio][disabled]+label",
+      "declarations": "color:var(--color-state-inactive);border:1px solid var(--color-state-inactive)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input input[type=radio]+label",
+      "declarations": "border:1px solid var(--color-btn-tertiary-border);border-radius:20px;white-space:nowrap;margin:0 4px 10px 0;padding:7px 10px 5px;text-align:center;cursor:pointer;font-weight:700;letter-spacing:.01em;background-color:#fff;transition-duration:var(--duration-default)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input input[type=radio]:not(:checked):hover+label",
+      "declarations": "color:var(--color-link-text-hover-primary);border-color:var(--color-link-text-hover-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input input[type=radio]+label.input-label--unavailable",
+      "declarations": "color:var(--color-state-inactive);border-color:var(--color-state-inactive)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input--color input[type=radio]+label",
+      "declarations": "position:relative;width:32px;height:32px;border-radius:50%;min-width:unset;margin-right:18px;border:unset;background-size:cover;background-color:unset"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input--color input[type=radio]+label.input-label--unavailable:before",
+      "declarations": "display:block;position:absolute;content:\"\";top:0;left:50%;width:1px;height:100%;background-color:#fff;transform:rotate(45deg);transition-duration:var(--duration-default)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input:not(.product-form__input--color) input[type=radio]:checked+label",
+      "declarations": "background-color:var(--color-bg-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input--color input[type=radio]:not(:checked)+label:not(.input-label--unavailable):hover:after",
+      "declarations": "border-color:var(--color-link-text-hover-primary)"
+    },
+    {
+      "source": "https://youngdays.com/",
+      "selector": ".product-form__input--color input[type=radio]:not(:checked)+label:hover:after",
+      "declarations": "visibility:visible;opacity:1;border-color:var(--color-state-inactive)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Young Days | Certified Organic Clothing for Babies & Toddlers",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#dd534a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#4a4a4a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "colors.muted": {
+      "value": "#605c58",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7efe5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#faf0e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#d9d9d9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "colors.state-inactive": {
+      "value": "#beb9b5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#0000007f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "colors.accent-tan": {
+      "value": "#dbba8e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#6cc04a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832"
+      ]
+    },
+    "colors.accent-green-soft": {
+      "value": "#9acc7d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.accent-lilac": {
+      "value": "#7b61ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.tint-blue": {
+      "value": "#cdf3fc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.tint-yellow": {
+      "value": "#f5ffcd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover-dark": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Darumadrop One', cursive",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Darumadrop One', cursive",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Hrot Premium', 'ABC Diatype', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'ABC Diatype', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'ABC Diatype', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.01em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'ABC Diatype', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'ABC Diatype', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.01em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-green-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "selectedBackgroundColor": "{colors.ink}",
+        "selectedTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-body-bg",
+        "declaration": "#FFFFFF",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#f7efe5": {
+        "selector": ":root",
+        "property": "--color-bg-secondary",
+        "declaration": "#F7EFE5",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-heading-primary",
+        "declaration": "#000000",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#605c58": {
+        "selector": ":root",
+        "property": "--color-heading-secondary",
+        "declaration": "#605C58",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#dbba8e": {
+        "selector": ":root",
+        "property": "--color-heading-tertiary",
+        "declaration": "#DBBA8E",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#7b61ff": {
+        "selector": ":root",
+        "property": "--color-link-text-hover-primary",
+        "declaration": "#7B61FF",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#dd534a": {
+        "selector": ":root",
+        "property": "--color-alert-primary",
+        "declaration": "#DD534A",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#9acc7d": {
+        "selector": ":root",
+        "property": "--color-success",
+        "declaration": "#9ACC7D",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#beb9b5": {
+        "selector": ":root",
+        "property": "--color-state-inactive",
+        "declaration": "#BEB9B5",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#faf0e8": {
+        "selector": ":root",
+        "property": "--color-btn-secondary-bg",
+        "declaration": "#faf0e8",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#00000000": {
+        "selector": ".notify-me[open] .notify-me__wrapper form .notify-me__tab-button .notify-me__tab-button-button",
+        "property": "border-bottom",
+        "declaration": "1px solid transparent",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#cdf3fc": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#cdf3fc",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#f5ffcd": {
+        "selector": ".header-submenu",
+        "property": "background-color",
+        "declaration": "#f5ffcd",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "#d9d9d9": {
+        "selector": ".image-loader",
+        "property": "background-color",
+        "declaration": "#d9d9d9",
+        "url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "453fc151c58fd2438e83ca26985e3039cec94d1ba5a0338332b828823b894a60"
+      },
+      "#6cc04a": {
+        "selector": ".opt-in-checkbox__wrapper input[type=checkbox]",
+        "property": "accent-color",
+        "declaration": "#6cc04a",
+        "url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "453fc151c58fd2438e83ca26985e3039cec94d1ba5a0338332b828823b894a60"
+      },
+      "#0000007f": {
+        "selector": ".swiper-3d .swiper-slide-shadow-left",
+        "property": "background-image",
+        "declaration": "linear-gradient(to left,#0000007F,#000)",
+        "url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "453fc151c58fd2438e83ca26985e3039cec94d1ba5a0338332b828823b894a60"
+      },
+      "#4a4a4a": {
+        "selector": ".swiper-pagination-progressbar--secondary",
+        "property": "background",
+        "declaration": "#4a4a4a",
+        "url": "https://youngdays.com/cdn/shop/t/312/assets/theme.min.css?v=91832353329053044671790315832",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "453fc151c58fd2438e83ca26985e3039cec94d1ba5a0338332b828823b894a60"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://youngdays.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Hrot Premium": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Hrot Premium\"",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "ABC Diatype": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"ABC Diatype\"",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      },
+      "Darumadrop One": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Darumadrop One\"",
+        "url": "https://youngdays.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6ecafc55e70a132619ba4818e582f0f555740e0b03ec96bc89854a6d24ff2a91"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

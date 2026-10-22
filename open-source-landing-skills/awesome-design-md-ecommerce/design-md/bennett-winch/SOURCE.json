@@ -1,0 +1,764 @@
+{
+  "source_url": "https://bennettwinch.com",
+  "final_url": "https://www.bennettwinch.com/",
+  "captured_at": "2026-09-28T09:12:54.916767+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bennettwinch.com",
+      "final_url": "https://www.bennettwinch.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "final_url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/slc8wsz.css",
+      "final_url": "https://use.typekit.net/slc8wsz.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "8e5c88c547bf8d94ecacea3967829064731d8484e2d469fd52937da22d358313",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/bootstrap.min.css?v=151781649694409514881780512453",
+      "final_url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/bootstrap.min.css?v=151781649694409514881780512453",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "60b19e5da6a9234ff9220668a5ec1125c157a268513256188ee80f2d2c8d8d36",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/selectric.css?v=177372130834720817511780512453",
+      "final_url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/selectric.css?v=177372130834720817511780512453",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e49540a7bcbd4593dca0784b8457a6d8fb852866fa62b2c9b65ce44b50cbc80",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/slick.min.css?v=134423936317654111451780512453",
+      "final_url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/slick.min.css?v=134423936317654111451780512453",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e239c5ae25781fb8025b5612585997abc595d42ec42165765d54e790614c9a0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ebebeb": {
+      "count": 27,
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "#000000": {
+      "count": 114,
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 177,
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "#d20000": {
+      "count": 9,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "#404040": {
+      "count": 13,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "#685858": {
+      "count": 9,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/bootstrap.min.css?v=151781649694409514881780512453"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://www.bennettwinch.com/"
+    ],
+    "sans-serif": [
+      "https://www.bennettwinch.com/"
+    ],
+    "serif": [
+      "https://www.bennettwinch.com/"
+    ],
+    "Monotype Baskerville": [
+      "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bennettwinch.com/",
+      "selector": "div.fs-text-container .fs-entry-date, \n  div.fs-detail-container .fs-post-info, \n  div.fs-wrapper div.fs-has-links::after, \n  .fs-text-product, \n  .fs-overlink-",
+      "declarations": "font-family:Helvetica Neue, Helvetica, Arial, sans-serif;\n    font-style:normal;\n    font-weight:bold;"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".slick-dots li button,.slick-dots li a",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;line-height:0px;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".slick-dots li button:before,.slick-dots li a:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\\2022\";width:20px;height:20px;font-family:\"slick-icons, sans-serif\";font-size:6px;line-height:20px;text-align:center;color:#fff;opacity:.25;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#fff;opacity:.75"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": "button,input,optgroup,select,.disclosure__toggle,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": "body,input,textarea,button,select,.disclosure__toggle",
+      "declarations": "font-size:16px;font-family:Montserrat,sans-serif;font-style:normal;font-weight:400;color:#000;line-height:1.5"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "margin:0 0 17.5px;font-family:Monotype Baskerville,serif;font-style:normal;font-weight:400;line-height:1.2;overflow-wrap:break-word;word-wrap:break-word"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": "h1 a,.h1 a,h2 a,.h2 a,h3 a,.h3 a,h4 a,.h4 a,h5 a,.h5 a,h6 a,.h6 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;display:inline-block;width:auto;text-decoration:none;text-align:center;vertical-align:middle;cursor:pointer;border:1px solid transparent;border-radius:2px;padding:8px 15px;background-color:#000;color:#fff;font-family:Monotype Baskerville,serif;font-style:normal;font-weight:400;text-transform:uppercase;letter-spacing:.08em;white-space:normal;font-size:14px"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn:not([disabled]):hover,.shopify-payment-button .shopify-payment-button__button--unbranded:not([disabled]):hover,.btn:focus,.shopify-payment-button .shopify-",
+      "declarations": "color:#fff;background-color:#404040"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:transparent;color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--secondary:not([disabled]):hover,.btn--secondary:focus",
+      "declarations": "background-color:transparent;color:#404040;border-color:#404040"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--secondary-accent",
+      "declarations": "background-color:#fff;color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--secondary-accent:not([disabled]):hover,.btn--secondary-accent:focus",
+      "declarations": "background-color:#fff;color:#404040;border-color:#404040"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color:transparent;color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--tertiary:not([disabled]):hover,.btn--tertiary:focus",
+      "declarations": "background-color:transparent;color:#404040;border-color:#404040"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--link",
+      "declarations": "background-color:transparent;border:0;margin:0;color:#000;text-align:left"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".btn--link:not([disabled]):hover,.btn--link:focus",
+      "declarations": "color:#404040;background-color:transparent"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".site-nav__link--button",
+      "declarations": "border:none;background-color:transparent;padding:3px 10px"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".site-nav__link--button:focus,.site-nav__link--button:hover",
+      "declarations": "color:#404040"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".drawer__close-button",
+      "declarations": "background:none;border:0 none;position:relative;right:-15px;height:100%;width:60px;padding:0 20px;color:inherit;font-size:1.125em"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".drawer__close-button:active,.drawer__close-button:focus",
+      "declarations": "background-color:#0009"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".slideshow__arrows .slick-dots li button:before,.slideshow__arrows .slick-dots li a:before",
+      "declarations": "text-indent:-9999px;background-color:transparent;border-radius:100%;background-color:currentColor;width:10px;height:10px;opacity:.4;transition:all .2s"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:#0000008c;background:#0000000d"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:not(:last-child):after",
+      "declarations": "border-color:#0000000d"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster",
+      "declarations": "background:#fff;border-color:#0000000d"
+    },
+    {
+      "source": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:#0000008c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bennett Winch | Luxury Luggage and Accessories Handmade in England",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#685858",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#ebebeb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/"
+      ]
+    },
+    "colors.hover-ink": {
+      "value": "#404040",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "colors.divider": {
+      "value": "#dee2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/bootstrap.min.css?v=151781649694409514881780512453"
+      ]
+    },
+    "colors.accent-alert": {
+      "value": "#d20000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Monotype Baskerville, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Monotype Baskerville, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Monotype Baskerville, serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Monotype Baskerville, serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.08em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.hover-ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hover": {
+          "textColor": "{colors.hover-ink}",
+          "borderColor": "{colors.hover-ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.divider}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}",
+        "focus": {
+          "borderColor": "{colors.ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottomColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "borderTopColor": "{colors.hover-ink}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.gallery-carousel": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "dotColor": "{colors.on-primary}",
+        "dotActiveOpacity": 0.75,
+        "dotInactiveOpacity": 0.25,
+        "padding": "{spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ebebeb": {
+        "selector": ".announcement-bar",
+        "property": "background-color",
+        "declaration": "#ebebeb",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "#000000": {
+        "selector": ".announcement-bar__message",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "#ffffff": {
+        "selector": ".fs-has-links::after",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "#00000000": {
+        "selector": "div.footer-columns div.footer-columns__column ul li a",
+        "property": "border-bottom",
+        "declaration": "1px solid transparent",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "#f7f7f7": {
+        "selector": ".box",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      },
+      "#d20000": {
+        "selector": ".icon-error",
+        "property": "fill",
+        "declaration": "#d20000",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      },
+      "#404040": {
+        "selector": "a:not([disabled]):hover,a:focus",
+        "property": "color",
+        "declaration": "#404040",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      },
+      "#f2f2f2": {
+        "selector": ".plyr.plyr--full-ui.plyr--video .plyr__poster",
+        "property": "background-color",
+        "declaration": "#f2f2f2",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      },
+      "#685858": {
+        "selector": ".collection-hero__title-wrapper:before",
+        "property": "background-color",
+        "declaration": "#685858",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      },
+      "#dee2e6": {
+        "selector": ".img-thumbnail",
+        "property": "border",
+        "declaration": "1px solid #dee2e6",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/bootstrap.min.css?v=151781649694409514881780512453",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "60b19e5da6a9234ff9220668a5ec1125c157a268513256188ee80f2d2c8d8d36"
+      }
+    },
+    "font_families": {
+      "Montserrat": {
+        "selector": ".cart-popup .cart-popup__heading,\n.cart-popup .cart-popup-item__quantity",
+        "property": "font-family",
+        "declaration": "Montserrat, sans-serif",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "sans-serif": {
+        "selector": ".cart-popup .cart-popup__heading,\n.cart-popup .cart-popup-item__quantity",
+        "property": "font-family",
+        "declaration": "Montserrat, sans-serif",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "serif": {
+        "selector": ".cart-popup .cart-popup-item__title",
+        "property": "font-family",
+        "declaration": "\"baskerville-urw\", serif",
+        "url": "https://www.bennettwinch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f5189bf30d4844e2aa03c60e42c912b7235c4a649f1f4194d06a20df7d986dfd"
+      },
+      "Monotype Baskerville": {
+        "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+        "property": "font-family",
+        "declaration": "Monotype Baskerville,serif",
+        "url": "https://www.bennettwinch.com/cdn/shop/t/112/assets/theme.scss.css?v=68764978949193644621786437695",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c602812efb960793069b5ffb47327037e8448f263e2b1a4e4b849f3200724cea"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

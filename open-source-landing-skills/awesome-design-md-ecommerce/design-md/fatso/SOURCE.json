@@ -1,0 +1,758 @@
+{
+  "source_url": "https://eatfatso.com",
+  "final_url": "https://eatfatso.com/",
+  "captured_at": "2026-09-28T09:10:47.529839+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://eatfatso.com",
+      "final_url": "https://eatfatso.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css?ver=7.1.2",
+      "final_url": "https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css?ver=7.1.2",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "38d62f20743669a8f5d53178bf5b380505bf85f9757367705d7b534bf24768ce",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css?ver=7.1.2",
+      "final_url": "https://cdn.datatables.net/responsive/2.3.0/css/responsive.dataTables.min.css?ver=7.1.2",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "63f01d056d6786fccfa30b93d65bc5e0f918e9047e9ea63305c6e6903086df46",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://eatfatso.com/wp-content/plugins/divi-pixel-layout-importer/public/css/dipi-layout-importer-public.css?ver=1.0.0",
+      "final_url": "https://eatfatso.com/wp-content/plugins/divi-pixel-layout-importer/public/css/dipi-layout-importer-public.css?ver=1.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "547dda3c14b284819be511be1e410da94a5efc6ccc4a9afe1c75394f9333191a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://eatfatso.com/wp-content/plugins/divi-pixel/dist/public/css/popup_effect.min.css?ver=1.0.0",
+      "final_url": "https://eatfatso.com/wp-content/plugins/divi-pixel/dist/public/css/popup_effect.min.css?ver=1.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6c5372b258af31695e713ef01c639882f2c1159139ee02a139b4d41155f99980",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://eatfatso.com/wp-content/plugins/divi-pixel/dist/admin/css/dipi-font.min.css?ver=1.0.0",
+      "final_url": "https://eatfatso.com/wp-content/plugins/divi-pixel/dist/admin/css/dipi-font.min.css?ver=1.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0be0345cd591fc527bfba5c5948d67472adc5a9fd348844c424cb261dc0d2e5b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 43,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#666666": {
+      "count": 11,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#2ea3f2": {
+      "count": 14,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#f35198": {
+      "count": 21,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "#7ebec5": {
+      "count": 11,
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://eatfatso.com/"
+    ],
+    "Arial": [
+      "https://eatfatso.com/"
+    ],
+    "sans-serif": [
+      "https://eatfatso.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px;"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "body",
+      "declarations": "font-family:Open Sans,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.7em;font-weight:500;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#333;padding-bottom:10px;line-height:1em;font-weight:500"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "#et_search_icon:hover,.et-social-icon a:hover,.et_password_protected_form .et_submit_button,.form-submit .et_pb_buttontton.alt.disabled,.nav-single a,.posted_in",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_password_protected_form .et_submit_button",
+      "declarations": "font-family:inherit;display:block;float:right;margin:8px auto 0;cursor:pointer"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "fter,.et_pb_pricing_table_button:after,.et_pb_promo_button:after,.et_pb_testimonial:before,.et_pb_toggle_title:before,.form-submit .et_pb_button:after,.mobile_m",
+      "declarations": "font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;-webkit-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_button",
+      "declarations": "font-size:20px;font-weight:500;padding:.3em 1em;line-height:1.7em!important;background-color:transparent;background-size:cover;background-position:50%;background-repeat:no-repeat;border:2px solid;border-radius:3px;-webkit-transition-duration:.2s;transition-duration:.2s;-webkit-transition-property:all!important;transition-property:all!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_button:hover",
+      "declarations": "background-color:hsla(0,0%,100%,.2)"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light.et_pb_button:hover,.et_pb_bg_layout_light .et_pb_button:hover",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_dark,.et_pb_bg_layout_dark h1,.et_pb_bg_layout_dark h2,.et_pb_bg_layout_dark h3,.et_pb_bg_layout_dark h4,.et_pb_bg_layout_dark h5,.et_pb_bg_lay",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_more_button",
+      "declarations": "color:inherit;text-shadow:none;text-decoration:none;display:inline-block;margin-top:20px"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light_tablet.et_pb_button,.et_pb_bg_layout_light_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_light_tablet .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light_tablet h1,.et_pb_bg_layout_light_tablet h2,.et_pb_bg_layout_light_tablet h3,.et_pb_bg_layout_light_tablet h4,.et_pb_bg_layout_light_table",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_tablet.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "k_tablet,.et_pb_bg_layout_dark_tablet h1,.et_pb_bg_layout_dark_tablet h2,.et_pb_bg_layout_dark_tablet h3,.et_pb_bg_layout_dark_tablet h4,.et_pb_bg_layout_dark_t",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_dark_tablet.et_pb_button,.et_pb_bg_layout_dark_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_tablet .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light_phone.et_pb_button,.et_pb_bg_layout_light_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_light_phone .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_light_phone h1,.et_pb_bg_layout_light_phone h2,.et_pb_bg_layout_light_phone h3,.et_pb_bg_layout_light_phone h4,.et_pb_bg_layout_light_phone h5,",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_phone.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "out_dark_phone,.et_pb_bg_layout_dark_phone h1,.et_pb_bg_layout_dark_phone h2,.et_pb_bg_layout_dark_phone h3,.et_pb_bg_layout_dark_phone h4,.et_pb_bg_layout_dark",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_bg_layout_dark_phone.et_pb_button,.et_pb_bg_layout_dark_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_phone .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_dark_phone.et_pb_button",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".widget_search input#s,.widget_search input#searchsubmit,.et_pb_widget .wp-block-search__input,.et_pb_widget .wp-block-search__button",
+      "declarations": "padding:.7em;height:40px !important;margin:0;font-size:14px;line-height:normal !important;border:1px solid #ddd;color:#666"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": ".widget_search #searchsubmit,.et_pb_widget .wp-block-search__button",
+      "declarations": "background-color:#ddd;-webkit-border-top-right-radius:3px;-webkit-border-bottom-right-radius:3px;-moz-border-radius-topright:3px;-moz-border-radius-bottomright:3px;border-top-right-radius:3px;border-bottom-right-radius:3px;position:absolute;right:0;top:0"
+    },
+    {
+      "source": "https://eatfatso.com/",
+      "selector": "a.et_pb_menu__icon:after,button.et_pb_menu__icon:after",
+      "declarations": "font-family:ETmodules"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Home - FATSO",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#2ea3f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value": "#f35198",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#7ebec5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eatfatso.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.7,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.7,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "2px solid {colors.surface-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "height": "72px"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.accent-teal}",
+        "display": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-pink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "iconColor": "{colors.primary}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.testimonial-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "accentColor": "{colors.accent-teal}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--wp--preset--color--white",
+        "declaration": "#ffffff",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#eeeeee": {
+        "selector": ":root",
+        "property": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+        "declaration": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#32373c": {
+        "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#666666": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#2ea3f2": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#2ea3f2",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#333333": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#999999": {
+        "selector": ".et_password_protected_form p input",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#dddddd": {
+        "selector": ".wp-caption",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#f3f3f3": {
+        "selector": ".wp-caption",
+        "property": "background-color",
+        "declaration": "#f3f3f3",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#f35198": {
+        "selector": ".dipi_typing_text_0_tb_header .dipi-typing",
+        "property": "color",
+        "declaration": "#f35198",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "#7ebec5": {
+        "selector": ".three_dots .et-fixed-header #top-menu li.current-menu-ancestor > a > span:after,\n        \n        .three_dots .et-fixed-header #top-menu > li:not(.menu-item-has-children):not(.dipi-cta-button-menu-item):hover > a > span:after",
+        "property": "background-color",
+        "declaration": "#7EBEC5",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://eatfatso.com/",
+        "snapshot": "homepage.html",
+        "sha256": "70581d65ac52e7bbd19fdbfd895da3f652b963bf2643687ae31e781a73fff432"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,955 @@
+{
+  "source_url": "https://www.shayjewelry.com",
+  "final_url": "https://shayjewelry.com/",
+  "captured_at": "2026-09-28T04:14:45.221376+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.shayjewelry.com",
+      "final_url": "https://shayjewelry.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "aaa60a2bc1703ba5796d898a52754ab4d00aca1e3a47d9d240b63e451ccf042f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "final_url": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f9f43325b4affa2918aace9278d7c88a3035a7cd558ef1f89b1a0edae523ec9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "377d46e29e2bb223ac8b4653eb59eeecd7e136651724191ea3138146edee5b76",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7a3886c32031fc7681315ac88a93864532686d5efc19a13a35f8a339125df64",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 61,
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "#000000": {
+      "count": 33,
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ececec": {
+      "count": 2,
+      "sources": [
+        "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ea0202": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e6f7f4": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#121f36": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d4edda": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#155724": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#721c24": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#856404": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#272727": {
+      "count": 34,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fef3e2": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://shayjewelry.com/"
+    ],
+    "Hanken Grotesk": [
+      "https://shayjewelry.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.6875rem;\n      --text-sm: 0.75rem;\n      --text-base: 0.75rem;\n      --text-lg: 0.875rem;\n      --text-xl: 1.125rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 4rem;\n      --section-vertical-spacing-tight: 4rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 227 44 43;\n    --on-sale-badge-background: 227 44 43;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "body,h1,h2,h3,h4,h5,h6,p,a,li,*:not(.fa):not([class*=\"pe-\"]):not(.lni):not(i[class*=\"iccl-\"]):not(i[class*=\"la\"]):not(i[class*=\"fa\"]):not(.jdgm-star):not(.r--st",
+      "declarations": "font-family: 'Hanken Grotesk' !important;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "position: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n  :root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "#shopify-section-sections--24782376796467__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 0 0 0 / 0;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "#shopify-section-sections--24782376796467__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "#shopify-section-sections--24782376796467__header",
+      "declarations": "--header-grid: \"logo primary-nav secondary-nav\" / minmax(max-content, 1fr) auto minmax(max-content, 1fr);"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "#shopify-section-sections--24782376796467__header",
+      "declarations": "--header-logo-width: 100px;"
+    },
+    {
+      "source": "https://shayjewelry.com/",
+      "selector": "#shopify-section-sections--24782376796467__header",
+      "declarations": "--header-logo-width: 100px;"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "border:1px solid rgb(var(--button-outline-color, var(--button-background)))!important;border-radius:var(--button-border-radius)!important;background-color:#0000!important;transition:background-size .45s cubic-bezier(.785,.135,.15,.86),background-position .45s step-end,color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86)!important"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".shopify-payment-button__button--unbranded:not(:hover)",
+      "declarations": "color:rgb(var(--button-text-color))!important"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 101%,101% 101%"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SHAY Jewelry | 18K Gold Fine Jewelry | Los Angeles",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#272727",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b6b6b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/"
+      ]
+    },
+    "colors.badge-neutral": {
+      "value": "#ececec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#ea0202",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.link": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value": "#d4edda",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.success-text": {
+      "value": "#155724",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.warning-bg": {
+      "value": "#fff3cd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.warning-text": {
+      "value": "#856404",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.error-bg": {
+      "value": "#f8d7da",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.error-text": {
+      "value": "#721c24",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-deep": {
+      "value": "#121f36",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-mint": {
+      "value": "#e6f7f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-peach": {
+      "value": "#fef3e2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.lg} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.none}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-deep}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "onSaleBackground": "{colors.accent-sale}",
+        "onSaleText": "{colors.on-primary}",
+        "soldOutBackground": "{colors.badge-neutral}",
+        "soldOutText": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.authenticity-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-mint}",
+        "border": "1px solid {colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--shopify-chat-bg-color",
+        "declaration": "#FFFFFF",
+        "url": "https://shayjewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "aaa60a2bc1703ba5796d898a52754ab4d00aca1e3a47d9d240b63e451ccf042f"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--shopify-chat-text-color",
+        "declaration": "#000000",
+        "url": "https://shayjewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "aaa60a2bc1703ba5796d898a52754ab4d00aca1e3a47d9d240b63e451ccf042f"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://shayjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#ececec": {
+        "selector": ".product__info .swym-button,.product__info .swym-add-to-wishlist,.product__info .swym-add-to-wishlist-view-product",
+        "property": "background-color",
+        "declaration": "#ececec",
+        "url": "https://shayjewelry.com/cdn/shop/t/101/assets/theme.css?v=45318448639841664481766118275",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f9f43325b4affa2918aace9278d7c88a3035a7cd558ef1f89b1a0edae523ec9"
+      },
+      "#1c1c1c": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-color-text-default",
+        "declaration": "#1c1c1c",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#ea0202": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-color-text-remove",
+        "declaration": "#ea0202",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#e6f7f4": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-button-color-bg-secondary",
+        "declaration": "#e6f7f4",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#121f36": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-button-color-text-secondary",
+        "declaration": "#121f36",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#d4edda": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-success-bg-color",
+        "declaration": "#d4edda",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#155724": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-success-text-color",
+        "declaration": "#155724",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#f8d7da": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-error-bg-color",
+        "declaration": "#f8d7da",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#721c24": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-error-text-color",
+        "declaration": "#721c24",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#fff3cd": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-warning-bg-color",
+        "declaration": "#fff3cd",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#856404": {
+        "selector": ":root",
+        "property": "--swym-storefront-layout-notification-warning-text-color",
+        "declaration": "#856404",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#e5e5e5": {
+        "selector": "swym-storefront-layout-as-drawer .swym-storefront-layout-login-user-container",
+        "property": "border-top",
+        "declaration": "0.5px solid var(--swym-storefront-layout-border-color, #e5e5e5)",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#272727": {
+        "selector": ".swym-storefront-layout-title",
+        "property": "color",
+        "declaration": "var(--swym-storefront-layout-color-text-default, #272727)",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#fef3e2": {
+        "selector": ".swym-storefront-layout-empty-state-card",
+        "property": "background",
+        "declaration": "#fef3e2",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#f5f5f5": {
+        "selector": ".swym-storefront-layout-empty-state-tag",
+        "property": "background",
+        "declaration": "#f5f5f5",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      },
+      "#6b6b6b": {
+        "selector": ".swym-storefront-layout-empty-state-tag",
+        "property": "color",
+        "declaration": "#6b6b6b",
+        "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"Work Sans\", sans-serif",
+        "url": "https://shayjewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "aaa60a2bc1703ba5796d898a52754ab4d00aca1e3a47d9d240b63e451ccf042f"
+      },
+      "Hanken Grotesk": {
+        "selector": "body,h1,h2,h3,h4,h5,h6,p,a,li,*:not(.fa):not([class*=\"pe-\"]):not(.lni):not(i[class*=\"iccl-\"]):not(i[class*=\"la\"]):not(i[class*=\"fa\"]):not(.jdgm-star):not(.r--stars-icon)",
+        "property": "font-family",
+        "declaration": "\"Hanken Grotesk\"",
+        "url": "https://shayjewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "aaa60a2bc1703ba5796d898a52754ab4d00aca1e3a47d9d240b63e451ccf042f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

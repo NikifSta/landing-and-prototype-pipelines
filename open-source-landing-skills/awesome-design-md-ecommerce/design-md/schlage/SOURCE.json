@@ -1,0 +1,925 @@
+{
+  "source_url": "https://schlage.com",
+  "final_url": "https://www.schlage.com/en/home.html",
+  "captured_at": "2026-09-28T09:19:04.918579+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://schlage.com",
+      "final_url": "https://www.schlage.com/en/home.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "59757fd6ce9b3946ea1c87e0dd8b8650d101fc4b501e3065338ad1796ae915e8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "10ab7c50f04d314894f3cbbf542da53f8e3625192fb9bb6a621e7a82da895ac5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-schlage-accessibility.lc-cd799bac302e18b1365e388227ca0490-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-schlage-accessibility.lc-cd799bac302e18b1365e388227ca0490-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "5d631d1a0b01e375c22d6fe121f924df3fd59daa6a9f3a8b4a4ede9c225757dd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "9fbeb4d69bd1d55ce8a5fcad69a73da9b7cfa90445d096eb07e24049f2b6b5f1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 223,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#0072bc": {
+      "count": 118,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#003767": {
+      "count": 8,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#0081c6": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#000000": {
+      "count": 135,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#dc3545": {
+      "count": 25,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#198754": {
+      "count": 25,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 17,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 33,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 41,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 21,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 12,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Avenir-Book": [
+      "https://www.schlage.com/en/home.html"
+    ],
+    "sans-serif": [
+      "https://www.schlage.com/en/home.html"
+    ],
+    "Stag Web": [
+      "https://www.schlage.com/en/home.html"
+    ],
+    "Avenir-Medium": [
+      "https://www.schlage.com/en/home.html"
+    ],
+    "Avenir-Light": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color:#003767;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#cta2 .btn",
+      "declarations": "font-size: 1.5rem !important;\r\n    letter-spacing: normal;\r\n    padding: 10px 40px !important;\r\n    color: #0081c6;\r\n    border: 1px solid #0081c6;\r\n    border-radius: 40px !important;\r\n    text-decoration: none !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#cta2 .btn:hover",
+      "declarations": "background-color: #0081c6;\r\n\t\t\t   color: #FFF;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#pt .cta-button",
+      "declarations": "background-color: #0072bc !important;\r\n\t\t\tborder: 1px solid #0072bc;\r\n\t\t\tborder-radius: 40px !important; \r\n\t\t\tcolor: #FFF !important;\r\n\t\t\tpadding: 10px 40px !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#pt .cta-button:hover",
+      "declarations": "background-color: transparent !important;\r\n\t\t\tcolor: #0072bc !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": ".aplus__carousel .cmp-carousel .cmp-carousel__actions button.cmp-carousel__action",
+      "declarations": "background-color: #ffffff75;\r\n        border: none;\r\n        padding: 0;\r\n        display: flex;\r\n        align-items: center;\r\n        justify-content: center;\r\n        border-radius: 5px;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link",
+      "declarations": "color: #fff;\r\n        border: 1px solid #fff;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color: #003767;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link",
+      "declarations": "color: #fff;\r\n        border: 1px solid #fff;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color: #003767;"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-font-sans-serif:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",\"Liberation Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",mono"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-font-sans-serif);font-size:1rem;font-weight:400;line-height:1.5;color:#212529;background-color:#fff;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "--bs-table-accent-bg:var(--bs-table-striped-bg);color:var(--bs-table-striped-color)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "--bs-table-accent-bg:var(--bs-table-hover-bg);color:var(--bs-table-hover-color)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:#212529;background-color:#e9ecef;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:#dde0e3"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:#212529;background-color:#e9ecef;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:#dde0e3"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;line-height:1.5;color:#212529;text-align:center;text-decoration:none;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#0d6efd;border-color:#0d6efd"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0b5ed7;border-color:#0a58ca"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:focus+.btn-primary,.btn-primary:focus",
+      "declarations": "color:#fff;background-color:#0b5ed7;border-color:#0a58ca;box-shadow:0 0 0 .25rem rgba(49,132,253,.5)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:active+.btn-primary,.btn-check:checked+.btn-primary,.btn-primary.active,.btn-primary:active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#0a58ca;border-color:#0a53be"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#0d6efd;border-color:#0d6efd"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5c636a;border-color:#565e64"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:focus+.btn-secondary,.btn-secondary:focus",
+      "declarations": "color:#fff;background-color:#5c636a;border-color:#565e64;box-shadow:0 0 0 .25rem rgba(130,138,145,.5)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Smart Locks, Door Locks, Door Knobs, Door Levers, Handlesets",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0072bc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212529",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.body": {
+      "value": "#212529",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6c757d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dee2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f9fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.accent": {
+      "value": "#0081c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.accent-deep": {
+      "value": "#003767",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.border-light": {
+      "value": "#ced4da",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#e9ecef",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#dc3545",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#198754",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffc107",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#0dcaf0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Stag Web', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Stag Web', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Avenir-Medium', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Avenir-Book', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Avenir-Book', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Avenir-Light', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Avenir-Medium', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}",
+        "border": "1px solid {colors.primary}",
+        "hover": {
+          "backgroundColor": "transparent",
+          "textColor": "{colors.primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.accent}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}",
+        "border": "1px solid {colors.accent}",
+        "hover": {
+          "backgroundColor": "{colors.accent}",
+          "textColor": "{colors.on-primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.border-light}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}",
+        "focus": {
+          "border": "1px solid {colors.primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "1px solid {colors.hairline}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "shadow": "proposed: 0 1px 3px rgba(0,0,0,0.08)"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "overlay": "proposed: rgba(0,0,0,0.35) on image heroes for text contrast"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.accent-deep}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "linkHover": {
+          "textColor": "{colors.accent}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.warning}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.border-light}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}",
+        "iconColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "value": {
+        "shape": "circle, proposed 32px diameter",
+        "border": "1px solid {colors.hairline}",
+        "selectedBorder": "2px solid {colors.primary}",
+        "label": "{typography.caption}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#FFFFFF",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#0072bc": {
+        "selector": ".taglinks ul li,.taglinks ul li a",
+        "property": "color",
+        "declaration": "#0072bc",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#003767": {
+        "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+        "property": "background-color",
+        "declaration": "#003767",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#0081c6": {
+        "selector": "#cta2 .btn",
+        "property": "color",
+        "declaration": "#0081c6",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#00000000": {
+        "selector": "#pt .cta-button:hover",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#000000": {
+        "selector": ".aplus__carousel .cmp-carousel .teaser .cmp-teaser .cmp-teaser__content",
+        "property": "color",
+        "declaration": "black",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "#dc3545": {
+        "selector": ":root",
+        "property": "--bs-red",
+        "declaration": "#dc3545",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#ffc107": {
+        "selector": ":root",
+        "property": "--bs-yellow",
+        "declaration": "#ffc107",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#198754": {
+        "selector": ":root",
+        "property": "--bs-green",
+        "declaration": "#198754",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#0dcaf0": {
+        "selector": ":root",
+        "property": "--bs-cyan",
+        "declaration": "#0dcaf0",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#6c757d": {
+        "selector": ":root",
+        "property": "--bs-gray",
+        "declaration": "#6c757d",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#f8f9fa": {
+        "selector": ":root",
+        "property": "--bs-light",
+        "declaration": "#f8f9fa",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#212529": {
+        "selector": ":root",
+        "property": "--bs-dark",
+        "declaration": "#212529",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#dee2e6": {
+        "selector": ".img-thumbnail",
+        "property": "border",
+        "declaration": "1px solid #dee2e6",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#ced4da": {
+        "selector": ".form-control",
+        "property": "border",
+        "declaration": "1px solid #ced4da",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#e9ecef": {
+        "selector": ".form-control:disabled,.form-control[readonly]",
+        "property": "background-color",
+        "declaration": "#e9ecef",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      },
+      "#00000014": {
+        "selector": "#contact-us .form-group input[type=email]:focus,#contact-us .form-group input[type=tel]:focus,#contact-us .form-group input[type=text]:focus,#contact-us .form-group textarea:focus",
+        "property": "-webkit-box-shadow",
+        "declaration": "inset 0 1px 1px rgba(0,0,0,.08),0 0 8px rgba(102,175,233,.6)",
+        "url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "10ab7c50f04d314894f3cbbf542da53f8e3625192fb9bb6a621e7a82da895ac5"
+      }
+    },
+    "font_families": {
+      "Avenir-Book": {
+        "selector": ".tm",
+        "property": "font-family",
+        "declaration": "avenir-book,\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "sans-serif": {
+        "selector": ".tm",
+        "property": "font-family",
+        "declaration": "avenir-book,\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "Stag Web": {
+        "selector": "#support p.schlage-heading_xlarge",
+        "property": "font-family",
+        "declaration": "\"Stag Web\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "Avenir-Medium": {
+        "selector": ".hero-carousel .teaser .cmp-teaser .cmp-teaser__content .cmp-teaser__indicators li",
+        "property": "font-family",
+        "declaration": "\"Avenir-Medium\"",
+        "url": "https://www.schlage.com/en/home.html",
+        "snapshot": "homepage.html",
+        "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771"
+      },
+      "Avenir-Light": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Avenir-Light",
+        "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484"
+      }
+    }
+  },
+  "derived_colors": {
+    "#00000059": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.34901960784313724
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,2070 @@
+{
+  "url": "https://mercury.com/",
+  "date": "2026-10-06T09:59:43.989Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://mercury.com/videos/hero/hero-scrub-lg.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.relative.grid «Radically different banking Apply online in 10 min»"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_1.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_2.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_3.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_4.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          }
+        ],
+        "canvases": 1,
+        "scrollHeight": 11661
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 72,
+          "parentHeight": 11661,
+          "el": "div.sticky.inset-0 «Products Solutions Resources About Pricing Log in »"
+        },
+        {
+          "position": "sticky",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.sticky.bottom-0 «DashboardDashboardLog inLog inOpen account»"
+        },
+        {
+          "position": "sticky",
+          "top": "auto",
+          "height": 41,
+          "parentHeight": 105,
+          "el": "div.sticky.right-0 «Mercury is a fintech company, not an FDIC-insured »"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 40,
+          "parentHeight": 0,
+          "el": "span.pointer-events-none.overflow-hidden"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": false
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": false
+        },
+        {
+          "frame": "003-y949.png",
+          "y": 949,
+          "moving": false
+        },
+        {
+          "frame": "004-y1399.png",
+          "y": 1399,
+          "moving": false
+        },
+        {
+          "frame": "005-y949.png",
+          "y": 949,
+          "moving": false
+        },
+        {
+          "frame": "006-y1399.png",
+          "y": 1399,
+          "moving": true
+        },
+        {
+          "frame": "007-y1849.png",
+          "y": 1849,
+          "moving": true
+        },
+        {
+          "frame": "008-y2299.png",
+          "y": 2299,
+          "moving": false
+        },
+        {
+          "frame": "009-y2749.png",
+          "y": 2749,
+          "moving": true
+        },
+        {
+          "frame": "010-y3199.png",
+          "y": 3199,
+          "moving": true
+        },
+        {
+          "frame": "011-y3649.png",
+          "y": 3649,
+          "moving": true
+        },
+        {
+          "frame": "012-y4099.png",
+          "y": 4099,
+          "moving": false
+        },
+        {
+          "frame": "013-y4549.png",
+          "y": 4549,
+          "moving": false
+        },
+        {
+          "frame": "014-y4999.png",
+          "y": 4999,
+          "moving": true
+        },
+        {
+          "frame": "015-y5449.png",
+          "y": 5449,
+          "moving": true
+        },
+        {
+          "frame": "016-y5899.png",
+          "y": 5899,
+          "moving": true
+        },
+        {
+          "frame": "017-y6349.png",
+          "y": 6349,
+          "moving": false
+        },
+        {
+          "frame": "018-y6799.png",
+          "y": 6799,
+          "moving": false
+        },
+        {
+          "frame": "019-y7249.png",
+          "y": 7249,
+          "moving": false
+        },
+        {
+          "frame": "020-y7699.png",
+          "y": 7699,
+          "moving": false
+        },
+        {
+          "frame": "021-y8149.png",
+          "y": 8149,
+          "moving": false
+        },
+        {
+          "frame": "022-y8599.png",
+          "y": 8599,
+          "moving": false
+        },
+        {
+          "frame": "023-y9049.png",
+          "y": 9049,
+          "moving": false
+        },
+        {
+          "frame": "024-y9499.png",
+          "y": 9499,
+          "moving": false
+        },
+        {
+          "frame": "025-y9949.png",
+          "y": 9949,
+          "moving": false
+        },
+        {
+          "frame": "026-y10399.png",
+          "y": 10399,
+          "moving": false
+        },
+        {
+          "frame": "027-y10761.png",
+          "y": 10761,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeInTabTranslate",
+          "duration": 300,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.pointer-events-none.col-start-1 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutBlur",
+          "duration": 500,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d56olubt6lb_-content-JSD-sGXYR5Odzy1skuEANg.group/content.col-span-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutTabTranslate",
+          "duration": 300,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.pointer-events-none.col-start-1",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutBlur",
+          "duration": 500,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d56olubt6lb_-content-X9nh3je-QrSXthtUu61baQ.group/content.col-span-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeInTabTranslate",
+          "duration": 0,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d96olubt6lb_-content-CbFhkBknR1OO6ZZ5NCMj8Q.group/content.col-start-1 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutBlur",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.group/asset-container.relative",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "nav.center.relative «Products Solutions Resources About Pricing Log in »",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.dark-neutral-theme.pointer-events-none «Radically different banking Apply online in 10 min»",
+          "firstSeenAtY": 949
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.76, 0, 0.24, 1)",
+          "target": "div.relative.h-full",
+          "firstSeenAtY": 949
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 200,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "picture.pointer-events-none.absolute",
+          "firstSeenAtY": 949
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 200,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "div.pointer-events-auto.col-span-full «Everything you do with money. All in one place. Bu»",
+          "firstSeenAtY": 949
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Loved by 300K+ of the most ambitious entrepreneurs»",
+          "firstSeenAtY": 1399
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Loved by 300K+ of the most ambitious entrepreneurs»",
+          "firstSeenAtY": 1399
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "scroll",
+          "duration": 45000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.motion-safe:animate-[scroll_var(--animation-duration)_var(--animation-direction)_linear_infinite].motion-safe:will-change-[translate]",
+          "firstSeenAtY": 1399
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 1849
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 1849
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#theme-switch-scroller.bg-background-default.transition-theme «Introducing Mercury Books, AI-powered accounting s»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-0.group.inline-flex «Products»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-0.group.inline-flex «Products»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-1.group.inline-flex «Solutions»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-1.group.inline-flex «Solutions»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-2.group.inline-flex «Resources»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-2.group.inline-flex «Resources»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-3.group.inline-flex «About»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button#radix-_R_d2olubt6lb_-trigger-3.group.inline-flex «About»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Pricing»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Pricing»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.w-fit «Log in»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.w-fit «Log in»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.items-center «Open account»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury hits $5.2B valuation»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «$650M in annual revenue and profitable»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury lands $300M Series C»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Open account»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury for business For $0/month, get started wit»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury for personal Level up your personal financ»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking’s been a headache. Now, it’s a head start.»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking’s been a headache. Now, it’s a head start.»",
+          "firstSeenAtY": 2749
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 3649
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 3649
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_ctb6olubt6lb_.flex.flex-1 «Apply online in 10 minutes»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.h-8.max-h-8",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_ktb6olubt6lb_.flex.flex-1 «Get a credit card instantly»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_stb6olubt6lb_.flex.flex-1 «Tackle banking tasks in seconds»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_ctd6olubt6lb_.flex.flex-1 «Send no-fee USD payments around the globe»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_ktd6olubt6lb_.flex.flex-1 «Earn 1.5% cashback on credit spend»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button#radix-_R_std6olubt6lb_.flex.flex-1 «Earn up to 4.00% yield with Mercury Treasury»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Get started fast. And never stop moving. Apply onl»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Get started fast. And never stop moving. Apply onl»",
+          "firstSeenAtY": 4099
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Stop losing money to fees. Start using it to fuel »",
+          "firstSeenAtY": 4999
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Stop losing money to fees. Start using it to fuel »",
+          "firstSeenAtY": 4999
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Run your business like a seasoned pro Total visibi»",
+          "firstSeenAtY": 5449
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Run your business like a seasoned pro Total visibi»",
+          "firstSeenAtY": 5449
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «You’re creating something to stand the test of tim»",
+          "firstSeenAtY": 6799
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «You’re creating something to stand the test of tim»",
+          "firstSeenAtY": 6799
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «300K+ Entrepreneurs love us 1 in 3 Startups choose»",
+          "firstSeenAtY": 6799
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «300K+ Entrepreneurs love us 1 in 3 Startups choose»",
+          "firstSeenAtY": 6799
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Standard protection stops short. Mercury goes furt»",
+          "firstSeenAtY": 7249
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Standard protection stops short. Mercury goes furt»",
+          "firstSeenAtY": 7249
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury in the spotlight Mercury hits $5.2B valuat»",
+          "firstSeenAtY": 7699
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury in the spotlight Mercury hits $5.2B valuat»",
+          "firstSeenAtY": 7699
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking – redesigned from the ground up. Open acco»",
+          "firstSeenAtY": 8599
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking – redesigned from the ground up. Open acco»",
+          "firstSeenAtY": 8599
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://mercury.com/videos/hero/hero-scrub-sm.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.relative.grid «Radically different banking Apply online in 10 min»"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_1.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_2.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_3.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_4.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_1.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_2.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_3.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          },
+          {
+            "src": "https://mercury.com/videos/hero/flow_4.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.col-start-1.col-end-auto"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 14979
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 72,
+          "parentHeight": 14979,
+          "el": "div.sticky.inset-0 «Open Menu Products Solutions Resources About Prici»"
+        },
+        {
+          "position": "sticky",
+          "top": "auto",
+          "height": 88,
+          "parentHeight": 709,
+          "el": "div.sticky.bottom-0 «Log in Open account»"
+        },
+        {
+          "position": "sticky",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 48,
+          "el": "div.sticky.right-0 «Mercury is a fintech company, not an FDIC-insured »"
+        },
+        {
+          "position": "fixed",
+          "top": "754px",
+          "height": 66,
+          "parentHeight": 0,
+          "el": "div#disclaimer-banner.mx-auto.w-fit «Mercury is a fintech company, not an FDIC-insured »"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": false
+        },
+        {
+          "frame": "003-y835.png",
+          "y": 835,
+          "moving": false
+        },
+        {
+          "frame": "004-y1257.png",
+          "y": 1257,
+          "moving": false
+        },
+        {
+          "frame": "005-y835.png",
+          "y": 835,
+          "moving": false
+        },
+        {
+          "frame": "006-y1257.png",
+          "y": 1257,
+          "moving": false
+        },
+        {
+          "frame": "007-y1679.png",
+          "y": 1679,
+          "moving": true
+        },
+        {
+          "frame": "008-y2101.png",
+          "y": 2101,
+          "moving": false
+        },
+        {
+          "frame": "009-y2523.png",
+          "y": 2523,
+          "moving": true
+        },
+        {
+          "frame": "010-y2945.png",
+          "y": 2945,
+          "moving": false
+        },
+        {
+          "frame": "011-y3367.png",
+          "y": 3367,
+          "moving": true
+        },
+        {
+          "frame": "012-y3789.png",
+          "y": 3789,
+          "moving": true
+        },
+        {
+          "frame": "013-y4211.png",
+          "y": 4211,
+          "moving": false
+        },
+        {
+          "frame": "014-y4633.png",
+          "y": 4633,
+          "moving": false
+        },
+        {
+          "frame": "015-y5055.png",
+          "y": 5055,
+          "moving": true
+        },
+        {
+          "frame": "016-y5477.png",
+          "y": 5477,
+          "moving": true
+        },
+        {
+          "frame": "017-y5899.png",
+          "y": 5899,
+          "moving": false
+        },
+        {
+          "frame": "018-y6321.png",
+          "y": 6321,
+          "moving": true
+        },
+        {
+          "frame": "019-y6743.png",
+          "y": 6743,
+          "moving": false
+        },
+        {
+          "frame": "020-y7165.png",
+          "y": 7165,
+          "moving": false
+        },
+        {
+          "frame": "021-y7587.png",
+          "y": 7587,
+          "moving": false
+        },
+        {
+          "frame": "022-y8009.png",
+          "y": 8009,
+          "moving": false
+        },
+        {
+          "frame": "023-y8431.png",
+          "y": 8431,
+          "moving": false
+        },
+        {
+          "frame": "024-y8853.png",
+          "y": 8853,
+          "moving": false
+        },
+        {
+          "frame": "025-y9275.png",
+          "y": 9275,
+          "moving": false
+        },
+        {
+          "frame": "026-y9697.png",
+          "y": 9697,
+          "moving": false
+        },
+        {
+          "frame": "027-y10119.png",
+          "y": 10119,
+          "moving": false
+        },
+        {
+          "frame": "028-y10541.png",
+          "y": 10541,
+          "moving": false
+        },
+        {
+          "frame": "029-y10963.png",
+          "y": 10963,
+          "moving": false
+        },
+        {
+          "frame": "030-y11385.png",
+          "y": 11385,
+          "moving": false
+        },
+        {
+          "frame": "031-y11807.png",
+          "y": 11807,
+          "moving": false
+        },
+        {
+          "frame": "032-y12229.png",
+          "y": 12229,
+          "moving": false
+        },
+        {
+          "frame": "033-y12651.png",
+          "y": 12651,
+          "moving": false
+        },
+        {
+          "frame": "034-y13073.png",
+          "y": 13073,
+          "moving": false
+        },
+        {
+          "frame": "035-y13495.png",
+          "y": 13495,
+          "moving": false
+        },
+        {
+          "frame": "036-y13917.png",
+          "y": 13917,
+          "moving": false
+        },
+        {
+          "frame": "037-y14135.png",
+          "y": 14135,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeInTabTranslate",
+          "duration": 300,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.pointer-events-none.col-start-1 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutBlur",
+          "duration": 500,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d56olubt6lb_-content-JSD-sGXYR5Odzy1skuEANg.group/content.col-span-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutTabTranslate",
+          "duration": 300,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.pointer-events-none.col-start-1",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutBlur",
+          "duration": 500,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d56olubt6lb_-content-X9nh3je-QrSXthtUu61baQ.group/content.col-span-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeInTabTranslate",
+          "duration": 0,
+          "delay": -600,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#radix-_R_d96olubt6lb_-content-CbFhkBknR1OO6ZZ5NCMj8Q.group/content.col-start-1 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.relative.z-navbar-z-index «Open Menu Products Solutions Resources About Prici»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "styles-module__zTVSPq__disclaimer-extend",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "small.block.arcadia-body-5-strong «Mercury is a fintech company, not an FDIC-insured »",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "styles-module__zTVSPq__disclaimer-divider-fade",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "small.block.arcadia-body-5-strong «Mercury is a fintech company, not an FDIC-insured »",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 150,
+          "delay": 700,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#consentManagerMainDialog.modal-container.neutral-theme «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.dark-neutral-theme.pointer-events-none «Radically different banking Apply online in 10 min»",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-bottom",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.65, 0.05, 0.36, 1)",
+          "target": "small.block.arcadia-body-5-strong «Mercury is a fintech company, not an FDIC-insured »",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "translate",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.65, 0.05, 0.36, 1)",
+          "target": "small.block.arcadia-body-5-strong «Mercury is a fintech company, not an FDIC-insured »",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.65, 0.05, 0.36, 1)",
+          "target": "small.block.arcadia-body-5-strong «Mercury is a fintech company, not an FDIC-insured »",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "height",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.76, 0, 0.24, 1)",
+          "target": "div.absolute.w-full",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 200,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "div.pointer-events-auto.col-span-full «Everything you do with money. All in one place. Bu»",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#consentManagerMainDialog.modal-container «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#consentManagerMainDialog.modal-container «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Примите все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Примите все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Примите все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "span.button-base-text.button-primary-text «Примите все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Отклонить все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Отклонить все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Отклонить все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "span.button-base-text.button-primary-text «Отклонить все»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Больше вариантов»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "button.button «Больше вариантов»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "span.button-base-text.button-primary-text «Больше вариантов»",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 150,
+          "delay": 700,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div#consentManagerMainDialog.modal-container «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#consentManagerMainDialog.modal-container.neutral-theme «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#consentManagerMainDialog.modal-container.neutral-theme «Мы используем файлы cookie Нажимая «Принять все», »",
+          "firstSeenAtY": 835
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "scroll",
+          "duration": 45000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.motion-safe:animate-[scroll_var(--animation-duration)_var(--animation-direction)_linear_infinite].motion-safe:will-change-[translate]",
+          "firstSeenAtY": 1257
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Loved by 300K+ of the most ambitious entrepreneurs»",
+          "firstSeenAtY": 1679
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Loved by 300K+ of the most ambitious entrepreneurs»",
+          "firstSeenAtY": 1679
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 1679
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «SaaS Unlike most financial institutions, Mercury i»",
+          "firstSeenAtY": 1679
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div#theme-switch-scroller.bg-background-default.transition-theme «Introducing Mercury Books, AI-powered accounting s»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.items-center «Log in»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.items-center «Log in»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.items-center «Log in»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.items-center «Open account»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury hits $5.2B valuation»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Read more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «$650M in annual revenue and profitable»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury lands $300M Series C»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Open account»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Contact sales»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury for business For $0/month, get started wit»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Explore demo»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.6, 1)",
+          "target": "div.w-full.gap-gap-md «Mercury for personal Level up your personal financ»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "outline-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "a.group.inline-flex «Learn more»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking’s been a headache. Now, it’s a head start.»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking’s been a headache. Now, it’s a head start.»",
+          "firstSeenAtY": 2523
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 4211
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury has completely changed my expectations of »",
+          "firstSeenAtY": 4211
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Get started fast. And never stop moving. Apply onl»",
+          "firstSeenAtY": 4211
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Get started fast. And never stop moving. Apply onl»",
+          "firstSeenAtY": 4211
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Stop losing money to fees. Start using it to fuel »",
+          "firstSeenAtY": 5055
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Stop losing money to fees. Start using it to fuel »",
+          "firstSeenAtY": 5055
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Run your business like a seasoned pro Total visibi»",
+          "firstSeenAtY": 5899
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Run your business like a seasoned pro Total visibi»",
+          "firstSeenAtY": 5899
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «You’re creating something to stand the test of tim»",
+          "firstSeenAtY": 7165
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «You’re creating something to stand the test of tim»",
+          "firstSeenAtY": 7165
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «300K+ Entrepreneurs love us 1 in 3 Startups choose»",
+          "firstSeenAtY": 7587
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «300K+ Entrepreneurs love us 1 in 3 Startups choose»",
+          "firstSeenAtY": 7587
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Standard protection stops short. Mercury goes furt»",
+          "firstSeenAtY": 8009
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Standard protection stops short. Mercury goes furt»",
+          "firstSeenAtY": 8009
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury in the spotlight Mercury hits $5.2B valuat»",
+          "firstSeenAtY": 9697
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Mercury in the spotlight Mercury hits $5.2B valuat»",
+          "firstSeenAtY": 9697
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateUp",
+          "duration": 670,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking – redesigned from the ground up. Open acco»",
+          "firstSeenAtY": 10963
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeIn",
+          "duration": 670,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.motion-safe:translate-y-fadeIn.motion-safe:opacity-0 «Banking – redesigned from the ground up. Open acco»",
+          "firstSeenAtY": 10963
+        }
+      ]
+    }
+  }
+}

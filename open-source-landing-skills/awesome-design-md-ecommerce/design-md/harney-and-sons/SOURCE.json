@@ -1,0 +1,846 @@
+{
+  "source_url": "https://harney.com",
+  "final_url": "https://www.harney.com/",
+  "captured_at": "2026-09-28T09:45:39.026256+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://harney.com",
+      "final_url": "https://www.harney.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "final_url": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "178892b4706e1b961c7ae41dafe8918fbe5ba84bd71d042ac81b649811906e57",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866",
+      "final_url": "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "47e62c2ccb2776742ee169a387a11ec65e01c19cedb24f60e78cdb67315f63dd",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.harney.com/cdn/shop/t/390/assets/design-pack-styles.css?v=173712910775263944171782163755",
+      "final_url": "https://www.harney.com/cdn/shop/t/390/assets/design-pack-styles.css?v=173712910775263944171782163755",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5bf1161c7b9e5c8a2510cd7949b2ceb57641bbe4037573bd77a1dc55c94ce1b5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.harney.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.harney.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#c6a95a": {
+      "count": 113,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#111111": {
+      "count": 8,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#b0913d": {
+      "count": 6,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#fffcf5": {
+      "count": 5,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#8a722f": {
+      "count": 3,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#8fa53c": {
+      "count": 4,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#95340c": {
+      "count": 4,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#f8de7e": {
+      "count": 5,
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    },
+    "#d9dbdc": {
+      "count": 1,
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    },
+    "#2f7361": {
+      "count": 2,
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    }
+  },
+  "font_families": {
+    "Cardo": [
+      "https://www.harney.com/"
+    ],
+    "serif": [
+      "https://www.harney.com/"
+    ],
+    "sans-serif": [
+      "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 64px;\n      --vertical-breather-tight: 64px;\n\n      \n      --heading-xsmall-font-size: 12px;\n      --heading-small-font-size: 13px;\n      --heading-large-font-size: 52px;\n      --heading-h1-font-size: 48px;\n      --heading-h2-font-size: 38px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 24px;\n      --heading-h5-font-size: 20px;\n      --heading-h6-font-size: 18px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 80px;\n      --vertical-breather-tight: 64px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 64px;\n      --heading-h1-font-size: 56px;\n      --heading-h2-font-size: 48px;\n      --heading-h3-font-size: 36px;\n      --heading-h4-font-size: 30px;\n      --heading-h5-font-size: 24px;\n      --heading-h6-font-size: 18px;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 90px;\n      --vertical-breather-tight: 64px;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 0, 0, 0;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": "#shopify-section-sections--19377427644487__header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 0, 0, 0;\n    --header-border-color: 217, 217, 217;\n    --reduce-header-padding: 1;position: -webkit-sticky;\n      position: sticky;\n      top: 0;z-index: 4;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary",
+      "declarations": "color: #111111;                              border-color:#c6a95a;                              background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-secondary",
+      "declarations": "color: #000000;                              border-color:#c6a95a;                              background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                              border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                              border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary",
+      "declarations": "color: #111111;                              border-color:#c6a95a;                              background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-secondary",
+      "declarations": "color: #000000;                              border-color:#c6a95a;                              background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                              border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                              border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:hsla(0,0%,100%,.75);border:none;color:#333"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": "#DP--template--19377441144903__9b1b2dda-2299-4e85-b4b7-d87865a7d555 .flickity-button",
+      "declarations": "background: transparent;  color: #8a722f;  transition: all 0.3s ease-in-out;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-d1206ca3-2d49-44c3-8d75-6b9d7a9a7bcc .dsgn-pck__button-primary",
+      "declarations": "color: #111111;                        border-color:#c6a95a;                        background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-d1206ca3-2d49-44c3-8d75-6b9d7a9a7bcc .dsgn-pck__button-secondary",
+      "declarations": "color: #ffffff;                        border-color:#121212;                        background-color: #121212;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-d1206ca3-2d49-44c3-8d75-6b9d7a9a7bcc .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                        border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-d1206ca3-2d49-44c3-8d75-6b9d7a9a7bcc .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #000000;                        border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-c4a4a95b-4e5b-4e15-aea4-ae9df04b24cd .dsgn-pck__button-primary",
+      "declarations": "color: #111111;                      border-color:#c6a95a;                      background-color: #c6a95a;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-c4a4a95b-4e5b-4e15-aea4-ae9df04b24cd .dsgn-pck__button-secondary",
+      "declarations": "color: #ffffff;                      border-color:#121212;                      background-color: #121212;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-c4a4a95b-4e5b-4e15-aea4-ae9df04b24cd .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #b0913d;                      border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/",
+      "selector": ".dsgn-pck__block-id-c4a4a95b-4e5b-4e15-aea4-ae9df04b24cd .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #000000;                      border-color: transparent;;"
+    },
+    {
+      "source": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "selector": "button,input,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0;text-align:inherit"
+    },
+    {
+      "source": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "selector": ".heading,.blockquote,.rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.rte blockquote",
+      "declarations": "display:block;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);color:rgb(var(--heading-color));text-transform:var(--heading-text-transform)"
+    },
+    {
+      "source": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "selector": "p a:not(.button),.rte a:not(.button),.link",
+      "declarations": "text-decoration:underline;text-underline-offset:2px;-webkit-text-decoration-color:rgba(var(--text-color),.35);text-decoration-color:rgba(var(--text-color),.35);transition:color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "selector": "p a:not(.button):hover,.rte a:not(.button):hover,.link:hover",
+      "declarations": "color:rgb(var(--text-color));-webkit-text-decoration-color:rgb(var(--text-color));text-decoration-color:rgb(var(--text-color))"
+    },
+    {
+      "source": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+      "selector": ".prev-next-button",
+      "declarations": "display:flex;height:40px;width:40px;justify-content:center;align-items:center;background:rgb(var(--prev-next-button-background, var(--root-background)));color:rgb(var(--prev-next-button-color, var(--root-text-color)));border:1px solid rgba(var(--prev-next-button-color, var(--root-text-color)),.15);border-radius:var(--button-border-radius);transition:color .2s ease-in-out;pointer-events:auto;overflow:hidden"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Premium Loose Leaf Teas | Harney & Sons",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#c6a95a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#b0913d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#fffcf5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#8a722f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9dbdc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.accent-olive": {
+      "value": "#8fa53c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#2f7361",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value": "#95340c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.accent-gold-light": {
+      "value": "#f8de7e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Cardo, serif",
+        "fontSize": "56px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Cardo, serif",
+        "fontSize": "38px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Cardo, serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.75px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "headingTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.accent-gold-light}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-terracotta}",
+        "textColor": "{colors.surface-card}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.tea-type-filter-pill": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "activeBackgroundColor": "{colors.primary}",
+        "textColor": "{colors.body}",
+        "activeTextColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--payment-terms-background-color",
+        "declaration": "#ffffff",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#00000000": {
+        "selector": "#DP--template--19377441144903__293af972-e897-4ca5-9eae-c6b0db4c1d4e .dsgn-pck__image__wrapper",
+        "property": "border",
+        "declaration": "4px solid transparent",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#c6a95a": {
+        "selector": "#DP--template--14560245121095__293af972-e897-4ca5-9eae-c6b0db4c1d4e-1687370486bc84cf02-3 .dsgn-pck__image__wrapper",
+        "property": "box-shadow",
+        "declaration": "0 0 0 2px #c6a95a",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#000000": {
+        "selector": "#DP--template--19377441144903__0afe2208-5742-4112-8b57-6f25bc1436a0 .dsgn-pck__inner-content",
+        "property": "background",
+        "declaration": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 1), rgba(0, 0, 0, 1) 100%)",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#111111": {
+        "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary",
+        "property": "color",
+        "declaration": "#111111",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#b0913d": {
+        "selector": ".dsgn-pck__block-id-buttons_GzAMrH .dsgn-pck__button-primary:hover",
+        "property": "background-color",
+        "declaration": "#b0913d",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#fffcf5": {
+        "selector": "#DP--template--19377441144903__a2fabafa-4f14-4432-a941-f45320f302f0",
+        "property": "background",
+        "declaration": "#FFFCF5",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#333333": {
+        "selector": ".flickity-button",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#8a722f": {
+        "selector": "#DP--template--19377441144903__9b1b2dda-2299-4e85-b4b7-d87865a7d555 .dsgn-pck__text p",
+        "property": "color",
+        "declaration": "#8a722f",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#f5f5f5": {
+        "selector": "#DP--template--14560245121095__bcaddf3a-9087-4ebc-8d8a-5a87c9ac0e81-16867743647ccda857-0 .dsgn-pck__image__wrapper",
+        "property": "box-shadow",
+        "declaration": "0 0 0 2px #f5f5f5",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#8fa53c": {
+        "selector": "#DP--template--14560245121095__bcaddf3a-9087-4ebc-8d8a-5a87c9ac0e81-16867743647ccda857-2 .dsgn-pck__image__wrapper",
+        "property": "box-shadow",
+        "declaration": "0 0 0 2px #8fa53c",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#95340c": {
+        "selector": "#DP--33df6d24-0609-420a-afd0-7eb77b4494f9 .dsgn-pck__image__wrapper",
+        "property": "box-shadow",
+        "declaration": "0 0 0 2px #95340c",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#f8de7e": {
+        "selector": "#DP--4468129e-7e5b-48c7-a3c7-32258e596d95 .dsgn-pck__image__wrapper",
+        "property": "box-shadow",
+        "declaration": "0 0 0 2px #f8de7e",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "#cccccc": {
+        "selector": ".mega-menu__column:nth-child(1) li a:before,#mobile-menu-1-1 .mobile-nav__link:before",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "47e62c2ccb2776742ee169a387a11ec65e01c19cedb24f60e78cdb67315f63dd"
+      },
+      "#d9dbdc": {
+        "selector": ".add-to-cart-button-wrapper .action_button",
+        "property": "border",
+        "declaration": "1px solid #d9dbdc",
+        "url": "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "47e62c2ccb2776742ee169a387a11ec65e01c19cedb24f60e78cdb67315f63dd"
+      },
+      "#2f7361": {
+        "selector": ".teatype",
+        "property": "background-color",
+        "declaration": "#2f7361",
+        "url": "https://www.harney.com/cdn/shop/t/390/assets/custom.css?v=112921260860374289011790199866",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "47e62c2ccb2776742ee169a387a11ec65e01c19cedb24f60e78cdb67315f63dd"
+      }
+    },
+    "font_families": {
+      "Cardo": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Cardo",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Cardo, serif",
+        "url": "https://www.harney.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9f30d3eb91f64371755475f2012dd610e26b599fdd81dc34a58a14d58b9b5dc5"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://www.harney.com/cdn/shop/t/390/assets/theme.css?v=15475549232296024131790128990",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "178892b4706e1b961c7ae41dafe8918fbe5ba84bd71d042ac81b649811906e57"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,809 @@
+{
+  "source_url": "https://sakara.com",
+  "final_url": "https://www.sakara.com/",
+  "captured_at": "2026-09-29T04:00:50.287849+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sakara.com",
+      "final_url": "https://www.sakara.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+      "final_url": "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "4a74219d0c48afd85df5feb6bf0524fd9d893e44f671ccd0bab66d55aa8c6736",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "final_url": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "efc143db2f2e8de13d42947012dc8d7b8d6846bc0fe6efe379b6732232413ffe",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+      "final_url": "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b854b1d743066e0416da86070783c7a5fd297d49a964585e808ef275899295fa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+      "final_url": "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2607eb0974ffad3db9da906b697fb3b77af41888e476087b6a4452d021801824",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Header.UQTyjqVb.css",
+      "final_url": "https://www.sakara.com/_astro/Header.UQTyjqVb.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "af4d1371b2883945b372537340e97fb593a6efd94f2f6e5c6117eff04bd00552",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#d9d9d9": {
+      "count": 72,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#ff6341": {
+      "count": 22,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#747474": {
+      "count": 3,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 85,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#fafaf8": {
+      "count": 10,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#000000": {
+      "count": 89,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#f5f5f1": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#ebebe4": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#00873b": {
+      "count": 6,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#5bab5d": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 16,
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Gestura Headline": [
+      "https://www.sakara.com/"
+    ],
+    "serif": [
+      "https://www.sakara.com/"
+    ],
+    "sans-serif": [
+      "https://www.sakara.com/"
+    ],
+    "Gestura Text": [
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sakara.com/",
+      "selector": "._AdditionalInfoDialog_header_j1GyD_22",
+      "declarations": "font-family:Gestura Headline,serif;font-size:1.75rem;line-height:1"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": "._AdditionalInfoDialog_body_j1GyD_28 a",
+      "declarations": "text-underline-offset:4px;text-decoration:underline 1px;text-decoration-color:var(--theme-text-color)"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ":root",
+      "declarations": "--mobile-slide-width:140px;--desktop-slide-width:180px"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".product-card .product-card__image-wrapper",
+      "declarations": "aspect-ratio:3/4;background-color:var(--background-color,#f7f7f7)"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".product-card .product-card__compare-price",
+      "declarations": "color:#747474;text-decoration:line-through"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".contact-form-header",
+      "declarations": "background-color:#fff;width:100%;height:50px;position:absolute;top:0"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".section-rich-text-button-group",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".bundle-up-sell .add-to-cart-button",
+      "declarations": "z-index:1;color:#000;background-color:#fff;border:1px solid #000;padding:12px 16px;position:absolute;bottom:16px;right:16px"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary:hover",
+      "declarations": "color:#000;background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary:hover .buying-panel__action-button-icon",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary",
+      "declarations": "color:#000;background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary .buying-panel__action-button-icon",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary:hover",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary:hover .buying-panel__action-button-icon",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".video-play-button.button--primaryLime",
+      "declarations": "opacity:1;background-color:#5bab5d"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".video-play-button:hover.button--primaryLime:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".section-rich-text-button-group",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__active:before",
+      "declarations": "--underline-height:1px;content:\"\";height:var(--underline-height);width:calc(100% - 24px);bottom:calc(-1 * var(--underline-height));transform-origin:0;background-color:#000;transition:transform .2s cubic-bezier(.4,0,.2,1);display:inline-block;position:absolute;left:12px;transform:scaleX(1)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__active:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__icon",
+      "declarations": "--cart-icon-height:27px;height:var(--cart-icon-height)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__count",
+      "declarations": "--count-offset:3px;transform:translate(-50%, calc(-50% + var(--count-offset)));color:#00873b;position:absolute;top:50%;left:50%"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__count__active",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": "._Header_container_lYfmt_1",
+      "declarations": "z-index:50;background-color:#fff;border-bottom:1px solid #d9d9d9;transition:transform .3s cubic-bezier(.4,0,.2,1);position:fixed;top:0;left:0;right:0"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".section-rich-text-button-group:where(.astro-rhyj4cvw)",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".video-play-button.button--primaryLime",
+      "declarations": "opacity:1;background-color:#5bab5d"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".video-play-button:hover.button--primaryLime:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".c-kustomer-form__button",
+      "declarations": "color:#fff;z-index:40;background:#000;border-radius:53px;justify-content:center;align-items:center;width:102px;height:38px;transition:transform .5s;display:flex;position:fixed;bottom:48px;right:16px;transform:translateY(100%)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".c-kustomer-form__header",
+      "declarations": "box-sizing:border-box;background-color:#000;flex-direction:row;justify-content:space-between;width:100%;padding:11px 18px;display:flex"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".accordion__body:where(.astro-uxuu6muc) a:where(.astro-uxuu6muc)",
+      "declarations": "text-underline-offset:4px;text-decoration:underline 1px;text-decoration-color:var(--theme-text-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sakara Life | Plant-Based Nutrition Programs & Supplements",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#747474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9d9d9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafaf8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value": "#5bab5d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value": "#ff6341",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.accent-forest": {
+      "value": "#00873b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f5f5f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "colors.border-soft": {
+      "value": "#ebebe4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Gestura Headline, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Gestura Headline, serif",
+        "fontSize": "28px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Gestura Text, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Gestura Text, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Gestura Text, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Gestura Text, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Gestura Text, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.on-primary}",
+          "textColor": "{colors.primary}",
+          "border": "1px solid {colors.primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.primary}",
+          "textColor": "{colors.on-primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "focus": {
+          "border": "1px solid {colors.ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "imageAspectRatio": "3/4",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm}",
+        "priceTypography": "{typography.body-md}",
+        "comparePriceColor": "{colors.muted}",
+        "titleTypography": "{typography.title-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderTop": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-coral}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.buying-panel": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "primaryAction": {
+          "backgroundColor": "{colors.primary}",
+          "textColor": "{colors.on-primary}",
+          "hoverBackgroundColor": "{colors.on-primary}",
+          "hoverTextColor": "{colors.primary}"
+        },
+        "secondaryAction": {
+          "backgroundColor": "{colors.on-primary}",
+          "textColor": "{colors.primary}",
+          "hoverBackgroundColor": "{colors.primary}",
+          "hoverTextColor": "{colors.on-primary}"
+        },
+        "typography": "{typography.button-md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#d9d9d9": {
+        "selector": ".buying-panel-waitlist-dialog__input",
+        "property": "border",
+        "declaration": "1px solid #d9d9d9",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#ff6341": {
+        "selector": ".buying-panel-waitlist-dialog--error .buying-panel-waitlist-dialog__input::-moz-placeholder",
+        "property": "color",
+        "declaration": "#ff6341",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#747474": {
+        "selector": ".product-card .product-card__compare-price",
+        "property": "color",
+        "declaration": "#747474",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#ffffff": {
+        "selector": ".contact-form-header",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#fafaf8": {
+        "selector": ".selectable-option",
+        "property": "background-color",
+        "declaration": "#fafaf8",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#000000": {
+        "selector": ".selectable-option--selected .selectable-option__selected-indicator",
+        "property": "outline-color",
+        "declaration": "#000",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#f5f5f1": {
+        "selector": "._AccountLinksMenu_bar_TfkJG_5",
+        "property": "background-color",
+        "declaration": "#f5f5f1",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#ebebe4": {
+        "selector": "._AccountLinksMenu_bar_TfkJG_5",
+        "property": "border",
+        "declaration": "1px solid #ebebe4",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#00873b": {
+        "selector": "._AccountBar_loggedOutLink_h3IUM_38,._AccountBar_greeting_h3IUM_42",
+        "property": "color",
+        "declaration": "#00873b",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#5bab5d": {
+        "selector": ".video-play-button.button--primaryLime",
+        "property": "background-color",
+        "declaration": "#5bab5d",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "#f7f7f7": {
+        "selector": "inline-style",
+        "property": "--background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      }
+    },
+    "font_families": {
+      "Gestura Headline": {
+        "selector": "._AdditionalInfoDialog_header_j1GyD_22",
+        "property": "font-family",
+        "declaration": "Gestura Headline,serif",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "serif": {
+        "selector": "._AdditionalInfoDialog_header_j1GyD_22",
+        "property": "font-family",
+        "declaration": "Gestura Headline,serif",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "sans-serif": {
+        "selector": ".rating-stars-container .average-score",
+        "property": "font-family",
+        "declaration": "Rework Text,sans-serif",
+        "url": "https://www.sakara.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11"
+      },
+      "Gestura Text": {
+        "selector": ".section-careers .resumator-job-info,.section-careers .resumator-job-info-details",
+        "property": "font-family",
+        "declaration": "Gestura Text,serif",
+        "url": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "efc143db2f2e8de13d42947012dc8d7b8d6846bc0fe6efe379b6732232413ffe"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

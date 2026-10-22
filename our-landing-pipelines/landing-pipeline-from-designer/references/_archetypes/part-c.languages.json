@@ -1,0 +1,183 @@
+[
+  {
+    "ref": "flite",
+    "mood": [
+      "премиальный",
+      "спокойный",
+      "предметный"
+    ],
+    "palette_family": "monochrome",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "photo-objects",
+      "video",
+      "3d"
+    ],
+    "density": "medium",
+    "motion_signature": "пословное появление H1 с резким in-out, зацикленное видео, sticky-карточка покупки",
+    "fits": [
+      "consumer",
+      "devtools",
+      "B2B-saas"
+    ],
+    "avoid": "светло-серый + один синий акцент, студийные рендеры на сером с радиусом 24 px, сетка логотипов СМИ"
+  },
+  {
+    "ref": "alethia",
+    "mood": [
+      "кинематографичный",
+      "научный",
+      "тёмный"
+    ],
+    "palette_family": "earth",
+    "type_class": "mono-accent",
+    "imagery_modes": [
+      "3d",
+      "photo-objects",
+      "illustration"
+    ],
+    "density": "medium",
+    "motion_signature": "закреплённая сцена-пролёт с scrub, смена сцен через размытие фокуса, левитирующие объекты",
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "devtools"
+    ],
+    "avoid": "парящие камни со мхом, тёмно-зелёный + салатовый + индиго, моно-капс на плашке, огромный вордмарк салатовым"
+  },
+  {
+    "ref": "ggaide",
+    "mood": [
+      "дерзкий",
+      "игривый",
+      "плакатный"
+    ],
+    "palette_family": "saturated-primary",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "3d",
+      "type-only"
+    ],
+    "density": "high",
+    "motion_signature": "scramble букв в заголовках, кастомный курсор, плавающая нижняя навигация",
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "avoid": "сплошной цветной фон + гигантский капс + один 3D-геймпад с глазами, нижняя пилюля с чёрной кнопкой"
+  },
+  {
+    "ref": "cntrl",
+    "mood": [
+      "игривый",
+      "дизайнерский",
+      "самоироничный"
+    ],
+    "palette_family": "acid-contrast",
+    "type_class": "display-expressive",
+    "imagery_modes": [
+      "video",
+      "illustration",
+      "type-only"
+    ],
+    "density": "medium",
+    "motion_signature": "зацикленные видео-демо во всех плашках, бегущий текст по кривой, hover-прокат текста кнопок",
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer"
+    ],
+    "avoid": "антиква + гротеск в одной строке с ©, плашки бирюза/оранж/лаванда, текст по синусоиде, жёлтые иконки"
+  },
+  {
+    "ref": "streamtime",
+    "mood": [
+      "тёплый",
+      "человечный",
+      "журнальный"
+    ],
+    "palette_family": "pastel",
+    "type_class": "display-expressive",
+    "imagery_modes": [
+      "collage",
+      "photo-people",
+      "ui-code"
+    ],
+    "density": "medium",
+    "motion_signature": "вордмарк-коллаж превращается в чистый при скролле, параллакс бумажных фигур, жёлтая рукописная волна над вкладкой",
+    "fits": [
+      "B2B-saas",
+      "service",
+      "consumer"
+    ],
+    "avoid": "коричнево-бежевый + неоновый розовый + жёлтый, ультражирный вордмарк на всю ширину, бумажные фигуры, наклонные карточки отзывов"
+  },
+  {
+    "ref": "mainstays",
+    "mood": [
+      "тёплый",
+      "праздничный",
+      "ретро"
+    ],
+    "palette_family": "warm-neutral",
+    "type_class": "serif-editorial",
+    "imagery_modes": [
+      "photo-objects",
+      "illustration"
+    ],
+    "density": "medium",
+    "motion_signature": "курсор-рука, рисованные линейные иллюстрации, волны-разделители, интерактивные обои в финале",
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "avoid": "красно-кремовая связка, однолинейные красные руки, ретро-сериф, волнистые края секций, круглые фото с подписью по дуге"
+  },
+  {
+    "ref": "trevornoah",
+    "mood": [
+      "дерзкий",
+      "юмористический",
+      "коллажный"
+    ],
+    "palette_family": "saturated-primary",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "collage",
+      "3d",
+      "photo-people"
+    ],
+    "density": "medium",
+    "motion_signature": "peel-эффект отклеивания стикера, пружинные появления с overshoot, глаза за курсором, рваные разделители между главами",
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "avoid": "лицо-стикер с белой обводкой, «открытая голова» с вылетающими предметами, сине-розовая палитра, рваная бумага"
+  },
+  {
+    "ref": "holdi-focus",
+    "mood": [
+      "чистый",
+      "оптический",
+      "документальный"
+    ],
+    "palette_family": "graphite-teal",
+    "type_class": "grotesk-geometric",
+    "imagery_modes": [
+      "photo-people",
+      "ui-code"
+    ],
+    "density": "low",
+    "motion_signature": "перевод фокуса (blur ↔ резкость) и масштаб, без пружин и вращений",
+    "fits": [
+      "B2B-saas",
+      "service",
+      "devtools"
+    ],
+    "avoid": "метафора камерной оптики, коралловые уголки «фокус пойман», Onest 800 с трекингом −0,045 em, сцена мастерской"
+  }
+]

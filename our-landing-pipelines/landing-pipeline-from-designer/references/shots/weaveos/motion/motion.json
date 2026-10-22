@@ -1,0 +1,634 @@
+{
+  "url": "https://weaveos.com/",
+  "date": "2026-10-06T10:13:09.908Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 2,
+        "scrollHeight": 8876
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "418px",
+          "height": 466,
+          "parentHeight": 0,
+          "el": "div#3b7a6ed8-a242-4f90-9b6e-6e375b5038a2.osano-cm-window__dialog.osano-cm-dialog «This website utilizes technologies such as cookies»"
+        },
+        {
+          "position": "fixed",
+          "top": "848px",
+          "height": 40,
+          "parentHeight": 0,
+          "el": "button#c1f1dae0-b442-4d81-acaf-90e0f5d4248b.osano-cm-window__widget.osano-cm-widget «Cookie Preferences»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 0,
+          "el": "div#0f0698e4-8916-4f88-8d76-c01458adfa7b.osano-cm-window__info-dialog.osano-cm-info-dialog"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 900,
+          "el": "div.osano-cm-info-dialog__info.osano-cm-info"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 52,
+          "parentHeight": 900,
+          "el": "div.osano-cm-info__info-dialog-header.osano-cm-info-dialog-header"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 32,
+          "parentHeight": 52,
+          "el": "p#0f0698e4-8916-4f88-8d76-c01458adfa7b__label.osano-cm-info-dialog-header__header.osano-cm-header"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 90,
+          "parentHeight": 8876,
+          "el": "header.pointer-events-none.sticky «Platform Enterprise Customers Pricing Resources Co»"
+        },
+        {
+          "position": "sticky",
+          "top": "70px",
+          "height": 935,
+          "parentHeight": 1961,
+          "el": "div.w-full.lg:sticky «Coding Agent Router Match every prompt to the righ»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y386.png",
+          "y": 386,
+          "moving": true
+        },
+        {
+          "frame": "002-y876.png",
+          "y": 876,
+          "moving": true
+        },
+        {
+          "frame": "003-y1321.png",
+          "y": 1321,
+          "moving": true
+        },
+        {
+          "frame": "004-y1779.png",
+          "y": 1779,
+          "moving": true
+        },
+        {
+          "frame": "005-y2215.png",
+          "y": 2215,
+          "moving": false
+        },
+        {
+          "frame": "006-y2664.png",
+          "y": 2664,
+          "moving": false
+        },
+        {
+          "frame": "007-y3125.png",
+          "y": 3125,
+          "moving": true
+        },
+        {
+          "frame": "008-y3575.png",
+          "y": 3575,
+          "moving": true
+        },
+        {
+          "frame": "009-y4022.png",
+          "y": 4022,
+          "moving": true
+        },
+        {
+          "frame": "010-y4482.png",
+          "y": 4482,
+          "moving": true
+        },
+        {
+          "frame": "011-y4935.png",
+          "y": 4935,
+          "moving": true
+        },
+        {
+          "frame": "012-y5356.png",
+          "y": 5356,
+          "moving": true
+        },
+        {
+          "frame": "013-y5842.png",
+          "y": 5842,
+          "moving": true
+        },
+        {
+          "frame": "014-y6298.png",
+          "y": 6298,
+          "moving": true
+        },
+        {
+          "frame": "015-y6737.png",
+          "y": 6737,
+          "moving": false
+        },
+        {
+          "frame": "016-y7180.png",
+          "y": 7180,
+          "moving": true
+        },
+        {
+          "frame": "017-y7626.png",
+          "y": 7626,
+          "moving": false
+        },
+        {
+          "frame": "018-y7968.png",
+          "y": 7968,
+          "moving": false
+        },
+        {
+          "frame": "019-y7976.png",
+          "y": 7976,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "wooly-center-in",
+          "duration": 1000,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.wooly-center-anim",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logo-marquee",
+          "duration": 26000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.logo-marquee-module__-pjkVq__row.flex",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "wooly-ticker",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-max",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-top",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "nav.site-nav-module__Ef8qEG__shell.pointer-events-none «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-left-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-right-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-left-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-right-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Platform Enterprise Customers Pricing Resources Co»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "grid-template-rows",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.overflow-hidden «New: Weave Research»",
+          "firstSeenAtY": 386
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 280,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.overflow-hidden «New: Weave Research»",
+          "firstSeenAtY": 386
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 1,
+        "scrollHeight": 9718
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "362px",
+          "height": 466,
+          "parentHeight": 0,
+          "el": "div#d5d5bd01-97f3-4f18-9e3b-da8cf4138aae.osano-cm-window__dialog.osano-cm-dialog «This website utilizes technologies such as cookies»"
+        },
+        {
+          "position": "fixed",
+          "top": "792px",
+          "height": 40,
+          "parentHeight": 0,
+          "el": "button#1aa3bc8b-2ae7-4c95-ae69-8af87242620e.osano-cm-window__widget.osano-cm-widget «Cookie Preferences»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 0,
+          "el": "div#128fc2c5-f1c3-4711-97f8-836a94cbccb8.osano-cm-window__info-dialog.osano-cm-info-dialog"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 844,
+          "el": "div.osano-cm-info-dialog__info.osano-cm-info"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 52,
+          "parentHeight": 844,
+          "el": "div.osano-cm-info__info-dialog-header.osano-cm-info-dialog-header"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 32,
+          "parentHeight": 52,
+          "el": "p#128fc2c5-f1c3-4711-97f8-836a94cbccb8__label.osano-cm-info-dialog-header__header.osano-cm-header"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 90,
+          "parentHeight": 9718,
+          "el": "header.pointer-events-none.sticky «Get Started New: Weave Research»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": false
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": false
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": false
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": true
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": true
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": false
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": true
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": false
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": false
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": true
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "021-y8862.png",
+          "y": 8862,
+          "moving": false
+        },
+        {
+          "frame": "022-y8874.png",
+          "y": 8874,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "logo-marquee",
+          "duration": 26000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.logo-marquee-module__-pjkVq__row.flex",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "wooly-ticker",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-max",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 700,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div#d5d5bd01-97f3-4f18-9e3b-da8cf4138aae.osano-cm-window__dialog.osano-cm-dialog «This website utilizes technologies such as cookies»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "wooly-center-in",
+          "duration": 1000,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.wooly-center-anim",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "max-width",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "nav.site-nav-module__Ef8qEG__shell.pointer-events-none «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-left",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "nav.site-nav-module__Ef8qEG__shell.pointer-events-none «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-right",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "nav.site-nav-module__Ef8qEG__shell.pointer-events-none «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-top",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "nav.site-nav-module__Ef8qEG__shell.pointer-events-none «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-left-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-right-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-left-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-right-radius",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.pointer-events-auto.relative «Get Started New: Weave Research»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "grid-template-rows",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.overflow-hidden «New: Weave Research»",
+          "firstSeenAtY": 422
+        }
+      ]
+    }
+  }
+}

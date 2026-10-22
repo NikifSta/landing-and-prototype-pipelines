@@ -1,0 +1,833 @@
+{
+  "source_url": "https://turtlewax.com",
+  "final_url": "https://www.turtlewax.com/",
+  "captured_at": "2026-09-29T04:12:56.431791+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://turtlewax.com",
+      "final_url": "https://www.turtlewax.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b7b6be7160969e00f58983107622635890f44ba45c28ee90d1a9c2011d24d99d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "final_url": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7c15bedb02ba12fa5b29ac905fe510c919a9863753ec96cef1c9b302f8d87d87",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.turtlewax.com/cdn/shop/t/128/assets/component-cart-items.css?v=101195836058486887051769617775",
+      "final_url": "https://www.turtlewax.com/cdn/shop/t/128/assets/component-cart-items.css?v=101195836058486887051769617775",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3f2a955946d970f3f5581a7109bb845000ec72727f3488e03c7a4af40afb1f80",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.turtlewax.com/cdn/shop/t/128/assets/component-predictive-search.css?v=53752865977538451811769617776",
+      "final_url": "https://www.turtlewax.com/cdn/shop/t/128/assets/component-predictive-search.css?v=53752865977538451811769617776",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7367a7481dbefd254e97c4c760e5a48f59d7bb36af4066b660bf5cc02977f12",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#00953a": {
+      "count": 8,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#168246": {
+      "count": 12,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#16a34a": {
+      "count": 1,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 1,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Libre Franklin": [
+      "https://www.turtlewax.com/"
+    ],
+    "TradeGothicLTStd": [
+      "https://www.turtlewax.com/"
+    ],
+    "Arial": [
+      "https://www.turtlewax.com/"
+    ],
+    "sans-serif": [
+      "https://www.turtlewax.com/"
+    ],
+    "TradeGothicLTStd-Bold": [
+      "https://www.turtlewax.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ":root,\n      .color-scheme-1",
+      "declarations": "--color-background: 0,0,0;\n      \n        --gradient-background: rgba(0,0,0,0);\n      \n\n      \n\n      --color-foreground: 0,0,0;\n      --color-background-contrast: 128,128,128;\n      --color-shadow: 18,18,18;\n      --color-button: 22,130,70;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-text: 18,18,18;\n      --color-link: 18,18,18;\n      --color-badge-foreground: 0,0,0;\n      --color-badge-background: 0,0,0;\n      --color-badge-border: 0,0,0;\n      --payment-terms-background-color: rgb(0 0 0);\n      --color-link-green:#00953A;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n    background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n    grid-template-rows: auto auto 1fr auto;\n    grid-template-columns: 100%;\n    min-height: 100%;\n    margin: 0;\n    font-size: 1.5rem;\n    letter-spacing: 0rem;\n    line-height: 150%;\n\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": "#Banner-template--26639039791468__image_banner_mdfLbw h1,\n    #Banner-template--26639039791468__image_banner_mdfLbw .h1",
+      "declarations": "font-size: 55px;\n    color: #000000;\n    line-height: 110%;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": "#Banner-template--26639039791468__image_banner_mdfLbw h1 span,\n    #Banner-template--26639039791468__image_banner_mdfLbw .h1 span",
+      "declarations": "color: #168246;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": "#Banner-template--26639039791468__image_banner_mdfLbw .h1 span,\n    #Banner-template--26639039791468__image_banner_mdfLbw h2 span,\n    #Banner-template--2663903",
+      "declarations": "color: #168246;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".carousel .content .button",
+      "declarations": "background-color: #fff;\n            color: #000;\n            border-radius: 100px;\n            text-transform: uppercase;\n            font-size: 16px;\n            font-weight: 700;\n            padding: 16px 20px;\n            display: inline-block;\n            text-decoration: none;\n            padding-bottom: 0px !important;\n            margin: 0 auto;\n            max-height: 50px;\n            overflow: hidden;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".slide-button",
+      "declarations": "position: relative;\n            padding: 10px 15px;\n            background-color: transparent;\n            border: 1px solid #fff;\n            border-radius: 100px;\n            cursor: pointer;\n            font-size: 16px;\n            color: #fff;\n            overflow: hidden;\n            text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".slide-button.active",
+      "declarations": "background-color: #fff;\n            color: #000;\n            font-weight: 700;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".slide-button::before",
+      "declarations": "content: '';\n            position: absolute;\n            top: 0;\n            left: 0;\n            height: 100%;\n            background-color: rgba(0, 0, 0, 0.3);\n            width: 0%;\n            z-index: 0;\n            transition: width 0s;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".pause-button",
+      "declarations": "position: absolute;\n            bottom: 20%;\n            left: 10%;\n            transform: translateX(-50%);\n            background-color: rgba(0, 0, 0, 0.6);\n            color: #fff;\n            border: none;\n            border-radius: 50%;\n            width: 50px;\n            height: 50px;\n            font-size: 0;\n            cursor: pointer;\n            display: grid;\n            place-items: center;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".pause-button:hover",
+      "declarations": "background-color: rgba(0, 0, 0, 0.8);"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".mobile-button-wrapper .button",
+      "declarations": "display: inline-flex;\n                background: #000;\n                color: #fff;\n                padding: 1.4rem 2.4rem;\n                border-radius: 24px;\n                text-transform: uppercase;\n                font-weight: 700;\n                text-decoration: none;\n                padding-top: 0.5rem;\n                padding-bottom: 0;"
+    },
+    {
+      "source": "https://www.turtlewax.com/",
+      "selector": ".instagram-wrapper .linkbutton",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    height: 50px;\n    padding: 12px 24px;\n    border-radius: 100px;\n    background: var(--black, #000);\n    color: #fff;\n    font-weight: 600;\n    text-decoration: none;\n    line-height: 1;\n    transition: background 0.3s ease;\n    font-size: 16px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: normal;"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:0rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:700;letter-spacing:0rem;color:rgb(var(--color-foreground));line-height:100%;word-break:break-word;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative;font-weight:700"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.6rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background));text-transform:uppercase;font-weight:700"
+    },
+    {
+      "source": "https://www.turtlewax.com/cdn/shop/t/128/assets/base.css?v=39300671734327800501769766937",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Car Care Products & Detailing Supplies | Turtle Wax\n | Turtle Wax US Store",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#168246",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#9d9d9d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.link-green": {
+      "value": "#00953a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.success-green": {
+      "value": "#16a34a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.ink-soft": {
+      "value": "#242833",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-indigo": {
+      "value": "#334fb4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.turtlewax.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "TradeGothicLTStd-Bold, Arial, sans-serif",
+        "fontSize": "55px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "TradeGothicLTStd-Bold, Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "TradeGothicLTStd, Libre Franklin, Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Libre Franklin, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Libre Franklin, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Libre Franklin, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Libre Franklin, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "titleTypography": "{typography.display-xl}",
+        "accentColor": "{colors.primary}",
+        "ctaRounded": "{rounded.full}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.ink-soft}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.link-green}",
+        "textColor": "{colors.on-primary}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.kit-promo-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "badgeBackgroundColor": "{colors.link-green}",
+        "badgeTextColor": "{colors.on-primary}",
+        "priceStrikeColor": "{colors.muted}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root,\n      .color-scheme-1",
+        "property": "--payment-terms-background-color",
+        "declaration": "rgb(0 0 0)",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#00953a": {
+        "selector": ":root,\n      .color-scheme-1",
+        "property": "--color-link-green",
+        "declaration": "#00953A",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#ffffff": {
+        "selector": ".color-scheme-2",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#242833": {
+        "selector": ".color-scheme-3",
+        "property": "--gradient-background",
+        "declaration": "#242833",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#334fb4": {
+        "selector": ".color-scheme-5",
+        "property": "--gradient-background",
+        "declaration": "#334fb4",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#168246": {
+        "selector": ".green",
+        "property": "background-color",
+        "declaration": "#168246",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#16a34a": {
+        "selector": ".article-list > .article-item.active::before",
+        "property": "color",
+        "declaration": "#16a34a",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#333333": {
+        "selector": ".article-title",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#9d9d9d": {
+        "selector": ".footer-block:not(.footer-address)",
+        "property": "border-left",
+        "declaration": "1px solid #9D9D9D",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#f5f5f5": {
+        "selector": ".footer-bottom-wrapper",
+        "property": "background-color",
+        "declaration": "#F5F5F5",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.turtlewax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Libre Franklin": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Libre Franklin\"",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "TradeGothicLTStd": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "TradeGothicLTStd, Arial, Helvetica, sans-serif",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "Arial": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "TradeGothicLTStd, Arial, Helvetica, sans-serif",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "TradeGothicLTStd, Arial, Helvetica, sans-serif",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      },
+      "TradeGothicLTStd-Bold": {
+        "selector": ":root",
+        "property": "--font-heading-family",
+        "declaration": "TradeGothicLTStd-Bold, Arial, Helvetica, sans-serif",
+        "url": "https://www.turtlewax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b8419bb322ee922ac58e2895910fc9827e705be3fd43256b9f72b03ea3cacbd2"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

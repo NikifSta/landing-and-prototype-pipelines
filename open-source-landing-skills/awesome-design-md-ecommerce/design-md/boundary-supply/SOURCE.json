@@ -1,0 +1,799 @@
+{
+  "source_url": "https://boundarysupply.com",
+  "final_url": "https://www.boundarysupply.com/",
+  "captured_at": "2026-09-29T04:14:00.801091+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://boundarysupply.com",
+      "final_url": "https://www.boundarysupply.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "final_url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b4b5c1ad522a3263d93c8c7fd206ab74300276ba7363599c0b32264389e32d89",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.boundarysupply.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.boundarysupply.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.boundarysupply.com/cdn/shop/t/144/compiled_assets/styles.css?v=171491837677413400151772506989",
+      "final_url": "https://www.boundarysupply.com/cdn/shop/t/144/compiled_assets/styles.css?v=171491837677413400151772506989",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cad47001c0d6f4d0ece12a080cb3836bb7783284990bc9b92493ea1262bf8261",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/overflow-list.css?v=168694168152117541881767175794",
+      "final_url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/overflow-list.css?v=168694168152117541881767175794",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "32499c71f36b7a81edf4cfbde853b5fbd016a70d80b73c38fdeef4c19caff4b9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 134,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#000000": {
+      "count": 205,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#fdc656": {
+      "count": 10,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 12,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 20,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#acacac": {
+      "count": 6,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#121212": {
+      "count": 42,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#434343": {
+      "count": 2,
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482"
+      ]
+    }
+  },
+  "font_families": {
+    "Univers LT Pro": [
+      "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482"
+    ],
+    "Univers LT Pro Condensed": [
+      "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XwQNMj",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    max-width: fit-content;\n    gap: 10px;\n    width: 100%;\n    margin: 0;\n    margin-top: 20px;\n    font-size: 16px;\n    color: #000000;\n    line-height: 100%;\n    text-align: center;\n    text-transform: unset;\n    text-decoration: none;\n    padding: 16px 32px;\n    border-radius: 100px;\n    transition: all 0.25s ease 0s;\n    background-color: transparent;\n    border: 0px;\n    cursor: pointer;\n    font-weight: 700;\n    min-width: max-content;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XwQNMj:hover",
+      "declarations": "color: #fdc656;\n    transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XwQNMj svg",
+      "declarations": "width: 14px;\n    height: 14px;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XwQNMj",
+      "declarations": "background-color: #fdc656;\n      border: 1px solid #121212;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XwQNMj:hover",
+      "declarations": "background-color: #121212;\n      border: 1px solid #121212;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".collection-button-template--16053568503866__ss_collection_14_qdy6AW",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    max-width: fit-content;\n    gap: 10px;\n    width: 100%;\n    margin: 0;\n    margin-top: 16px;\n    font-size: 14px;\n    color: #ffffff;\n    line-height: 100%;\n    text-align: center;\n    text-transform: unset;\n    text-decoration: none;\n    padding: 12px 24px;\n    border-radius: 100px;\n    transition: all 0.25s ease 0s;\n    background-color: transparent;\n    border: 0px;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".collection-button-template--16053568503866__ss_collection_14_qdy6AW:hover",
+      "declarations": "color: #121212;\n    transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".collection-button-template--16053568503866__ss_collection_14_qdy6AW",
+      "declarations": "background-color: rgba(0,0,0,0);\n      border: 1px solid #ffffff;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".collection-button-template--16053568503866__ss_collection_14_qdy6AW:hover",
+      "declarations": "background-color: #fdc656;\n      border: 1px solid #ffffff;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".text-block-button-template--16053568503866__ss_text_block_2_eGehiY",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    width: 100%;\n    max-width: fit-content;\n    margin: 0;\n    margin-top: 40px;\n    font-size: 18px;\n    color: #000000;\n    line-height: 100%;\n    text-align: center;\n    text-transform: unset;\n    text-decoration: none;\n    padding: 12px 32px;\n    border-radius: 0px;\n    transition: all 0.25s ease 0s;\n    position: relative;\n    font-weight: 700;\n    z-index: 2;\n    box-sizing: border-box;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".text-block-button-template--16053568503866__ss_text_block_2_eGehiY:hover",
+      "declarations": "color: #555555;\n    transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XhBNTX",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    max-width: fit-content;\n    gap: 10px;\n    width: 100%;\n    margin: 0;\n    margin-top: 20px;\n    font-size: 16px;\n    color: #121212;\n    line-height: 100%;\n    text-align: center;\n    text-transform: unset;\n    text-decoration: none;\n    padding: 16px 32px;\n    border-radius: 100px;\n    transition: all 0.25s ease 0s;\n    background-color: transparent;\n    border: 0px;\n    cursor: pointer;\n    font-weight: 700;\n    min-width: max-content;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XhBNTX:hover",
+      "declarations": "color: #ffffff;\n    transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XhBNTX svg",
+      "declarations": "width: 14px;\n    height: 14px;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XhBNTX",
+      "declarations": "background-color: #fdc656;\n      border: 1px solid #121212;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": ".hero-button-template--16053568503866__ss_hero_41_XhBNTX:hover",
+      "declarations": "background-color: #121212;\n      border: 1px solid #121212;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/",
+      "selector": "--line-height--body-);        --letter-spacing: var(--letter-spacing--body-);\n--product-corner-radius: 10px; --card-corner-radius: 10px;\n--color-shadow: rgb(var",
+      "declarations": "--font-heading--family: \"UniversLTPro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; --font-heading--weight: 700; --font-heading--style: normal;"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ":root",
+      "declarations": "--font-paragraph--family: \"Univers LT Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;--font-paragraph--style: normal;--font-paragraph--weight: 400;--font-h1--family: \"Univers LT Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;--font-h1--style: normal;--font-h1--weight: 700;--font-h2--family: \"Univers LT Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;--font-h2--style: normal;--font-h2--weight: 700;--font-h3--family: \"Univers LT Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;--font-h3--style: normal;--font-h3--weight: 700;--font-h4--family: \"Univers LT Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;--font-h4--style: normal;--font-h4--weight: 700;--font-h5--family: "
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ".button,.btn,.badge,.header__menu,.nav,.breadcrumbs",
+      "declarations": "font-family:Univers LT Pro Condensed,Univers LT Pro,sans-serif!important;font-weight:300;letter-spacing:.08em;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad)"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "placeholder-image[data-type=product]",
+      "declarations": "background-color:rgb(var(--color-foreground-rgb) / var(--opacity-15));width:100%"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "body,.paragraph:not(.button),.paragraph>*",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "h1,.h1.h1,.text-block.h1>*",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-primary,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.butto",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "t(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-primary,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.b",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The best xpac backpacks on the planet. | Boundary Supply",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#fdc656",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#434343",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#acacac",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#00000033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.overlay-strong": {
+      "value": "#00000066",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "colors.text-hover": {
+      "value": "#555555",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.boundarysupply.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Univers LT Pro Condensed', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Univers LT Pro', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.0,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "10px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.base} {spacing.xl}",
+        "border": "1px solid {colors.ink}",
+        "hover": {
+          "backgroundColor": "{colors.ink}",
+          "textColor": "{colors.primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.canvas}",
+        "hover": {
+          "backgroundColor": "{colors.primary}",
+          "textColor": "{colors.ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "focusBorder": "{colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "1px solid {colors.hairline}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "border": "1px solid {colors.hairline}",
+        "hoverShadow": "0 4px 16px {colors.overlay-scrim}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "overlay": "{colors.overlay-scrim}",
+        "titleTypography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "hairline": "1px solid {colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.modular-config-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "optionTypography": "{typography.body-sm}",
+        "padding": "{spacing.lg}",
+        "selectedState": {
+          "border": "2px solid {colors.primary}"
+        }
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-white",
+        "declaration": "#FFFFFF",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-black",
+        "declaration": "#000000",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#00000033": {
+        "selector": ":root",
+        "property": "--shadow-button",
+        "declaration": "0 2px 3px rgb(0 0 0 / 20%)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#00000000": {
+        "selector": ":root",
+        "property": "--gradient-image-overlay",
+        "declaration": "linear-gradient(to top, rgb(0 0 0 / 0.5), transparent)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#fdc656": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-primary-button-background",
+        "declaration": "rgb(253 198 86 / 1.0)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#dedede": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-secondary-button-hover-background",
+        "declaration": "rgb(222 222 222 / 1.0)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#f5f5f5": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-input-hover-background",
+        "declaration": "rgb(245 245 245 / 1.0)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#f7f7f7": {
+        "selector": ".color-scheme-2",
+        "property": "--color-background",
+        "declaration": "rgb(247 247 247 / 1.0)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#acacac": {
+        "selector": ".color-scheme-5",
+        "property": "--color-primary-hover",
+        "declaration": "rgb(172 172 172 / 1.0)",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#121212": {
+        "selector": ".section-template--16053568503866__ss_hero_41_XwQNMj",
+        "property": "border-top",
+        "declaration": "solid #121212 0px",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#555555": {
+        "selector": ".text-block-button-template--16053568503866__ss_text_block_2_eGehiY:hover",
+        "property": "color",
+        "declaration": "#555555",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#434343": {
+        "selector": ".slider-btn-prev-template--16053568503866__ss_video_slider_aGCXH8,\n  .slider-btn-next-template--16053568503866__ss_video_slider_aGCXH8",
+        "property": "background",
+        "declaration": "#434343",
+        "url": "https://www.boundarysupply.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1056b3f2a071c9b0a007907b907dfedac84f81aef5f70fe9ca93b5d4d7b58ec3"
+      },
+      "#00000066": {
+        "selector": ".slideshow-controls__counter",
+        "property": "background-color",
+        "declaration": "#0006",
+        "url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b4b5c1ad522a3263d93c8c7fd206ab74300276ba7363599c0b32264389e32d89"
+      }
+    },
+    "font_families": {
+      "Univers LT Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Univers LT Pro",
+        "url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b4b5c1ad522a3263d93c8c7fd206ab74300276ba7363599c0b32264389e32d89"
+      },
+      "Univers LT Pro Condensed": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Univers LT Pro Condensed",
+        "url": "https://www.boundarysupply.com/cdn/shop/t/144/assets/base.css?v=39993460376118318661781201482",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b4b5c1ad522a3263d93c8c7fd206ab74300276ba7363599c0b32264389e32d89"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

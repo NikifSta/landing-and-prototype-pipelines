@@ -1,0 +1,790 @@
+{
+  "source_url": "https://corsaperformance.com",
+  "final_url": "https://www.corsaperformance.com/",
+  "captured_at": "2026-09-29T04:08:54.056817+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://corsaperformance.com",
+      "final_url": "https://www.corsaperformance.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "final_url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a4d2c1f843894cbfea80b5abf631286e0442445dad7bdfc41a80e93b180e77f3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/country-flags.css?v=181334022905309114051785938625",
+      "final_url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/country-flags.css?v=181334022905309114051785938625",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "641cf70118caca8f64d6f801ef5ed3117181239a9c1e18748695d1d88fe3eab1",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#1a1a1a": {
+      "count": 11,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#0c2131": {
+      "count": 1,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#c4cdd5": {
+      "count": 1,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 4,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#f3f3f2": {
+      "count": 2,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#11ae66": {
+      "count": 4,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#f4534d": {
+      "count": 4,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599"
+      ]
+    },
+    "#e41e30": {
+      "count": 2,
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599"
+      ]
+    }
+  },
+  "font_families": {
+    "Barlow": [
+      "https://www.corsaperformance.com/"
+    ],
+    "sans-serif": [
+      "https://www.corsaperformance.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 3.25rem;\n      --text-h1: 2.25rem;\n      --text-h2: 1.75rem;\n      --text-h3: 1.625rem;\n      --text-h4: 1.25rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.25rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-12);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-10);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --i"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-10);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 1.75rem;\n      --text-h4: 1.5rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ":root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": "#shopify-section-sections--21078411378774__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\r\n    --header-padding-block: var(--spacing-4-5);\r\n    --header-background-opacity: 1.0;\r\n    --header-background-blur-radius: 20px;\r\n    --header-transparent-text-color: 242 242 242;--header-logo-width: 120px;\r\n      --header-logo-height: 26px;position: sticky;\r\n    top: 0;\r\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": "#shopify-section-sections--21078411378774__header",
+      "declarations": "--header-logo-width: 200px;\r\n        --header-logo-height: 43px;--header-padding-block: var(--spacing-8-5);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": "#shopify-section-sections--21078411378774__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / auto minmax(0, 1fr) minmax(0, max-content);"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": "ton-outline-color: 228 30 48;--button-text-color: 242 242 242;\n--percent: 0\n--percent: 0\n--percent: 0\n--percent: 0\n\n    #shopify-section-template--2107841039573",
+      "declarations": "--section-spacing-block: 0px;\n      --section-spacing-inline: 0px;"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".easysearch-fitment-results .easysearch-fitment-header",
+      "declarations": "margin:0;color:#11ae66"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".easysearch-fitment-results.easysearch-fitment-fail .easysearch-fitment-header",
+      "declarations": "color:#f4534d"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".easysearch-fitment-results.easysearch-fitment-unreferenced .easysearch-fitment-header",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.corsaperformance.com/",
+      "selector": ".easysearch-ft-nav-button:focus,.easysearch-ft-nav-button:hover,.easysearch-ft-nav-current",
+      "declarations": "border-color:currentColor"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio],[type=submit]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": ".button,.btn",
+      "declarations": "--button-background: var(--button-background-primary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-primary);--button-outline-color: var(--button-background-primary);-webkit-appearance:none;appearance:none;border-radius:var(--rounded-button);background-color:rgb(var(--button-background));color:rgb(var(--button-text-color));text-align:center;font-size:var(--text-sm);letter-spacing:var(--text-letter-spacing);padding-block-start:var(--spacing-2-5);padding-block-end:var(--spacing-2-5);padding-inline-start:var(--spacing-5);padding-inline-end:var(--spacing-5);font-weight:700;line-height:1.6;transition:background-color .15s ease-in-out,color .15s ease-in-out,box-shado"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--button-background-secondary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-secondary);--button-outline-color: var(--button-background-secondary)"
+    },
+    {
+      "source": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+      "selector": ".button--subdued",
+      "declarations": "--button-background: var(--text-color) / .1 !important;--button-text-color: var(--text-color) !important;--button-outline-color: var(--text-color) !important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "CORSA Performance exhaust systems, mufflers, headers and air intakes.",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#e41e30",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#8a8a8a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#11ae66",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#f4534d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#c4cdd5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.accent-navy": {
+      "value": "#0c2131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "64px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border-strong}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.success}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "successColor": "{colors.success}",
+        "failColor": "{colors.danger}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#1a1a1a": {
+        "selector": "#shopify-section-template--21078410395734__197289e3-c54b-4405-beca-ca853cf3da21",
+        "property": "--slideshow-background",
+        "declaration": "#1a1a1a",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#0c2131": {
+        "selector": "#block-image_kxHNMp",
+        "property": "--slideshow-slide-background",
+        "declaration": "linear-gradient(310deg, rgba(12, 33, 49, 1) 36%, rgba(12, 46, 71, 1) 96%)",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#c4cdd5": {
+        "selector": ".easysearch-select-holder select",
+        "property": "border",
+        "declaration": "1px solid #c4cdd5",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#8a8a8a": {
+        "selector": ".easysearch-dark-mode .easysearch-select-holder select",
+        "property": "border-color",
+        "declaration": "#8a8a8a",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#ffffff": {
+        "selector": ".easysearch-dark-mode .easysearch-select-holder select",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#f3f3f2": {
+        "selector": ".easysearch-fitment-search-widget",
+        "property": "border",
+        "declaration": "1px solid #f3f3f2",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#11ae66": {
+        "selector": ".easysearch-fitment-results.easysearch-fitment-success",
+        "property": "border-color",
+        "declaration": "#11ae66",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#f4534d": {
+        "selector": ".easysearch-fitment-results.easysearch-fitment-fail",
+        "property": "border-color",
+        "declaration": "#f4534d",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#00000000": {
+        "selector": ".easysearch-ft-nav-button,.easysearch-ft-nav-ellipses",
+        "property": "border",
+        "declaration": "1px solid transparent",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#222222": {
+        "selector": ".easysearch-garage-widget",
+        "property": "--es-garage-color-text",
+        "declaration": "#222",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.corsaperformance.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#000000": {
+        "selector": ":-webkit-any(.input,.textarea,.select):-webkit-autofill~.floating-label",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "a4d2c1f843894cbfea80b5abf631286e0442445dad7bdfc41a80e93b180e77f3"
+      },
+      "#e41e30": {
+        "selector": "header nav details[is=mega-menu-disclosure][open]",
+        "property": "border-bottom",
+        "declaration": "1px solid rgba(228,30,48,1)",
+        "url": "https://www.corsaperformance.com/cdn/shop/t/224/assets/theme.css?v=137834398655801777961785938599",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "a4d2c1f843894cbfea80b5abf631286e0442445dad7bdfc41a80e93b180e77f3"
+      }
+    },
+    "font_families": {
+      "Barlow": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Barlow",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Barlow, sans-serif",
+        "url": "https://www.corsaperformance.com/",
+        "snapshot": "homepage.html",
+        "sha256": "33d70a2ea89a9cb9e89c11668f318a29d1e9f2c999e5a472a1eb076e8801514c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

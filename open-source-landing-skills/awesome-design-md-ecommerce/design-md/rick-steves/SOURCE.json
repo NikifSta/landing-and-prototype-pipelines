@@ -1,0 +1,829 @@
+{
+  "source_url": "https://ricksteves.com",
+  "final_url": "https://www.ricksteves.com/",
+  "captured_at": "2026-09-28T09:49:11.108859+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ricksteves.com",
+      "final_url": "https://www.ricksteves.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8405891d7d30febd39ad854dcbc19361ee7ff5342e0b8bb15d67f2927f3c08a8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "final_url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css",
+      "final_url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://hello.myfonts.net/count/27ccf8",
+      "final_url": "https://hello.myfonts.net/count/27ccf8",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#f7f7f7": {
+      "count": 61,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 9,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 77,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#005a84": {
+      "count": 48,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f39c12": {
+      "count": 8,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#252525": {
+      "count": 27,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#007aa3": {
+      "count": 36,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#febe11": {
+      "count": 9,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#165f2b": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#717171": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e6f5fb": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    }
+  },
+  "font_families": {
+    "ProximaNova-Light": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "ProximaNova-Regular": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "ProximaNova-Bold": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "helvetica": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "arial": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "sans-serif": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #d1d1d1;background-color:#ddd;color:#444;font-weight:bold"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+      "declarations": "border:1px solid #d1d1d1;background:#f6f6f6;font-weight:bold;color:#005a84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+      "declarations": "border:1px solid #d1d1d1;background-color:#fff;font-weight:bold;color:#f39c12"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #ccc;background-color:#fff;color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #f39c12;background-color:#fff;color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "body,html",
+      "declarations": "height:100%;min-width:320px;background-color:#ffffff;color:#252525;font-size:1em;line-height:1.5em;font-family:ProximaNova-Regular, helvetica, arial, sans-serif"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "h1",
+      "declarations": "font-size:2em;border-bottom:3px solid #FEBE11;margin-bottom:0.25em;padding:0.25em 0 0.125em 0;color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#body",
+      "declarations": "position:relative;width:100%;min-width:300px;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#mobile-header",
+      "declarations": "position:relative;height:50px;width:100%;border-bottom:3px solid #FEBE11;background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile .tile-info,.map-tile .tile-info,.video-tile .tile-info,.product-tile .tile-info",
+      "declarations": "position:absolute;bottom:0;width:100%;padding:0;background-color:#007AA3;opacity:0.9"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile h3,.map-tile h3,.video-tile h3,.product-tile h3",
+      "declarations": "line-height:1.3em;font-size:0.9375em;color:#ffffff;padding:0.5em 3.125%"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "cus .tile-info,.map-tile a:hover .tile-info,.map-tile a:focus .tile-info,.video-tile a:hover .tile-info,.video-tile a:focus .tile-info,.product-tile a:hover .ti",
+      "declarations": "-moz-transition:background-color 0.2s ease 0;-o-transition:background-color 0.2s ease 0;-webkit-transition:background-color 0.2s ease 0;transition:background-color 0.2s ease 0;background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile a:active .tile-info,.map-tile a:active .tile-info,.video-tile a:active .tile-info,.product-tile a:active .tile-info",
+      "declarations": "background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".tabs .ui-state-default,.tabs .ui-widget-content .ui-state-default,.tabs .ui-widget-header .ui-state-default",
+      "declarations": "border:none !important;background-color:#007AA3"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a",
+      "declarations": "width:100%;margin:0 0 1.25em;font-size:1.125em;font-family:ProximaNova-Light, helvetica, arial, sans-serif;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a:hover,div.button a:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a",
+      "declarations": "margin:0.75em 0;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a:hover,p.button a:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".tour-result header",
+      "declarations": "width:100%;background-color:#007AA3;color:#f7f7f7;margin-bottom:0.625em;display:table"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-section h1 span",
+      "declarations": "display:block;color:#252525;font-size:0.7142857142857143em"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#footer h1,#footer h2,#footer h3,#footer h4,#footer h5,#footer h6,#footer a,#footer p",
+      "declarations": "color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button",
+      "declarations": "cursor:pointer;text-align:center;padding:8px;background-color:#007AA3;color:#f7f7f7;border:none;box-shadow:none;width:100%;height:47px;top:47px;font-size:0.9375em;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none;border:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button:hover,#search-submit-button:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rick Steves Europe: Tours, Travel, TV & Vacations",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#005a84",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#007aa3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#febe11",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#252525",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#252525",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#717171",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d1d1d1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.surface-info": {
+      "value": "#e6f5fb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.alert": {
+      "value": "#cc0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#165f2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#f39c12",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "ProximaNova-Bold, arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "ProximaNova-Bold, arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "ProximaNova-Bold, arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "ProximaNova-Regular, helvetica, arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "ProximaNova-Regular, helvetica, arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "ProximaNova-Light, arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 300,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "ProximaNova-Bold, arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "borderBottom": "3px solid {colors.accent}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.content-tile": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "hoverBackgroundColor": "{colors.primary}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} 3.125%"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "accentRule": "3px solid {colors.accent}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.muted}",
+        "hairline": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#f7f7f7": {
+        "selector": ".ui-tabs .ui-tabs-nav li.ui-tabs-active",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#d1d1d1": {
+        "selector": ".ui-widget-content",
+        "property": "border",
+        "declaration": "1px solid #d1d1d1",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#ffffff": {
+        "selector": ".ui-widget-content",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#005a84": {
+        "selector": ".ui-widget-content a:hover",
+        "property": "color",
+        "declaration": "#005a84",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#f6f6f6": {
+        "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+        "property": "background",
+        "declaration": "#f6f6f6",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#f39c12": {
+        "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+        "property": "color",
+        "declaration": "#f39c12",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#252525": {
+        "selector": ".ui-state-active a,.ui-state-active a:link,.ui-state-active a:visited",
+        "property": "color",
+        "declaration": "#252525",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#007aa3": {
+        "selector": ".secondary-nav-links>li:hover,.secondary-nav-links>li:focus,.secondary-nav-links>li:active",
+        "property": "background-color",
+        "declaration": "#007AA3",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#febe11": {
+        "selector": "h1",
+        "property": "border-bottom",
+        "declaration": "3px solid #FEBE11",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#165f2b": {
+        "selector": ".tour-price-info a:hover,.tour-price-info a:focus",
+        "property": "background-color",
+        "declaration": "#165f2b",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#717171": {
+        "selector": ".dates-prices h3 a",
+        "property": "color",
+        "declaration": "#717171",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#cc0000": {
+        "selector": ".dates-prices .save",
+        "property": "color",
+        "declaration": "#cc0000",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "#e6f5fb": {
+        "selector": ".dates-prices .waitlist a",
+        "property": "background-color",
+        "declaration": "#e6f5fb",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      }
+    },
+    "font_families": {
+      "ProximaNova-Light": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"ProximaNova-Light\"",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "ProximaNova-Regular": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"ProximaNova-Regular\"",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "ProximaNova-Bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"ProximaNova-Bold\"",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "helvetica": {
+        "selector": ".secondary-nav-links>li:hover mark,.secondary-nav-links>li:focus mark,.secondary-nav-links>li:active mark",
+        "property": "font-family",
+        "declaration": "ProximaNova-Regular, helvetica, arial, sans-serif",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "arial": {
+        "selector": ".secondary-nav-links>li:hover mark,.secondary-nav-links>li:focus mark,.secondary-nav-links>li:active mark",
+        "property": "font-family",
+        "declaration": "ProximaNova-Regular, helvetica, arial, sans-serif",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      },
+      "sans-serif": {
+        "selector": ".secondary-nav-links>li:hover mark,.secondary-nav-links>li:focus mark,.secondary-nav-links>li:active mark",
+        "property": "font-family",
+        "declaration": "ProximaNova-Regular, helvetica, arial, sans-serif",
+        "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

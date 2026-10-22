@@ -1,0 +1,801 @@
+{
+  "source_url": "https://stumptowncoffee.com",
+  "final_url": "https://www.stumptowncoffee.com/",
+  "captured_at": "2026-09-29T03:55:26.854858+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stumptowncoffee.com",
+      "final_url": "https://www.stumptowncoffee.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "final_url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/index.scss.css?v=122718758827739043321788366326",
+      "final_url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/index.scss.css?v=122718758827739043321788366326",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04e2c493f374ff578e004526c38fa9f7bd39930a7780e77e1c3bdcf852c1568f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.stumptowncoffee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.stumptowncoffee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 76,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#f6f5f3": {
+      "count": 97,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#1f1815": {
+      "count": 274,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#c0a868": {
+      "count": 42,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#e3ded7": {
+      "count": 19,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#d6d0c8": {
+      "count": 8,
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "#005fcc": {
+      "count": 14,
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "#cf4521": {
+      "count": 3,
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "#2e8b57": {
+      "count": 1,
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "#e20000": {
+      "count": 6,
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "#707070": {
+      "count": 12,
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    }
+  },
+  "font_families": {
+    "Windsor": [
+      "https://www.stumptowncoffee.com/"
+    ],
+    "GT Flexa Mono": [
+      "https://www.stumptowncoffee.com/"
+    ],
+    "sans-serif": [
+      "https://www.stumptowncoffee.com/"
+    ],
+    "GT Flexa": [
+      "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+    ],
+    "monospace": [
+      "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+    ],
+    "serif": [
+      "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-text-body-aog1sdzzmevneadqzufullbleedherotwofccvfd",
+      "declarations": "color: #1f1815;\n    font-size: 14px;\n    font-weight: 400;\n    text-align: center;\n    width: 100%;\n    margin: 0 0 24px 0;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-text-button-aog1sdzzmevneadqzufullbleedherotwofccvfd",
+      "declarations": "display: inline-block;\n    padding: 12px 24px;\n    background-color: #FFFFFF;\n    color: #1F1815;\n    font-size: 14px;\n    font-weight: 500;\n    text-decoration: none;\n    border: 2px solid #FFFFFF;\n    border-radius: 50px;\n    cursor: pointer;\n    transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-text-button-aog1sdzzmevneadqzufullbleedherotwofccvfd:hover",
+      "declarations": "background-color: #000000;\n    color: #ffffff;\n    border-color: #FFFFFF;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-text-button-secondary-aog1sdzzmevneadqzufullbleedherotwofccvfd",
+      "declarations": "display: inline-block;\n    padding: 12px 24px;\n    background-color: #f6f5f3;\n    color: #1f1815;\n    font-size: 14px;\n    font-weight: 500;\n    text-decoration: none;\n    border: 1px solid #1f1815;\n    border-radius: 4px;\n    cursor: pointer;\n    transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-text-button-secondary-aog1sdzzmevneadqzufullbleedherotwofccvfd:hover",
+      "declarations": "background-color: #e0e0e0;\n    color: #1f1815;\n    border-color: #1f1815;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-two-column-body-atitpc0tkaeduqxv4rhompagearchies2iymhhr",
+      "declarations": "color: #1f1815;\n    font-size: 16px;\n    text-align: center;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-two-column-section-aus9xq3hglzdrvgpercoffeetwocolumntoutbpduhi__body",
+      "declarations": "font-size: 16px;\n    color: #ffffff;\n    line-height: 1.6;\n    margin-bottom: 0px;\n    width: 100%;\n    text-align: center;\n    display: inline-block;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-two-column-section-aus9xq3hglzdrvgpercoffeetwocolumntoutbpduhi__button",
+      "declarations": "display: inline-block;\n    padding: 12px 30px;\n    background-color: #ffffff;\n    color: #2b2a2b;\n    font-size: 16px;\n    border-radius: 50px;\n    text-decoration: none;\n    border: 0px solid #1f1815;\n    transition: all 0.3s ease;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".ai-two-column-section-aus9xq3hglzdrvgpercoffeetwocolumntoutbpduhi__button:hover",
+      "declarations": "background-color: #1f1815;\n    color: #ffffff;\n    border-color: #000000;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": "ard-button-font-weight: 400;\n    --subscribe-card-image-bg: #d6d0c8;\n  \n\n  #SubscribeFilteredProducts-template--21372243706024__subscribe_filtered_products_hee9",
+      "declarations": "color: inherit;\n    font-size: inherit;\n    font-weight: inherit;\n    line-height: inherit;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": "#SubscribeFilteredProducts-template--21372243706024__subscribe_filtered_products_hee9rf .subscribe-product-filters__panel-heading",
+      "declarations": "font-family: 'GT Flexa Mono', sans-serif;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/",
+      "selector": ".og-emphasis-button",
+      "declarations": "color: #fff !important;"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": "body",
+      "declarations": "margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#f6f5f3;color:#1f1815;font-family:GT Flexa,sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Windsor,serif;font-weight:400;margin:.625rem 0"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn",
+      "declarations": "background-color:#cbd3da;border:1px solid transparent;border-radius:0;color:#fff;cursor:pointer;display:inline-block;font-family:GT Flexa,sans-serif;font-size:1rem;font-weight:400;line-height:1.125rem;padding:1rem 2.5rem 1.125rem;-webkit-transition:font-size .4s ease-in-out,padding .4s ease-in-out,opacity .3s cubic-bezier(.25,.1,.25,1),color .3s cubic-bezier(.25,.1,.25,1),background-color .3s cubic-bezier(.25,.1,.25,1);transition:font-size .4s ease-in-out,padding .4s ease-in-out,opacity .3s cubic-bezier(.25,.1,.25,1),color .3s cubic-bezier(.25,.1,.25,1),background-color .3s cubic-bezier(.25,.1,.25,1)"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn--primary",
+      "declarations": "background-color:#1f1815;color:#f6f5f3"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn--secondary",
+      "declarations": "padding:.5625rem 1.5rem .6875rem;background-color:transparent;color:#1f1815;font-size:.875rem;font-weight:500;border:2px solid #1f1815"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn--secondary:hover:not([disabled]):not(.no-hover)",
+      "declarations": "color:#f6f5f3;background-color:#1f1815"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color:#f6f5f3;color:#1f1815"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn-link",
+      "declarations": "background-color:transparent;border:0;opacity:.9;padding:0;color:inherit"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn-link--primary",
+      "declarations": "color:#1f1815;position:relative;-webkit-transition:-webkit-transform .3s cubic-bezier(.25,.1,.25,1);transition:transform .3s cubic-bezier(.25,.1,.25,1);transition:transform .3s cubic-bezier(.25,.1,.25,1),-webkit-transform .3s cubic-bezier(.25,.1,.25,1)"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn-link--primary-oos,.btn-link--secondary",
+      "declarations": "color:#1f1815;position:relative"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn-link__label",
+      "declarations": "font-family:GT Flexa Mono,sans-serif;font-size:.75rem;vertical-align:super"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".btn-icon",
+      "declarations": "background-color:transparent;border:0;cursor:pointer;padding:0"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".header",
+      "declarations": "background-color:#f6f5f3;z-index:13;position:relative;top:auto;-webkit-transition:background-color .2s ease-in-out;transition:background-color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".template-index .header",
+      "declarations": "background-color:transparent;position:-webkit-sticky;position:sticky;top:0"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": "body.template-page-our-story .header",
+      "declarations": "background-color:#eceae6"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".header #navDesktop",
+      "declarations": "background-color:#28201d;background-image:url(//www.stumptowncoffee.com/cdn/shop/t/473/assets/noise-texture.jpg?v=27140096247502942571788366326);background-blend-mode:multiply,normal;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between"
+    },
+    {
+      "source": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+      "selector": ".header #navMobile",
+      "declarations": "background-color:#28201d!important;background-image:url(//www.stumptowncoffee.com/cdn/shop/t/473/assets/noise-texture.jpg?v=27140096247502942571788366326);background-blend-mode:multiply,normal"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Craft Coffee Beans Online & In Shops | Stumptown Coffee Roasters",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1f1815",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1f1815",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#f6f5f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#1f1815",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#707070",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d6d0c8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#e3ded7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#f6f5f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#c0a868",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value": "#cf4521",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "colors.link": {
+      "value": "#005fcc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "colors.error": {
+      "value": "#e20000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "colors.success": {
+      "value": "#2e8b57",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Windsor, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Windsor, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'GT Flexa Mono', monospace",
+        "fontSize": "18px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'GT Flexa', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'GT Flexa', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'GT Flexa Mono', monospace",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'GT Flexa', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "1px solid {colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.button-pill": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "2px solid {colors.surface-card}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.accent-gold}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-terracotta}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.subscription-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.accent-gold}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--promo-text",
+        "declaration": "#ffffff",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#f6f5f3": {
+        "selector": ".ai-text-section-aog1sdzzmevneadqzufullbleedherotwofccvfd",
+        "property": "background-color",
+        "declaration": "#f6f5f3",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#1f1815": {
+        "selector": ".ai-text-section-aog1sdzzmevneadqzufullbleedherotwofccvfd",
+        "property": "border-top",
+        "declaration": "0px solid #1f1815",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#c0a868": {
+        "selector": "inline-style",
+        "property": "--subscribe-card-button-hover-bg",
+        "declaration": "#c0a868",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#e3ded7": {
+        "selector": "inline-style",
+        "property": "--subscribe-card-image-bg",
+        "declaration": "#E3DED7",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#d6d0c8": {
+        "selector": "inline-style",
+        "property": "--subscribe-card-image-bg",
+        "declaration": "#d6d0c8",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "#005fcc": {
+        "selector": "[data-whatinput=keyboard] :focus",
+        "property": "-webkit-box-shadow",
+        "declaration": "0 0 0 2px #005fcc,0 0 0 4px white",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "#cf4521": {
+        "selector": ".input.has-error",
+        "property": "border-color",
+        "declaration": "#cf4521",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "#2e8b57": {
+        "selector": ".message--success",
+        "property": "color",
+        "declaration": "#2e8b57",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "#e20000": {
+        "selector": ".bag-item__price strike",
+        "property": "color",
+        "declaration": "#e20000",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "#707070": {
+        "selector": ".footer .klaviyo-form input::-webkit-input-placeholder",
+        "property": "color",
+        "declaration": "#707070",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      }
+    },
+    "font_families": {
+      "Windsor": {
+        "selector": "#shopify-section-template--21372243706024__blocks_XkLjkP #sunrider-cta",
+        "property": "font-family",
+        "declaration": "\"Windsor\"",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "GT Flexa Mono": {
+        "selector": "#shopify-section-template--21372243706024__blocks_XkLjkP #labor-sale-subline",
+        "property": "font-family",
+        "declaration": "\"GT Flexa Mono\"",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "sans-serif": {
+        "selector": "#SubscribeFilteredProducts-template--21372243706024__subscribe_filtered_products_hee9rf .subscribe-product-filters__panel-heading",
+        "property": "font-family",
+        "declaration": "\"GT Flexa Mono\", sans-serif",
+        "url": "https://www.stumptowncoffee.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55526cd2919ef4e6a72f8cda3bb1fcb92f71f678ad36716472527669de253044"
+      },
+      "GT Flexa": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "GT Flexa",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "monospace": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "monospace,monospace",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      },
+      "serif": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "font-family",
+        "declaration": "Windsor,serif",
+        "url": "https://www.stumptowncoffee.com/cdn/shop/t/473/assets/style.scss.css?v=60881589163217972021788366370",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "5c0049e6cd3333a9e2bf638df737f6568edab5e6582a7e4f6cc53555fb7f96bf"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

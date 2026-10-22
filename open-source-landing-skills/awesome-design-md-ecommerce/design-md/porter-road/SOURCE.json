@@ -1,0 +1,840 @@
+{
+  "source_url": "https://porterroad.com",
+  "final_url": "https://porterroad.com/",
+  "captured_at": "2026-09-28T09:47:29.471154+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://porterroad.com",
+      "final_url": "https://porterroad.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "final_url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://porterroad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://porterroad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://porterroad.com/cdn/shop/t/324/assets/vendor.css?v=151466675560365519371786684468",
+      "final_url": "https://porterroad.com/cdn/shop/t/324/assets/vendor.css?v=151466675560365519371786684468",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09d6fa08130f3697bcdb9e3f622ec4e338a21790388df38ccf6c227a40c6a2b3",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://porterroad.com/cdn/shop/t/324/assets/bvaccel.css?v=175897629411996459091786684490",
+      "final_url": "https://porterroad.com/cdn/shop/t/324/assets/bvaccel.css?v=175897629411996459091786684490",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b0a11ee0c7f440d051a578db8c46076f0361366dcc72fc2e35dfda38918be9e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://porterroad.com/cdn/shop/t/324/assets/custom.scss.css?v=78754434522123146491790197667",
+      "final_url": "https://porterroad.com/cdn/shop/t/324/assets/custom.scss.css?v=78754434522123146491790197667",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a68ae1b77ec07fde5295493ab544893e69cea9eda7437ca4b7e3e0831191decc",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 83,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#000000": {
+      "count": 64,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#252525": {
+      "count": 22,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#777569": {
+      "count": 35,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "#ff3600": {
+      "count": 70,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 32,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "#3f3a36": {
+      "count": 23,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "#66bb6a": {
+      "count": 1,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/vendor.css?v=151466675560365519371786684468"
+      ]
+    },
+    "#d02e2e": {
+      "count": 1,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/bvaccel.css?v=175897629411996459091786684490"
+      ]
+    },
+    "#fff12d": {
+      "count": 3,
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/custom.scss.css?v=78754434522123146491790197667"
+      ]
+    }
+  },
+  "font_families": {
+    "Bau-Bold": [
+      "https://porterroad.com/"
+    ],
+    "Helvetica": [
+      "https://porterroad.com/"
+    ],
+    "Arial": [
+      "https://porterroad.com/"
+    ],
+    "sans-serif": [
+      "https://porterroad.com/"
+    ],
+    "Bau-Pro": [
+      "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+    ],
+    "CentralAvenue-Bold": [
+      "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://porterroad.com/",
+      "selector": ".custom-zest-button, .custom-zest-button[disabled], .custom-zest-button[disabled]:hover, .custom-zest-button[disabled]:focus",
+      "declarations": "font-family: Bau-Bold,Helvetica,Arial,sans-serif;\n        font-size: 10px;\n        letter-spacing: 2px;\n        text-transform: uppercase;\n        padding: 8px;\n        color: #252525;\n        opacity: 1;\n        background: transparent;\n        background-color: transparent;"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button,.btn",
+      "declarations": "-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;-moz-user-select:\"none\";-ms-user-select:\"none\";-webkit-user-select:\"none\";user-select:\"none\";-webkit-appearance:none;-moz-appearance:none;appearance:none;display:inline-block;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;border:0;border-radius:1px;font-family:Bau-Bold,Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:2px;line-height:20px;text-transform:uppercase;padding:20px;min-width:190px;width:100%"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--orange",
+      "declarations": "color:#fff;background:#ff3600"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--red",
+      "declarations": "color:#fff;background:#252525;border:1px solid #252525"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--red:hover",
+      "declarations": "background:#fff;color:#252525;border:1px solid #252525"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--black",
+      "declarations": "color:#fff;background:#000"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--black:hover,.button--white",
+      "declarations": "color:#000;background:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--white:hover",
+      "declarations": "color:#fff;background:#000"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--hollow",
+      "declarations": "color:#000;background:#fff;border:1px solid black"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".button--hollow:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": "button",
+      "declarations": "background-color:#fff;background-color:transparent"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": "body",
+      "declarations": "font-family:Bau-Pro,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".h1",
+      "declarations": "font-family:CentralAvenue-Bold,Helvetica,Arial,sans-serif;font-size:50px;line-height:45px;text-transform:uppercase;letter-spacing:-1.5px;text-align:center"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": "#shopify-section-header",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header",
+      "declarations": "position:fixed;top:0;right:0;left:0;z-index:10;background-color:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .header__nav .site-nav .site-nav__item.site-nav--active a",
+      "declarations": "color:#252525"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .header__nav .site-nav .site-nav__item .site-nav__item__cart-count",
+      "declarations": "position:absolute;top:-10px;right:-10px;border-radius:50%;background-color:#ff3600;height:24px;width:26px;color:#fff;font-size:14px;line-height:26px;text-align:center;font-family:Bau-Bold,Helvetica,Arial,sans-serif"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .red-dot:after",
+      "declarations": "content:\"\\2022\";position:absolute;top:0;right:0;color:#ff3600;font-size:20px;line-height:15px"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .header__cta",
+      "declarations": "width:100%;background-color:#fef9f2;padding:12px;text-align:center;font-family:Bau-Bold,Helvetica,Arial,sans-serif;text-transform:uppercase;font-size:9px;letter-spacing:1.5px;display:none;position:relative"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .header__nav__mobile .site-nav__mobile",
+      "declarations": "-webkit-transition:all .4s ease-in-out;-moz-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;display:flex;opacity:0;transform:translate(-100vw);flex-direction:column;position:fixed;z-index:-1;top:0;bottom:0;right:0;left:0;background-color:#fff;padding:90px 0 60px;min-height:100vh;overflow-y:scroll"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".header .header__nav__mobile .site-nav__mobile li .nav-overlay--mobile .nav-overlay__column--mobile",
+      "declarations": "flex-basis:45%;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-grow:1;margin:4px;background-color:#fef9f2;height:175px"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__main .product__main__image--sold-out:after",
+      "declarations": "content:\"\";position:absolute;z-index:0;background-color:#000;opacity:.4;top:0;right:0;left:0;bottom:0"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__main .product__main__info strong",
+      "declarations": "font-family:Bau-Bold,Helvetica,Arial,sans-serif;text-transform:uppercase;font-size:10px;line-height:20px;color:#000;letter-spacing:1.5px;margin:0;padding:0"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__form .product__form__quantity-input",
+      "declarations": "padding:20px;border-top:1px solid #252525;border-bottom:1px solid #252525;border-left:1px solid #252525;color:#000;margin-right:-5px;max-width:75px;background:none;width:75px;text-align-last:center"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__howtocook .product__howtocook__video p",
+      "declarations": "text-align:center;color:#000;width:100%"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__howtocook .product__howtocook__video p",
+      "declarations": "position:absolute;max-width:380px;z-index:1;top:60%;margin-left:auto;margin-right:auto;left:0;right:0;color:#fff"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product .product__suggested-prod",
+      "declarations": "width:100%;background-color:#fef9f2;padding:60px 30px"
+    },
+    {
+      "source": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+      "selector": ".product-listing .product-listing__container",
+      "declarations": "background-color:#fef9f2;width:100%"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Delivering Life Changing Meat\n    \n    \n    \n      – Porter Road",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ff3600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "colors.ink": {
+      "value": "#252525",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#3f3a36",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777569",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e7e7e7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f8f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#fff12d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/custom.scss.css?v=78754434522123146491790197667"
+      ]
+    },
+    "colors.success": {
+      "value": "#66bb6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/vendor.css?v=151466675560365519371786684468"
+      ]
+    },
+    "colors.error": {
+      "value": "#d02e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/bvaccel.css?v=175897629411996459091786684490"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "CentralAvenue-Bold, Helvetica, Arial, sans-serif",
+        "fontSize": "50px",
+        "fontWeight": 700,
+        "lineHeight": 0.9,
+        "letterSpacing": "-1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Bau-Bold, Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Bau-Bold, Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Bau-Pro, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Bau-Pro, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Bau-Pro, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Bau-Bold, Helvetica, Arial, sans-serif",
+        "fontSize": "10px",
+        "fontWeight": 700,
+        "lineHeight": 1.25,
+        "letterSpacing": "2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "position": "fixed-top"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "metaTypography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.overlay}",
+        "panelBackgroundColor": "{colors.canvas}",
+        "inputComponent": "text-input",
+        "resultTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.price-per-lb-tag": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.xxs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#ffffff",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#252525": {
+        "selector": ".custom-zest-button, .custom-zest-button[disabled], .custom-zest-button[disabled]:hover, .custom-zest-button[disabled]:focus",
+        "property": "color",
+        "declaration": "#252525",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#00000000": {
+        "selector": ".custom-zest-button, .custom-zest-button[disabled], .custom-zest-button[disabled]:hover, .custom-zest-button[disabled]:focus",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#777569": {
+        "selector": ".footer h6",
+        "property": "color",
+        "declaration": "#777569",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#f9f8f4": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-app-background",
+        "declaration": "#F9F8F4",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "#f6f6f6": {
+        "selector": ".responsive-table-row+.responsive-table-row:after,tfoot>.responsive-table-row:first-child:after",
+        "property": "border-bottom",
+        "declaration": "1px solid #f6f6f6",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "#ff3600": {
+        "selector": ".button--orange",
+        "property": "background",
+        "declaration": "#ff3600",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "#e7e7e7": {
+        "selector": "input,textarea,select",
+        "property": "border",
+        "declaration": "1px solid #e7e7e7",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "#3f3a36": {
+        "selector": "p",
+        "property": "color",
+        "declaration": "#3f3a36",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "#00000080": {
+        "selector": ".soldout-overlay",
+        "property": "background-color",
+        "declaration": "#00000080",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "#66bb6a": {
+        "selector": ".remodal-confirm:hover,.remodal-confirm:focus",
+        "property": "background",
+        "declaration": "#66bb6a",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/vendor.css?v=151466675560365519371786684468",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "09d6fa08130f3697bcdb9e3f622ec4e338a21790388df38ccf6c227a40c6a2b3"
+      },
+      "#d02e2e": {
+        "selector": ".u-text-red",
+        "property": "color",
+        "declaration": "#d02e2e",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/bvaccel.css?v=175897629411996459091786684490",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "3b0a11ee0c7f440d051a578db8c46076f0361366dcc72fc2e35dfda38918be9e"
+      },
+      "#fff12d": {
+        "selector": ".free_shipping_banner",
+        "property": "background-color",
+        "declaration": "#fff12d",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/custom.scss.css?v=78754434522123146491790197667",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "a68ae1b77ec07fde5295493ab544893e69cea9eda7437ca4b7e3e0831191decc"
+      }
+    },
+    "font_families": {
+      "Bau-Bold": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "\"Bau-Bold\",Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "Helvetica": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "\"Bau-Bold\",Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "Arial": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "\"Bau-Bold\",Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "sans-serif": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "\"Bau-Bold\",Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/",
+        "snapshot": "homepage.html",
+        "sha256": "16b7dd446eb0f56bda029d9959d6287004e4d8fd3f8df7e2c8a0ba9732c42608"
+      },
+      "Bau-Pro": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Bau-Pro,Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      },
+      "CentralAvenue-Bold": {
+        "selector": ".h1",
+        "property": "font-family",
+        "declaration": "CentralAvenue-Bold,Helvetica,Arial,sans-serif",
+        "url": "https://porterroad.com/cdn/shop/t/324/assets/themeold.scss.css?v=125580137806571499011786684490",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74f4a8153c1bc191c75b46072305e6cfcc2c9ca3bb568928fa5cb1760c6e7cda"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

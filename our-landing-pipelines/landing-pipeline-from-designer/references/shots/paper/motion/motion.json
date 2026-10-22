@@ -1,0 +1,2131 @@
+{
+  "url": "https://paper.design/",
+  "date": "2026-10-06T10:18:52.449Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 16,
+        "scrollHeight": 9312
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 61,
+          "parentHeight": 9312,
+          "el": "nav.fixed.top-0 «pricing roadmap blog changelog docs sign up»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 728,
+          "el": "div.footer-module__CJ3Cea__Background"
+        },
+        {
+          "position": "fixed",
+          "top": "507.5px",
+          "height": 393,
+          "parentHeight": 728,
+          "el": "div.footer-module__CJ3Cea__PaperLogo"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 728,
+          "el": "div.footer-module__CJ3Cea__Texture"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 728,
+          "el": "div.footer-module__CJ3Cea__Grid"
+        },
+        {
+          "position": "fixed",
+          "top": "172px",
+          "height": 728,
+          "parentHeight": 728,
+          "el": "div.footer-module__CJ3Cea__Inner «© 2026 PAPER home pricing downloads changelog team»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "003-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "004-y2700.png",
+          "y": 2700,
+          "moving": true
+        },
+        {
+          "frame": "005-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "006-y4050.png",
+          "y": 4050,
+          "moving": true
+        },
+        {
+          "frame": "007-y4500.png",
+          "y": 4500,
+          "moving": true
+        },
+        {
+          "frame": "008-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "009-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "010-y5850.png",
+          "y": 5850,
+          "moving": true
+        },
+        {
+          "frame": "011-y6300.png",
+          "y": 6300,
+          "moving": true
+        },
+        {
+          "frame": "012-y6750.png",
+          "y": 6750,
+          "moving": true
+        },
+        {
+          "frame": "013-y7200.png",
+          "y": 7200,
+          "moving": false
+        },
+        {
+          "frame": "014-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "015-y8412.png",
+          "y": 8412,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 38400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build my»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build my playlist screen with real data»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_selection (MCP) ⎿ Selected: Overflow»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – read_file (MCP) ⎿ components/playlist-pa»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div «Agent»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div «Agent»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ build my playlist screen with real data ⏺ paper »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ fetch(\"https://api.spotify.com/v1/playlists/37i9»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Playlist / »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Navbar → Row 1: Dust »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Player bar → Row 2: C»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Vinyl Sundays\"»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 4: Turntable Dayd»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 5: Paper Sleeves »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 6: Worn Edges — M»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Warm, nostalgi»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 100,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "nav.fixed.top-0 «pricing roadmap blog changelog docs sign up»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 100,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "nav.fixed.top-0 «pricing roadmap blog changelog docs sign up»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 100,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.pointer-events-none.absolute",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 8: 45 RPM Heart —»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 9: Faded Label — »",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Cover art → Row 10: L»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Playlist screen written, populated from Spotify.»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ now generate the mobile screens»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Generating 3 mobile screens at 390×844.»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Ho»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Pl»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0, 1)",
+          "target": "div",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «../Github/overflow-app»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «../Github/overflow-app»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «../Github/overflow-app»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.text-black/60.dark:text-white/60 «types > playlist.ts > Track, Playlist»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my selected design in Paper»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_selection (MCP) ⎿ Selected: Playlist»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_screenshot (MCP) nodeId: \"BA7-0\", sc»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_tree_summary (MCP) ⎿ PlaylistPage ├ »",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «types > playlist.ts > Track, Playlist 1 interface »",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «types > playlist.ts > Track, Playlist 1 interface »",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.34, 1.3, 0.64, 1)",
+          "target": "div.absolute.z-20 «types > playlist.ts > Track, Playlist 1 interface »",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my selected design in Paper as code»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ I can see the playlist UI. Let me implement the »",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Write(types/playlist.ts) ⎿ Added 34 lines»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «1 interface Track { 2 id: number; 3 title: string;»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «4 artist: string; 5 album: string; 6 duration: str»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «7 artUrl: string; 8 } 9»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «10 interface Playlist { 11 title: string; 12 creat»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «13 description: string; 14 artUrl: string; 15 trac»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «16 totalDuration: string; 17 tracks: Track[]; 18 }»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «19 20 const playlist: Playlist = { 21 title: \"Viny»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «22 creator: \"Agu Seguí\", 23 description: 24 \"Warm,»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «25 artUrl: \"/overflow/turntable-bw.webp\", 26 track»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «28 tracks: [ 29 { id: 1, title: \"Dust on the Needl»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ build my selected design in Paper as code ⏺ pape»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div «1 interface Track { 2 id: number; 3 title: string;»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_computed_styles (MCP) ⎿ { fontFamily»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Write(components/playlist-header.tsx) ⎿ Added 42»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.text-black/60.dark:text-white/60 «components > playlist-header.tsx > PlaylistHeader»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «31 { id: 3, title: \"Breakfast in Mono\", artist: \"O»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «34 ], 35 }; 36»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «37 function PlaylistHeader({ playlist }: { playlis»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real data»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «40 <div className=\"flex flex-col gap-2\"> 41 <div c»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «43 <span>{playlist.creator}</span> 44 <span> 45 {p»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «46 </span> 47 </div> 48 <MoreDotsIcon />»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «49 </div> 50 <h1 className=\"font-display text-[36p»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «52 </h1> 53 <div className=\"flex items-start justi»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «55 {playlist.description} 56 </p> 57 <button class»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «58 <PlayIcon className=\"text-on-play\" /> 59 </butt»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «61 </div> 62 <img 63 src={playlist.artUrl}»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «64 alt={playlist.title} 65 className=\"size-[359px]»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «67 </div> 68 ); 69 }»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real data to my design from the Spoti»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_selection (MCP) ⎿ Selected: Playlist»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_tree_summary (MCP) ⎿ PlaylistPage ├ »",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ I'll fetch the real data from the Spotify API an»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ add real data to my design from the Spotify API »",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real data to my design from the Spotify API»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Agu Seguí · 10»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 1: Dust on the Ne»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 2: Crackle & Hum »",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Cover art targetNodeI»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ All playlist content populated from Spotify.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generate 6 mobil»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generate 6 mobile variations from my selected scre»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_screenshot (MCP) nodeId: \"BA7-0\", sc»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.absolute.flex «Overflow Search tracks, artists, albums… Agu Seguí»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ generate 6 mobile variations from my selected sc»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_computed_styles (MCP) ⎿ { fontFamily»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Generating 3 mobile screens at 390×844 from the »",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Li»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – duplicate_nodes (MCP) Duplicated 3 scree»",
+          "firstSeenAtY": 5850
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 1,
+        "scrollHeight": 9585
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 61,
+          "parentHeight": 9585,
+          "el": "nav.fixed.top-0"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 1028,
+          "el": "div.footer-module__CJ3Cea__Background"
+        },
+        {
+          "position": "fixed",
+          "top": "736.578px",
+          "height": 107,
+          "parentHeight": 1028,
+          "el": "div.footer-module__CJ3Cea__PaperLogo"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 1028,
+          "el": "div.footer-module__CJ3Cea__Texture"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 1028,
+          "el": "div.footer-module__CJ3Cea__Grid"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": true
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": true
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": false
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": true
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": true
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": true
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": false
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": false
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": false
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": false
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "021-y8741.png",
+          "y": 8741,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 28800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 51350,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.w-max",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ b»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «b»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build my play»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my play»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build my playl»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my playl»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ build my playlist screen with real data ⏺ paper »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ build my playlist screen with real data»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_selection (MCP) ⎿ Selected: Overflow»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – read_file (MCP) ⎿ components/playlist-pa»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ fetch(\"https://api.spotify.com/v1/playlists/37i9»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Playlist / »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Navbar → Row 1: Dust »",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Player bar → Row 2: C»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Vinyl Sundays\"»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 4: Turntable Dayd»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 5: Paper Sleeves »",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 6: Worn Edges — M»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Warm, nostalgi»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.absolute.flex «Overflow Search tracks, artists, albums… Agu Seguí»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 8: 45 RPM Heart —»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 9: Faded Label — »",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Cover art → Row 10: L»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Playlist screen written, populated from Spotify.»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ no»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «no»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.text-gray-950.dark:text-gray-200 «❯ now generate the mobile screens»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Generating 3 mobile screens at 390×844.»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.absolute.flex",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.text-black/60.dark:text-white/60 «types > playlist.ts > Track, Playlist»",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my s»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my selected design in Paper as»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_selection (MCP) ⎿ Selected: Playlist»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ build my selected design in Paper as code ⏺ pape»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «build my selected design in Paper as code»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_screenshot (MCP) nodeId: \"BA7-0\", sc»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_tree_summary (MCP) ⎿ PlaylistPage ├ »",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.absolute.inset-0 «../Github/overflow-app ❯ build my selected design »",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.absolute.inset-0 «types > playlist.ts > Track, Playlist 1 interface »",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ I can see the playlist UI. Let me implement the »",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Write(types/playlist.ts) ⎿ Added 34 lines»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «1 interface Track { 2 id: number; 3 title: string;»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «4 artist: string; 5 album: string; 6 duration: str»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div «1 interface Track { 2 id: number; 3 title: string;»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «7 artUrl: string; 8 } 9»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «10 interface Playlist { 11 title: string; 12 creat»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «13 description: string; 14 artUrl: string; 15 trac»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «16 totalDuration: string; 17 tracks: Track[]; 18 }»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «19 20 const playlist: Playlist = { 21 title: \"Viny»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «22 creator: \"Agu Seguí\", 23 description: 24 \"Warm,»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «25 artUrl: \"/overflow/turntable-bw.webp\", 26 track»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «28 tracks: [ 29 { id: 1, title: \"Dust on the Needl»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «31 { id: 3, title: \"Breakfast in Mono\", artist: \"O»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper - get_computed_styles (MCP) ⎿ { fontFamily»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div «34 ], 35 }; 36»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.absolute.inset-0 «../Github/overflow-app»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.absolute.inset-0 «types > playlist.ts > Track, Playlist»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real data to my design from the S»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «add real data to my design from the Spotify API»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_selection (MCP) ⎿ Selected: Playlist»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_tree_summary (MCP) ⎿ PlaylistPage ├ »",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ I'll fetch the real data from the Spotify API an»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ add real data to my design from the Spotify API »",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – set_text_content (MCP) → \"Agu Seguí · 10»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 1: Dust on the Ne»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – write_html (MCP) → Row 2: Crackle & Hum »",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generat»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generate 6 mobile variations from»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 550,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.flex.min-w-0 «❯ generate 6 mobile variations from my selected sc»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generate 6 mobile variations from my selected scr»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_screenshot (MCP) nodeId: \"BA7-0\", sc»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "index-module_cursor__PQg0P",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.index-module_type__E-SaG «generate 6 mobile variations from my selected scre»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – get_computed_styles (MCP) ⎿ { fontFamily»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ Generating 3 mobile screens at 390×844 from the »",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Ho»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Pl»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – create_artboard (MCP) name: \"Mobile / Li»",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "terminal-chunk-in",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "pre.min-w-0.text-gray-500 «⏺ paper – duplicate_nodes (MCP) Duplicated 3 scree»",
+          "firstSeenAtY": 5908
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "source_url": "https://rominafurniture.com",
+  "final_url": "https://rominafurniture.com/",
+  "captured_at": "2026-09-29T03:53:18.396904+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rominafurniture.com",
+      "final_url": "https://rominafurniture.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707",
+      "final_url": "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "890cb0c3907f8346a6cf876776683ab82b0aa68c8a5c430e52f441805bed4aae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+      "final_url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "780684d1456cf935984037120f4988e6f976b8ce669b1d586d5c89561b37f264",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889",
+      "final_url": "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "351e807a7fd065276ae8a45843550a8fe408f6459fdf9bc5f2cc56ce1732c3d4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://rominafurniture.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://rominafurniture.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113",
+      "final_url": "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fc0a18dc96a967c8b2bc2fbf4ed9ee0c589b41be26ea1ac3b4d5084975c34045",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 142,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 7,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#104a3b": {
+      "count": 1,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#2693cf": {
+      "count": 2,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#262626": {
+      "count": 5,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 6,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 17,
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "#d02e2e": {
+      "count": 11,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "#56ad6a": {
+      "count": 6,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "#747474": {
+      "count": 4,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889"
+      ]
+    },
+    "#285649": {
+      "count": 8,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889"
+      ]
+    },
+    "#f4f7f5": {
+      "count": 3,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113"
+      ]
+    },
+    "#eef1ee": {
+      "count": 8,
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707"
+    ],
+    "Archivo": [
+      "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707"
+    ],
+    "sans-serif": [
+      "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n --font-2: 11.3px;\n --font-3: 12px;\n --font-4: 13px;\n --font-5: 15.5px;\n --font-6: 17px;\n --font-7: 20px;\n --font-8: 23.5px;\n --font-9: 27px;\n --font-10:32px;\n --font-11:37px;\n --font-12:43px;\n --font-13:49px;\n --font-14:57px;\n --font-15:67px;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n    --font-2: 11.5px;\n    --font-3: 12.5px;\n    --font-4: 13.5px;\n    --font-5: 16px;\n    --font-6: 18px;\n    --font-7: 21px;\n    --font-8: 25px;\n    --font-9: 29px;\n    --font-10:34px;\n    --font-11:40px;\n    --font-12:47px;\n    --font-13:56px;\n    --font-14:65px;\n   --font-15:77px;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n    --font-2: 11.5px;\n    --font-3: 13px;\n    --font-4: 14.5px;\n    --font-5: 17.5px;\n    --font-6: 22px;\n    --font-7: 26px;\n    --font-8: 32px;\n    --font-9: 39px;\n    --font-10:48px;\n    --font-11:58px;\n    --font-12:71px;\n    --font-13:87px;\n    --font-14:106px;\n    --font-15:129px;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--ecom-global-container-width:1200px;--ecom-global-colunm-gap:20px;--ecom-global-elements-space:20px;--ecom-global-colors-primary:#ffffff;--ecom-global-colors-secondary:#ffffff;--ecom-global-colors-text:#ffffff;--ecom-global-colors-accent:#ffffff;--ecom-global-typography-h1-font-weight:600;--ecom-global-typography-h1-font-size:72px;--ecom-global-typography-h1-line-height:90px;--ecom-global-typography-h1-letter-spacing:-0.02em;--ecom-global-typography-h2-font-weight:600;--ecom-global-typography-h2-font-size:60px;--ecom-global-typography-h2-line-height:72px;--ecom-global-typography-h2-letter-spacing:-0.02em;--ecom-global-typography-h3-font-weight:600;--ecom-global-typography-h3-font-size:48px;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:18px;--oke-widget-spaceBelow:18px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#262626;--oke-button-backgroundColorHover:#212121;--oke-button-backgroundColorActive:#262626;--oke-button-textColor:#fff;--oke-button-textColorHover:#454545;--oke-button-textColorActive:#fff;--oke-button-borderColor:#dbdde4;--oke-button-borderColorHover:#dbdde4;--oke-button-borderColorActive:#262626;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#b6b6b6;--oke-border-width:1px;--oke-text-primaryColor:#0b0b0b;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "display:none!important\noverflow:visible;\noverflow:visible;\n.announcement .flickity-prev-next-button",
+      "declarations": "display: block !important;\n      width: 32px;\n      height: 32px;\n      background: transparent !important;\n      color: white !important;\n      opacity: 0.9;\n      z-index: 10;\n      transition: opacity 150ms ease, transform 150ms ease;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":root",
+      "declarations": "--COLOR-NAV-TEXT-TRANSPARENT: #ffffff;\n    --COLOR-HEADER-TRANSPARENT-GRADIENT: rgba(0, 0, 0, 0.2);\n    --LOGO-PADDING: 15px;\n    --menu-backfill-height: auto;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".header__mobile .header__logo .header__logo__link",
+      "declarations": "--LOGO-WIDTH: 200px;\n      max-width: 100%;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ":not(.header__inner--bar) > .wrapper--full,\n  .header__wrapper[data-section-id=\"sections--20253870948488__header\"].js__header__stuck__backdrop .header__inner:no",
+      "declarations": "background: transparent !important;\n    background-color: transparent !important;\n    box-shadow: none !important;\n    backdrop-filter: none !important;\n    -webkit-backdrop-filter: none !important;\n    border: 0 !important;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "__wrapper[data-section-id=\"sections--20253870948488__header\"] ~ .header__backfill,\n  .header__wrapper[data-section-id=\"sections--20253870948488__header\"] + .hea",
+      "declarations": "visibility: hidden !important;\n    background: transparent !important;\n    background-color: transparent !important;\n    box-shadow: none !important;\n    backdrop-filter: none !important;\n    -webkit-backdrop-filter: none !important;\n    border: 0 !important;\n    pointer-events: none !important;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body:not(.template-product):not(.template-collection):not(.template-list-collections):not(.template-page)",
+      "declarations": "--menu-backfill-height: 0 !important;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.template-product",
+      "declarations": "--menu-backfill-height: 0 !important;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.template-collection",
+      "declarations": "--menu-backfill-height: 0 !important;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.template-collection [data-section-type=\"collection\"] > .collection > .section-padding",
+      "declarations": "--padding-top: 68px;\n    padding-top: 68px;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.romina-msearch-active #search-popdown.romina-msearch-popdown .product__inline__link",
+      "declarations": "display: flex;\n      align-items: center;\n      gap: 12px;\n      padding: 8px 14px;\n      text-decoration: none;\n      color: inherit;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.romina-msearch-active #search-popdown.romina-msearch-popdown .other__inline__title a",
+      "declarations": "display: block;\n      padding: 10px 14px;\n      font-size: 14px;\n      font-weight: 600;\n      text-decoration: none;\n      color: inherit;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "body.romina-msearch-active #search-popdown.romina-msearch-popdown .search__results__empty",
+      "declarations": "padding: 18px 14px;\n      color: #777;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".ai-slideshow-button-alzmyqnbutg1xujnnraigenblock6a05fc8kbvwqg",
+      "declarations": "display: inline-block;\n    padding: 15px 40px;\n    background-color: #2b7c66;\n    color: #ffffff;\n    text-decoration: none;\n    border-radius: 30px;\n    font-size: 16px;\n    transition: all 0.3s ease;\n    border: 2px solid #2b7c66;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": ".ai-slideshow-button-alzmyqnbutg1xujnnraigenblock6a05fc8kbvwqg:hover",
+      "declarations": "background-color: #ffffff;\n    color: #2b7c66;\n    border-color: #ffffff;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "#shopify-section-template--20253871603848__section_product_N38zyj .btn--add-to-cart",
+      "declarations": "border-radius: 30px; background: #2b7c66; color: white;"
+    },
+    {
+      "source": "https://rominafurniture.com/",
+      "selector": "#shopify-section-template--20253871603848__section_product_N38zyj .btn--add-to-cart:hover",
+      "declarations": "border-radius: 30px; background: #2b7c66; color: black;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "100% Solid Wood Furniture | Crib to Teen & Everything In Between\n– Romina Furniture",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#285649",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889"
+      ]
+    },
+    "colors.primary-deep": {
+      "value": "#104a3b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#3a3a3a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "colors.muted": {
+      "value": "#747474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eef1ee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113"
+      ]
+    },
+    "colors.surface-card-alt": {
+      "value": "#f4f7f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.accent-alert": {
+      "value": "#d02e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "colors.accent-success": {
+      "value": "#56ad6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989"
+      ]
+    },
+    "colors.link": {
+      "value": "#2693cf",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "colors.control-dark": {
+      "value": "#262626",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rominafurniture.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "72px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "-1.44px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "60px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-1.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.9px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Archivo, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Archivo, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Archivo, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Archivo, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "{colors.hairline}",
+        "height": "proposed 72px"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.control-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "borderTop": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-success}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.finish-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "activeBorderColor": "{colors.primary}",
+        "rounded": "{rounded.full}",
+        "swatchSize": "proposed 32px",
+        "labelTypography": "{typography.caption}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-bg",
+        "declaration": "#ffffff",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#f7f7f7": {
+        "selector": ":root",
+        "property": "--color-bg-accent",
+        "declaration": "#f7f7f7",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#104a3b": {
+        "selector": ":root",
+        "property": "--color-primary-hover",
+        "declaration": "#104a3b",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#2693cf": {
+        "selector": ":root",
+        "property": "--bright-bg-accent",
+        "declaration": "#2693cf",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#262626": {
+        "selector": ":root",
+        "property": "--oke-button-backgroundcolor",
+        "declaration": "#262626",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#e5e5e5": {
+        "selector": ":root",
+        "property": "--oke-stars-backgroundcolor",
+        "declaration": "#e5e5e5",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#1a1a1a": {
+        "selector": ".romina-msearch__input,\n  .romina-msearch__input:focus,\n  .romina-msearch__input:active",
+        "property": "color",
+        "declaration": "var(--COLOR-TEXT-DARK, #1a1a1a)",
+        "url": "https://rominafurniture.com/",
+        "snapshot": "homepage.html",
+        "sha256": "abfc9631935c0a60b83d664c368a048db912f3f579e8b33a5a2855c503584e08"
+      },
+      "#3a3a3a": {
+        "selector": ".plyr--audio .plyr__controls",
+        "property": "color",
+        "declaration": "#3a3a3a",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "780684d1456cf935984037120f4988e6f976b8ce669b1d586d5c89561b37f264"
+      },
+      "#d02e2e": {
+        "selector": "input[type=text].error,\ninput[type=search].error,\ninput[type=password].error,\ninput[type=email].error,\ninput[type=file].error,\ninput[type=number].error,\ninput[type=tel].error,\ninput[type=url].error,\ntextarea.error",
+        "property": "border-color",
+        "declaration": "#D02E2E",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "780684d1456cf935984037120f4988e6f976b8ce669b1d586d5c89561b37f264"
+      },
+      "#56ad6a": {
+        "selector": ".form-success",
+        "property": "color",
+        "declaration": "#56AD6A",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "780684d1456cf935984037120f4988e6f976b8ce669b1d586d5c89561b37f264"
+      },
+      "#747474": {
+        "selector": ".romina-picker",
+        "property": "--romina-muted",
+        "declaration": "#747474",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "351e807a7fd065276ae8a45843550a8fe408f6459fdf9bc5f2cc56ce1732c3d4"
+      },
+      "#285649": {
+        "selector": ".romina-picker",
+        "property": "--romina-accent",
+        "declaration": "#285649",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/romina-product.css?v=4920761871306128911783330889",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "351e807a7fd065276ae8a45843550a8fe408f6459fdf9bc5f2cc56ce1732c3d4"
+      },
+      "#f4f7f5": {
+        "selector": ".about-cta",
+        "property": "color",
+        "declaration": "var(--ac-ink, #f4f7f5)",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "fc0a18dc96a967c8b2bc2fbf4ed9ee0c589b41be26ea1ac3b4d5084975c34045"
+      },
+      "#eef1ee": {
+        "selector": ".lcta__btn",
+        "property": "background",
+        "declaration": "var(--lcta-btn, #eef1ee)",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/compiled_assets/styles.css?v=91126007710904886661789739113",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "fc0a18dc96a967c8b2bc2fbf4ed9ee0c589b41be26ea1ac3b4d5084975c34045"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Poppins",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "890cb0c3907f8346a6cf876776683ab82b0aa68c8a5c430e52f441805bed4aae"
+      },
+      "Archivo": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Archivo",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/font-settings.css?v=146303279679549783721784639707",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "890cb0c3907f8346a6cf876776683ab82b0aa68c8a5c430e52f441805bed4aae"
+      },
+      "sans-serif": {
+        "selector": ".plyr",
+        "property": "font-family",
+        "declaration": "Avenir, \"Avenir Next\", \"Helvetica Neue\", \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "url": "https://rominafurniture.com/cdn/shop/t/39/assets/theme.css?v=127028780144490660691788865989",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "780684d1456cf935984037120f4988e6f976b8ce669b1d586d5c89561b37f264"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

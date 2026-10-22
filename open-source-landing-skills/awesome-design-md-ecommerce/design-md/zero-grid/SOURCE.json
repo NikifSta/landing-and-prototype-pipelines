@@ -1,0 +1,904 @@
+{
+  "source_url": "https://zerogrid.com",
+  "final_url": "https://zerogrid.com/",
+  "captured_at": "2026-09-29T04:04:49.522086+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://zerogrid.com",
+      "final_url": "https://zerogrid.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://zerogrid.com/cdn/shop/t/18/assets/base.css?v=167012490112765398741781506278",
+      "final_url": "https://zerogrid.com/cdn/shop/t/18/assets/base.css?v=167012490112765398741781506278",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a6ef11c39e1a8b38622edac5f8effa031dd61b2c75765bd25e71133ccf3da08f",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@400;900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@400;900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a07f5fa666a0f75f555fb99cec3bc4f8653acc364ca5d214faa19e87dc0a2918",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://zerogrid.com/cdn/shop/t/18/assets/component-cart-items.css?v=13033300910818915211776246719",
+      "final_url": "https://zerogrid.com/cdn/shop/t/18/assets/component-cart-items.css?v=13033300910818915211776246719",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a42b7711881d15e6bffdb1bab33b4834de81973b3bfdbb581870f14daf8b87b7",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://zerogrid.com/cdn/shop/t/18/assets/component-predictive-search.css?v=118923337488134913561776246719",
+      "final_url": "https://zerogrid.com/cdn/shop/t/18/assets/component-predictive-search.css?v=118923337488134913561776246719",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0a0677a549752cca1e5b319fa56304d387f53bb583b0396e215e793da2fe9cbb",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Oswald",
+      "final_url": "https://fonts.googleapis.com/css?family=Oswald",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d38d950ec7c245e61f70e4b3f8be0545a162c041a28c592e20c66b77b3694219",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://zerogrid.com/#computed-style-snapshot",
+      "final_url": "https://zerogrid.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "8ed51922aae86d4d853063ba1ac9c9fb803059c404daae75e871c22aa70c597a",
+      "snapshot": "rendered-style-7.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 140,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#121212": {
+      "count": 4,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#0e2a47": {
+      "count": 190,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#e93c3c": {
+      "count": 1,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#228b22": {
+      "count": 1,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 25,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 1,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#ffc857": {
+      "count": 32,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#dca72a": {
+      "count": 2,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 10,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 4,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "#6b7280": {
+      "count": 9,
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Assistant": [
+      "https://zerogrid.com/"
+    ],
+    "sans-serif": [
+      "https://zerogrid.com/"
+    ],
+    "Proxima Nova": [
+      "https://zerogrid.com/"
+    ],
+    "Handelson": [
+      "https://zerogrid.com/"
+    ],
+    "Impact": [
+      "https://zerogrid.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #0E2A47;--jdgm-secondary-color: rgba(14,42,71,0.1);--jdgm-star-color: #0E2A47;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #0E2A47;--jdgm-paginate-color: #0E2A47;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #0E2A47"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".bcontact-file-wrapper input::file-selector-button",
+      "declarations": "font-family:inherit!important;font-size:inherit!important"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".bcontact-repeater__add-button",
+      "declarations": "background:transparent;border:none;float:right;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;color:var(--qcf-label-color);font-size:var(--qcf-font-size);font-family:var(--qcf-font-family);padding:5px 10px"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".bcontact-trigger-button",
+      "declarations": "font-size:14px;border-radius:5px 5px 0 0;padding:7px 20px!important;border:none;cursor:pointer;margin:0!important;text-transform:initial!important;text-shadow:none!important;font-family:inherit!important;font-weight:600!important;display:inline-flex;align-items:center;justify-content:center"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-header-wrapper",
+      "declarations": "background-color: transparent !important;\n    border-bottom: 1px solid rgba(255, 255, 255, 0) !important;\n    box-shadow: 0 4px 20px rgba(0, 0, 0, 0) !important;\n    position: fixed !important;\n    top: 0 !important;\n    left: 0 !important;\n    z-index: 9990;\n    width: 100%;\n    box-sizing: border-box;\n    transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease !important;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-header-wrapper.scrolled-past-hero-track,\n  .zg-header-wrapper.force-solid-header-track",
+      "declarations": "background-color: #0e2a47 !important;\n    border-bottom: 1px solid rgba(255, 255, 255, 0.05) !important;\n    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-header-nav a",
+      "declarations": "color: #FFFFFF;\n    text-decoration: none;\n    font-family: 'Proxima Nova', sans-serif;\n    font-size: 13px;\n    font-weight: 600;\n    letter-spacing: 0.15em;\n    text-transform: uppercase;\n    transition: opacity 0.2s ease;\n    display: flex;\n    align-items: center;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-header-logo a",
+      "declarations": "text-decoration: none;\n    color: #FFFFFF;\n    display: inline-block;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-header-inner.search-expanded-state .zg-search-inline-expand-tray",
+      "declarations": "width: calc(100vw - 120px);\n    opacity: 1;\n    pointer-events: auto;\n    border-color: rgba(255, 255, 255, 0.2);"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-search-inline-expand-tray button[type=\"submit\"]",
+      "declarations": "background: none;\n    border: none;\n    color: #FFC857;\n    cursor: pointer;\n    padding: 0;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-mobile-search-field-container button",
+      "declarations": "background: none;\n    border: none;\n    color: #FFC857;\n    padding: 0;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".shopify-policy__title h1,\n  .shopify-policy__container h1,\n  .main-page-title",
+      "declarations": "font-family: 'Handelson', Impact, sans-serif !important;\n    font-size: 42px !important;\n    font-weight: 900 !important;\n    letter-spacing: 0.05em !important;\n    text-transform: uppercase !important;\n    color: #0E2A47 !important;\n    text-align: center !important;\n    margin-top: 40px !important;\n    margin-bottom: 30px !important;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-card-template--18283811602519__home3_Y68KqY",
+      "declarations": "background-color: #EDEDED; \n    border-radius: 33px; \n    padding: 17px 17px 25px 17px; \n    display: flex;\n    flex-direction: column;\n    position: relative;\n    transition: transform 0.3s ease;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-img-wrapper-template--18283811602519__home3_Y68KqY",
+      "declarations": "background-color: #FFFFFF; \n    border-radius: 30px; \n    width: 100%;\n    aspect-ratio: 1 / 1; \n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-bottom: 20px;\n    padding: 15px; \n    overflow: hidden;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-title-template--18283811602519__home3_Y68KqY",
+      "declarations": "font-family: 'Proxima Nova', sans-serif !important; \n    font-weight: 400 !important; \n    font-size: 14px !important; \n    color: #0E2A47 !important;\n    text-transform: uppercase !important;\n    margin: 0 0 8px 0 !important;\n    line-height: 1.3 !important;\n    letter-spacing: 0.05em !important;\n    min-height: 36px;\n    display: block !important;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-reviews-template--18283811602519__home3_Y68KqY",
+      "declarations": "color: #FFC857;\n    font-size: 18px;\n    margin-bottom: 15px;\n    letter-spacing: 2px;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-price-template--18283811602519__home3_Y68KqY",
+      "declarations": "font-family: 'Handelson', Impact, sans-serif !important; \n    font-weight: 600 !important; \n    font-size: 24px !important; \n    color: #0E2A47 !important;\n    line-height: 1 !important;\n    letter-spacing: 0.02em !important;"
+    },
+    {
+      "source": "https://zerogrid.com/",
+      "selector": ".zg-product-viewmore-template--18283811602519__home3_Y68KqY",
+      "declarations": "font-family: 'Proxima Nova', sans-serif !important;\n    font-weight: 700 !important;\n    font-size: 11px !important;\n    color: #0E2A47 !important;\n    text-transform: uppercase !important;\n    text-decoration: underline !important; \n    text-underline-offset: 3px !important; \n    text-decoration-thickness: 2px !important;\n    letter-spacing: 0.05em !important;\n    line-height: 1 !important;\n    padding-bottom: 0 !important; \n    margin-bottom: 2px !important;\n    transition: opacity 0.2s ease !important;"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shop/t/18/assets/base.css?v=167012490112765398741781506278",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shop/t/18/assets/base.css?v=167012490112765398741781506278",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://zerogrid.com/cdn/shop/t/18/assets/base.css?v=167012490112765398741781506278",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Travel Accessories Design Company | ZeroGrid\n – Zero Grid",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "23e96d5b1fd6dfd6451827044b2103f399a12ea6d46157a47193b47434b161a3"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0e2a47",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#4a4a4a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b7280",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e6e6e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ededed",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ffc857",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.accent-strong": {
+      "value": "#dca72a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#e93c3c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#228b22",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zerogrid.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Handelson', Impact, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 900,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Handelson', Impact, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": 900,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.04em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Assistant', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Assistant', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.04em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Proxima Nova', sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.15em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.cta-hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "accent": "{colors.accent}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColorTransparent": "transparent",
+        "backgroundColorScrolled": "{colors.primary}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "hairline": "1px solid rgba(255,255,255,0.05)"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "innerTileColor": "{colors.canvas}",
+        "rounded": "33px",
+        "innerTileRounded": "30px",
+        "titleTypography": "{typography.title-md}",
+        "titleColor": "{colors.primary}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "displayTypography": "{typography.display-xl}",
+        "accent": "{colors.accent}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "linkColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "transparent",
+        "fieldBorder": "1px solid rgba(255,255,255,0.2)",
+        "submitIconColor": "{colors.accent}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.rating-stars": {
+      "value": {
+        "activeColor": "{colors.primary}",
+        "inactiveColor": "{colors.hairline}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.trust-icon-tile": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "iconColor": "{colors.primary}",
+        "labelColor": "{colors.ink}",
+        "valueAccent": "{colors.accent}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#121212": {
+        "selector": ".color-scheme-4",
+        "property": "--gradient-background",
+        "declaration": "#121212",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#0e2a47": {
+        "selector": ":root",
+        "property": "--jdgm-primary-color",
+        "declaration": "#0E2A47",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#000000": {
+        "selector": ".jdgm-review-snippet-widget",
+        "property": "--jdgm-snippet-text-color",
+        "declaration": "#000",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#00000000": {
+        "selector": ".vue-modal-resizer",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#e93c3c": {
+        "selector": ".bcontact-file-box.bcontact-file-box--error .bcontact-file-box__file",
+        "property": "color",
+        "declaration": "#e93c3c",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#f5f5f5": {
+        "selector": ".bcontact-dropzone:hover",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#228b22": {
+        "selector": ".icon-wrapper .tick-icon",
+        "property": "background-color",
+        "declaration": "#228b22",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#e6e6e6": {
+        "selector": ".flatpickr-calendar",
+        "property": "-webkit-box-shadow",
+        "declaration": "1px 0 0 #e6e6e6,-1px 0 0 #e6e6e6,0 1px 0 #e6e6e6,0 -1px 0 #e6e6e6,0 3px 13px rgba(0,0,0,.08)",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#ffffff0d": {
+        "selector": ".zg-header-wrapper.scrolled-past-hero-track,\n  .zg-header-wrapper.force-solid-header-track",
+        "property": "border-bottom",
+        "declaration": "1px solid rgba(255, 255, 255, 0.05)",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#ffffff33": {
+        "selector": ".zg-header-inner.search-expanded-state .zg-search-inline-expand-tray",
+        "property": "border-color",
+        "declaration": "rgba(255, 255, 255, 0.2)",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#ffc857": {
+        "selector": ".zg-search-inline-expand-tray button[type=\"submit\"]",
+        "property": "color",
+        "declaration": "#FFC857",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#dca72a": {
+        "selector": ".zg-hero-btn-template--18283811602519__hero_banner_fUXh3i:hover",
+        "property": "background-color",
+        "declaration": "#dca72a",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#4a4a4a": {
+        "selector": ".zg-trust-subheading-template--18283811602519__home2_Y4wH73",
+        "property": "color",
+        "declaration": "#4A4A4A",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#ededed": {
+        "selector": ".zg-trust-card-template--18283811602519__home2_Y4wH73",
+        "property": "background-color",
+        "declaration": "#ededed",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "#6b7280": {
+        "selector": ".zg-reviewer-meta-template--18283811602519__home6_bAMTGY",
+        "property": "color",
+        "declaration": "#6B7280",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      }
+    },
+    "font_families": {
+      "Assistant": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Assistant",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "Assistant, sans-serif",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "Proxima Nova": {
+        "selector": ".zg-header-nav a",
+        "property": "font-family",
+        "declaration": "\"Proxima Nova\", sans-serif",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "Handelson": {
+        "selector": ".zg-logo-text",
+        "property": "font-family",
+        "declaration": "\"Handelson\", Impact, sans-serif",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      },
+      "Impact": {
+        "selector": ".zg-logo-text",
+        "property": "font-family",
+        "declaration": "\"Handelson\", Impact, sans-serif",
+        "url": "https://zerogrid.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9d599727d7b2e4e638b6076953bb483d4cc2771fd2dc64042e224e899e874eba"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

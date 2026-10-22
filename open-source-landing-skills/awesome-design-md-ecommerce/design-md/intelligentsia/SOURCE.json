@@ -1,0 +1,790 @@
+{
+  "source_url": "https://intelligentsia.com",
+  "final_url": "https://www.intelligentsia.com/",
+  "captured_at": "2026-09-29T04:00:30.301967+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://intelligentsia.com",
+      "final_url": "https://www.intelligentsia.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/dbn3zui.css",
+      "final_url": "https://use.typekit.net/dbn3zui.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "56948961023ae875c03c078569989d784336f53e5d613f7c6ec79f6c4fc03452",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "final_url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+      "final_url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6fe1fe96eb1c43bf94de27bf700e504663a9ebfada096f099537fe72268efdbb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 73,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#d42927": {
+      "count": 49,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#7c6e65": {
+      "count": 33,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#2e2925": {
+      "count": 89,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#92867e": {
+      "count": 4,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#666360": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#f9bf3a": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#fcf4ed": {
+      "count": 5,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#faf6f2": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    }
+  },
+  "font_families": {
+    "urw-din": [
+      "https://www.intelligentsia.com/"
+    ],
+    "rotunda-variable": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/dbn3zui.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "#navMobile .header__flava-copy",
+      "declarations": "color: #FFFFFF;\n   background-color: #d42927"
+    },
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "display: none;\n\n  #header .header__flava",
+      "declarations": "color: #FFFFFF;\n    background-color: #d42927;"
+    },
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "background-color: #c82d2b;\ncolor: #ffffff;\ndisplay:none;\n\n  #navMobile .header__flava-copy",
+      "declarations": "color: #FFFFFF;\n   background-color: #d42927"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "body",
+      "declarations": "margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#fff;color:#2e2925;font-family:rotunda-variable,sans-serif;font-weight:400;overflow-y:scroll"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:urw-din,sans-serif;font-weight:400;margin:.625rem 0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn",
+      "declarations": "background-color:#2e2925;border:1px solid transparent;border-radius:0;color:#fff;display:inline-block;font-family:urw-din,sans-serif;font-size:.875rem;font-weight:400;line-height:1.125rem;padding:1rem 1.5rem .875rem;letter-spacing:.5px;text-align:center;-webkit-transition:font-size .4s ease-in-out,padding .4s ease-in-out,color .4s ease-in-out;transition:font-size .4s ease-in-out,padding .4s ease-in-out,color .4s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn__label",
+      "declarations": "display:inline-block;color:#7c6e65;-webkit-transition:opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:opacity .2s ease-in-out,transform .2s ease-in-out,-webkit-transform .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn__label--new",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn.disabled,.btn:disabled",
+      "declarations": "background-color:#e0e0e0;color:#92867e"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn.is-loading",
+      "declarations": "position:relative;color:transparent"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary,.shopify-challenge__button",
+      "declarations": "background-color:#d42927;color:#fff;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary.disabled,.btn--primary:disabled,.disabled.shopify-challenge__button,.shopify-challenge__button:disabled",
+      "declarations": "background-color:#e0e0e0;color:#666360;cursor:default"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary:focus:not(.footer__submit),.btn--primary:hover,.shopify-challenge__button:focus:not(.footer__submit),.shopify-challenge__button:hover",
+      "declarations": "background-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:transparent;border:1px solid #2e2925;color:#2e2925;-webkit-transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary:focus,.btn--secondary:hover",
+      "declarations": "background-color:#2e2925;border-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary.disabled,.btn--secondary:disabled",
+      "declarations": "background-color:transparent;border-color:#e0e0e0;color:#969492;cursor:default"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color:#fff;color:#2e2925;-webkit-transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--tertiary:focus,.btn--tertiary:hover",
+      "declarations": "background-color:#2e2925;border-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--quaternary",
+      "declarations": "background-color:transparent;border:1px solid #fff;color:#fff;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--quaternary:focus,.btn--quaternary:hover",
+      "declarations": "background-color:#fff;color:#2e2925"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-link",
+      "declarations": "background-color:transparent;border:0;color:#2e2925;font-family:urw-din,sans-serif;padding:0;-webkit-transition:color .2s ease-in-out;transition:color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-link:focus,.btn-link:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-icon",
+      "declarations": "background-color:transparent;border:0;cursor:pointer;padding:0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header__bag-count",
+      "declarations": "position:absolute;bottom:.5625rem;left:.4375rem;background:#d42927;color:#fff;border-radius:1.125rem;font-family:urw-din,sans-serif;font-size:.875rem;line-height:1.0625rem;width:1.125rem;height:1.125rem;text-align:center"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header .btn--primary:focus:not(.footer__submit),.header .btn--primary:hover,.header .shopify-challenge__button:focus:not(.footer__submit),.header .shopify-chal",
+      "declarations": "background-color:#2e2925!important;color:#fff!important"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header-banner",
+      "declarations": "background-color:#f9bf3a;opacity:0;-webkit-transition:.4s ease-in-out;transition:.4s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header-banner__ie",
+      "declarations": "background-color:#f9bf3a;display:none"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".subheader",
+      "declarations": "width:100%;-webkit-box-shadow:0 0 5px 0 rgba(96,96,96,.15),0 0 5px 0 rgba(96,96,96,.5);box-shadow:0 0 5px #60606026,0 0 5px #60606080;background-color:#fdf8f4;z-index:10;position:fixed;top:-5px;-webkit-transition:top .2s ease-in-out;transition:top .2s ease-in-out;height:3.125rem"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".subheader__item",
+      "declarations": "font-family:urw-din,sans-serif;font-size:.875rem;letter-spacing:.03125rem;white-space:nowrap;color:#2e2925;padding-bottom:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Single Origin Coffee | Intelligentsia | Fresh Roasted Coffee",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#d42927",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#2e2925",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#2e2925",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#2e2925",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#7c6e65",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#faf6f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fcf4ed",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.disabled-text": {
+      "value": "#92867e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.disabled-text-alt": {
+      "value": "#666360",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.border-secondary": {
+      "value": "#2e2925",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value": "#f9bf3a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "urw-din, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "urw-din, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "urw-din, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "rotunda-variable, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "rotunda-variable, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "rotunda-variable, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "urw-din, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": "18px",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "borderColor": "{colors.border-secondary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "displayTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-warm}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "#d42927": {
+        "selector": "#navMobile .header__flava-copy",
+        "property": "background-color",
+        "declaration": "#d42927",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "#7c6e65": {
+        "selector": "#nav .nav__btn",
+        "property": "color",
+        "declaration": "#7c6e65",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "#2e2925": {
+        "selector": "#nav .subnav__list-title",
+        "property": "color",
+        "declaration": "#2e2925",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "#00000000": {
+        "selector": "a",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#e0e0e0": {
+        "selector": ".btn.disabled,.btn:disabled",
+        "property": "background-color",
+        "declaration": "#e0e0e0",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#92867e": {
+        "selector": ".btn.disabled,.btn:disabled",
+        "property": "color",
+        "declaration": "#92867e",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#666360": {
+        "selector": ".btn--primary.disabled,.btn--primary:disabled,.disabled.shopify-challenge__button,.shopify-challenge__button:disabled",
+        "property": "color",
+        "declaration": "#666360",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#f9bf3a": {
+        "selector": ".header-banner",
+        "property": "background-color",
+        "declaration": "#f9bf3a",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#fcf4ed": {
+        "selector": ".nav__dropdown-link:hover",
+        "property": "background-color",
+        "declaration": "#fcf4ed",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      },
+      "#faf6f2": {
+        "selector": ".pv-essential--buy-stack .pv-subscription .select--frequency .input",
+        "property": "background-color",
+        "declaration": "#faf6f2",
+        "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3"
+      }
+    },
+    "font_families": {
+      "urw-din": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "urw-din",
+        "url": "https://www.intelligentsia.com/",
+        "snapshot": "homepage.html",
+        "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74"
+      },
+      "rotunda-variable": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"rotunda-variable\"",
+        "url": "https://use.typekit.net/dbn3zui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "56948961023ae875c03c078569989d784336f53e5d613f7c6ec79f6c4fc03452"
+      },
+      "sans-serif": {
+        "selector": ".tk-urw-din",
+        "property": "font-family",
+        "declaration": "\"urw-din\",sans-serif",
+        "url": "https://use.typekit.net/dbn3zui.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "56948961023ae875c03c078569989d784336f53e5d613f7c6ec79f6c4fc03452"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,866 @@
+{
+  "source_url": "https://akasotech.com",
+  "final_url": "https://akasotech.com/",
+  "captured_at": "2026-09-28T04:25:46.408222+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://akasotech.com",
+      "final_url": "https://akasotech.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3e0530faafce83e5b9322f61251477ff7b59d69e0a02e9f0ac7df13036efc845",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "dd1541d63bf10f1180ab440f9d1e927721d35cde62997da3e437e571595cb94b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "final_url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "final_url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css",
+      "final_url": "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "727c7cf03c756df53a21022ac3bc42abd8b23a6a7354faca1e9e3278e641af82",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#909399": {
+      "count": 46,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#67c23a": {
+      "count": 23,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#e6a23c": {
+      "count": 22,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f56c6c": {
+      "count": 32,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#303133": {
+      "count": 39,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#dcdfe6": {
+      "count": 23,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 225,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#606266": {
+      "count": 52,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f5f7fa": {
+      "count": 25,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#294033": {
+      "count": 51,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#fff7e5": {
+      "count": 49,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#0f8cff": {
+      "count": 5,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap"
+    ],
+    "sans-serif": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito SemiBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito Bold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito ExtraBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans SemiBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-picker__header-label",
+      "declarations": "color:#606266;cursor:pointer;font-size:16px;font-weight:500;line-height:22px;padding:0 5px;text-align:center"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-picker__header-label.active,.el-date-picker__header-label:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-range-picker__time-header>.el-icon-arrow-right",
+      "declarations": "color:#303133;display:table-cell;font-size:20px;vertical-align:middle"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-message-box__headerbtn .el-message-box__close",
+      "declarations": "color:#909399"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-message-box__headerbtn:focus .el-message-box__close,.el-message-box__headerbtn:hover .el-message-box__close",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination button:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination button:disabled",
+      "declarations": "background-color:#fff;color:#c0c4cc;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination .btn-next,.el-pagination .btn-prev",
+      "declarations": "background:50% no-repeat #fff;background-size:16px;color:#303133;cursor:pointer;margin:0"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "tion--small .btn-prev,.el-pagination--small .el-pager li,.el-pagination--small .el-pager li.btn-quicknext,.el-pagination--small .el-pager li.btn-quickprev,.el-p",
+      "declarations": "border-color:transparent;font-size:12px;height:22px;line-height:22px;min-width:22px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination.is-background .btn-next,.el-pagination.is-background .btn-prev,.el-pagination.is-background .el-pager li",
+      "declarations": "background-color:#f4f4f5;border-radius:2px;color:#606266;margin:0 5px;min-width:30px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "abled,.el-pagination.is-background .btn-next:disabled,.el-pagination.is-background .btn-prev.disabled,.el-pagination.is-background .btn-prev:disabled,.el-pagina",
+      "declarations": "color:#c0c4cc"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pager li.btn-quicknext,.el-pager li.btn-quickprev",
+      "declarations": "color:#303133;line-height:28px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pager li.btn-quicknext.disabled,.el-pager li.btn-quickprev.disabled",
+      "declarations": "color:#c0c4cc"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__headerbtn .el-dialog__close",
+      "declarations": "color:#909399"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__headerbtn:focus .el-dialog__close,.el-dialog__headerbtn:hover .el-dialog__close",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__body",
+      "declarations": "color:#606266;font-size:14px;padding:30px 20px;word-break:break-all"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button",
+      "declarations": "background:0 0;border:none;color:#606266;cursor:pointer;font-size:13px;padding:0 3px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button.is-disabled",
+      "declarations": "color:#c0c4cc;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-checkbox-button__inner",
+      "declarations": "color:#606266;cursor:pointer;font-size:14px;font-weight:500;outline:0;position:relative;vertical-align:middle"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__fixed-footer-wrapper tbody td.el-table__cell",
+      "declarations": "background-color:#f5f7fa;border-top:1px solid #ebeef5;color:#606266"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__footer-wrapper tbody td.el-table__cell,.el-table__header-wrapper tbody td.el-table__cell",
+      "declarations": "background-color:#f5f7fa;color:#606266"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table--striped .el-table__body tr.el-table__row--striped.current-row td.el-table__cell,.el-table--striped .el-table__body tr.el-table__row--striped.selectio",
+      "declarations": "background-color:#ecf5ff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "-row>td.el-table__cell,.el-table__body tr.hover-row.el-table__row--striped>td.el-table__cell,.el-table__body tr.hover-row.selection-row>td.el-table__cell,.el-ta",
+      "declarations": "background-color:#f5f7fa"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__body tr.current-row>td.el-table__cell,.el-table__body tr.selection-row>td.el-table__cell",
+      "declarations": "background-color:#ecf5ff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table--enable-row-hover .el-table__body tr:hover>td.el-table__cell",
+      "declarations": "background-color:#f5f7fa"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item.is-disabled .el-collapse-item__header",
+      "declarations": "color:#bbb;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header",
+      "declarations": "-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#fff;border-bottom:1px solid #ebeef5;color:#303133;cursor:pointer;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:13px;font-weight:500;height:48px;line-height:48px;outline:0;-webkit-transition:border-bottom-color .3s;transition:border-bottom-color .3s"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header.focusing:focus:not(:hover)",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header.is-active",
+      "declarations": "border-bottom-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "AKASO | Shape the world as you see it",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#294033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#0f8cff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.link": {
+      "value": "#0066cc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#303133",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#606266",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#909399",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dcdfe6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f7fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.warm-surface": {
+      "value": "#fff7e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#67c23a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#e6a23c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#f56c6c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#909399",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Gabarito ExtraBold, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 800,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Gabarito Bold, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Gabarito SemiBold, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans SemiBold, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": "22px",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "focusBorder": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "activeColor": "{colors.primary}",
+        "hoverColor": "{colors.accent}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "height": "{spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "mutedTypography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "ctaBackground": "{colors.accent}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.link}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.warm-surface}",
+        "textColor": "{colors.primary}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "iconColor": "{colors.muted}",
+        "focusBorder": "{colors.accent}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headerBackground": "{colors.surface-soft}",
+        "rowHairline": "{colors.hairline}",
+        "labelColor": "{colors.muted}",
+        "valueColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#909399": {
+        "selector": ".el-message--info .el-message__content",
+        "property": "color",
+        "declaration": "#909399",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#67c23a": {
+        "selector": ".el-message--success .el-message__content",
+        "property": "color",
+        "declaration": "#67c23a",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#e6a23c": {
+        "selector": ".el-message--warning .el-message__content",
+        "property": "color",
+        "declaration": "#e6a23c",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#f56c6c": {
+        "selector": ".el-message--error .el-message__content",
+        "property": "color",
+        "declaration": "#f56c6c",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#303133": {
+        "selector": ".el-switch__label",
+        "property": "color",
+        "declaration": "#303133",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#dcdfe6": {
+        "selector": ".el-switch__core",
+        "property": "background",
+        "declaration": "#dcdfe6",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#ffffff": {
+        "selector": ".el-switch__core:after",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#606266": {
+        "selector": ".el-date-table.is-week-mode .el-date-table__row:hover td.available:hover",
+        "property": "color",
+        "declaration": "#606266",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#f5f7fa": {
+        "selector": ".el-date-table td.disabled div",
+        "property": "background-color",
+        "declaration": "#f5f7fa",
+        "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09"
+      },
+      "#0066cc": {
+        "selector": ".ql-snow .ql-toolbar .ql-picker-item.ql-selected,.ql-snow .ql-toolbar .ql-picker-item:hover,.ql-snow .ql-toolbar .ql-picker-label.ql-active,.ql-snow .ql-toolbar .ql-picker-label:hover,.ql-snow .ql-toolbar button.ql-active,.ql-snow .ql-toolbar button:focus,.ql-snow .ql-toolbar button:hover,.ql-snow.q",
+        "property": "color",
+        "declaration": "#06c",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "#294033": {
+        "selector": ".nav .nav-container .nav-center ul li .nav-center-link[data-v-38f960b0]",
+        "property": "color",
+        "declaration": "#294033",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "#fff7e5": {
+        "selector": ".nav .nav-container .nav-right .header-wrapper-store .store-link[data-v-38f960b0]",
+        "property": "color",
+        "declaration": "#fff7e5",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "#0f8cff": {
+        "selector": ".nav .nav-container .nav-right .cart-wrapper a .add-cart-num[data-v-38f960b0]",
+        "property": "background",
+        "declaration": "#0f8cff",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "#f7f7f7": {
+        "selector": ".language-dialog[data-v-e6abef86] .el-dialog .dialog-search .dialog-search-box .el-input__inner",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dd1541d63bf10f1180ab440f9d1e927721d35cde62997da3e437e571595cb94b"
+      },
+      "sans-serif": {
+        "selector": ".error .error-content-title[data-v-1a782368]",
+        "property": "font-family",
+        "declaration": "Open Sans,sans-serif",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "Gabarito SemiBold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Gabarito SemiBold",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "Gabarito Bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Gabarito Bold",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "Gabarito ExtraBold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Gabarito ExtraBold",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      },
+      "Open Sans SemiBold": {
+        "selector": ".nav-menu .nav-menu-inner .camera-menu .camera-menu-category .product-menu-one-current .menu-one-title[data-v-34c7df58]",
+        "property": "font-family",
+        "declaration": "Open Sans Semibold,sans-serif",
+        "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

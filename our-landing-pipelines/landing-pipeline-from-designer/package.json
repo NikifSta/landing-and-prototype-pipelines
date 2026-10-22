@@ -1,0 +1,14 @@
+{
+  "name": "landing-pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "npm install && npx playwright install chromium",
+    "research": "node scripts/research.mjs",
+    "qa": "node scripts/qa.mjs",
+    "test-gen": "node scripts/generate-media-from-prompts.mjs tests/test-prompts.json"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

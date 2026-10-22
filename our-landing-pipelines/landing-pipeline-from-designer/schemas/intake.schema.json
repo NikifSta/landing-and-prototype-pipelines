@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Опрос для лендинга",
+  "type": "object",
+  "required": ["slug", "analog", "market", "audience", "pain", "features", "tone", "reference"],
+  "properties": {
+    "slug": { "type": "string" },
+    "analog": { "type": "string", "description": "Продукт-аналог, например Slack" },
+    "analogs": {
+      "type": "array",
+      "description": "Найденные аналоги (если пользователь их не назвал): название, url, что делает",
+      "items": {
+        "type": "object",
+        "required": ["name", "url"],
+        "properties": { "name": { "type": "string" }, "url": { "type": "string" }, "note": { "type": "string" } }
+      }
+    },
+    "designKits": {
+      "type": "array",
+      "description": "Выбранные дизайн-системы из каталога DESIGNmd в формате username/kit-slug",
+      "items": { "type": "string" }
+    },
+    "difference": { "type": "string", "description": "Чем гипотеза отличается от аналога" },
+    "market": { "type": "string" },
+    "language": { "type": "string", "default": "ru" },
+    "audience": { "type": "string" },
+    "pain": { "type": "string" },
+    "features": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 5 },
+    "tone": { "type": "string" },
+    "workingName": { "type": "string" },
+    "primaryAction": { "type": "string", "description": "Главное действие посетителя и подпись кнопки: «Скачать», «Оставить заявку», «Записаться на демо»…" },
+    "brandInput": {
+      "type": "object",
+      "description": "Готовые фирменные материалы от пользователя (режим --ask); пусто — всё придумывается на этапе brand",
+      "properties": { "name": { "type": "string" }, "logo": { "type": "string" }, "colors": { "type": "array", "items": { "type": "string" } }, "notes": { "type": "string" } }
+    },
+    "deviceMockup": { "type": "string", "description": "Мокап устройства для интерфейса: none | phone-ios | phone-android | laptop | tablet | watch | auto (решает плагин по типу продукта)" },
+    "generation": {
+      "type": "object",
+      "description": "Что можно генерировать и сколько тратить",
+      "properties": { "images": { "type": "boolean" }, "threeD": { "type": "boolean" }, "video": { "type": "boolean" }, "budgetRub": { "type": "number" } }
+    },
+    "userReferences": { "type": "array", "items": { "type": "string" }, "description": "Ссылки на сайты-примеры от пользователя" },
+    "testValuesAllowed": { "type": "boolean" },
+    "productMaterials": { "type": "array", "items": { "type": "string" }, "description": "Материалы продукта от пользователя: пути к скриншотам, тексты, цифры, ссылки на сайт или приложение; их используют вместо придуманных" },
+    "reference": { "type": "string", "description": "Имя файла паспорта из references/" }
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "source_url": "https://www.jmbullion.com",
+  "final_url": "https://www.jmbullion.com/",
+  "captured_at": "2026-09-28T04:13:21.166643+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.jmbullion.com",
+      "final_url": "https://www.jmbullion.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4442581e7ea6ce1802b6ed47311ba302f293a14c3708fb3c0316348423a60856",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "final_url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "final_url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.jmbullion.com/_next/static/css/ed3afa11c48e7198.css",
+      "final_url": "https://www.jmbullion.com/_next/static/css/ed3afa11c48e7198.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "a4f9bbec6bb390dd80caab0311e92c47c236296065b96adf94a063c166936f20",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.jmbullion.com/_next/static/css/d20a4673abef02cf.css",
+      "final_url": "https://www.jmbullion.com/_next/static/css/d20a4673abef02cf.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "3d94228ce597ad400109140d2682036faf623f58179cc5496209913c11c80d56",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.jmbullion.com/_next/static/css/6b9c18a2cdd4baae.css",
+      "final_url": "https://www.jmbullion.com/_next/static/css/6b9c18a2cdd4baae.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "6657bf29b08ebd6dc9708813429f956a7f93333d67f08462c2e7a7bf8643f337",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#cccccc": {
+      "count": 17,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#439439": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 28,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#428bca": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#deb053": {
+      "count": 2,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#125ea7": {
+      "count": 11,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#c01313": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 4,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#d0011b": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "#858585": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "#eef0f2": {
+      "count": 3,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "#edbb56": {
+      "count": 4,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "#fadb99": {
+      "count": 2,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "#f5faff": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "#14253b": {
+      "count": 1,
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+    ],
+    "sans-serif": [
+      "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+    ],
+    "Arial": [
+      "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "--tw-text-opacity:1;color:rgb(156 163 175/var(--tw-text-opacity,1));font-size:10px;opacity:1"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".first-slide .slick-dots li button:before",
+      "declarations": "color:#fff!important;opacity:1!important;font-size:9px!important"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".first-slide .slick-dots .slick-active button:before",
+      "declarations": "color:#428bca!important"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": "#charts .chart-container .chart-block .chart-links button",
+      "declarations": "position:absolute;right:.5rem;bottom:1.5rem;margin-right:.75rem;border-radius:.25rem;border-width:1px;--tw-border-opacity:1;border-color:rgb(155 155 155/var(--tw-border-opacity,1));padding:.5rem 1.25rem;font-weight:700;--tw-text-opacity:1;color:rgb(122 78 0/var(--tw-text-opacity,1));transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.3s"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .utility-bar .container .list-inline>li.search-bar input",
+      "declarations": "height:35px;width:375px;border-radius:6px;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);padding:5px 0 5px 15px!important"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header.fixed .utility-bar",
+      "declarations": "position:fixed;background-color:#fff;max-height:106px;z-index:990;width:100%;left:0;top:-120px;height:106px;opacity:0;visibility:hidden;box-shadow:0 0 5px 3px rgba(0,0,0,.4)"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .toolbar .container .toolbar-right ul li.cart",
+      "declarations": "position:absolute;top:0;right:0;background-image:url(https://cdn.jmbullion.com/wp-content/themes/JMBullion/images/cart-bg.png);background-color:#fff;background-repeat:repeat-x;text-align:center;border:none;border-radius:0;width:156px;height:42px;font-weight:600"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .toolbar .container .toolbar-right ul li.cart a",
+      "declarations": "padding:0;font-size:15px;font-weight:600;text-transform:capitalize;--tw-text-opacity:1;color:rgb(10 101 190/var(--tw-text-opacity,1));font:600 15px Open Sans,sans-serif"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .toolbar .container .toolbar-right ul li.cart a .fas",
+      "declarations": "margin-top:8px;margin-right:7px;font-size:22px;--tw-text-opacity:1;color:rgb(20 37 59/var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .toolbar .container .toolbar-right ul li.cart a .items-in-cart",
+      "declarations": "padding:3px 4px;background-color:#c01313;color:#fff;font-size:11px;line-height:14px;position:relative;top:-4px;left:-4px;font-weight:600"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .toolbar .container .toolbar-right ul li>a",
+      "declarations": "padding:0 15px;text-transform:capitalize;color:#fff;line-height:35px"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header .utility-bar .container .list-inline>li.cart a .items-in-cart,.header.fixed .utility-bar .container .list-inline>li.cart a .items-in-cart",
+      "declarations": "border-radius:100px;color:#fff;font-size:11px;font-weight:700;padding:2.8px 4px;position:relative;left:-4px;top:-5px;font-family:Open Sans,sans-serif"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header.fixed .utility-bar .container .list-inline>li.cart a .items-in-cart",
+      "declarations": "border-radius:100px;font-size:12px;font-weight:700;--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1));position:relative"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+      "selector": ".header.fixed .utility-bar .container .list-inline>li.cart",
+      "declarations": "padding:10px 4px 10px 7px;height:42px;width:161px;margin-top:4px;float:right;font-family:Open Sans,sans-serif;font-weight:600;background-image:url(https://cdn.jmbullion.com/wp-content/themes/JMBullion/images/cart-bg.png);background-repeat:repeat-x;border:1px solid #ffca5e"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder body",
+      "declarations": "margin:0;--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1));font:400 15px/18px Open Sans,sans-serif"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(238 238 238/var(--tw-bg-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page ul.etabs .tab a",
+      "declarations": "display:block;height:32px;padding:7px .625rem;font-family:bold;font-size:1rem;line-height:1.5rem;--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity,1));text-decoration-line:none;outline:none;font:700 15px/18px Open Sans,sans-serif"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page ul.etabs .tab.active a",
+      "declarations": "--tw-text-opacity:1;color:rgb(17 78 136/var(--tw-text-opacity,1));font:700 Open Sans,sans-serif"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page ul.etabs .tab.active",
+      "declarations": "position:relative;--tw-border-opacity:1;border-color:rgb(204 204 204/var(--tw-border-opacity,1));padding-top:.375rem;font-family:bold;--tw-text-opacity:1;color:rgb(17 78 136/var(--tw-text-opacity,1));background:#fff"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-content .tab",
+      "declarations": "border-color:transparent;background:transparent"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-container .panel-container",
+      "declarations": "border-width:1px;border-style:solid;--tw-border-opacity:1;border-color:rgb(204 204 204/var(--tw-border-opacity,1));background:#fff"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .search_div input",
+      "declarations": "margin:0;border-width:1px;border-color:light-dark(#767676,#858585);padding:1px .75rem"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .search_div>button",
+      "declarations": "right:-42px;top:0;height:45px;width:42px;border-top-right-radius:.375rem;border-bottom-right-radius:.375rem;border-color:none;--tw-bg-opacity:1;background-color:rgb(20 88 145/var(--tw-bg-opacity,1));font-size:1.125rem;line-height:1.75rem;--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .search_message a",
+      "declarations": "--tw-text-opacity:1;color:rgb(18 94 167/var(--tw-text-opacity,1));text-decoration-line:underline"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-container .panel-container",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-container .panel-container",
+      "declarations": "border-width:1px;border-style:solid;--tw-border-opacity:1;border-color:rgb(204 204 204/var(--tw-border-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-container .panel-container",
+      "declarations": "border-width:1px;border-style:solid;--tw-border-opacity:1;border-color:rgb(204 204 204/var(--tw-border-opacity,1))"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-container .tab-content",
+      "declarations": "border-width:1px;border-style:solid;--tw-border-opacity:1;border-color:rgb(204 204 204/var(--tw-border-opacity,1));padding-left:10px;padding-right:10px;padding-top:55px"
+    },
+    {
+      "source": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+      "selector": ".autobyorder .product-detail-page .tab-content .tab>.tab-cols",
+      "declarations": "position:relative;float:left;margin-left:13px;margin-bottom:1.25rem;width:14rem;border-width:1px;border-style:solid;--tw-border-opacity:1;border-color:rgb(205 205 205/var(--tw-border-opacity,1));--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1));padding:1.25rem .625rem .75rem;text-align:center"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Buy Gold & Silver Bullion Online | Free Shipping | JM Bullion",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#125ea7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#14253b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#858585",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5faff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eef0f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#edbb56",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.accent-gold-deep": {
+      "value": "#deb053",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.accent-gold-pale": {
+      "value": "#fadb99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css"
+      ]
+    },
+    "colors.highlight-blue": {
+      "value": "#428bca",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.alert": {
+      "value": "#c01313",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#439439",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#d0011b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#b7b7b7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans, Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.border-strong}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xs} {spacing.base}",
+        "height": "35px"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-md}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.none} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.title-md}",
+        "metaTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.section} {spacing.xl}",
+        "accentColor": "{colors.highlight-blue}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "mutedTextColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "height": "35px",
+        "width": "375px"
+      },
+      "status": "inferred"
+    },
+    "components.spot-price-ticker": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.border-strong}",
+        "textColor": "{colors.accent-gold-deep}",
+        "positiveColor": "{colors.success}",
+        "negativeColor": "{colors.danger}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#cccccc": {
+        "selector": "#achievements .achievement-content",
+        "property": "--tw-shadow",
+        "declaration": "inset 0 -10px 32px -10px #ccc",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#439439": {
+        "selector": ".availability .fa-check-circle",
+        "property": "color",
+        "declaration": "#439439",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#ffffff": {
+        "selector": ".first-slide .slick-dots li button:before",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#428bca": {
+        "selector": ".first-slide .slick-dots .slick-active button:before",
+        "property": "color",
+        "declaration": "#428bca",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#deb053": {
+        "selector": ".reviews .review-btm-wrapper .rating-count span:first-child",
+        "property": "color",
+        "declaration": "#deb053",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#666666": {
+        "selector": ".pakb-breadcrumb a,.pakb-breadcrumb li.active,li.pakb-breadcrumb,ul.pakb-breadcrumb",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#125ea7": {
+        "selector": "#contact .contact-row .row-1:hover",
+        "property": "--tw-shadow-color",
+        "declaration": "#125ea7",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#c01313": {
+        "selector": ".header .toolbar .container .toolbar-right ul li.cart a .items-in-cart",
+        "property": "background-color",
+        "declaration": "#c01313",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#b7b7b7": {
+        "selector": ".cart-border:before",
+        "property": "background",
+        "declaration": "#b7b7b7",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#d0011b": {
+        "selector": ".order-steps .steps .step span.number.red",
+        "property": "background",
+        "declaration": "#d0011b",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "#858585": {
+        "selector": ".autobyorder .product-detail-page .search_div input",
+        "property": "border-color",
+        "declaration": "light-dark(#767676,#858585)",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      },
+      "#eef0f2": {
+        "selector": ".autobyorder .product-detail-page .checkout_area",
+        "property": "background",
+        "declaration": "#eef0f2",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      },
+      "#edbb56": {
+        "selector": "#autobuy-form .butn_reload",
+        "property": "background",
+        "declaration": "#edbb56",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      },
+      "#fadb99": {
+        "selector": "#autobuy-form .butn_reload",
+        "property": "background",
+        "declaration": "linear-gradient(#fadb99,#edbb56)",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      },
+      "#f5faff": {
+        "selector": ".autobyorder .activeship,.autobyorder li.addr.active",
+        "property": "background",
+        "declaration": "#f5faff",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      },
+      "#14253b": {
+        "selector": ".sales-section .payment-section table thead",
+        "property": "background",
+        "declaration": "#14253b",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": ".reviewer.review-title .name",
+        "property": "font-family",
+        "declaration": "Open Sans,sans-serif",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "sans-serif": {
+        "selector": ".reviewer.review-title .name",
+        "property": "font-family",
+        "declaration": "Open Sans,sans-serif",
+        "url": "https://www.jmbullion.com/_next/static/css/43e156d3f2aa8d1e.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "bd89a30cb08e0dd06bddab6a9f85960ef663c167d9d1898d0ad20d608c8ca1f3"
+      },
+      "Arial": {
+        "selector": "#accessibility.container.blog-pages .basic-page-heading h2",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://www.jmbullion.com/_next/static/css/26fc6acf2fa66217.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "92384760ac38e1cb83d7ca0c7d1cbad94649b8913bc1cf38cde6473874dee42a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

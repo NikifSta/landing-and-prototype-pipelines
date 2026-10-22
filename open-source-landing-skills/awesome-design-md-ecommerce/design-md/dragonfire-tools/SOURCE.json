@@ -1,0 +1,875 @@
+{
+  "source_url": "https://www.dragonfiretools.com",
+  "final_url": "https://dragonfiretools.com/",
+  "captured_at": "2026-09-28T04:05:27.216292+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.dragonfiretools.com",
+      "final_url": "https://dragonfiretools.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "final_url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019e1c24-989f-7b1d-a482-cdc61607a4fd/logo-showcase-15/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/019e1c24-989f-7b1d-a482-cdc61607a4fd/logo-showcase-15/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "034de7637ffb9faef5be57e3875724cae9a8f18b9faeba8bb38b16875abe371d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 168,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#111111": {
+      "count": 165,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#ff3333": {
+      "count": 119,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 78,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#ff4747": {
+      "count": 25,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#717171": {
+      "count": 11,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 17,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#e10600": {
+      "count": 4,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 4,
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "#fce2e2": {
+      "count": 2,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "#51a551": {
+      "count": 3,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "#434343": {
+      "count": 12,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "#818181": {
+      "count": 8,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "#0000004d": {
+      "count": 5,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 15,
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    }
+  },
+  "font_families": {
+    "IBM Plex Sans": [
+      "https://dragonfiretools.com/"
+    ],
+    "sans-serif": [
+      "https://dragonfiretools.com/"
+    ],
+    "Oswald": [
+      "https://dragonfiretools.com/"
+    ],
+    "Teko": [
+      "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": ".hero__buttons > a[style*=\"background:#f33\"]:hover,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#f33\"]:active,\n  #hero-slideshow .hero__buttons > a[",
+      "declarations": "background: #FF4747 !important;\n    border-color: #F33 !important;"
+    },
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": "ttons > a[style*=\"background:#4d4d4d\"]:hover,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#4d4d4d\"]:active,\n  #hero-slideshow .hero__buttons > a[sty",
+      "declarations": "background: #717171 !important;\n    border-color: #4D4D4D !important;"
+    },
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": "#banner-1 .ls-header-wrapper .ls-header-wrapper-title",
+      "declarations": "color: #ffffff;\n    \n    \n      font-size: 18px;"
+    },
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": "#banner-1 .ls-header-wrapper .ls-header-wrapper-subtitle",
+      "declarations": "color: #6c6c6c;"
+    },
+    {
+      "source": "https://dragonfiretools.com/",
+      "selector": "#banner-1 .ls-header-wrapper .ls-header-branding",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "header",
+      "declarations": "font-family:Teko"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": ":root",
+      "declarations": "--font-size-heading-large: 2.3625rem;--font-size-heading-medium: 2.0625rem;--font-size-heading-1: 1.9125rem;--font-size-heading-2: 1.825rem;--font-size-heading-3: 1.675rem;--font-size-heading-4: 1.375rem;--font-size-heading-5: 1rem;--font-size-heading-6: 1rem;--font-size-body-larger: 1.375rem;--font-size-body-large: 1.25rem;--font-size-body-medium: 1.125rem;--font-size-body: 1rem;--font-size-body-small: .9375rem;--font-size-body-smaller: .875rem;--font-size-body-smallest: .8125rem;--font-size-body-tiny: .75rem;--font-size-button-small: .8125rem;--font-size-button-medium: .875rem;--font-size-button-large: 1.0625rem;--font-size-button-x-large: 1.1875rem;--font-size-menu-large: 1.0625rem;--font"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": ":root",
+      "declarations": "--font-size-heading-large: 2.203125rem"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": ":root",
+      "declarations": "--font-size-heading-medium: 1.921875rem;--font-size-heading-1: 1.78125rem;--font-size-heading-2: 1.703125rem;--font-size-heading-3: 1.5625rem;--font-size-heading-4: 1.28125rem;--font-size-heading-5: .9296875rem;--font-size-heading-6: .9296875rem;--font-size-body-larger: 1.2890625rem;--font-size-body-large: 1.171875rem;--font-size-body-medium: 1.0546875rem;--font-size-body: .9375rem;--font-size-body-small: .87890625rem;--font-size-body-smaller: .8203125rem;--font-size-body-smallest: .76171875rem;--font-size-body-tiny: .703125rem;--font-size-button-small: .8203125rem;--font-size-button-medium: .875rem;--font-size-button-large: .9921875rem;--font-size-button-x-large: 1.16796875rem;--font-size-m"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "data-subcollections-layout=menu] .subcollections-menu__menu-items h2,h6,.highlights-banner__heading,h5,h4,.featured-collection__title-card-heading,h3,h2,.slides",
+      "declarations": "font-family:Oswald,sans-serif;font-style:normal;font-weight:500;letter-spacing:.02em"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "depth-1>.navmenu-item>.navmenu-link,.navmenu-meganav.navmenu-meganav--desktop .navmenu-item-text,.site-navigation .navmenu-depth-1>li>a,.site-navigation a,.site",
+      "declarations": "font-family:Oswald,sans-serif;font-style:normal;font-weight:500;font-size:var(--font-size-menu);letter-spacing:.04em"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "r__caption-button.countdown-timer__caption-button--secondary,.countdown-timer__caption-button.countdown-timer__caption-button--primary,.button-secondary,.button",
+      "declarations": "font-size:var(--font-size-button-small);padding:.625rem 1rem;letter-spacing:.02em;font-family:Oswald,sans-serif;font-style:normal;font-weight:500;display:inline-block;text-decoration:none;cursor:pointer;border-radius:3px;transition:width 125ms cubic-bezier(.4,0,.2,1),height 125ms cubic-bezier(.4,0,.2,1),border-color 125ms cubic-bezier(.4,0,.2,1),background-color 125ms cubic-bezier(.4,0,.2,1),box-shadow 125ms cubic-bezier(.4,0,.2,1)"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "tton--secondary.disabled,.countdown-timer__caption-button.countdown-timer__caption-button--primary.disabled,.button-secondary.disabled,.button-primary.disabled,",
+      "declarations": "color:#fff;cursor:default;background-color:#999;border:1px solid #999999"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "ord-page-content--inner,.cart--section,.article--container,.article-image--content-width,.announcement-bar-text-mobile,.announcement-bar-text,.fourohfour--conta",
+      "declarations": "--layout-container-max-width: 1600px;--layout-container-gutter: 10px;max-width:var(--layout-container-max-width);padding-right:10px;padding-left:10px;margin-right:auto;margin-left:auto"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "ord-page-content--inner,.cart--section,.article--container,.article-image--content-width,.announcement-bar-text-mobile,.announcement-bar-text,.fourohfour--conta",
+      "declarations": "--layout-container-gutter: 15px;padding-right:15px;padding-left:15px"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "ord-page-content--inner,.cart--section,.article--container,.article-image--content-width,.announcement-bar-text-mobile,.announcement-bar-text,.fourohfour--conta",
+      "declarations": "--layout-container-gutter: 25px;padding-right:25px;padding-left:25px"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": ".navmenu-depth-2 .navmenu-link,.complementary-product__name a,.productgrid--sidebar-menu .navmenu-link,.filter-item,.productitem--title a,.cart-item__remove-lin",
+      "declarations": "color:#111;text-decoration:none;transition:color .1s cubic-bezier(.4,0,.2,1)"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "ary-product__name a:hover,.productgrid--sidebar-menu .navmenu-link:hover,.filter-item:hover,.productitem--title a:hover,.cart-item__remove-link:hover,.hotspot__",
+      "declarations": "color:#f33"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "checkmark,.productitem__compare-checkbox-icon .checkmark,.recipient-disclosure__checkbox-label .checkmark,.order-checkbox__icon .checkmark,.account-address-form",
+      "declarations": "display:block;width:14px;height:14px;color:#f33;border-color:#ddd;border-style:solid;border-width:1px;border-radius:2px;stroke-miterlimit:10"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "re__filter-checkbox:focus+.product-compare__filter-label .checkmark[data-animation-state=unchecked],input[name=\"address[default]\"]:focus~.form-icon--checkbox .c",
+      "declarations": "border-color:#bebebe;box-shadow:0 0 0 3px #0000001a"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": "search-button,.modal-close,.message-banner--close,.search-flydown__continue,.live-search-takeover-cancel,.atc-banner--close,.cart-shipping .cart-shipping-toggle",
+      "declarations": "font-family:IBM Plex Sans,sans-serif;font-style:normal;font-weight:400;padding:0;cursor:pointer;background:transparent;border:0;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+      "selector": ".productgrid--no-results-title,.blog--no-results-title",
+      "declarations": "font-family:IBM Plex Sans,sans-serif;font-style:normal;font-weight:300;font-size:var(--font-size-heading-4);margin-top:0;margin-bottom:0;color:#111"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Premium Garage Workbenches, Tool Boxes & Wall Cabinets — Dragonfire Tool Storage",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ff3333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#ff4747",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#4d4d4d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value": "#717171",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#434343",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "colors.muted": {
+      "value": "#818181",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.alert": {
+      "value": "#e10600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#51a551",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "colors.tint-red": {
+      "value": "#fce2e2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#0000004d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Teko, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 500,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "38px",
+        "fontWeight": 500,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "26px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": 0
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": 0
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "IBM Plex Sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": 0
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "overlayColor": "{colors.overlay}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-xl}",
+        "subheadTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.tint-red}",
+        "textColor": "{colors.alert}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-list": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "dividerColor": "{colors.hairline}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "a.slideshow-slide__content-background-link",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--shopify-chat-text-color",
+        "declaration": "#000000",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#111111": {
+        "selector": "inline-style",
+        "property": "background",
+        "declaration": "#111",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#ff3333": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#f33",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#4d4d4d": {
+        "selector": "inline-style",
+        "property": "background",
+        "declaration": "#4d4d4d",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#ff4747": {
+        "selector": "#hero-slideshow .hero__buttons > a[style*=\"background:#f33\"]:hover,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#f33\"]:active,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#f33\"]:focus-visible",
+        "property": "background",
+        "declaration": "#FF4747",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#717171": {
+        "selector": "#hero-slideshow .hero__buttons > a[style*=\"background:#4d4d4d\"]:hover,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#4d4d4d\"]:active,\n  #hero-slideshow .hero__buttons > a[style*=\"background:#4d4d4d\"]:focus-visible",
+        "property": "background",
+        "declaration": "#717171",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#dddddd": {
+        "selector": "#banner-1 .splide__arrow svg",
+        "property": "fill",
+        "declaration": "#dddddd",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#e10600": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#E10600",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#f6f6f6": {
+        "selector": ".ai-logo-block-awlc5dffwrgmync9eaaigenblockef33cb3e3cnfa",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "#fce2e2": {
+        "selector": ".spr-form-message-error,.product-request-form__error-message,.product-message--error,.message-banner--container.message--error,.article--comments-message.message--error,.account-order .order-item-content__error,.order-footer .order-item-content__error,.message--error.product-request-form__error-mess",
+        "property": "background-color",
+        "declaration": "#fce2e2",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      },
+      "#51a551": {
+        "selector": ".product-request-form__success-message,.message-banner--container.message--success,.article--comments-message.message--success,.message--success.product-request-form__error-message,.message--success.product-request-form__success-message,.contact-page-content .message--success.contact-message,.messag",
+        "property": "color",
+        "declaration": "#51a551",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      },
+      "#434343": {
+        "selector": ".button-secondary:not(.disabled):hover",
+        "property": "border",
+        "declaration": "1px solid #434343",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      },
+      "#818181": {
+        "selector": ".spr-form .spr-form-input-text:not(.live-search-form-field):focus,.spr-form .spr-form-input-email:not(.live-search-form-field):focus,.spr-form .spr-form-input-textarea:not(.live-search-form-field):focus,.form-field-input:not(.live-search-form-field):focus",
+        "property": "border-color",
+        "declaration": "#818181",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      },
+      "#0000004d": {
+        "selector": ".flickity-page-dots .dot",
+        "property": "background-color",
+        "declaration": "#0000004d",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      },
+      "#f3f3f3": {
+        "selector": ".cart-shippingcalc-response",
+        "property": "background-color",
+        "declaration": "#f3f3f3",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      }
+    },
+    "font_families": {
+      "IBM Plex Sans": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "IBM Plex Sans, system-ui, -apple-system, sans-serif",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "sans-serif": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "IBM Plex Sans, system-ui, -apple-system, sans-serif",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "Oswald": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "Oswald, system-ui, sans-serif",
+        "url": "https://dragonfiretools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2417ab0490646b273df3662503cda317a5a1787b9dd86417d4ce98f17b1c5ee6"
+      },
+      "Teko": {
+        "selector": "// Braedon custom code starts here @font-face",
+        "property": "font-family",
+        "declaration": "Teko",
+        "url": "https://dragonfiretools.com/cdn/shop/t/10/assets/theme.css?v=134505158732800996281781034593",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fa5de503ab9452cf3aaaecf707b96ee4fa333e8c51fe709bb5a5b894b9e21bde"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

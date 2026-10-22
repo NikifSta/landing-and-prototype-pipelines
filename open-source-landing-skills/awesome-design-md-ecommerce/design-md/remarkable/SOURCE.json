@@ -1,0 +1,975 @@
+{
+  "source_url": "https://remarkable.com",
+  "final_url": "https://remarkable.com/",
+  "captured_at": "2026-09-28T04:27:25.795061+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://remarkable.com",
+      "final_url": "https://remarkable.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f282242f397ee20d116be44bc4a9fa54b51f2332b3cedb291f2fbf739d803f75",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "final_url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 55,
+      "sources": [
+        "https://remarkable.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 31,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#da0810": {
+      "count": 4,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#fcfbf8": {
+      "count": 25,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#6e635e": {
+      "count": 5,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#37322f": {
+      "count": 3,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#211e1c": {
+      "count": 14,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#f8f7f6": {
+      "count": 10,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#e6eae6": {
+      "count": 2,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#5f6d5f": {
+      "count": 5,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#99c3ff": {
+      "count": 10,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#1142d4": {
+      "count": 13,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#003bb2": {
+      "count": 16,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#211e1cbf": {
+      "count": 6,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#2559f4": {
+      "count": 12,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#e9f2ff": {
+      "count": 6,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#cce1ff": {
+      "count": 6,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#211e1c1a": {
+      "count": 6,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#211e1c33": {
+      "count": 4,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "#f7979b": {
+      "count": 3,
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    }
+  },
+  "font_families": {
+    "reMarkableSans": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "reMarkableSerif": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "Helvetica": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "sans-serif": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "Georgia": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "serif": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ],
+    "Arial": [
+      "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root,[data-theme=dark-green],[data-theme=dark-neutral],[data-theme=dark-red],[data-theme=light-green],[data-theme=light-neutral],[data-theme=light-red]",
+      "declarations": "color:var(--ark-text-default)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-fluid-spacing-quarter:clamp(1rem,.554vw + .836rem,1.5rem);--ark-fluid-spacing-three-quarters:clamp(2rem,2.768vw + 1.178rem,4.5rem)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root,[data-theme^=light-]",
+      "declarations": "--ark-pictogram-blue:var(--color-pen-blue)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-4);--ark-responsive-spacing-half:var(--spacing-8);--ark-responsive-spacing-three-quarters:var(--spacing-12);--ark-responsive-spacing-1x:var(--spacing-16);--ark-responsive-spacing-2x:var(--spacing-32)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-6);--ark-responsive-spacing-half:var(--spacing-12);--ark-responsive-spacing-three-quarters:1.125rem;--ark-responsive-spacing-1x:var(--spacing-24);--ark-responsive-spacing-2x:var(--spacing-48)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-8);--ark-responsive-spacing-half:var(--spacing-16);--ark-responsive-spacing-three-quarters:var(--spacing-24);--ark-responsive-spacing-1x:var(--spacing-32);--ark-responsive-spacing-2x:var(--spacing-64)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-16);--ark-responsive-spacing-half:var(--spacing-32);--ark-responsive-spacing-three-quarters:var(--spacing-48);--ark-responsive-spacing-1x:var(--spacing-64);--ark-responsive-spacing-2x:var(--spacing-128)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-20);--ark-responsive-spacing-half:var(--spacing-40);--ark-responsive-spacing-three-quarters:3.75rem;--ark-responsive-spacing-1x:5rem;--ark-responsive-spacing-2x:10rem"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-responsive-spacing-quarter:var(--spacing-24);--ark-responsive-spacing-half:var(--spacing-48);--ark-responsive-spacing-three-quarters:4.5rem;--ark-responsive-spacing-1x:6rem;--ark-responsive-spacing-2x:12rem"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root,[data-theme=light-neutral]",
+      "declarations": "--foreground-1:var(--color-neutral-dark-1);--foreground-2:var(--color-neutral-dark-2);--foreground-3:var(--color-neutral-dark-3);--foreground-4:var(--color-neutral-dark-4);--foreground-5:var(--color-neutral-dark-5);--foreground-6:var(--color-neutral-dark-6);--foreground-7:var(--color-neutral-dark-7);--foreground-8:var(--color-neutral-dark-8);--background-1:var(--color-neutral-light-1);--background-2:var(--color-neutral-light-2);--background-3:var(--color-neutral-light-3);--background-4:var(--color-neutral-light-4);--background-5:var(--color-neutral-light-5);--background-6:var(--color-neutral-light-6);--background-7:var(--color-neutral-light-7);--background-8:var(--color-neutral-light-8)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-stacking-margin-base:10;--ark-stacking-above-margin:calc(var(--ark-stacking-margin-base) + 10);--ark-stacking-below-margin:calc(var(--ark-stacking-margin-base) - 10)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root,[data-theme=light-green],[data-theme=light-neutral],[data-theme=light-red]",
+      "declarations": "--ark-divider-header-border-weight:1px;--ark-divider-header-border-color:var(--ark-divider-default)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-input-background-color:transparent;--ark-navbar-height:52px"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-navbar-height:67px"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-margin-width:var(--ark-responsive-spacing-2x)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-margin-width:12.5%"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--ark-margin-width:15%"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--animate-slide-in-duration:1s;--animate-slide-in-distance:50px;--animate-slide-in-easing:cubic-bezier(.16,1,.3,1)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--container-margin-width:var(--ark-responsive-spacing-2x)"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--container-margin-width:12.5cqw"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ":root",
+      "declarations": "--container-margin-width:15cqw"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ".rm-ux-signals .uxsignals-header h2",
+      "declarations": "font-family:var(--font-serif);font-weight:var(--font-weight-regular);letter-spacing:0;font-size:var(--text-fluid-lg);line-height:var(--leading-120);margin-bottom:var(--spacing-8);text-wrap:balance;text-align:center!important;font-weight:var(--font-weight-medium)!important"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": "body",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:reMarkableSans,Helvetica,sans-serif;line-height:normal"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": "h1,h2",
+      "declarations": "font-family:reMarkableSerif,Book Antiqua,Georgia,serif;font-weight:400"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ".ark-accordion>button",
+      "declarations": "font-family:var(--font-sans);font-weight:var(--font-weight-regular);line-height:var(--leading-100);letter-spacing:0;font-size:var(--text-16);--tw-font-weight:var(--font-weight-semibold);font-weight:var(--font-weight-semibold);width:100%;padding:var(--spacing-8)0;justify-content:flex-start;align-items:center;gap:var(--spacing-8);text-align:left;grid-template-columns:auto 1fr;display:grid"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ".ark-accordion>button:focus-visible:focus-visible",
+      "declarations": "background-color:var(--ark-interaction-focus-default);color:var(--ark-interaction-focus-foreground);outline:none"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ".ark-accordion>button:focus-visible>:focus-visible",
+      "declarations": "background-color:var(--ark-interaction-focus-default);color:var(--ark-interaction-focus-foreground);outline:none"
+    },
+    {
+      "source": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+      "selector": ".ark-carousel--controls>button",
+      "declarations": "color:var(--ark-text-default);height:var(--spacing-48);width:var(--spacing-48);border-radius:var(--radius-full);background-color:#0000;justify-content:center;align-items:center;display:flex"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "reMarkable: The Paper Tablets for Focused Work | reMarkable",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#003bb2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.ink": {
+      "value": "#211e1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#fcfbf8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.body": {
+      "value": "#37322f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6e635e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#211e1c1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f7f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-blue-bright": {
+      "value": "#2559f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-blue-mid": {
+      "value": "#1142d4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-blue-light": {
+      "value": "#99c3ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-blue-tint": {
+      "value": "#e9f2ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-blue-tint-strong": {
+      "value": "#cce1ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#da0810",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-red-tint": {
+      "value": "#f7979b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#5f6d5f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.accent-green-tint": {
+      "value": "#e6eae6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.divider-strong": {
+      "value": "#211e1c33",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#211e1cbf",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "reMarkableSerif, Georgia, serif",
+        "fontSize": "56px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "reMarkableSerif, Georgia, serif",
+        "fontSize": "36px",
+        "fontWeight": 500,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "reMarkableSans, Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "reMarkableSans, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "reMarkableSans, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "reMarkableSans, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "reMarkableSans, Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "height": "52px",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "linkColor": "{colors.accent-blue-light}",
+        "padding": "{spacing.xxl} {spacing.xl}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-blue-tint}",
+        "textColor": "{colors.accent-blue-mid}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.paper-theme-panel": {
+      "value": {
+        "backgroundColor": "{colors.accent-green-tint}",
+        "textColor": "{colors.accent-green}",
+        "accentBorder": "{colors.accent-red-tint}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.xl}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "background",
+        "declaration": "linear-gradient(to bottom, color-mix(in srgb, var(--color-neutral-dark-8) 90%, transparent), color-mix(in srgb, var(--color-neutral-dark-8) 20%, transparent))",
+        "url": "https://remarkable.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f282242f397ee20d116be44bc4a9fa54b51f2332b3cedb291f2fbf739d803f75"
+      },
+      "#ffffff": {
+        "selector": "*,::backdrop,:after,:before",
+        "property": "--tw-mask-linear",
+        "declaration": "linear-gradient(#fff,#fff)",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#000000": {
+        "selector": "*,::backdrop,:after,:before",
+        "property": "--tw-mask-top-from-color",
+        "declaration": "black",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#da0810": {
+        "selector": ":host,:root",
+        "property": "--color-feedback-red-500",
+        "declaration": "#da0810",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#fcfbf8": {
+        "selector": ":host,:root",
+        "property": "--color-neutral-light-1",
+        "declaration": "#fcfbf8",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#6e635e": {
+        "selector": ":host,:root",
+        "property": "--color-neutral-dark-1",
+        "declaration": "#6e635e",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#37322f": {
+        "selector": ":host,:root",
+        "property": "--color-neutral-dark-6",
+        "declaration": "#37322f",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#211e1c": {
+        "selector": ":host,:root",
+        "property": "--color-neutral-dark-8",
+        "declaration": "#211e1c",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#f8f7f6": {
+        "selector": ":host,:root",
+        "property": "--color-red-light-1",
+        "declaration": "#f8f7f6",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#e6eae6": {
+        "selector": ":host,:root",
+        "property": "--color-green-light-3",
+        "declaration": "#e6eae6",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#5f6d5f": {
+        "selector": ":host,:root",
+        "property": "--color-green-dark-1",
+        "declaration": "#5f6d5f",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#99c3ff": {
+        "selector": ":host,:root",
+        "property": "--color-pen-blue-light",
+        "declaration": "#99c3ff",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#1142d4": {
+        "selector": ":host,:root",
+        "property": "--color-pen-blue",
+        "declaration": "#1142d4",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#003bb2": {
+        "selector": ":host,:root",
+        "property": "--color-pen-blue-dark",
+        "declaration": "#003bb2",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#211e1cbf": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-backdrop",
+        "declaration": "#211e1cbf",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#2559f4": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-primary-default",
+        "declaration": "#2559f4",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#e9f2ff": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-primary-default-subtle",
+        "declaration": "#e9f2ff",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#cce1ff": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-primary-default-subtle-hover",
+        "declaration": "#cce1ff",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#211e1c1a": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-tertiary-default",
+        "declaration": "#211e1c1a",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#211e1c33": {
+        "selector": ":host,:root",
+        "property": "--color-light-neutral-interaction-tertiary-active",
+        "declaration": "#211e1c33",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "#f7979b": {
+        "selector": ":host,:root",
+        "property": "--color-dark-neutral-interaction-danger-default",
+        "declaration": "#f7979b",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      }
+    },
+    "font_families": {
+      "reMarkableSans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "reMarkableSans",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "reMarkableSerif": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "reMarkableSerif",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "reMarkableSans,Helvetica,sans-serif",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "reMarkableSans,Helvetica,sans-serif",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "Georgia": {
+        "selector": "h1,h2",
+        "property": "font-family",
+        "declaration": "reMarkableSerif,Book Antiqua,Georgia,serif",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "serif": {
+        "selector": "h1,h2",
+        "property": "font-family",
+        "declaration": "reMarkableSerif,Book Antiqua,Georgia,serif",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      },
+      "Arial": {
+        "selector": ".font-\\[Arial\\]",
+        "property": "font-family",
+        "declaration": "Arial",
+        "url": "https://remarkable.com/_next/static/css/81d7119b2683ca42.css?dpl=dpl_7diBzp6KgcCgLViGk2tL43Y2Ju1U",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f8d665c5081f88ee7565e7250bfec97f0c8dd7e3854dccc39b3043f1e7814fb8"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,863 @@
+{
+  "source_url": "https://tractive.com",
+  "final_url": "https://tractive.com/",
+  "captured_at": "2026-09-28T09:54:17.823087+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tractive.com",
+      "final_url": "https://tractive.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4",
+      "snapshot": "homepage.html"
+    }
+  ],
+  "colors": {
+    "#121623": {
+      "count": 15,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#1a73e8": {
+      "count": 14,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#e3e4ea": {
+      "count": 7,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#76abf1": {
+      "count": 4,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#5c606e": {
+      "count": 3,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#b42f4f": {
+      "count": 5,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#f5f5fa": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#464b5a": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#fbe4e9": {
+      "count": 4,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#4a14a2": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#155cba": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#e8f1fc": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#c0c2ca": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#d6ff70": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#fef2e6": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#f3ecff": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "#00b67a": {
+      "count": 1,
+      "sources": [
+        "https://tractive.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://tractive.com/"
+    ],
+    "sans-serif": [
+      "https://tractive.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://tractive.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": "body",
+      "declarations": "font-family:Poppins,sans-serif;font-weight:500;color:#121623"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--breakpoint-sm: 640px;--breakpoint-md: 768px;--breakpoint-lg: 1024px;--breakpoint-xl: 1280px"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root,:host",
+      "declarations": "--font-size-h1: 2.5rem;--font-size-h2: 2rem;--font-size-h3: 1.5rem;--font-size-h4: 1.5rem;--font-size-h5: 1.125rem;--font-size-body-normal: 1rem;--font-size-body-small: 0.875rem;--font-size-body-x-small: 0.75rem;--font-weight-h1: 700;--font-weight-h2: 600;--font-weight-h3: 600;--font-weight-h4: 600;--font-weight-h5: 500;--font-weight-body-normal: 500;--font-weight-body-small: 500;--font-weight-body-x-small: 500;--font-weight-heavy: 600;--line-height-h1: 3rem;--line-height-h2: 2.5rem;--line-height-h3: 2rem;--line-height-h4: 2rem;--line-height-h5: 1.625rem;--line-height-body-normal: 1.5rem;--line-height-body-small: 1.375rem;--line-height-body-x-small: 1.25rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root,:host",
+      "declarations": "--font-size-h1: 3rem;--font-size-h2: 3rem;--font-size-h3: 2rem;--font-size-h4: 1.5rem;--font-size-h5: 1.25rem;--font-size-body-normal: 1rem;--font-size-body-small: 0.875rem;--font-size-body-x-small: 0.75rem;--line-height-h1: 3.5rem;--line-height-h2: 3.5rem;--line-height-h3: 2.5rem;--line-height-h4: 2rem;--line-height-h5: 1.75rem;--line-height-body-normal: 1.5rem;--line-height-body-small: 1.375rem;--line-height-body-x-small: 1.25rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--margin-section: 1.25rem;--margin-section-small: 0.75rem;--gutter: 0.5rem;--wide-section-padding: 1.25rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--margin-section: 2.5rem;--margin-section-small: 0.75rem;--gutter: 0.75rem;--wide-section-padding: 2.5rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--margin-section: 3.5rem;--margin-section-small: 1.5rem;--gutter: 1rem;--wide-section-padding: 5rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button",
+      "declarations": "display:flex;flex-direction:row;align-items:center;justify-content:center;min-width:7.5rem;height:3rem;padding:.75rem 2.5rem;font-size:var(--font-size-body-normal);font-weight:var(--font-weight-heavy);line-height:var(--line-height-body-normal);color:#fff;background:#1a73e8;border:none;border-radius:25rem;transition:background 300ms ease-out,border 300ms ease-out"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button:disabled",
+      "declarations": "color:#dbdbe2;cursor:initial;background:#e3e4ea"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button--primary-dark",
+      "declarations": "color:#1a73e8;background:#fff"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button--transparent-dark",
+      "declarations": "color:#fff;background:rgba(0,0,0,0);border:1px solid #fff"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button--secondary",
+      "declarations": "color:#121623;background:#fff;border:1px solid #5c606e"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button--secondary:disabled",
+      "declarations": "color:#e3e4ea;background:#fff;border-color:#e3e4ea"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".button--secondary:hover:not(:disabled)",
+      "declarations": "background:#d1e3fa;border-color:#1a73e8"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".icon-button",
+      "declarations": "display:flex;width:1.5rem;height:1.5rem;background-color:rgba(0,0,0,0);border:none"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".icon-button--cart span",
+      "declarations": "position:absolute;top:.25rem;right:.25rem;padding:.125rem .25rem;font-size:var(--font-size-body-x-small);font-weight:bold;line-height:1;color:#fff;background:#b42f4f;border-radius:25rem;transform:translate(50%, -50%)"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".language-switcher-button--dark:not(.language-switcher-button--open)",
+      "declarations": "color:#fff;background:hsla(0,0%,100%,.1)"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--breakpoint-sm: 640px;--breakpoint-md: 768px;--breakpoint-lg: 1024px;--breakpoint-xl: 1280px"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root,:host",
+      "declarations": "--font-size-h1: 2.5rem;--font-size-h2: 2rem;--font-size-h3: 1.5rem;--font-size-h4: 1.5rem;--font-size-h5: 1.125rem;--font-size-body-normal: 1rem;--font-size-body-small: 0.875rem;--font-size-body-x-small: 0.75rem;--font-weight-h1: 700;--font-weight-h2: 600;--font-weight-h3: 600;--font-weight-h4: 600;--font-weight-h5: 500;--font-weight-body-normal: 500;--font-weight-body-small: 500;--font-weight-body-x-small: 500;--font-weight-heavy: 600;--line-height-h1: 3rem;--line-height-h2: 2.5rem;--line-height-h3: 2rem;--line-height-h4: 2rem;--line-height-h5: 1.625rem;--line-height-body-normal: 1.5rem;--line-height-body-small: 1.375rem;--line-height-body-x-small: 1.25rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root,:host",
+      "declarations": "--font-size-h1: 3rem;--font-size-h2: 3rem;--font-size-h3: 2rem;--font-size-h4: 1.5rem;--font-size-h5: 1.25rem;--font-size-body-normal: 1rem;--font-size-body-small: 0.875rem;--font-size-body-x-small: 0.75rem;--line-height-h1: 3.5rem;--line-height-h2: 3.5rem;--line-height-h3: 2.5rem;--line-height-h4: 2rem;--line-height-h5: 1.75rem;--line-height-body-normal: 1.5rem;--line-height-body-small: 1.375rem;--line-height-body-x-small: 1.25rem"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".navbar__cta-button:not(:disabled)",
+      "declarations": "color:#121623"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": "l-desktop>span,.navbar--transparent:not(.navbar--opaque) .icon-button--account,.navbar--transparent:not(.navbar--opaque) .icon-button--cart,.navbar--transparent",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".navbar--transparent:not(.navbar--opaque) .navbar__cta-button",
+      "declarations": "color:#1a73e8;border-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ".navbar--transparent:not(.navbar--opaque) .navbar__cta-button:hover",
+      "declarations": "color:#fff;background:#1a73e8"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--font-letter-spacing-xs: -0.0625rem;--font-letter-spacing-s: -0.0125rem;--font-letter-spacing-m: 0rem;--font-letter-spacing-l: 0.0125rem;--font-letter-spacing-xl: 0.0625rem;--font-size-body-xs: 0.75rem;--font-size-body-s: 0.875rem;--font-size-body-m: 1rem;--font-size-caption-2xs: 0.5rem;--font-size-caption-xs: 0.625rem;--font-size-caption-s: 0.75rem;--font-size-title-xs: 1rem;--font-size-title-s: 1.125rem;--font-size-title-m: 1.25rem;--font-size-title-l: 1.5rem;--font-size-title-xl: 1.75rem;--font-size-title-2xl: 2rem;--font-size-title-3xl: 2.5rem;--font-size-title-4xl: 3rem;--font-size-title-5xl: 3.5rem;--font-size-title-6xl: 4rem;--font-size-uppercase-xs: 0.75rem;--font-size-uppercase-s: "
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--font-letter-spacing-xs: -0.0625rem;--font-letter-spacing-s: -0.0125rem;--font-letter-spacing-m: 0rem;--font-letter-spacing-l: 0.0125rem;--font-letter-spacing-xl: 0.0625rem;--font-size-body-xs: 0.75rem;--font-size-body-s: 0.875rem;--font-size-body-m: 1rem;--font-size-caption-2xs: 0.5rem;--font-size-caption-xs: 0.625rem;--font-size-caption-s: 0.75rem;--font-size-title-xs: 1rem;--font-size-title-s: 1.125rem;--font-size-title-m: 1.25rem;--font-size-title-l: 1.5rem;--font-size-title-xl: 1.75rem;--font-size-title-2xl: 2rem;--font-size-title-3xl: 2.5rem;--font-size-title-4xl: 3rem;--font-size-title-5xl: 3.5rem;--font-size-title-6xl: 4rem;--font-size-uppercase-xs: 0.75rem;--font-size-uppercase-s: "
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--font-letter-spacing-xs: -0.0625rem;--font-letter-spacing-s: -0.0125rem;--font-letter-spacing-m: 0rem;--font-letter-spacing-l: 0.0125rem;--font-letter-spacing-xl: 0.0625rem;--font-size-body-xs: 0.75rem;--font-size-body-s: 0.875rem;--font-size-body-m: 1rem;--font-size-caption-2xs: 0.5rem;--font-size-caption-xs: 0.625rem;--font-size-caption-s: 0.75rem;--font-size-title-xs: 1rem;--font-size-title-s: 1.125rem;--font-size-title-m: 1.25rem;--font-size-title-l: 1.75rem;--font-size-title-xl: 2rem;--font-size-title-2xl: 2.5rem;--font-size-title-3xl: 3rem;--font-size-title-4xl: 3.5rem;--font-size-title-5xl: 4rem;--font-size-title-6xl: 4.5rem;--font-size-uppercase-xs: 0.75rem;--font-size-uppercase-s: "
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--breakpoint-sm: 640px;--breakpoint-md: 768px;--breakpoint-lg: 1024px;--breakpoint-xl: 1280px"
+    },
+    {
+      "source": "https://tractive.com/",
+      "selector": ":root",
+      "declarations": "--font-letter-spacing-xs: -0.0625rem;--font-letter-spacing-s: -0.0125rem;--font-letter-spacing-m: 0rem;--font-letter-spacing-l: 0.0125rem;--font-letter-spacing-xl: 0.0625rem;--font-size-body-xs: 0.75rem;--font-size-body-s: 0.875rem;--font-size-body-m: 1rem;--font-size-caption-2xs: 0.5rem;--font-size-caption-xs: 0.625rem;--font-size-caption-s: 0.75rem;--font-size-title-xs: 1rem;--font-size-title-s: 1.125rem;--font-size-title-m: 1.25rem;--font-size-title-l: 1.5rem;--font-size-title-xl: 1.75rem;--font-size-title-2xl: 2rem;--font-size-title-3xl: 2.5rem;--font-size-title-4xl: 3rem;--font-size-title-5xl: 3.5rem;--font-size-title-6xl: 4rem;--font-size-uppercase-xs: 0.75rem;--font-size-uppercase-s: "
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pet GPS Tracker | Health Tracker for Cats and Dogs | Tractive",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1a73e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121623",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#464b5a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#5c606e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e3e4ea",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#e8f1fc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#c0c2ca",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-danger": {
+      "value": "#b42f4f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-danger-soft": {
+      "value": "#fbe4e9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value": "#00b67a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value": "#4a14a2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-purple-soft": {
+      "value": "#f3ecff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-tan-soft": {
+      "value": "#fef2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value": "#d6ff70",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#155cba",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "colors.focus-ring": {
+      "value": "#76abf1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tractive.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.17,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.17,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.33,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.33,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.muted}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-danger}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.tracker-configurator": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "accentColor": "{colors.primary}",
+        "optionBorderColor": "{colors.hairline}",
+        "optionSelectedBorderColor": "{colors.primary}",
+        "priceTypography": "{typography.title-md}",
+        "labelTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#121623": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#121623",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#1a73e8": {
+        "selector": "p>a",
+        "property": "color",
+        "declaration": "#1a73e8",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#ffffff": {
+        "selector": ".button",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#e3e4ea": {
+        "selector": ".button:disabled",
+        "property": "background",
+        "declaration": "#e3e4ea",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#76abf1": {
+        "selector": ".button:active:not(:disabled)",
+        "property": "background",
+        "declaration": "#76abf1",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#5c606e": {
+        "selector": ".button--secondary",
+        "property": "border",
+        "declaration": "1px solid #5c606e",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#b42f4f": {
+        "selector": ".icon-button--cart span",
+        "property": "background",
+        "declaration": "#b42f4f",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#f5f5fa": {
+        "selector": ".language-switcher-button",
+        "property": "background",
+        "declaration": "#f5f5fa",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#464b5a": {
+        "selector": ".navbar__mega-menu--icons-grid p",
+        "property": "color",
+        "declaration": "#464b5a",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#fbe4e9": {
+        "selector": ".badge--background",
+        "property": "background-color",
+        "declaration": "#fbe4e9",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#4a14a2": {
+        "selector": ".badge--purple",
+        "property": "color",
+        "declaration": "#4a14a2",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#155cba": {
+        "selector": ".badge--blue",
+        "property": "color",
+        "declaration": "#155cba",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#e8f1fc": {
+        "selector": ".badge--blue",
+        "property": "background-color",
+        "declaration": "#e8f1fc",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#c0c2ca": {
+        "selector": ".slider-tag",
+        "property": "border",
+        "declaration": "1px solid #c0c2ca",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#d6ff70": {
+        "selector": ".fullscreen-hero__promotion-badge--green",
+        "property": "background-color",
+        "declaration": "#d6ff70",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#fef2e6": {
+        "selector": ".selling-points__item:nth-of-type(1)",
+        "property": "--icon-background",
+        "declaration": "#fef2e6",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#f3ecff": {
+        "selector": ".selling-points__item:nth-of-type(3)",
+        "property": "--icon-background",
+        "declaration": "#f3ecff",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "#00b67a": {
+        "selector": ".tp-1-cgnfh",
+        "property": "fill",
+        "declaration": "#00B67A",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://tractive.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d2a1d51997effff29293a336ff1012e8643410f7d0ed9620732b008ebe2169d4"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

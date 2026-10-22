@@ -1,0 +1,857 @@
+{
+  "source_url": "https://sherwin-williams.com",
+  "final_url": "https://www.sherwin-williams.com/",
+  "captured_at": "2026-09-28T10:14:57.301584+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sherwin-williams.com",
+      "final_url": "https://www.sherwin-williams.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "4ca6373d38eabbdd92053ad730a13b2906cf8123f6bd8bdf0ca5e290a24920ed",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css",
+      "final_url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "52a5deb8123f2c22ceb8f1055865fcab606a7011bacc31a70c446b0c6fdd0e7c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "final_url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "final_url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "411270adf390d009d693961a3d763f6760bb537e28ca53d346fada3d3e048fb9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail.min.c275f6ff415371419a095fbc0399f286.css",
+      "final_url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail.min.c275f6ff415371419a095fbc0399f286.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "12e9454f31e7ca1ab47d7e2df12e34c8ff5a4cce7792e2d37b03d55fbdd3602c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-site.min.cc953185d9696d316ba656fcaa424aeb.css",
+      "final_url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-site.min.cc953185d9696d316ba656fcaa424aeb.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "195923720ecca3912c6f248831949e29863856b5cff3006943ba3ccb9ce08224",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#eeefea": {
+      "count": 55,
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "#2f2f30": {
+      "count": 54,
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 81,
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 15,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css"
+      ]
+    },
+    "#333333": {
+      "count": 13,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 3,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "#0069af": {
+      "count": 30,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "#33bbff": {
+      "count": 4,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css"
+      ]
+    },
+    "#071c51": {
+      "count": 12,
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail.min.c275f6ff415371419a095fbc0399f286.css"
+      ]
+    }
+  },
+  "font_families": {
+    "system-ui": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "-apple-system": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Segoe UI": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Roboto": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "sans-serif": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Helvetica": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Arial": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Playfair Display": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "serif": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ],
+    "Frutiger Neue Condensed": [
+      "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": "body",
+      "declarations": "font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji;margin:0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": "button",
+      "declarations": "background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": "body",
+      "declarations": "font-family:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;line-height:inherit;padding:0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": ".tw-bg-featured-products-background",
+      "declarations": "--tw-bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": ".tw-font-header-megamenu",
+      "declarations": "font-family:Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": ".tw-font-header-myStore",
+      "declarations": "font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": ".tw-text-featured-products-background",
+      "declarations": "--tw-text-opacity:1;color:#fff;color:rgba(255,255,255,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+      "selector": ".tw-text-header-links-blue",
+      "declarations": "--tw-text-opacity:1;color:#3bf;color:rgba(51,187,255,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div",
+      "declarations": "background-color:#fff;-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,.5),0 .25em 1em 0 rgba(0,0,0,.3);box-shadow:0 1px 2px 0 rgba(0,0,0,.5),0 .25em 1em 0 rgba(0,0,0,.3);display:block;max-height:420px;min-height:0;min-height:auto;overflow:hidden;overflow-y:auto;padding:10px;width:auto"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div:before",
+      "declarations": "border-color:transparent transparent #fff;border-style:solid;border-width:0 7px 7px;content:\"\";display:inherit;height:0;left:50%;position:absolute;top:-7px;width:0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .cmp-header__search-categories .cmp-header__search-categories__header",
+      "declarations": "color:#333;float:left;font-size:.9375rem;font-weight:400;margin:15px 14px 0 0;padding-top:9px"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .cmp-header__search-categories .cmp-header__search-category__link",
+      "declarations": "background:#eaeaea;color:#222;cursor:pointer;float:left;font-size:.875rem;height:35px;line-height:22px;margin:15px 15px 0 0;overflow:hidden;padding:10px 15px;-webkit-text-decoration:none;text-decoration:none"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .heading",
+      "declarations": "background:0 0;clear:both;color:#999;font-weight:700;margin:10px 0 8px;padding:6px 0 0;text-transform:none;width:100%"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .autoSuggestDivNestedList .heading",
+      "declarations": "background:0 0;border-bottom:1px solid #ccc;clear:both;color:#999;font-weight:700;text-transform:none"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .autoSuggestDivNestedList .heading span:first-child",
+      "declarations": "color:#333;display:inline-block;font-size:.9375rem;font-weight:400;padding:8px 0 0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .autoSuggestDivNestedList .heading .search-see-all",
+      "declarations": "background:#fff;border:1px dashed #ccc;border-radius:inherit;-webkit-box-shadow:none;box-shadow:none;color:#222;cursor:pointer;float:right;font-size:.6875rem;height:auto;line-height:normal;padding:8px 10px;position:relative;text-transform:uppercase;top:1px;width:auto"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .as_description",
+      "declarations": "color:#0069af;display:inline-block;font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif;font-size:.875rem;font-weight:400;height:auto"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList li a",
+      "declarations": "-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:0 0;color:inherit;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:100%;-webkit-text-decoration:none;text-decoration:none;text-transform:capitalize"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList .as_thumbnail",
+      "declarations": "border:none;color:#0069af;float:none;height:60px;margin-right:18px!important;min-height:64px;overflow:hidden;width:100%"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList .as_description",
+      "declarations": "color:#0069af;display:inline-block;font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif;font-size:.875rem;font-weight:400;height:4.375rem;line-height:1"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList .as_description .partNumber",
+      "declarations": "color:#333;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:.875rem;line-height:140%;margin:5px 0"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList .as_description .highlight",
+      "declarations": "color:#0069af;font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif;font-size:.875rem;font-weight:700"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .color.autoSuggestDivNestedList .as_description>span",
+      "declarations": "color:#333;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:.6875rem;margin-top:5px"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .arrow-see-bg",
+      "declarations": "color:#000;cursor:pointer"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedOtherProductsResults .title-sites-container",
+      "declarations": "-webkit-box-orient:vertical;-webkit-box-direction:normal;color:#0069af;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif;max-width:162px"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedOtherProductsResults .autoSuggestDivNestedList>li>div p",
+      "declarations": "color:#0069af;margin-top:0;padding-top:5px;text-transform:capitalize"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedOtherProductsResults .autoSuggestDivNestedList .heading",
+      "declarations": "background:0 0;border-bottom:1px solid #ccc;clear:both;color:#999;display:inline-block;font-weight:700;margin:10px 0 8px;padding:6px 0 0 15px;text-transform:none;width:100%"
+    },
+    {
+      "source": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+      "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedOtherProductsResults .autoSuggestDivNestedList .title-sites-container",
+      "declarations": "-webkit-box-orient:vertical;-webkit-box-direction:normal;color:#0069af;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;font-family:Frutiger Neue Condensed,Arial,Helvetica,sans-serif;max-width:162px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sherwin-Williams Paints, Stains, Supplies and Coating Solutions",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0069af",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#2f2f30",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "colors.accent-link": {
+      "value": "#33bbff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "colors.navy-deep": {
+      "value": "#071c51",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail.min.c275f6ff415371419a095fbc0399f286.css"
+      ]
+    },
+    "colors.warm-sand": {
+      "value": "#eeefea",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/"
+      ]
+    },
+    "colors.neutral-border": {
+      "value": "#e5e7eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Playfair Display, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Playfair Display, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Frutiger Neue Condensed, Arial, Helvetica, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 700,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.neutral-border}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.warm-sand}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.navy-deep}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "resultBackground": "{colors.canvas}",
+        "categoryChipBackground": "#eaeaea",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-picker": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.neutral-border}",
+        "labelTypography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#eeefea": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#EEEFEA",
+        "url": "https://www.sherwin-williams.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4ca6373d38eabbdd92053ad730a13b2906cf8123f6bd8bdf0ca5e290a24920ed"
+      },
+      "#2f2f30": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#2f2f30",
+        "url": "https://www.sherwin-williams.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4ca6373d38eabbdd92053ad730a13b2906cf8123f6bd8bdf0ca5e290a24920ed"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.sherwin-williams.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4ca6373d38eabbdd92053ad730a13b2906cf8123f6bd8bdf0ca5e290a24920ed"
+      },
+      "#cccccc": {
+        "selector": ".cmp-search__loading-indicator",
+        "property": "border",
+        "declaration": "3px solid #ccc",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "52a5deb8123f2c22ceb8f1055865fcab606a7011bacc31a70c446b0c6fdd0e7c"
+      },
+      "#333333": {
+        "selector": ".cmp-search__loading-indicator",
+        "property": "border-top-color",
+        "declaration": "#333",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail-base.min.7f956b062ad11dbabaedef46adc1754a.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "52a5deb8123f2c22ceb8f1055865fcab606a7011bacc31a70c446b0c6fdd0e7c"
+      },
+      "#e5e7eb": {
+        "selector": "*,:after,:before",
+        "property": "border-color",
+        "declaration": "#e5e7eb",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "#f6f6f6": {
+        "selector": ".tw-bg-topbar-my-store-background",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "#0069af": {
+        "selector": ".tw-bg-topbar-text-blue",
+        "property": "background-color",
+        "declaration": "#0069af",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "#33bbff": {
+        "selector": ".tw-text-header-links-blue",
+        "property": "color",
+        "declaration": "#3bf",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "#666666": {
+        "selector": ".tw-text-top-modal-dropdown-shadow",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "#eaeaea": {
+        "selector": ".cmp-header__search-container #autoSuggest_Result_div #suggestedProductsResults .cmp-header__search-categories .cmp-header__search-category__link",
+        "property": "background",
+        "declaration": "#eaeaea",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-header.min.bbbab23cad68e4332d040260c2e15ccd.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "411270adf390d009d693961a3d763f6760bb537e28ca53d346fada3d3e048fb9"
+      },
+      "#071c51": {
+        "selector": ".cmp-simpleshare svg",
+        "property": "fill",
+        "declaration": "#071c51",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-gateway-storedetail.min.c275f6ff415371419a095fbc0399f286.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "12e9454f31e7ca1ab47d7e2df12e34c8ff5a4cce7792e2d37b03d55fbdd3602c"
+      }
+    },
+    "font_families": {
+      "system-ui": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "-apple-system": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Segoe UI": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Roboto": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica,Arial,Apple Color Emoji,Segoe UI Emoji",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Playfair Display": {
+        "selector": ".tw-font-tinted",
+        "property": "font-family",
+        "declaration": "Playfair Display,serif",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "serif": {
+        "selector": ".tw-font-tinted",
+        "property": "font-family",
+        "declaration": "Playfair Display,serif",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      },
+      "Frutiger Neue Condensed": {
+        "selector": ".tw-font-header-myStore",
+        "property": "font-family",
+        "declaration": "Frutiger Neue Condensed,Arial,Helvetica,sans-serif",
+        "url": "https://www.sherwin-williams.com/etc.clientlibs/tag-aem-swcom/clientlibs/clientlib-dependencies.min.01761914761d86c8a6b6f12d1f68378f.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "730393ca1934def27e474add7d98b9a06bcf627ad5c765de3844d541f766c08c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

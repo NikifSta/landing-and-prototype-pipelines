@@ -1,0 +1,894 @@
+{
+  "source_url": "https://baboontothemoon.com",
+  "final_url": "https://baboontothemoon.com/",
+  "captured_at": "2026-09-28T04:34:51.685636+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://baboontothemoon.com",
+      "final_url": "https://baboontothemoon.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://baboontothemoon.com/cdn/shop/t/309/assets/reset.css?v=55504197762218882531790258626",
+      "final_url": "https://baboontothemoon.com/cdn/shop/t/309/assets/reset.css?v=55504197762218882531790258626",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ca141b2258b88db8e904a51dfffce224f2a266502ba766f320504bf9bf2672ef",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://baboontothemoon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://baboontothemoon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://baboontothemoon.com/cdn/shop/t/309/assets/tailwind.css?v=158888559558210630671790258626",
+      "final_url": "https://baboontothemoon.com/cdn/shop/t/309/assets/tailwind.css?v=158888559558210630671790258626",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2d1d0c300f6b9c28c5f1d2e983d2f9cad8476a8e8e9e088dfd3f07220446a05d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://baboontothemoon.com/cdn/shop/t/309/assets/custom.css?v=111603181540343972631790258626",
+      "final_url": "https://baboontothemoon.com/cdn/shop/t/309/assets/custom.css?v=111603181540343972631790258626",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 367,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 27,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 184,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#ffd634": {
+      "count": 6,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#68b5ff": {
+      "count": 6,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 23,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#fc0000": {
+      "count": 2,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#630000": {
+      "count": 1,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#b60003": {
+      "count": 2,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#1d0000": {
+      "count": 1,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#039f41": {
+      "count": 3,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#000904": {
+      "count": 1,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 18,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#fa6831": {
+      "count": 13,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#fafaf8": {
+      "count": 46,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#202020": {
+      "count": 32,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "#efede3": {
+      "count": 1,
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Moderat": [
+      "https://baboontothemoon.com/"
+    ],
+    "SW Baboon Type": [
+      "https://baboontothemoon.com/"
+    ],
+    "sans-serif": [
+      "https://baboontothemoon.com/cdn/shop/t/309/assets/reset.css?v=55504197762218882531790258626"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--header-height: calc((var(--navigation-bar-height, 0px) + var(--progress-bar-height, 0px)) + var(--announcement-bar-height, 0px));\n    --header-height-offset: calc((var(--navigation-bar-height, 0px) + var(--progress-bar-height, 0px)) + var(--announcement-bar-height, 0px));"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--layout-page-width-fullwidth: 0px;\n    --layout-page-width-xs: 560px;\n    --layout-page-width-sm: 1020px;\n    --layout-page-width-md: 1520px;\n    --layout-page-width-lg: 1860px;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--layout-padding-sm: px;\n      --layout-padding-md: px;\n      --layout-padding-lg: px;\n      --layout-padding-xl: px;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--color-error--rgb:\n\n252 0 0\n;\n    --color-error--hex: #fc0000;\n    --color-error-text--hex: #630000;\n    --color-error: var(--color-error--rgb, #fc0000);\n    --color-warning--rgb:\n\n182 0 3\n;\n    --color-warning--hex: #b60003;\n    --color-warning-text--hex: #1d0000;\n    --color-warning: var(--color-warning--rgb, #b60003);\n    --color-success--rgb:\n\n3 159 65\n;\n    --color-success--hex: #039f41;\n    --color-success-text--hex: #000904;\n    --color-success: var(--color-success--rgb, #039f41);\n    --color-info--rgb:\n\n104 181 255\n;\n    --color-info--hex: #68b5ff;\n    --color-info-text--hex: #0069ce;\n    --color-info: var(--color-info--rgb, #68b5ff);\n    --color-review-stars--rgb:\n\n0 0 0\n;\n    --co"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--color-gray-50: 249 250 251;\n    --color-gray-100: 243 244 246;\n    --color-gray-200: 229 231 235;\n    --color-gray-300: 209 213 219;\n    --color-gray-400: 156 163 175;\n    --color-gray-500: 107 114 128;\n    --color-gray-600: 75 85 99;\n    --color-gray-700: 55 65 81;\n    --color-gray-800: 31 41 55;\n    --color-gray-900: 17 24 39;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ":root",
+      "declarations": "--color-review-stars: #000000;\n    --color-review-stars-base: #D1D5DB;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": "body",
+      "declarations": ";font-family:Moderat;font-size:16px ;line-height: 1.4 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": "body",
+      "declarations": ";font-family:Moderat;font-size:16px ;line-height: 1.4 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": "body",
+      "declarations": ";font-family:Moderat;font-size:16px ;line-height: 1.4 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": "body",
+      "declarations": ";font-family:Moderat;font-size:16px ;line-height: 1.4 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".richtext-md h1, .richtext-md.h1, .richtext h1",
+      "declarations": ";font-family:Moderat;font-size:55px;line-height:55px;font-weight: 400 ;opacity: 1;letter-spacing: -1.1px ;text-transform: capitalize;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".richtext-md h1, .richtext-md.h1, .richtext h1",
+      "declarations": ";font-family:Moderat;font-size:55px;line-height:55px;font-weight: 400 ;opacity: 1;letter-spacing: -1.1px ;text-transform: capitalize;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc",
+      "declarations": ";color:#000000;border-color:#000000;outline-color:;font-family:'SW Baboon Type';font-size:15px;line-height:1.35 ;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:15px;padding-right:15px;min-height:50px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc",
+      "declarations": ";color:#000000;border-color:#000000;font-size:17px;line-height: 1.45;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:20px;padding-right:20px;min-height:55px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc",
+      "declarations": ";color:#000000;border-color:#000000;outline-color:;font-family:'SW Baboon Type';font-size:15px;line-height:1.35 ;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:15px;padding-right:15px;min-height:50px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": ";color:#ffffff;background-color:#000000;background:#000000;border-color:#000000;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc",
+      "declarations": "position: relative;  transition: all 300ms;  overflow: hidden;  transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));  display: inline-flex;  height: max-content;  width: max-content;  align-items: center;  user-select: none;  border-style: solid;  --tw-scale-x: var(--font-.button-atc-hover-scale);  --tw-scale-y: var(--font-.button-atc-hover-scale);"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: ;  border-color: #000000;  color: #ffffff;  background: #000000;  box-shadow:  none;  --tw-scale-x: 100%;  --tw-scale-y: 100%;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: ;  border-color: #000000;  color: #ffffff;  background: #000000;  box-shadow:  none;  --tw-scale-x: 100%;  --tw-scale-y: 100%;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: ;  border-color: #000000;  color: #ffffff;  background: #000000;  box-shadow:  none;  --tw-scale-x: 100%;  --tw-scale-y: 100%;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button",
+      "declarations": ";color:#000000;border-color:#000000;outline-color:;font-family:'SW Baboon Type';font-size:15px;line-height:1.35 ;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:15px;padding-right:15px;min-height:50px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button",
+      "declarations": ";color:#000000;border-color:#000000;font-size:17px;line-height: 1.45;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:20px;padding-right:20px;min-height:55px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button",
+      "declarations": ";color:#000000;border-color:#000000;outline-color:;font-family:'SW Baboon Type';font-size:15px;line-height:1.35 ;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:15px;padding-right:15px;min-height:50px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": ";color:#ffffff;background-color:#000000;background:#000000;border-color:#000000;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button",
+      "declarations": "position: relative;    transition: all 300ms;    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));    display: inline-flex;    height: max-content;    width: max-content;    align-items: center;    user-select: none;    border-style: solid;    --tw-scale-x: var(--font-.shopify-challenge__button-hover-scale);    --tw-scale-y: var(--font-.shopify-challenge__button-hover-scale);"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: [\"\",\"0\",\"100%\"];    border-color: #000000;    color: #ffffff;    background: #000000;    box-shadow:  none;    --tw-scale-x: ;    --tw-scale-y: ;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: [\"\",\"0\",\"100%\"];    border-color: #000000;    color: #ffffff;    background: #000000;    box-shadow:  none;    --tw-scale-x: ;    --tw-scale-y: ;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".shopify-challenge__button:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+      "declarations": "border-radius: [\"\",\"0\",\"100%\"];    border-color: #000000;    color: #ffffff;    background: #000000;    box-shadow:  none;    --tw-scale-x: ;    --tw-scale-y: ;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc-vitacoco",
+      "declarations": ";color:#000000;background-color:#faeb80;background:#faeb80;border-color:#000000;outline-color:;font-family:'SW Baboon Type';font-size:15px;line-height:1.35 ;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:15px;padding-right:15px;min-height:50px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    },
+    {
+      "source": "https://baboontothemoon.com/",
+      "selector": ".button-atc-vitacoco",
+      "declarations": ";color:#000000;background-color:#faeb80;background:#faeb80;border-color:#000000;font-size:17px;line-height: 1.45;font-weight: 700 ;opacity: 1;letter-spacing:;text-transform: uppercase ;font-style: normal ;white-space: nowrap;padding-top:15px;padding-bottom:15px;padding-left:20px;padding-right:20px;min-height:55px;border-width:1px;border-radius:50px;gap: 0;box-shadow: none;justify-content: center;text-align: center;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BABOON TO THE MOON | Bags for Adventure",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#fa6831",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#202020",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#a6a6a6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafaf8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#efede3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ffd634",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.accent-alt": {
+      "value": "#68b5ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#039f41",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.success-text": {
+      "value": "#000904",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.warning": {
+      "value": "#b60003",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.warning-text": {
+      "value": "#1d0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.error": {
+      "value": "#fc0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.error-text": {
+      "value": "#630000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "colors.review-stars-base": {
+      "value": "#d1d5db",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://baboontothemoon.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "55px",
+        "fontWeight": 400,
+        "lineHeight": 1.0,
+        "letterSpacing": "-1.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.6px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'SW Baboon Type', sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 700,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px",
+        "textTransform": "uppercase"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.bag-color-swatch": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".color_scheme_1",
+        "property": "--color-text--hex",
+        "declaration": "#000000",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#eeeeee": {
+        "selector": ".color_scheme_1",
+        "property": "--color-bg--hex",
+        "declaration": "#eeeeee",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#ffffff": {
+        "selector": ".color_scheme_2",
+        "property": "--color-text--hex",
+        "declaration": "#ffffff",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#ffd634": {
+        "selector": ".color_scheme_3",
+        "property": "--color-bg--hex",
+        "declaration": "#ffd634",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#68b5ff": {
+        "selector": ".color_scheme_4",
+        "property": "--color-bg--hex",
+        "declaration": "#68b5ff",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#00000000": {
+        "selector": ".scheme-608f34a0-bf75-4e98-8dea-7250e86fd82b",
+        "property": "--color-bg--rgb",
+        "declaration": "transparent",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#fc0000": {
+        "selector": ":root",
+        "property": "--color-error--hex",
+        "declaration": "#fc0000",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#630000": {
+        "selector": ":root",
+        "property": "--color-error-text--hex",
+        "declaration": "#630000",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#b60003": {
+        "selector": ":root",
+        "property": "--color-warning--hex",
+        "declaration": "#b60003",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#1d0000": {
+        "selector": ":root",
+        "property": "--color-warning-text--hex",
+        "declaration": "#1d0000",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#039f41": {
+        "selector": ":root",
+        "property": "--color-success--hex",
+        "declaration": "#039f41",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#000904": {
+        "selector": ":root",
+        "property": "--color-success-text--hex",
+        "declaration": "#000904",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#d1d5db": {
+        "selector": ":root",
+        "property": "--color-review-stars-base",
+        "declaration": "#D1D5DB",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#a6a6a6": {
+        "selector": ".button-disabled",
+        "property": "background-color",
+        "declaration": "#a6a6a6",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#fa6831": {
+        "selector": ".button-secondary",
+        "property": "background-color",
+        "declaration": "#fa6831",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#fafaf8": {
+        "selector": ".label-secondary-sm",
+        "property": "color",
+        "declaration": "#fafaf8",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#202020": {
+        "selector": ".plain-link:where(:hover,:focus-visible,:active,.active):not(.button-loading)",
+        "property": "color",
+        "declaration": "#202020",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "#efede3": {
+        "selector": ":root",
+        "property": "--swatch-clear",
+        "declaration": "#efede3 center center/cover no-repeat",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      }
+    },
+    "font_families": {
+      "Moderat": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Moderat",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "SW Baboon Type": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"SW Baboon Type\"",
+        "url": "https://baboontothemoon.com/",
+        "snapshot": "homepage.html",
+        "sha256": "55ebe4d9dff59f4d9280525cba292a863860a2fada550b835c516aa97b1a15f8"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://baboontothemoon.com/cdn/shop/t/309/assets/reset.css?v=55504197762218882531790258626",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "ca141b2258b88db8e904a51dfffce224f2a266502ba766f320504bf9bf2672ef"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

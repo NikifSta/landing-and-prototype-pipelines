@@ -1,0 +1,811 @@
+{
+  "source_url": "https://truff.com",
+  "final_url": "https://www.truff.com/",
+  "captured_at": "2026-09-28T09:46:13.903721+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://truff.com",
+      "final_url": "https://www.truff.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "00c0898ff74d6585b158f471a35b5938ec01f557e4b6bd648e124027e5b900d6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3f50f79fe1cb5e5e5c734d9721fe17f6bdcc69ffa013a3c0fd08d75733a1de88",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#a52a2a": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 52,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 31,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#cab683": {
+      "count": 42,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#b58d28": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#e6e7e9": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#6f6f70": {
+      "count": 19,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#88723a": {
+      "count": 15,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#00694f": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "#ac1b2e": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Brown": [
+      "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": "body",
+      "declarations": "font-family:Brown,sans-serif;font-size:16px;font-weight:400;margin:0;display:flex;min-height:var(--viewport-height);width:100%;flex-direction:column;background-color:#fff;background-color:var(--background);color:#1a1a1a;color:var(--text)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": "h1",
+      "declarations": "font-family:Brown,sans-serif;font-size:2rem;line-height:1.15;text-transform:uppercase;letter-spacing:.02em;word-wrap:anywhere"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".text-h1",
+      "declarations": "font-family:Brown,sans-serif;font-size:2rem;line-height:1.15;text-transform:uppercase;letter-spacing:.02em;word-wrap:anywhere"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".text-body",
+      "declarations": "font-family:Brown,sans-serif;font-size:16px;font-weight:400"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".text-body-lg",
+      "declarations": "font-family:Brown,sans-serif;font-size:1.125rem;line-height:24px;font-weight:400"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-text",
+      "declarations": "font-family:Brown,sans-serif;font-size:.9375rem;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:.05em"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-primary",
+      "declarations": "font-family:Brown,sans-serif;font-size:.9375rem;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;position:relative;margin:0;display:inline-flex;height:3.125rem;align-items:center;justify-content:center;overflow:hidden;white-space:nowrap;border-radius:.25rem;border-width:1px;border-style:solid;padding:.75rem 1.25rem;text-align:center;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-primary:disabled",
+      "declarations": "cursor:not-allowed;border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-primary:hover:disabled",
+      "declarations": "border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-primary",
+      "declarations": "border-color:#88723a;border-color:var(--primary-btn-border-color);background-color:#88723a;background-color:var(--primary-btn-bg-color);color:#fff;color:var(--primary-btn-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "border-color:#00694f;border-color:var(--primary-btn-hover-border-color);background-color:#00694f;background-color:var(--primary-btn-hover-bg-color);color:#fff;color:var(--primary-btn-hover-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-secondary",
+      "declarations": "font-family:Brown,sans-serif;font-size:.9375rem;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;position:relative;margin:0;display:inline-flex;height:3.125rem;align-items:center;justify-content:center;overflow:hidden;white-space:nowrap;border-radius:.25rem;border-width:1px;border-style:solid;padding:.75rem 1.25rem;text-align:center;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-secondary:disabled",
+      "declarations": "cursor:not-allowed;border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-secondary:hover:disabled",
+      "declarations": "border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-secondary",
+      "declarations": "border-color:#fff;border-color:var(--secondary-btn-border-color);background-color:#fff;background-color:var(--secondary-btn-bg-color);color:#88723a;color:var(--secondary-btn-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "border-color:#88723a;border-color:var(--secondary-btn-hover-border-color);background-color:#88723a;background-color:var(--secondary-btn-hover-bg-color);color:#fff;color:var(--secondary-btn-hover-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-light",
+      "declarations": "font-family:Brown,sans-serif;font-size:.9375rem;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;position:relative;margin:0;display:inline-flex;height:3.125rem;align-items:center;justify-content:center;overflow:hidden;white-space:nowrap;border-radius:.25rem;border-width:1px;border-style:solid;padding:.75rem 1.25rem;text-align:center;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-light:disabled",
+      "declarations": "cursor:not-allowed;border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-light:hover:disabled",
+      "declarations": "border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-light",
+      "declarations": "border-color:#fff;border-color:var(--inverse-light-btn-border-color);background-color:transparent;background-color:var(--inverse-light-btn-bg-color);color:#fff;color:var(--inverse-light-btn-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-light:hover",
+      "declarations": "border-color:#fff;border-color:var(--inverse-light-btn-hover-border-color);background-color:#fff;background-color:var(--inverse-light-btn-hover-bg-color);color:#000;color:var(--inverse-light-btn-hover-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-dark",
+      "declarations": "font-family:Brown,sans-serif;font-size:.9375rem;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;position:relative;margin:0;display:inline-flex;height:3.125rem;align-items:center;justify-content:center;overflow:hidden;white-space:nowrap;border-radius:.25rem;border-width:1px;border-style:solid;padding:.75rem 1.25rem;text-align:center;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-dark:disabled",
+      "declarations": "cursor:not-allowed;border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-dark:hover:disabled",
+      "declarations": "border-color:#e8e8e8;border-color:var(--border);background-color:#e6e7e9;background-color:var(--gray2);color:#6f6f70;color:var(--gray6)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-dark",
+      "declarations": "border-color:#000;border-color:var(--inverse-dark-btn-border-color);background-color:transparent;background-color:var(--inverse-dark-btn-bg-color);color:#000;color:var(--inverse-dark-btn-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-inverse-dark:hover",
+      "declarations": "border-color:#000;border-color:var(--inverse-dark-btn-hover-border-color);background-color:#000;background-color:var(--inverse-dark-btn-hover-bg-color);color:#fff;color:var(--inverse-dark-btn-hover-text-color)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-radio",
+      "declarations": "display:flex;height:1.25rem;width:1.25rem;align-items:center;justify-content:center;border-radius:9999px;background-color:#333;background-color:var(--gray8)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+      "selector": ".btn-radio-is-active",
+      "declarations": "border-width:1px;border-color:#cab683;border-color:var(--gold)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "TRUFF | Truffle Hot Sauce | Luxury Condiments | TRUFF | Truffle Hot Sauce | Luxury Condiments",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#88723a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6f6f70",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e8e8e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fbfbfb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#00694f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#cab683",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.accent-gold-deep": {
+      "value": "#b58d28",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.gray-disabled-bg": {
+      "value": "#e6e7e9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.alert": {
+      "value": "#ac1b2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "colors.black": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.02em",
+        "textTransform": "uppercase"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Brown, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": "20px",
+        "letterSpacing": "0.05em",
+        "textTransform": "uppercase"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.accent-green}",
+        "border": "1px solid {colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.canvas}",
+        "hoverBackgroundColor": "{colors.primary}",
+        "hoverTextColor": "{colors.on-primary}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.promo-banner": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}",
+        "ctaComponent": "button-primary"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "linkHoverColor": "{colors.accent-gold}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spice-level-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.alert}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#a52a2a": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Brown",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#ffffff": {
+        "selector": "*,:before,:after",
+        "property": "--tw-ring-offset-color",
+        "declaration": "#fff",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#1a1a1a": {
+        "selector": ":focus-visible",
+        "property": "outline-color",
+        "declaration": "#1a1a1a",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#cab683": {
+        "selector": ".link-underline",
+        "property": "background",
+        "declaration": "linear-gradient(#cab683,#cab683)",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#b58d28": {
+        "selector": ".link-underline:before",
+        "property": "background",
+        "declaration": "linear-gradient(87.65deg,#cdaf62 .99%,#eedbab 18%,#b58d28 50%)",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#e8e8e8": {
+        "selector": ".btn-primary:disabled",
+        "property": "border-color",
+        "declaration": "#e8e8e8",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#e6e7e9": {
+        "selector": ".btn-primary:disabled",
+        "property": "background-color",
+        "declaration": "#e6e7e9",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#6f6f70": {
+        "selector": ".btn-primary:disabled",
+        "property": "color",
+        "declaration": "#6f6f70",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#88723a": {
+        "selector": ".btn-primary",
+        "property": "border-color",
+        "declaration": "#88723a",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#00694f": {
+        "selector": ".btn-primary:hover",
+        "property": "border-color",
+        "declaration": "#00694f",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#000000": {
+        "selector": ".btn-inverse-light:hover",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#f5f5f5": {
+        "selector": ".border-\\[\\#F5F5F5\\]",
+        "property": "border-color",
+        "declaration": "#f5f5f5",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#fbfbfb": {
+        "selector": ".bg-offWhite",
+        "property": "background-color",
+        "declaration": "#fbfbfb",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "#ac1b2e": {
+        "selector": ".text-\\[var\\(--red\\)\\]",
+        "property": "color",
+        "declaration": "#ac1b2e",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      }
+    },
+    "font_families": {
+      "Brown": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Brown",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "Brown,sans-serif",
+        "url": "https://cdn.shopify.com/oxygen-v2/34141/23989/49777/4549734/assets/app-Kc8n0Awa.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "78b33592d6788e999d64cf3b49486d852432a6d28bde78dce71657d1b07c3a23"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

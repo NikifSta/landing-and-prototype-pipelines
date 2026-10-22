@@ -1,0 +1,771 @@
+{
+  "source_url": "https://cabeau.com",
+  "final_url": "https://cabeau.com/",
+  "captured_at": "2026-09-28T09:31:29.187521+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://cabeau.com",
+      "final_url": "https://cabeau.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "final_url": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f6926c35711a645810df81e753c8223a9286140e2eedfb20c58197180c13ee9c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cabeau.com/cdn/shop/t/106/assets/apps.css?v=162097722211979372921774010478",
+      "final_url": "https://cabeau.com/cdn/shop/t/106/assets/apps.css?v=162097722211979372921774010478",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "149b3534d823a078f123ee2137ea611fae4b77a070192ab634ec452e942fef58",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cabeau.com/cdn/shop/t/106/assets/accessibility.css?v=57128950699587659231776957687",
+      "final_url": "https://cabeau.com/cdn/shop/t/106/assets/accessibility.css?v=57128950699587659231776957687",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c9f9d3683f0fae000300be72a8baab6a23afb8b03a3689903b050d3464f40fb0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cabeau.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://cabeau.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ab48fb41ebae59e2adab9322be856fe93b1aa2dfae43429194fe79cef91ab7d7",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#5a1c6a": {
+      "count": 7,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#101421": {
+      "count": 3,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 25,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#108474": {
+      "count": 11,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 2,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#f7f5fa": {
+      "count": 7,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#0d736e": {
+      "count": 1,
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Plus Jakarta Sans": [
+      "https://cabeau.com/"
+    ],
+    "DM Sans": [
+      "https://cabeau.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": "#shopify-section-sections--26232701223215__header",
+      "declarations": "--section-padding-top: 32px;\n    --section-padding-bottom: 32px;\n    --color-background: 255 255 255;\n    --color-foreground: 23 23 23;\n    --color-transparent: 23 23 23;\n    --color-localization: 255 255 255;"
+    },
+    {
+      "source": "https://cabeau.com/",
+      "selector": "232707875119__accessible_video_pcGf7T button[data-ecb-cc-toggle][aria-checked=\"true\"],\n  .accessvideo-template--26232707875119__accessible_video_pcGf7T button[d",
+      "declarations": "color: #ffffff;\n    border-color: rgba(255, 255, 255, 0.35);\n    background: rgba(0, 0, 0, 0.9);"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.additional-checkout-buttons [role=but",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".shopify-payment-button__button--branded",
+      "declarations": "z-index:auto;font-family:var(--font-button-family);border-radius:var(--buttons-radius)!important;overflow:hidden!important"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded",
+      "declarations": "cursor:pointer;position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;line-height:1;font-family:var(--font-button-family);font-size:var(--font-button-size);font-weight:var(--font-button-weight);text-transform:var(--font-button-text-transform);padding:clamp(var(--sp-4d5),1.2vw,var(--sp-5d5)) clamp(var(--sp-6d5),1.473vw,var(--sp-7d5));color:rgb(var(--color-button-text));background:var(--color-button-gradient);background-color:rgb(var(--color-button-background));border-radius:var(--buttons-radius);box-shadow:var(--shadow-horizontal-offset) var(--shadow-vertical-offset) rgb(var(--color-shadow)/ var(--shadow-opacity));max-height:3.75rem;border:none;height:"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button .btn-text",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button--primary .btn-fill",
+      "declarations": "background-color:rgb(var(--color-button-text))"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button--secondary .btn-fill",
+      "declarations": "background:var(--color-button-gradient);background-color:rgb(var(--color-button-background))"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button--secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "color:rgb(var(--color-button-background));background:none;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)"
+    },
+    {
+      "source": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+      "selector": ".button--close",
+      "declarations": "--shadow-opacity: 0;--border-opacity: .1;--buttons-border-width: 1px;--buttons-radius: var(--rounded-full);padding:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Best Neck Pillow & Comfort Accessories | Cabeau",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#108474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#0d736e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#101421",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495"
+      ]
+    },
+    "colors.muted": {
+      "value": "#7b7b7b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e4e4e4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f5fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#5a1c6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "colors.accent-soft": {
+      "value": "#a89cc8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css"
+      ]
+    },
+    "colors.border": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cabeau.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Plus Jakarta Sans', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Plus Jakarta Sans', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Plus Jakarta Sans', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'DM Sans', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'DM Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'DM Sans', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'DM Sans', sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "overlayColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-soft}",
+        "textColor": "{colors.accent}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.fit-finder": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.lg}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#5a1c6a": {
+        "selector": ":root",
+        "property": "--color-base-button-gradient",
+        "declaration": "#5a1c6a",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#101421": {
+        "selector": ":root",
+        "property": "--color-drawer-button-gradient",
+        "declaration": "#101421",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#ffffff": {
+        "selector": ".stylux-offer-btn",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#108474": {
+        "selector": ":root",
+        "property": "--jdgm-primary-color",
+        "declaration": "#108474",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#7b7b7b": {
+        "selector": ".jdgm-review-snippet-widget",
+        "property": "--jdgm-snippet-lighter-text-color",
+        "declaration": "#7B7B7B",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#cccccc": {
+        "selector": ".jdgm-spinner",
+        "property": "border-left",
+        "declaration": "2px solid #ccc",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#f7f5fa": {
+        "selector": ".footer__newsletter .field-app-cover [type=\"checkbox\"]:checked + label, .footer__newsletter .field-app-cover [type=\"checkbox\"]:not(:checked) + label",
+        "property": "color",
+        "declaration": "rgb(247,245,250)",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#f4f4f4": {
+        "selector": ".ai-editorial-card-placeholder-aejhgbwnjvmxwevgztaigenblock4e0ae71kzbhyw",
+        "property": "background-color",
+        "declaration": "#f4f4f4",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#0d736e": {
+        "selector": "#back-to-top",
+        "property": "background-color",
+        "declaration": "#0D736E",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "#333333": {
+        "selector": ".flickity-button",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://cabeau.com/cdn/shop/t/106/assets/theme.css?v=103627894219314439771781737495",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f6926c35711a645810df81e753c8223a9286140e2eedfb20c58197180c13ee9c"
+      },
+      "#a89cc8": {
+        "selector": ".jdgm-glider-prev:hover,.jdgm-glider-next:hover,.jdgm-glider-prev:focus,.jdgm-glider-next:focus",
+        "property": "color",
+        "declaration": "#a89cc8",
+        "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "ab48fb41ebae59e2adab9322be856fe93b1aa2dfae43429194fe79cef91ab7d7"
+      },
+      "#e4e4e4": {
+        "selector": ".jdgm-widget .jdgm-row-stars",
+        "property": "border-top",
+        "declaration": "1px solid #e4e4e4",
+        "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_carousel.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "ab48fb41ebae59e2adab9322be856fe93b1aa2dfae43429194fe79cef91ab7d7"
+      }
+    },
+    "font_families": {
+      "Plus Jakarta Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Plus Jakarta Sans\"",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      },
+      "DM Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"DM Sans\"",
+        "url": "https://cabeau.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d9bdd3f545dd91fa23edb1822bc1f2828e45039d8e7422a8962039d3b6000879"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

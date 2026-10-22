@@ -1,0 +1,827 @@
+{
+  "source_url": "https://www.adam-audio.com",
+  "final_url": "https://www.adam-audio.com/",
+  "captured_at": "2026-09-28T04:08:54.979849+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.adam-audio.com",
+      "final_url": "https://www.adam-audio.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.adam-audio.com/content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "final_url": "https://www.adam-audio.com/content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "final_url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#dddddd": {
+      "count": 15,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#007cba": {
+      "count": 1,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 16,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 161,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#000000": {
+      "count": 41,
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "#dc3232": {
+      "count": 3,
+      "sources": [
+        "https://www.adam-audio.com/content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#333333": {
+      "count": 15,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#777777": {
+      "count": 5,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#c89e0e": {
+      "count": 32,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 73,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 36,
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    }
+  },
+  "font_families": {
+    "DINPro": [
+      "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+    ],
+    "sans-serif": [
+      "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+    ],
+    "Helvetica": [
+      "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+    ],
+    "Arial": [
+      "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.adam-audio.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "color: inherit;\n  font: inherit;\n  margin: 0;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": ".btn > .caret,\n  .dropup > .btn > .caret",
+      "declarations": "border-top-color: #000 !important;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "body",
+      "declarations": "font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  font-size: 14px;\n  line-height: 1.428571429;\n  color: #333;\n  background-color: #fff;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "input,\nbutton,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "h1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4,\n.h5,\n.h6",
+      "declarations": "font-family: inherit;\n  font-weight: 500;\n  line-height: 1.1;\n  color: inherit;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "small,\n.h2 small,\n.h3 small,\n.h4 small,\n.h5 small,\n.h6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small,\n.h1 .small,\n.h2 .small,\n.h3 .sma",
+      "declarations": "font-weight: 400;\n  line-height: 1;\n  color: #777;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": ".table-striped > tbody > tr:nth-of-type(odd)",
+      "declarations": "background-color: #f9f9f9;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": ".table-hover > tbody > tr:hover",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "e,\n.table > thead > tr.active > td,\n.table > tbody > tr.active > td,\n.table > tfoot > tr.active > td,\n.table > thead > tr.active > th,\n.table > tbody > tr.activ",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "tr > td.active:hover,\n.table-hover > tbody > tr > th.active:hover,\n.table-hover > tbody > tr.active:hover > td,\n.table-hover > tbody > tr:hover > .active,\n.tabl",
+      "declarations": "background-color: #e9e9e9;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "ble > thead > tr.success > td,\n.table > tbody > tr.success > td,\n.table > tfoot > tr.success > td,\n.table > thead > tr.success > th,\n.table > tbody > tr.success",
+      "declarations": "background-color: #dff0d8;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "td.success:hover,\n.table-hover > tbody > tr > th.success:hover,\n.table-hover > tbody > tr.success:hover > td,\n.table-hover > tbody > tr:hover > .success,\n.table",
+      "declarations": "background-color: #d1eac8;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "tr > th.info,\n.table > thead > tr.info > td,\n.table > tbody > tr.info > td,\n.table > tfoot > tr.info > td,\n.table > thead > tr.info > th,\n.table > tbody > tr.in",
+      "declarations": "background-color: #d9edf7;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "> tbody > tr > td.info:hover,\n.table-hover > tbody > tr > th.info:hover,\n.table-hover > tbody > tr.info:hover > td,\n.table-hover > tbody > tr:hover > .info,\n.ta",
+      "declarations": "background-color: #c6e4f3;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "ble > thead > tr.warning > td,\n.table > tbody > tr.warning > td,\n.table > tfoot > tr.warning > td,\n.table > thead > tr.warning > th,\n.table > tbody > tr.warning",
+      "declarations": "background-color: #fcf8e3;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "td.warning:hover,\n.table-hover > tbody > tr > th.warning:hover,\n.table-hover > tbody > tr.warning:hover > td,\n.table-hover > tbody > tr:hover > .warning,\n.table",
+      "declarations": "background-color: #faf3cd;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "r,\n.table > thead > tr.danger > td,\n.table > tbody > tr.danger > td,\n.table > tfoot > tr.danger > td,\n.table > thead > tr.danger > th,\n.table > tbody > tr.dange",
+      "declarations": "background-color: #f2dede;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "tr > td.danger:hover,\n.table-hover > tbody > tr > th.danger:hover,\n.table-hover > tbody > tr.danger:hover > td,\n.table-hover > tbody > tr:hover > .danger,\n.tabl",
+      "declarations": "background-color: #ebcdcd;"
+    },
+    {
+      "source": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+      "selector": "body",
+      "declarations": "color: #1d1d1d;\n  font-family: 'DINPro', Helvetica, Arial, 'Microsoft Yahei', '\\5FAE\\8F6F\\96C5\\9ED1', STXihei, '\\534E\\6587\\7EC6\\9ED1', sans-serif;\n  font-size: 16px;\n  line-height: 1.8;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "ADAM Audio - High Precision Studio Monitors from Berlin, Germany",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1d1d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f8f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#c89e0e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.dark-surface": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#dc3232",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+      ]
+    },
+    "colors.info-blue": {
+      "value": "#007cba",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.adam-audio.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "DINPro, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "DINPro, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.428571429,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.border-strong}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.title-md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.dark-surface}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "stripeColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#dddddd": {
+        "selector": ":root",
+        "property": "--wp-editor-canvas-background",
+        "declaration": "#ddd",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#007cba": {
+        "selector": ":root",
+        "property": "--wp-admin-theme-color",
+        "declaration": "#007cba",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#eeeeee": {
+        "selector": ":root .has-very-light-gray-background-color",
+        "property": "background-color",
+        "declaration": "#eee",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#313131": {
+        "selector": ":root .has-very-dark-gray-background-color",
+        "property": "background-color",
+        "declaration": "#313131",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#ffffff": {
+        "selector": ".wp-block-button__link",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://www.adam-audio.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2959beb54f313620a76706e53b94a888f937da9a8150bfbd251f998a547e06d2"
+      },
+      "#dc3232": {
+        "selector": ".wpcf7 form.failed .wpcf7-response-output,\n.wpcf7 form.aborted .wpcf7-response-output",
+        "property": "border-color",
+        "declaration": "#dc3232",
+        "url": "https://www.adam-audio.com/content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32"
+      },
+      "#00000000": {
+        "selector": ".slick-slider",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "transparent",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#333333": {
+        "selector": ".select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#cccccc": {
+        "selector": ".select2-container--classic .select2-selection--single .select2-selection__arrow",
+        "property": "background-image",
+        "declaration": "linear-gradient(to bottom, #eeeeee 50%, #cccccc 100%)",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#777777": {
+        "selector": "h1 small,\nh2 small,\nh3 small,\nh4 small,\nh5 small,\nh6 small,\n.h1 small,\n.h2 small,\n.h3 small,\n.h4 small,\n.h5 small,\n.h6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small,\n.h1 .small,\n.h2 .small,\n.h3 .small,\n.h4 .small,\n.h5 .small,\n.h6 .small",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#c89e0e": {
+        "selector": ".component.award",
+        "property": "color",
+        "declaration": "#c89e0e",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#1d1d1d": {
+        "selector": ".pattern--panels a",
+        "property": "color",
+        "declaration": "#1d1d1d",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "#f8f8f8": {
+        "selector": "html,\nbody",
+        "property": "background",
+        "declaration": "#f8f8f8",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      }
+    },
+    "font_families": {
+      "DINPro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"DINPro\"",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.adam-audio.com/content/themes/adamaudio-website/assets/styles/main.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7e5a88cd31d9ef8adf8612233e945abdb813e720958864df716262d5ffc3de9d"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

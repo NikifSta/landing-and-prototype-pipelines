@@ -1,0 +1,886 @@
+{
+  "source_url": "https://fluffandtuff.com",
+  "final_url": "https://fluffandtuff.com/",
+  "captured_at": "2026-09-29T04:11:20.739403+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://fluffandtuff.com",
+      "final_url": "https://fluffandtuff.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4421daf1680f19f21fb5884e9f312991e6a3c7eec572dce274e00b1b5e65890f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:700,500&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Montserrat:700,500&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "18cd3d382bb48e200de5e8aad6b01ff2e18cd6f2df07f80e4801d9c5b46adea7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 55,
+      "sources": [
+        "https://fluffandtuff.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 113,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#555555": {
+      "count": 32,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#757575": {
+      "count": 74,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#640707": {
+      "count": 21,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 67,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 34,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#999999": {
+      "count": 53,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#666666": {
+      "count": 27,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#c2191e": {
+      "count": 46,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#f1a500": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#008a06": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#f0edea": {
+      "count": 15,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "#0a6aa1": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Gotham Rounded": [
+      "https://fluffandtuff.com/"
+    ],
+    "Clarendon LT Std": [
+      "https://fluffandtuff.com/"
+    ],
+    "sans-serif": [
+      "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+    ],
+    "Arial": [
+      "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+    ],
+    "Helvetica": [
+      "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "body",
+      "declarations": "background:#fff;color:#555;cursor:auto;margin:0;padding:0;position:relative"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "body",
+      "declarations": "font-family:\"Gotham Rounded\",Arial,Helvetica,sans-serif;line-height:1.5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#640707;font-family:\"Clarendon LT Std\",Arial,Helvetica,sans-serif;letter-spacing:.25px;margin-bottom:.78571rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#757575;font-size:60%;line-height:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;border-radius:0;border-style:solid;border-width:1px;cursor:pointer;font-family:\"Clarendon LT Std\",Arial,Helvetica,sans-serif;font-weight:400;line-height:normal;margin:0 0 1rem;position:relative;text-align:center;text-decoration:none;display:inline-block;background-color:transparent;border-color:#ccc;color:#666;font-size:1rem;padding:.85714rem 2.28571rem;border-radius:4px;outline:0;vertical-align:middle"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button.active,.button.is-active,.button:focus,.button:hover",
+      "declarations": "background-color:transparent;border-color:#999;color:#333"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button:active",
+      "declarations": "background-color:transparent;border:1px solid #757575;color:#000"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button--primary",
+      "declarations": "background-color:#c2191e;border-color:#c2191e;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button--primary.active,.button--primary.is-active,.button--primary:focus,.button--primary:hover",
+      "declarations": "background-color:#666;border-color:#666;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button--primary:active",
+      "declarations": "background-color:#000;border:1px solid #000;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:#ccc;border-color:rgba(0,0,255,0);color:#fff;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".form-body",
+      "declarations": "background-color:#fff;border:1px solid #999;-webkit-box-shadow:0 1px 2px rgba(255,255,255,.13);box-shadow:0 1px 2px rgba(255,255,255,.13);margin-bottom:1.5rem;max-width:none;padding:1.5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".panel-header",
+      "declarations": "background-color:#e5e5e5;margin:0;padding:1.5rem 2rem 0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".pagination-list li a,.pagination-list li button",
+      "declarations": "border-radius:4px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;background:0 0;color:#757575;display:block;font-size:1em;font-weight:400;line-height:inherit;padding:.28571rem .5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "li.pagination-item--current a,li.pagination-item--current button",
+      "declarations": "color:#333;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".card-figcaption-body .card-text",
+      "declarations": "color:#757575"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".card-figcaption-button",
+      "declarations": "background-color:rgba(255,255,255,.9);color:#333"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".card-figcaption-button:hover",
+      "declarations": "background-color:#fff;color:#333"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".card-body .card-text",
+      "declarations": "color:#757575"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\";width:20px;height:20px;font-family:inherit;font-size:60px;line-height:20px;text-align:center;color:#333;opacity:.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#757575;opacity:1"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".swal2-modal .swal2-buttonswrapper.swal2-loading .swal2-styled.swal2-confirm",
+      "declarations": "-webkit-box-sizing:border-box;box-sizing:border-box;border:4px solid transparent;border-color:transparent;width:40px;height:40px;padding:0;margin:7.5px;vertical-align:top;background-color:transparent!important;color:transparent;cursor:default;border-radius:100%;-webkit-animation:rotate-loading 1.5s linear 0s infinite normal;animation:rotate-loading 1.5s linear 0s infinite normal;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".swal2-modal .swal2-buttonswrapper.swal2-loading :not(.swal2-styled).swal2-confirm::after",
+      "declarations": "display:inline-block;content:'';margin-left:5px;vertical-align:-1px;height:15px;width:15px;border:3px solid #999;-webkit-box-shadow:1px 1px 1px #fff;box-shadow:1px 1px 1px #fff;border-right-color:transparent;border-radius:50%;-webkit-animation:rotate-loading 1.5s linear 0s infinite normal;animation:rotate-loading 1.5s linear 0s infinite normal"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": "#wishlist-dropdown.is-open .button",
+      "declarations": "background-color:#fff;border-top-left-radius:0;border-top-right-radius:0;width:100%"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".modal--alert .button-container .confirm",
+      "declarations": "background-color:#c2191e;border-color:#c2191e;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".modal--alert .button-container .confirm:focus,.modal--alert .button-container .confirm:hover",
+      "declarations": "background-color:#666;border-color:#666;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".modal--alert .button-container .confirm:active",
+      "declarations": "background-color:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+      "selector": ".button--primary",
+      "declarations": "text-align:center;font-weight:700;font-size:18px;line-height:20px;font-family:'Gotham Rounded Bold';color:#fff;opacity:1;border-radius:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fluff and Tuff",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#c2191e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.primary-deep": {
+      "value": "#640707",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fluffandtuff.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#555555",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f0edea",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.panel": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.accent-amber": {
+      "value": "#f1a500",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#008a06",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#0a6aa1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "colors.disabled": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Clarendon LT Std', Arial, Helvetica, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Clarendon LT Std', Arial, Helvetica, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Clarendon LT Std', Arial, Helvetica, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Gotham Rounded', Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Gotham Rounded', Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Gotham Rounded', Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Clarendon LT Std', Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.primary}",
+        "hover": {
+          "backgroundColor": "#666666",
+          "borderColor": "#666666"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "#666666",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}",
+        "hover": {
+          "borderColor": "{colors.border-strong}",
+          "textColor": "{colors.ink}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.border-strong}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}",
+        "focusBorder": "{colors.accent-blue}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "height": "72px",
+        "borderBottom": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "metaTypography": "{typography.caption}",
+        "metaColor": "{colors.muted}",
+        "overlayButtonBackground": "rgba(255,255,255,0.9)",
+        "overlayButtonColor": "{colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "titleTypography": "{typography.display-xl}",
+        "titleColor": "{colors.primary-deep}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.panel}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-amber}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-sm}",
+        "iconColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "selectedBorder": "{colors.primary}",
+        "selectedTextColor": "{colors.primary}",
+        "rounded": "{rounded.full}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#333333": {
+        "selector": "[data-sub-layout-container=\"f8def077-cd50-4913-b146-89c83e10b2fb\"]",
+        "property": "border-color",
+        "declaration": "#333333",
+        "url": "https://fluffandtuff.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4421daf1680f19f21fb5884e9f312991e6a3c7eec572dce274e00b1b5e65890f"
+      },
+      "#00000000": {
+        "selector": "a",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#000000": {
+        "selector": "mark",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#ffffff": {
+        "selector": "body",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#555555": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#555",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#757575": {
+        "selector": "a:focus,a:hover",
+        "property": "color",
+        "declaration": "#757575",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#640707": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "color",
+        "declaration": "#640707",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#e5e5e5": {
+        "selector": "hr",
+        "property": "border",
+        "declaration": "solid #e5e5e5",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#cccccc": {
+        "selector": "abbr,acronym",
+        "property": "border-bottom",
+        "declaration": "1px dotted #ccc",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#999999": {
+        "selector": "cite",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#666666": {
+        "selector": ".button",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#c2191e": {
+        "selector": ".button--primary",
+        "property": "background-color",
+        "declaration": "#c2191e",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#f1a500": {
+        "selector": ".switch--important .switch-toggle",
+        "property": "background-color",
+        "declaration": "#f1a500",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#008a06": {
+        "selector": ".switch--checked .switch-toggle",
+        "property": "background-color",
+        "declaration": "#008a06",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#ffffffe6": {
+        "selector": ".card-figcaption-button",
+        "property": "background-color",
+        "declaration": "rgba(255,255,255,.9)",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#f0edea": {
+        "selector": "span.limited-edition",
+        "property": "background-color",
+        "declaration": "#f0edea",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "#0a6aa1": {
+        "selector": ".vakata-context li>a:hover",
+        "property": "-webkit-box-shadow",
+        "declaration": "0 0 2px #0a6aa1",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      }
+    },
+    "font_families": {
+      "Gotham Rounded": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Gotham Rounded\"",
+        "url": "https://fluffandtuff.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4421daf1680f19f21fb5884e9f312991e6a3c7eec572dce274e00b1b5e65890f"
+      },
+      "Clarendon LT Std": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Clarendon LT Std\"",
+        "url": "https://fluffandtuff.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4421daf1680f19f21fb5884e9f312991e6a3c7eec572dce274e00b1b5e65890f"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Gotham Rounded\",Arial,Helvetica,sans-serif",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Gotham Rounded\",Arial,Helvetica,sans-serif",
+        "url": "https://cdn11.bigcommerce.com/s-mtbzi3u9qw/stencil/106360c0-9321-013f-c9b2-3ab88b1083c5/e/7ca042f0-7705-013f-c4de-6e040fdd6b1f/css/theme-2b64e130-9321-013f-f99a-1abce58795ae.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7ccc66e7320865ac2b1a93182315d19356885da7c484ba6df24abd3e523b3716"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

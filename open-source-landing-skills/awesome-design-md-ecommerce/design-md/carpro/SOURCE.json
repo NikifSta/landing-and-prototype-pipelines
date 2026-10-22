@@ -1,0 +1,775 @@
+{
+  "source_url": "https://carpro.global/",
+  "final_url": "https://carpro.global/",
+  "captured_at": "2026-09-29T03:58:57.551136+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://carpro.global/",
+      "final_url": "https://carpro.global/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "4ff7b4dcdd34b7ae2b062d1c9387befa5a1e3be2f70513bdda6ea71645d3132e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "final_url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://carpro.global/_next/static/css/c6555bf7d04b087f.css",
+      "final_url": "https://carpro.global/_next/static/css/c6555bf7d04b087f.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7f2f392b05c2ac956cafe36b17e29fd4be2b98d01a85d902beec357bbe1ece9f",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://carpro.global/#computed-style-snapshot",
+      "final_url": "https://carpro.global/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "94abd4f40d5aadbbe877ffcf7d19f98424bdd99cdc62b1a662f2bef573ca1e88",
+      "snapshot": "rendered-style-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 333,
+      "sources": [
+        "https://carpro.global/"
+      ]
+    },
+    "#000000": {
+      "count": 316,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#ff2400": {
+      "count": 63,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#383c42": {
+      "count": 52,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#a5a7ac": {
+      "count": 59,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#25282c": {
+      "count": 21,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#b4904d": {
+      "count": 1,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#cfd1d5": {
+      "count": 14,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#dcdde2": {
+      "count": 20,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#32c82e": {
+      "count": 1,
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://carpro.global/_next/static/css/c6555bf7d04b087f.css"
+      ]
+    }
+  },
+  "font_families": {
+    "__basierSquare_635c71": [
+      "https://carpro.global/_next/static/css/c6555bf7d04b087f.css"
+    ],
+    "__basierSquare_Fallback_635c71": [
+      "https://carpro.global/_next/static/css/c6555bf7d04b087f.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_container__9dhh0",
+      "declarations": "--padding-right:15px;--padding-left:15px;display:grid;grid-auto-flow:column;grid-column-gap:15px;grid-template-columns:repeat(12,minmax(0,1fr));width:100%;height:100%;padding-right:var(--padding-right);padding-left:var(--padding-left);margin-left:auto;margin-right:auto;max-width:100%"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW",
+      "declarations": "transition:all .3s ease-in-out 0s;display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:center;position:relative;background-color:#fff;box-sizing:border-box;text-align:center;overflow:hidden;border:2px solid #000;-webkit-clip-path:polygon(14.5px 0,100% 0,100% calc(100% - 14.5px),calc(100% - 14.5px) 100%,0 100%,0 14.5px);clip-path:polygon(14.5px 0,100% 0,100% calc(100% - 14.5px),calc(100% - 14.5px) 100%,0 100%,0 14.5px)"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW:hover span",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW:after,.Button_Button__EzMQW:before",
+      "declarations": "transition:all .3s ease-in-out 0s;content:\"\";display:block;position:absolute;background-color:transparent;transform:rotate(45deg);pointer-events:none;width:20.5060966544px;height:20.5060966544px"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW span",
+      "declarations": "transition:color .3s ease-in-out 0s;display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:center;color:#000;font-family:var(--font-basier-square);text-align:center;text-transform:uppercase;z-index:1;font-size:12px;font-weight:500;line-height:2;letter-spacing:.6px;white-space:nowrap"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW .Button_Bg__VgNDc",
+      "declarations": "transition:transform .3s ease-in-out 0s;position:absolute;top:0;left:50%;transform:translateX(-150%);width:150%;height:100%;background-color:#000;z-index:-1;-webkit-clip-path:polygon(0 0,100% 0,calc(100% - 55px) 100%,0 100%);clip-path:polygon(0 0,100% 0,calc(100% - 55px) 100%,0 100%)"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_Button__EzMQW .Button_Inner__B92Of",
+      "declarations": "display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:center;display:inline-flex;width:100%;height:100%;text-decoration:none;box-sizing:border-box;padding:6px 20px;background-color:transparent;border:0"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondary__4a_h7",
+      "declarations": "background-color:#000;border-color:#ff2400"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondary__4a_h7:hover span",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondary__4a_h7:after,.Button_ButtonSecondary__4a_h7:before",
+      "declarations": "border-color:#ff2400"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondary__4a_h7 span",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondary__4a_h7 .Button_Bg__VgNDc",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondaryInvert__7j6h_",
+      "declarations": "background-color:#fff;border-color:#ff2400"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondaryInvert__7j6h_:after,.Button_ButtonSecondaryInvert__7j6h_:before",
+      "declarations": "border-color:#ff2400"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonSecondaryInvert__7j6h_ .Button_Bg__VgNDc",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenu__P0bV2",
+      "declarations": "height:55px;border:1px solid #fff;-webkit-clip-path:polygon(36px 0,calc(100% - 5px) 0,calc(100% - 58px) 100%,0 100%,0 36px);clip-path:polygon(36px 0,calc(100% - 5px) 0,calc(100% - 58px) 100%,0 100%,0 36px);background-color:transparent;margin-right:-37px;padding-right:50px;padding-left:24px"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenu__P0bV2:hover span",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenu__P0bV2 .Button_Bg__VgNDc",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenu__P0bV2 span",
+      "declarations": "width:-moz-fit-content;width:fit-content;font-size:12px;font-weight:500;line-height:2;text-transform:uppercase;letter-spacing:1.13px;color:#fff;font-family:var(--font-basier-square)"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuRevert__tDDGx",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuRevert__tDDGx:hover span",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuRevert__tDDGx .Button_Bg__VgNDc",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuRevert__tDDGx span",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuGray__JTDzD",
+      "declarations": "background-color:#383c42;border-color:#383c42"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuGray__JTDzD:after,.Button_ButtonMenuGray__JTDzD:before",
+      "declarations": "border-color:#383c42"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuGray__JTDzD:hover span",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuGray__JTDzD .Button_Bg__VgNDc",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuGray__JTDzD span",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuLast__klKh4",
+      "declarations": "height:55px;border:1px solid #fff;background-color:transparent;-webkit-clip-path:polygon(37px 0,100% 0,100% 50%,100% 100%,0 100%,0 37px);clip-path:polygon(37px 0,100% 0,100% 50%,100% 100%,0 100%,0 37px)"
+    },
+    {
+      "source": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+      "selector": ".Button_ButtonMenuLast__klKh4:hover span",
+      "declarations": "color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "CARPRO – High-Performance Car Care Products – Home of CQUARTZ, DQUARTZ and IMMORTAL",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "e13c576b3a7a1cdffdf2552a19fe6fd578737497734d3b138339c446d4432d1a"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/"
+      ]
+    },
+    "colors.body": {
+      "value": "#383c42",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#a5a7ac",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cfd1d5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/c6555bf7d04b087f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#dcdde2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/"
+      ]
+    },
+    "colors.accent-alert": {
+      "value": "#ff2400",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.accent-info": {
+      "value": "#00bbff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value": "#32c82e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#b4904d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value": "#25282c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://carpro.global/_next/static/css/a08d592cd4b49123.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "__basierSquare_635c71, __basierSquare_Fallback_635c71, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 2,
+        "letterSpacing": "0.6px",
+        "textTransform": "uppercase"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "2px solid {colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "2px solid {colors.accent-alert}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "hairline": "{colors.ink-secondary}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.ink-secondary}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.product-category-tab": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "activeBackgroundColor": "{colors.primary}",
+        "activeTextColor": "{colors.on-primary}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#fff",
+        "url": "https://carpro.global/",
+        "snapshot": "homepage.html",
+        "sha256": "4ff7b4dcdd34b7ae2b062d1c9387befa5a1e3be2f70513bdda6ea71645d3132e"
+      },
+      "#000000": {
+        "selector": ".Button_Button__EzMQW",
+        "property": "border",
+        "declaration": "2px solid #000",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#ff2400": {
+        "selector": ".Button_ButtonSecondary__4a_h7",
+        "property": "border-color",
+        "declaration": "#ff2400",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#383c42": {
+        "selector": ".Button_ButtonMenuGray__JTDzD",
+        "property": "background-color",
+        "declaration": "#383c42",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#a5a7ac": {
+        "selector": ".Button_ButtonDisabled__PFO_U",
+        "property": "border-color",
+        "declaration": "#a5a7ac",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#25282c": {
+        "selector": ".Input_InputWrapper__VjH6L .Input_InputDark___LYLm",
+        "property": "border",
+        "declaration": "1px solid #25282c",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#b4904d": {
+        "selector": ".Tag_TagColorGold__Ny2VR,.Tag_TagColorGold__Ny2VR:after,.Tag_TagColorGold__Ny2VR:before",
+        "property": "background-color",
+        "declaration": "#b4904d",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#00bbff": {
+        "selector": ".splide__arrow:focus-visible",
+        "property": "outline",
+        "declaration": "3px solid #0bf",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#cfd1d5": {
+        "selector": ".ProductBannerSwiper_ProductBannerSwiper__A547l .splide__pagination li .splide__pagination__page",
+        "property": "background-color",
+        "declaration": "#cfd1d5",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#dcdde2": {
+        "selector": ".Select_DropdownItem__3TyxM:hover",
+        "property": "background-color",
+        "declaration": "#dcdde2",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#32c82e": {
+        "selector": ".FormWarranty_FormWarranty__egpZY .FormWarranty_Results__8clG9 .FormWarranty_Item__fZYZ_ .FormWarranty_Valid__1B2Q0",
+        "property": "background-color",
+        "declaration": "#32c82e",
+        "url": "https://carpro.global/_next/static/css/a08d592cd4b49123.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ade587f92a9f6138cdb1b0b61b3e31755b992f629f3785caf07b2b9eed21ffac"
+      },
+      "#f2f2f2": {
+        "selector": ".PostContent_PostContent__7nAhO .PostContent_Wysiwyg__b_4jY:before",
+        "property": "background-color",
+        "declaration": "#f2f2f2",
+        "url": "https://carpro.global/_next/static/css/c6555bf7d04b087f.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "7f2f392b05c2ac956cafe36b17e29fd4be2b98d01a85d902beec357bbe1ece9f"
+      }
+    },
+    "font_families": {
+      "__basierSquare_635c71": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__basierSquare_635c71",
+        "url": "https://carpro.global/_next/static/css/c6555bf7d04b087f.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "7f2f392b05c2ac956cafe36b17e29fd4be2b98d01a85d902beec357bbe1ece9f"
+      },
+      "__basierSquare_Fallback_635c71": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "__basierSquare_Fallback_635c71",
+        "url": "https://carpro.global/_next/static/css/c6555bf7d04b087f.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "7f2f392b05c2ac956cafe36b17e29fd4be2b98d01a85d902beec357bbe1ece9f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

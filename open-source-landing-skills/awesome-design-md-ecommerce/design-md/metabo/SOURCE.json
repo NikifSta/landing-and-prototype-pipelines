@@ -1,0 +1,785 @@
+{
+  "source_url": "https://metabo.com",
+  "final_url": "https://www.metabo.com/us/enus/",
+  "captured_at": "2026-09-28T10:34:11.806412+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://metabo.com",
+      "final_url": "https://www.metabo.com/us/enus/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "53ba2d2a8b057bc3041eea70b2e0cf2bcadfe740a878320f001e91f3cb0117cf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "final_url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 303,
+      "sources": [
+        "https://www.metabo.com/us/enus/"
+      ]
+    },
+    "#224b44": {
+      "count": 195,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#000000": {
+      "count": 280,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#cccccc": {
+      "count": 37,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#ed1a3b": {
+      "count": 30,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#09726a": {
+      "count": 12,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#626262": {
+      "count": 19,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 13,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 8,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#222222": {
+      "count": 12,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#a50a20": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#15433d": {
+      "count": 7,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "sans-serif": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "MetaboSans": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.pageHead",
+      "declarations": "color:transparent;text-shadow:0 0 0 #fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.pageHead",
+      "declarations": "color:#fff;-webkit-print-color-adjust:exact"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".productHead .pageHead",
+      "declarations": "color:#224b44!important"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .h1Style",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:2.5em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .boxHeaderGreenStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .boxHeaderStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .productTitleStyle",
+      "declarations": "font-size:1em;font-weight:700;line-height:1.5em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .productTitleBiggerStyle",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:1.875em;font-family:Arial,sans-serif;color:#fff;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .footerHeaderStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.25em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .footerSubMenuHeaderStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .boxHeaderStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .boxHeaderStyleNormalCase",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .productTitleMoreStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:2.5em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase;margin:0"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.webfontmetabo",
+      "declarations": "font-family:'Metabo W01 Regular';font-weight:400"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "div.languageHeader",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase;margin:1.25em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".box.category div.languageHeader a",
+      "declarations": "display:block;color:#fff;overflow:hidden;width:15em;max-width:15em;text-overflow:ellipsis"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "body",
+      "declarations": "font-size:100.01%;font-family:Arial,sans-serif;cursor:default;color:#000;padding:0;position:relative;max-width:1280px;margin:0 auto;width:100%"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".subMenuFooter .footerHeader a",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".csc-header-date",
+      "declarations": "font-size:.75em;font-weight:400;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".csc-subheader",
+      "declarations": "font-size:.75em;font-weight:400;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".ls-slide a h1,.ls-slide a h2,.ls-slide a h3,.ls-slide a h4,.ls-slide a h5",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".tnCookieMessage_Button",
+      "declarations": "position:absolute;right:1em;top:50%;margin:-.75em 0 0 0;width:12em;border:0;padding:.25em;font-size:1em;font-weight:400;line-height:1;font-family:Arial,sans-serif;color:#fff;text-transform:none;background:#09726a;border-radius:2px;cursor:pointer"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#searchForm button",
+      "declarations": "background-color:transparent;border:0;position:absolute;top:1.55em;right:1.55em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#searchForm button span",
+      "declarations": "color:#000;font-size:1.5em;font-weight:700;position:absolute;top:0;right:0"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu",
+      "declarations": "position:static;z-index:100;list-style:none outside none;margin:0;padding:0;background-color:transparent;float:right"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu li.current",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu a.mainNavigationLevel1",
+      "declarations": "font-size:.875em;font-weight:400;line-height:3.25em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase;padding:0 .75em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu a.mainNavigationLevel1.current",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerTopMenu",
+      "declarations": "float:right;list-style:none outside none;margin:0;padding:0;background-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Metabo - Power Tools for professional users",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#224b44",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.primary-dark": {
+      "value": "#15433d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.primary-tonal": {
+      "value": "#09726a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ed1a3b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.accent-dark": {
+      "value": "#a50a20",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/enus/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#626262",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f0f0f0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/enus/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/enus/"
+      ]
+    },
+    "colors.on-accent": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/enus/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#aaaaaa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'MetaboSans', Arial, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "26px",
+        "fontWeight": 700,
+        "lineHeight": "2.5em",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "26px",
+        "fontWeight": 700,
+        "lineHeight": "1.875em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": "1.5em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 700,
+        "lineHeight": "1.25em",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": "1.125em",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-accent}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.battery-compat-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "border": "1px solid {colors.primary-tonal}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".phoneNoLink",
+        "property": "color",
+        "declaration": "white",
+        "url": "https://www.metabo.com/us/enus/",
+        "snapshot": "homepage.html",
+        "sha256": "53ba2d2a8b057bc3041eea70b2e0cf2bcadfe740a878320f001e91f3cb0117cf"
+      },
+      "#224b44": {
+        "selector": "#headerTopRow",
+        "property": "border",
+        "declaration": "2.5em #224b44 solid",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#000000": {
+        "selector": ".boxContent div",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#cccccc": {
+        "selector": ".mfp-preloader",
+        "property": "color",
+        "declaration": "#ccc",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#f3f3f3": {
+        "selector": ".mfp-title",
+        "property": "color",
+        "declaration": "#f3f3f3",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#ed1a3b": {
+        "selector": ".boxRight .boxLinkContainer a",
+        "property": "background-color",
+        "declaration": "#ed1a3b",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#09726a": {
+        "selector": ".status.notice",
+        "property": "background",
+        "declaration": "#09726a",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#626262": {
+        "selector": ".searchFormContainer .closeSearch",
+        "property": "color",
+        "declaration": "#626262",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#f0f0f0": {
+        "selector": "#storeLocatorListContainer .storeLocatorResultsBar",
+        "property": "background-color",
+        "declaration": "#f0f0f0",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#aaaaaa": {
+        "selector": "#fl-price-slider.ui-widget-content",
+        "property": "border",
+        "declaration": "1px solid #aaa",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#222222": {
+        "selector": "#fl-price-slider.ui-widget-content",
+        "property": "color",
+        "declaration": "#222",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#a50a20": {
+        "selector": "#specialRedArea",
+        "property": "background",
+        "declaration": "-moz-linear-gradient(45deg,#8a0d1a 0,#e2032e 68%,#a50a20 100%)",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "#15433d": {
+        "selector": ".c-cinematic",
+        "property": "color",
+        "declaration": "#15433d",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": ".mfp-close",
+        "property": "font-family",
+        "declaration": "Arial,Baskerville,monospace",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "sans-serif": {
+        "selector": ".featherlight .featherlight-close-icon",
+        "property": "font-family",
+        "declaration": "Arial,sans-serif",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      },
+      "MetaboSans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "MetaboSans",
+        "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,953 @@
+{
+  "source_url": "https://trayvax.com",
+  "final_url": "https://www.trayvax.com/",
+  "captured_at": "2026-09-28T10:08:34.562904+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://trayvax.com",
+      "final_url": "https://www.trayvax.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "final_url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.trayvax.com/cdn/shop/t/150/assets/country-flags.css?v=115842276084321920321764826558",
+      "final_url": "https://www.trayvax.com/cdn/shop/t/150/assets/country-flags.css?v=115842276084321920321764826558",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19a57f3908d03299a09405296add694ad97f7aa6f6cb4c5d1a23df5810062b34",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/theme-B95lTh9w.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/theme-B95lTh9w.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "14e355c66aaffcaa5934bc4cba9c146edd7922045e144c84db1a888a40f2ca4f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 61,
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 17,
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "#121212": {
+      "count": 23,
+      "sources": [
+        "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "#eaad15": {
+      "count": 1,
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "#c62828": {
+      "count": 3,
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "#c6282873": {
+      "count": 1,
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "#c6282814": {
+      "count": 1,
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "#757575": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 29,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#2c6ecb": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#f2f7fe": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#333333": {
+      "count": 13,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "#ffffff1f": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://www.trayvax.com/"
+    ],
+    "sans-serif": [
+      "https://www.trayvax.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+    ],
+    "Menlo": [
+      "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+    ],
+    "Monaco": [
+      "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+    ],
+    "Consolas": [
+      "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+    ],
+    "monospace": [
+      "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 2rem;\n      --text-h4: 1.625rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.8125rem;\n      --text-sm: 0.9375rem;\n      --text-base: 1.0625rem;\n      --text-lg: 1.3125rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-12);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-10);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --inp"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-10);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 5rem;\n      --text-h1: 3.75rem;\n      --text-h2: 3rem;\n      --text-h3: 2.25rem;\n      --text-h4: 2rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-24);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 80px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ":root",
+      "declarations": "--sticky-header-enabled:0;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-sections--17514079551563__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 170px;\n      --header-logo-height: 61px;position: relative;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-sections--17514079551563__header",
+      "declarations": "--header-logo-width: 210px;\n        --header-logo-height: 75px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-sections--17514079551563__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / auto minmax(0, 1fr) minmax(0, max-content);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__f416ef82-2996-4652-8918-314912276f6d .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__f416ef82-2996-4652-8918-314912276f6d .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__f416ef82-2996-4652-8918-314912276f6d .product-list",
+      "declarations": "--product-list-items-per-row: 5;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 5 - (var(--product-list-column-gap) / 5 * 4));"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__4afb2d87-540e-411f-9f75-316be15daa50 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__4afb2d87-540e-411f-9f75-316be15daa50 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": "#shopify-section-template--17514078208075__4afb2d87-540e-411f-9f75-316be15daa50 .product-list",
+      "declarations": "--product-list-items-per-row: 5;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 5 - (var(--product-list-column-gap) / 5 * 4));"
+    },
+    {
+      "source": "https://www.trayvax.com/",
+      "selector": ".accordion-header",
+      "declarations": "border: solid 1px #ddd;\n    border-radius: 8px;\n    background-color: transparent;\n    color: #555555;\n    padding: 15px;\n    cursor: pointer;\n    user-select: none;\n    display: flex;\n    text-align: center;"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio],[type=submit]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Trayvax Wallets | Slim, Metal & Leather, Minimalist, RFID Blocking",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fcfcfc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#c62828",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "colors.accent-sale-soft": {
+      "value": "#c6282814",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "colors.accent-sale-border": {
+      "value": "#c6282873",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "colors.link": {
+      "value": "#2c6ecb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.link-soft": {
+      "value": "#f2f7fe",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.rating": {
+      "value": "#eaad15",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value": "#00000066",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "80px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "60px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.price-mono": {
+      "value": {
+        "fontFamily": "SFMono-Regular, Menlo, Monaco, Consolas, monospace",
+        "fontSize": "15px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.price-mono}",
+        "salePriceColor": "{colors.accent-sale}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "overlayColor": "{colors.overlay-dark}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "hairlineColor": "#ffffff1f",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sale-soft}",
+        "borderColor": "{colors.accent-sale-border}",
+        "textColor": "{colors.accent-sale}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "value": {
+        "itemShape": "{rounded.full}",
+        "itemBorderColor": "{colors.hairline}",
+        "itemBorderColorSelected": "{colors.primary}",
+        "labelTypography": "{typography.caption}",
+        "gap": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--shopify-chat-bg-color",
+        "declaration": "#FFFFFF",
+        "url": "https://www.trayvax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--shopify-chat-text-color",
+        "declaration": "#000000",
+        "url": "https://www.trayvax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e"
+      },
+      "#00000000": {
+        "selector": "#shopify-section-template--17514078208075__slideshow",
+        "property": "--slideshow-background",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://www.trayvax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.trayvax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000066": {
+        "selector": ".popover::part(overlay)",
+        "property": "background",
+        "declaration": "#0006",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "#eaad15": {
+        "selector": ".bundles",
+        "property": "color",
+        "declaration": "#eaad15",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "#c62828": {
+        "selector": "buy-buttons.buy-buttons--seconds button.button:not([disabled]):after",
+        "property": "background",
+        "declaration": "#c62828",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "#c6282873": {
+        "selector": ".trayvax-blemished-card__cta--sold-out,.trayvax-blemished-card__cta--sold-out:hover",
+        "property": "border-color",
+        "declaration": "#c6282873",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "#c6282814": {
+        "selector": ".trayvax-blemished-card__cta--sold-out,.trayvax-blemished-card__cta--sold-out:hover",
+        "property": "background",
+        "declaration": "#c6282814",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "#757575": {
+        "selector": "[data-tpo-theme]",
+        "property": "--tooltip-icon-fill",
+        "declaration": "#757575",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#f5f5f5": {
+        "selector": "[data-tpo-theme]",
+        "property": "--switch-roller-active-bg-color",
+        "declaration": "#f5f5f5",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#999999": {
+        "selector": "[data-tpo-theme]",
+        "property": "--fileupload-border",
+        "declaration": "#999999",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#2c6ecb": {
+        "selector": "[data-tpo-theme]",
+        "property": "--fileupload-dragover-border",
+        "declaration": "#2c6ecb",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#f2f7fe": {
+        "selector": "[data-tpo-theme]",
+        "property": "--fileupload-dragover-bg",
+        "declaration": "#f2f7fe",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#fcfcfc": {
+        "selector": "[data-tpo-theme]",
+        "property": "--default-checkbox-activemark",
+        "declaration": "#fcfcfc",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#333333": {
+        "selector": "[data-tpo-mode=dark]",
+        "property": "--dimension-unit-bg-color",
+        "declaration": "#333333",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      },
+      "#ffffff1f": {
+        "selector": "[data-tpo-mode=dark]",
+        "property": "--dialog-border",
+        "declaration": "#ffffff1f",
+        "url": "https://cdn.shopify.com/extensions/01a0e732-341b-7b57-b4ae-5a4ce8c77bdf/easify-product-options-2045/assets/product-options-BCBrQHmU.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c878fd404ea169b65fc2dd373fa7a96395c280ae02f844e6308133b992465aaf"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Inter",
+        "url": "https://www.trayvax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Inter, sans-serif",
+        "url": "https://www.trayvax.com/",
+        "snapshot": "homepage.html",
+        "sha256": "05b9d5a0bc4139796c7e4890256ca93687cdc9bb0a568cc4a8967cbb257bb19e"
+      },
+      "SFMono-Regular": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "Menlo": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "Monaco": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "Consolas": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      },
+      "monospace": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.trayvax.com/cdn/shop/t/150/assets/theme.css?v=82887440851162984331786477468",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "e337518c72bea606dfdc1920b883e328af7416d70e8ba6b08ff03f9591c628ea"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

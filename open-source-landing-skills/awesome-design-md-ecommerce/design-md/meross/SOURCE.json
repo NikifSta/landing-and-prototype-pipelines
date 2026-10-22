@@ -1,0 +1,957 @@
+{
+  "source_url": "https://meross.com",
+  "final_url": "https://www.meross.com/en-gc",
+  "captured_at": "2026-09-28T04:56:53.505960+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://meross.com",
+      "final_url": "https://www.meross.com/en-gc",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.meross.com/_nuxt/entry.7695dffe.css",
+      "final_url": "https://www.meross.com/_nuxt/entry.7695dffe.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7695dffe61c5699e7c59f7f58968b6ae2d85e7039a7e836d29ed3f69e2b3e7aa",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.meross.com/_nuxt/SvgIcon.98f1f91f.css",
+      "final_url": "https://www.meross.com/_nuxt/SvgIcon.98f1f91f.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "98f1f91fff749f437cac6f00866d5821d07694d5f73fc8b1ad632f67d675eb60",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.meross.com/_nuxt/base.c0bb084a.css",
+      "final_url": "https://www.meross.com/_nuxt/base.c0bb084a.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c0bb084a1fa3cfa232d4a355deaa7a2ce7350d18b931cd7d69da99979d5ec096",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.meross.com/_nuxt/el-message.31f5942d.css",
+      "final_url": "https://www.meross.com/_nuxt/el-message.31f5942d.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "31f5942d9aab78e3a62035e54cef7aa7103e1081a91d68c4c9facdbaee7939dc",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.meross.com/_nuxt/el-checkbox.1302bf1b.css",
+      "final_url": "https://www.meross.com/_nuxt/el-checkbox.1302bf1b.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1302bf1b61f9b87452be94a9312d69ee15c9dc297bb7113588e05b6d8701faec",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 75,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#3c4043": {
+      "count": 7,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#a29e9e": {
+      "count": 6,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#8f8e93": {
+      "count": 8,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#333333": {
+      "count": 12,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#0d8ed6": {
+      "count": 5,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#0097e0": {
+      "count": 24,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#f8fafb": {
+      "count": 3,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#dcdfe6": {
+      "count": 9,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#67c23a": {
+      "count": 2,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#e6a23c": {
+      "count": 2,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#f56c6c": {
+      "count": 5,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#909399": {
+      "count": 4,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#c8c9cc": {
+      "count": 2,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#f2f3f5": {
+      "count": 2,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "#1a2139": {
+      "count": 8,
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    }
+  },
+  "font_families": {
+    "CentraNo2-Light": [
+      "https://www.meross.com/en-gc"
+    ],
+    "CentraNo2-Regular": [
+      "https://www.meross.com/en-gc"
+    ],
+    "CentraNo2-Bold": [
+      "https://www.meross.com/en-gc"
+    ],
+    "Helvetica Neue": [
+      "https://www.meross.com/en-gc"
+    ],
+    "Helvetica": [
+      "https://www.meross.com/en-gc"
+    ],
+    "Arial": [
+      "https://www.meross.com/en-gc"
+    ],
+    "sans-serif": [
+      "https://www.meross.com/en-gc"
+    ],
+    "CentraNo2-Black": [
+      "https://www.meross.com/en-gc"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".cookie .button-group .button[data-v-aa54e0d4]",
+      "declarations": "border-radius:2rem;color:#fff;cursor:pointer;display:inline-block;padding:.4rem 1.2rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .warning .warning-main .warning-content[data-v-cb31f23c]",
+      "declarations": "display:block;font-family:CentraNo2-Light;padding-top:.2rem;text-overflow:ellipsis;width:100%"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu[data-v-cb31f23c]",
+      "declarations": "background:#fff;-webkit-box-shadow:0 .13rem .6rem #a29e9e;box-shadow:0 .13rem .6rem #a29e9e;color:#000;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-family:CentraNo2-Light;height:3.571rem;margin:0 auto;position:fixed;width:100%;z-index:3"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item[data-v-cb31f23c]",
+      "declarations": "caret-color:transparent;color:#8f8e93;display:inline-block;font-family:CentraNo2-Light;height:100%;margin:0 1rem;position:relative;vertical-align:sub"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .menu-title[data-v-cb31f23c]",
+      "declarations": "color:#333;display:block;height:100%"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .menu-title[data-v-cb31f23c]:hover",
+      "declarations": "color:#0d8ed6"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item[data-v-cb31f23c]:hover",
+      "declarations": "color:#0d8ed6"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item>a[data-v-cb31f23c]",
+      "declarations": "color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item>a[data-v-cb31f23c]:hover",
+      "declarations": "color:#0d8ed6"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-full-screen[data-v-cb31f23c]",
+      "declarations": "background-color:#fff;border-top:.01rem solid #8f8e93;-webkit-box-sizing:border-box;box-sizing:border-box;color:#333;left:0;max-height:26.6rem;overflow-y:auto;position:fixed;top:3.571rem;-webkit-transition:all .4s;transition:all .4s;width:100%"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu[data-v-cb31f23c]",
+      "declarations": "background-color:#fff;color:#333;padding:1rem;position:absolute;top:3.14rem;-webkit-transition:all .4s;transition:all .4s;width:auto"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .submenu-item[data-v-cb31f23c]",
+      "declarations": "-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-box-pack:justify;-ms-flex-pack:justify;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;font-family:CentraNo2-Light;height:7.2rem;justify-content:space-between;line-height:.875rem;margin:1rem 2rem 3rem 0;width:6.58rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .submenu-item-wrap .mask[data-v-cb31f23c]",
+      "declarations": "-webkit-box-align:center;-ms-flex-align:center;-webkit-box-pack:space-evenly;-ms-flex-pack:space-evenly;align-items:center;background-color:rgba(0,0,0,.85);border-bottom-left-radius:.8125rem;border-bottom-right-radius:.8125rem;bottom:0;display:none;height:3.5rem;justify-content:space-evenly;position:absolute;-webkit-transition:all .5s ease-in-out;transition:all .5s ease-in-out;width:inherit"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .submenu-item-wrap .mask .line[data-v-cb31f23c]",
+      "declarations": "background-color:hsla(0,0%,100%,.5);height:2.1rem;width:.12rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .submenu-item-wrap .mask .shop-now[data-v-cb31f23c]",
+      "declarations": "color:#fff;cursor:pointer;font-family:CentraNo2-Regular;font-size:1.1rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .second-tit[data-v-cb31f23c]",
+      "declarations": "color:#333;font-family:CentraNo2-Bold;font-size:1.6rem;left:1.8rem;line-height:1.3;position:absolute;top:6rem;width:40%"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu[data-v-cb31f23c]::-webkit-scrollbar-thumb",
+      "declarations": "background-color:#b9b9b9;border-radius:.625rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu[data-v-cb31f23c]::-webkit-scrollbar-track",
+      "declarations": "background-color:#f0f0f0;border-radius:.625rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .right .shop .shop-link[data-v-cb31f23c]",
+      "declarations": "background:#0097e0;border-radius:2rem;color:#fff;font-size:.75rem;padding:.4rem 1rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .header-menu .header-container .middle-content .right .location .header-location-wrap .location-dropdown p[data-v-cb31f23c]:hover",
+      "declarations": "color:#0097e0"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".header .mask[data-v-cb31f23c]",
+      "declarations": "-webkit-animation:opacity-cb31f23c .4s linear;animation:opacity-cb31f23c .4s linear;background-color:#000;opacity:.7;position:absolute;width:100%;z-index:1"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home .special-page-container .desc-button-container .desc-button-wrap .tittle[data-v-5dc7e6eb]",
+      "declarations": "font-family:CentraNo2-Bold;font-size:3rem;font-weight:700"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home .container .product-container .title[data-v-5dc7e6eb]",
+      "declarations": "color:#3c4043;font-family:CentraNo2-Bold;font-size:2.28rem;margin-bottom:3rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home .container .product-container .product-wrap .product-item-container[data-v-5dc7e6eb]:hover",
+      "declarations": "-webkit-animation-direction:alternate;animation-direction:alternate;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-box-shadow:.1rem .2rem 1rem rgba(0,0,0,.25);box-shadow:.1rem .2rem 1rem rgba(0,0,0,.25);color:#4c4c4c;-webkit-transform:translateY(-.18rem);-ms-transform:translateY(-.18rem);transform:translateY(-.18rem)"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home .container .product-container .product-wrap .product-item-container:hover .button[data-v-5dc7e6eb]",
+      "declarations": "border:.0625rem solid #0097e0!important;color:#0097e0"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home .container .product-container .product-wrap .product-item-container .product-item-wrap[data-v-5dc7e6eb]",
+      "declarations": "color:#3c4043;display:block;font-weight:700;height:100%;position:relative;text-align:center;width:100%"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home[data-v-5dc7e6eb] .el-carousel .el-carousel__button",
+      "declarations": "background-color:#767070!important;border-radius:50%;height:.3rem;width:.3rem"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".home[data-v-5dc7e6eb] .el-input .el-input-group__append .el-button",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".el-button-group>.el-dropdown>.el-button",
+      "declarations": "border-bottom-left-radius:0;border-left-color:var(--el-button-divide-border-color);border-top-left-radius:0"
+    },
+    {
+      "source": "https://www.meross.com/en-gc",
+      "selector": ".el-button-group .el-button--primary:first-child",
+      "declarations": "border-right-color:var(--el-button-divide-border-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Meross Offical Site, Smart House and Home Automation Device Provider.",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0097e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#0d8ed6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.muted": {
+      "value": "#8f8e93",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dcdfe6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8fafb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.shadow-neutral": {
+      "value": "#a29e9e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.footer-ink": {
+      "value": "#1a2139",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.text-secondary": {
+      "value": "#3c4043",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.success": {
+      "value": "#67c23a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.warning": {
+      "value": "#e6a23c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.danger": {
+      "value": "#f56c6c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.info": {
+      "value": "#909399",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.border-light": {
+      "value": "#c8c9cc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f2f3f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.meross.com/en-gc"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "CentraNo2-Black, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 800,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "CentraNo2-Bold, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "CentraNo2-Bold, Arial, sans-serif",
+        "fontSize": "25.6px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "CentraNo2-Regular, Helvetica Neue, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "CentraNo2-Light, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 300,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "CentraNo2-Light, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 300,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "CentraNo2-Regular, Arial, sans-serif",
+        "fontSize": "17.6px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "activeTextColor": "{colors.primary-hover}",
+        "typography": "{typography.body-sm}",
+        "shadow": "0 0.13rem 0.6rem {colors.shadow-neutral}",
+        "height": "57px"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.footer-ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "textColor": "{colors.text-secondary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.device-status-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border-light}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "onlineColor": "{colors.success}",
+        "offlineColor": "{colors.muted}",
+        "alertColor": "{colors.danger}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".cookie .button-group .button[data-v-aa54e0d4]",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#3c4043": {
+        "selector": ".cookie .button-group .reject-button[data-v-aa54e0d4]",
+        "property": "background",
+        "declaration": "#3c4043",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#a29e9e": {
+        "selector": ".header .header-menu[data-v-cb31f23c]",
+        "property": "-webkit-box-shadow",
+        "declaration": "0 .13rem .6rem #a29e9e",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#000000": {
+        "selector": ".header .header-menu[data-v-cb31f23c]",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#8f8e93": {
+        "selector": ".header .header-menu .header-container .middle-content .left .menu-item[data-v-cb31f23c]",
+        "property": "color",
+        "declaration": "#8f8e93",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#333333": {
+        "selector": ".header .header-menu .header-container .middle-content .left .menu-item .menu-title[data-v-cb31f23c]",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#0d8ed6": {
+        "selector": ".header .header-menu .header-container .middle-content .left .menu-item .menu-title[data-v-cb31f23c]:hover",
+        "property": "color",
+        "declaration": "#0d8ed6",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#0097e0": {
+        "selector": ".header .header-menu .header-container .middle-content .right .shop .shop-link[data-v-cb31f23c]",
+        "property": "background",
+        "declaration": "#0097e0",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#f8fafb": {
+        "selector": ".home .container .recommend-container .recommend-wrap .recommend-item .detail-container[data-v-5dc7e6eb]",
+        "property": "background",
+        "declaration": "#f8fafb",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#dcdfe6": {
+        "selector": ".home .container .subscribe-container .subscribe-wrap .subscribe-input[data-v-5dc7e6eb]",
+        "property": "border",
+        "declaration": ".0625rem solid #dcdfe6",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#67c23a": {
+        "selector": ":root",
+        "property": "--el-color-success",
+        "declaration": "#67c23a",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#e6a23c": {
+        "selector": ":root",
+        "property": "--el-color-warning",
+        "declaration": "#e6a23c",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#f56c6c": {
+        "selector": ":root",
+        "property": "--el-color-danger",
+        "declaration": "#f56c6c",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#909399": {
+        "selector": ":root",
+        "property": "--el-color-info",
+        "declaration": "#909399",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#c8c9cc": {
+        "selector": ":root",
+        "property": "--el-color-info-light-5",
+        "declaration": "#c8c9cc",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#f2f3f5": {
+        "selector": ":root",
+        "property": "--el-bg-color-page",
+        "declaration": "#f2f3f5",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "#1a2139": {
+        "selector": ".support-select-popper .el-select-dropdown__item",
+        "property": "color",
+        "declaration": "#1a2139",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      }
+    },
+    "font_families": {
+      "CentraNo2-Light": {
+        "selector": ".header .warning .warning-main .warning-content[data-v-cb31f23c]",
+        "property": "font-family",
+        "declaration": "CentraNo2-Light",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "CentraNo2-Regular": {
+        "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .submenu-item-wrap .mask .shop-now[data-v-cb31f23c]",
+        "property": "font-family",
+        "declaration": "CentraNo2-Regular",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "CentraNo2-Bold": {
+        "selector": ".header .header-menu .header-container .middle-content .left .menu-item .submenu-main .solutions-item .second-tit[data-v-cb31f23c]",
+        "property": "font-family",
+        "declaration": "CentraNo2-Bold",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "Helvetica Neue": {
+        "selector": ":root",
+        "property": "--el-font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"微软雅黑\",Arial,sans-serif",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "Helvetica": {
+        "selector": ":root",
+        "property": "--el-font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"微软雅黑\",Arial,sans-serif",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "Arial": {
+        "selector": ":root",
+        "property": "--el-font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"微软雅黑\",Arial,sans-serif",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--el-font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"微软雅黑\",Arial,sans-serif",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      },
+      "CentraNo2-Black": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "CentraNo2-Black",
+        "url": "https://www.meross.com/en-gc",
+        "snapshot": "homepage.html",
+        "sha256": "83b3bf39278d7f821607b16d3bdff3f518dd8e6afb9da271acc9a5dd4a81b459"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,853 @@
+{
+  "source_url": "https://eaglecreek.com",
+  "final_url": "https://eaglecreek.com/",
+  "captured_at": "2026-09-28T05:03:03.932014+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://eaglecreek.com",
+      "final_url": "https://eaglecreek.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "final_url": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b1e3df0c63a3fc6f0e4789dc83e368122315295ecfe5724e35dfa2e5a9444094",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://eaglecreek.com/cdn/shop/t/657/assets/base.css?v=67588814522907934781788367099",
+      "final_url": "https://eaglecreek.com/cdn/shop/t/657/assets/base.css?v=67588814522907934781788367099",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "afae65ab8debaca75d5fd7af2449b1d797ada77fa51368535291c11588763fc4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086",
+      "final_url": "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1646339b585ffcd639fa735a1004ed14f5b44f0643fbd935d4c372215998497c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://eaglecreek.com/cdn/shop/t/657/assets/sections.css?v=13802288753233265001788289086",
+      "final_url": "https://eaglecreek.com/cdn/shop/t/657/assets/sections.css?v=13802288753233265001788289086",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b245ef582446a151c913d8ab8a71618702044168bbedf6e7caaa31a06748054e",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#c9c1a6": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#203012": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#6c785a": {
+      "count": 4,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#4b6633": {
+      "count": 3,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#f2f0e9": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#ec7f21": {
+      "count": 1,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#de3618": {
+      "count": 1,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#353535": {
+      "count": 11,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#0068c6": {
+      "count": 1,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "#232323": {
+      "count": 4,
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 1,
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086"
+      ]
+    }
+  },
+  "font_families": {
+    "Lato": [
+      "https://eaglecreek.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": "body",
+      "declarations": "display: grid;\r\n        grid-template-rows: auto auto 1fr auto;\r\n        grid-template-columns: 100%;\r\n        min-height: 100%;\r\n        margin: 0;\r\n        font-size: 1.6rem;\r\n        line-height: 2.4rem;\r\n        font-family: var(--font-body-family);\r\n        font-style: var(--font-body-style);\r\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ":root",
+      "declarations": "--page-width: 160rem;\n      --page-width-margin: 2rem;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".wambutton",
+      "declarations": "display: block;\n              position: absolute;\n              background-color: white;\n              color: black;\n              top: 0;\n              left: 0;\n              padding: 3px 20px 2px 46px;\n              font-size: 1em;\n              z-index: 999 !important;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".announcement-bar--wrap a:not(.button)",
+      "declarations": "color: black;\n    text-decoration: underline;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".announcement-bar--wrap .button",
+      "declarations": "height: 2px;\n    color: #ffffff;\n    background-color: #6c785a;\n    border: 2px solid #6c785a;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--white",
+      "declarations": "color: var(--ec-white);\n    background-color: var(--ec-green-tint-3);\n    border-color: var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--sand",
+      "declarations": "background-color: var(--ec-green-tint-3);\n    color: var(--ec-white);\n    border: 2px solid var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": "#shopify-section-template--22035025559689__multicolumn_NLp94n .button:hover",
+      "declarations": "background-color: #4b6633;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--white",
+      "declarations": "color: var(--ec-white);\n    background-color: var(--ec-green-tint-3);\n    border-color: var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--sand",
+      "declarations": "background-color: var(--ec-green-tint-3);\n    color: var(--ec-white);\n    border: 2px solid var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": "#shopify-section-template--22035025559689__1640683097c15a6a65 .button:hover",
+      "declarations": "background-color: #4b6633;"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--white",
+      "declarations": "color: var(--ec-white);\n    background-color: var(--ec-green-tint-3);\n    border-color: var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".multicolumn-card:hover .multicolumn-card__info .button.button--sand",
+      "declarations": "background-color: var(--ec-green-tint-3);\n    color: var(--ec-white);\n    border: 2px solid var(--ec-green-tint-3);"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".footer-block__store_location .button",
+      "declarations": "color: rgba(var(--color-foreground));"
+    },
+    {
+      "source": "https://eaglecreek.com/",
+      "selector": ".footer-block__newsletter .newsletter-form__button",
+      "declarations": "background-color: rgba(var(--color-base-outline-button-hover));\n      height: 100%;"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": "#rebuy-quick-view-flyout-search .rebuy-quick-view__container .rebuy-quick-view__product-section>.rebuy-quick-view__product-list .rebuy-quick-view__product",
+      "declarations": "display:grid;align-items:flex-start;grid-template-columns:90px minmax(0,1fr);column-gap:15px;row-gap:0;border-color:#d1d1d1"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": "#rebuy-quick-view-flyout-search .rebuy-product-title",
+      "declarations": "font-weight:800;text-transform:uppercase;font-size:14px;color:#232323;text-align:left;padding-bottom:5px"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": "#rebuy-quick-view-flyout-search .rebuy-quick-view__container .rebuy-quick-view__collection-section button.see-more",
+      "declarations": "color:var(--ec-blue)"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": "#rebuy-quick-view-flyout-search .rebuy-button",
+      "declarations": "font-size:14px;text-transform:uppercase;font-family:var(--font-ibm);line-height:16px;font-weight:700;padding:1.2rem 2.4rem;text-decoration:none;border-radius:25px;margin-top:15px;background-color:var(--ec-green-tint-1);border:var(--ec-green-tint-1);color:#fff"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": "#rebuy-quick-view-flyout-search .rebuy-button:hover",
+      "declarations": "background-color:var(--ec-green-tint-3)"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": ".rebuy-smart-search__results-section .rebuy-smart-search-results__product .rebuy-product-title",
+      "declarations": "text-decoration:none;color:rgb(var(--color-foreground));display:block;text-align:center;font-weight:700;text-transform:uppercase"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": ".rebuy-smart-search__results-section .rebuy-smart-search-results__product .rebuy-product-price",
+      "declarations": "margin-top:.7rem;color:rgb(var(--color-foreground));font-weight:700"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+      "selector": ".rebuy-smart-search__results-section .rebuy-smart-search-results__product .rebuy-product-price .rebuy-money",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://eaglecreek.com/cdn/shop/t/657/assets/base.css?v=67588814522907934781788367099",
+      "selector": ":root,.color-background-1",
+      "declarations": "--color-foreground: var(--ec-black-rgb);--color-background: var(--ec-white-rgb);--gradient-background: var(--gradient-base-background-1)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Adventure Travel Gear Backed By No Matter What® Warranty\n | Eagle Creek",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#4b6633",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#6c785a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#232323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#353535",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2f0e9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.sand": {
+      "value": "#c9c1a6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.deep-green": {
+      "value": "#203012",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.link": {
+      "value": "#0068c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value": "#ec7f21",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.alert-red": {
+      "value": "#de3618",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#d1d1d1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 800,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.body-sm}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.deep-green}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.sand}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.alert-red}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border-strong}",
+        "resultTitleTypography": "{typography.caption}",
+        "resultTitleColor": "{colors.ink}",
+        "linkColor": "{colors.link}",
+        "rounded": "{rounded.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.warranty-callout": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.deep-green}",
+        "iconAccent": "{colors.secondary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#c9c1a6": {
+        "selector": ":root",
+        "property": "--ec-selection",
+        "declaration": "#C9C1A6",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#203012": {
+        "selector": ":root",
+        "property": "--ec-green",
+        "declaration": "#203012",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#6c785a": {
+        "selector": ":root",
+        "property": "--ec-green-tint-1",
+        "declaration": "#6C785A",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#4b6633": {
+        "selector": ":root",
+        "property": "--ec-green-tint-3",
+        "declaration": "#4B6633",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#f2f0e9": {
+        "selector": ":root",
+        "property": "--ec-beige",
+        "declaration": "#F2F0E9",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#ec7f21": {
+        "selector": ":root",
+        "property": "--ec-orange",
+        "declaration": "#ec7f21",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#de3618": {
+        "selector": ":root",
+        "property": "--ec-red",
+        "declaration": "#DE3618",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#353535": {
+        "selector": ":root",
+        "property": "--ec-black",
+        "declaration": "#353535",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--ec-white",
+        "declaration": "#fff",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#0068c6": {
+        "selector": ":root",
+        "property": "--gradient-base-accent-2",
+        "declaration": "#0068c6",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#000000": {
+        "selector": ".wambutton",
+        "property": "color",
+        "declaration": "black",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#00000000": {
+        "selector": ".announcement-arrow",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      },
+      "#232323": {
+        "selector": "#rebuy-quick-view-flyout-search .rebuy-quick-view__container",
+        "property": "color",
+        "declaration": "#232323",
+        "url": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b1e3df0c63a3fc6f0e4789dc83e368122315295ecfe5724e35dfa2e5a9444094"
+      },
+      "#d1d1d1": {
+        "selector": "#rebuy-quick-view-flyout-search .rebuy-quick-view__container .rebuy-quick-view__product-section>.rebuy-quick-view__product-list .rebuy-quick-view__product",
+        "property": "border-color",
+        "declaration": "#d1d1d1",
+        "url": "https://eaglecreek.com/cdn/shop/t/657/assets/rebuy-smart-search.css?v=159500940157566548341788289086",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b1e3df0c63a3fc6f0e4789dc83e368122315295ecfe5724e35dfa2e5a9444094"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://eaglecreek.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#f6f6f6": {
+        "selector": "#predictive-search-option-search-keywords",
+        "property": "background",
+        "declaration": "#f6f6f6",
+        "url": "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "1646339b585ffcd639fa735a1004ed14f5b44f0643fbd935d4c372215998497c"
+      },
+      "#757575": {
+        "selector": ".breadcrumb__divider",
+        "property": "color",
+        "declaration": "#757575",
+        "url": "https://eaglecreek.com/cdn/shop/t/657/assets/component-list.css?v=56806068202908850641788289086",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "1646339b585ffcd639fa735a1004ed14f5b44f0643fbd935d4c372215998497c"
+      }
+    },
+    "font_families": {
+      "Lato": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Lato",
+        "url": "https://eaglecreek.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bf19fc538ff4ea52b28d3b4b9228ad4f1b00f7a623c0fce23ef47727c827aa37"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

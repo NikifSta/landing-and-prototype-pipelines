@@ -1,0 +1,872 @@
+{
+  "source_url": "https://wunderlang.com",
+  "final_url": "https://www.wunderlang.com/",
+  "captured_at": "2026-09-29T04:00:26.642209+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://wunderlang.com",
+      "final_url": "https://www.wunderlang.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "0de53e66bb4990e1565d574fc225243ff35c5924842f6fb2254d19fbde30cc29",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/b84190ba-da02-40e1-8a41-d9c14a907874_311/website.components.horizontalrule.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/b84190ba-da02-40e1-8a41-d9c14a907874_311/website.components.horizontalrule.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "16728fc007853637c7768b0c79c377bcc59811904609cfa1954475b58a32c109",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/09462abe-4883-4891-8d53-bd2559ca7f96_1267/website.components.spacer.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/09462abe-4883-4891-8d53-bd2559ca7f96_1267/website.components.spacer.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "79cf11e511b4d35a376b07a268e704c15d8f8935b64de4c3a152f5ceb05cf96a",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/15170ac3-56bb-419c-892a-8706938616ef_1114/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/15170ac3-56bb-419c-892a-8706938616ef_1114/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/cf92be75-1d7a-4bdf-b758-c8f8cbd7b4df_107/website.components.newsletter.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/cf92be75-1d7a-4bdf-b758-c8f8cbd7b4df_107/website.components.newsletter.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8610c8f62ed90f6fd301058cd563ea68422d36ef2780337d2e63b0f67272d8fc",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "final_url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/e237edef00ae5990-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/e237edef00ae5990-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b6df9ebd6ca8551a6c2caeda7c0801e9ca8249c3d2f19ac942f7235f4cd8f132",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/6bc1593a0581d9e7-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/6bc1593a0581d9e7-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b149a8cb8478eeb19b137c98da9689fffa2b395c41577d5dd5bfcdfe5206120d",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e5e47c85a0b452da561b75fbedfae3d8398f54a7de67419efba318d529f7db1",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0ff709d81c238e4bd4205ce9957ffba981b4870ae9d1fa42da5b1b6b69380259",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://www.wunderlang.com/#computed-style-snapshot",
+      "final_url": "https://www.wunderlang.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "0db3662605d16941589eb01b69bc124f676f5a64dddcd03d5f7c5a1ec452fbe3",
+      "snapshot": "rendered-style-11.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 398,
+      "sources": [
+        "https://www.wunderlang.com/"
+      ]
+    },
+    "#999999": {
+      "count": 10,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 32,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#111111": {
+      "count": 38,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 12,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#f0523d": {
+      "count": 12,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#222222": {
+      "count": 176,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#cda99d": {
+      "count": 15,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#365313": {
+      "count": 11,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#382110": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#eb4924": {
+      "count": 5,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "#f5efec": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    }
+  },
+  "font_families": {
+    "EB Garamond": [
+      "https://www.wunderlang.com/"
+    ],
+    "Karla": [
+      "https://www.wunderlang.com/"
+    ],
+    "sans-serif": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+    ],
+    "Helvetica Neue": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+    ],
+    "Helvetica": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+    ],
+    "Clarkson": [
+      "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/cf92be75-1d7a-4bdf-b758-c8f8cbd7b4df_107/website.components.newsletter.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.newsletter\"] .newsletter-form-button",
+      "declarations": "appearance:none;cursor:pointer;font-family:inherit;font-size:15px;font-weight:400;line-height:normal;position:relative;text-align:center;text-transform:uppercase;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+      "declarations": "font-family:'Helvetica Neue',Helvetica,Sans-serif;font-size:12px;line-height:1.5em;font-weight:normal;font-style:normal;letter-spacing:.05em;margin:10px !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.DARK p,.sqs-cookie-banner-v2.DARK button,.sqs-cookie-banner-v2.DARK a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject),.sqsp-tooltip .buttons a:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):focus,.sqsp-tooltip .buttons a:not(.reject)>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject,.sqsp-tooltip .buttons a.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:focus,.sqsp-tooltip .buttons a.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover,.sqsp-tooltip .buttons a.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject),.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):focus,.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:focus,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation.danger-zone .sqs-widgets-confirmation-content .buttons .confirmation-button",
+      "declarations": "background-color:#f0523d;color:#fff !important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Wunderlang",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "af6f15ce8743973a3950c9c2290803daad1acc2be158c591593888a5a76269cc"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f0523d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wunderlang.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f5efec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wunderlang.com/"
+      ]
+    },
+    "colors.accent-clay": {
+      "value": "#cda99d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.accent-olive": {
+      "value": "#365313",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.accent-brown": {
+      "value": "#382110",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.accent-warm": {
+      "value": "#eb4924",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Clarkson, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Clarkson, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.15,
+        "letterSpacing": "1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "EB Garamond, serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Karla, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Karla, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "1.5em",
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": "normal",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "shadow": "none (flat editorial style, proposed)"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "overlayColor": "{colors.accent-brown}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.title-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.caption}",
+        "padding": "{spacing.xxl} {spacing.xl}",
+        "hairline": "{colors.accent-brown}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-clay}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.fabric-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.accent-olive}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://www.wunderlang.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0de53e66bb4990e1565d574fc225243ff35c5924842f6fb2254d19fbde30cc29"
+      },
+      "#999999": {
+        "selector": ".sqs-async-form-content .form-wrapper .field-list .section.underline",
+        "property": "border-bottom",
+        "declaration": "1px solid #999",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "#dddddd": {
+        "selector": ".sqs-async-form-content .form-wrapper .field-list .field.likert .option",
+        "property": "border-top",
+        "declaration": "1px solid #ddd",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "#111111": {
+        "selector": ".sqs-pill-shopping-cart-content.dark",
+        "property": "background-color",
+        "declaration": "#111",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "#f6f6f6": {
+        "selector": ".sqsp-tooltip",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#f0523d": {
+        "selector": ".sqsp-tooltip .buttons a.reject:hover",
+        "property": "background-color",
+        "declaration": "#f0523d",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#222222": {
+        "selector": ".sqs-block .state-message.information,.sqs-state-message.information",
+        "property": "background",
+        "declaration": "#222",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#cda99d": {
+        "selector": ".ProductItem-details-excerpt a",
+        "property": "color",
+        "declaration": "#cda99d",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#365313": {
+        "selector": ".sqs-block-button .sqs-block-button-element--small",
+        "property": "background-color",
+        "declaration": "#365313",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#382110": {
+        "selector": ".social-icons-color-standard .goodreads .sqs-use--icon,.social-icons-color-standard .goodreads .sqs-use--mask",
+        "property": "fill",
+        "declaration": "#382110",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#eb4924": {
+        "selector": ".social-icons-color-standard .stumbleupon .sqs-use--icon,.social-icons-color-standard .stumbleupon .sqs-use--mask",
+        "property": "fill",
+        "declaration": "#eb4924",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      },
+      "#f5efec": {
+        "selector": ".sqs-block-image .design-layout-collage .image-card",
+        "property": "background-color",
+        "declaration": "#f5efec",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      }
+    },
+    "font_families": {
+      "EB Garamond": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"EB Garamond\"",
+        "url": "https://www.wunderlang.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0de53e66bb4990e1565d574fc225243ff35c5924842f6fb2254d19fbde30cc29"
+      },
+      "Karla": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Karla\"",
+        "url": "https://www.wunderlang.com/",
+        "snapshot": "homepage.html",
+        "sha256": "0de53e66bb4990e1565d574fc225243ff35c5924842f6fb2254d19fbde30cc29"
+      },
+      "sans-serif": {
+        "selector": ".sqs-async-form-content .form-wrapper .field-list .field .field-element",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "Helvetica Neue": {
+        "selector": ".sqs-async-form-content .form-wrapper input[type=submit]",
+        "property": "font-family",
+        "declaration": "Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "Helvetica": {
+        "selector": ".sqs-async-form-content .form-wrapper input[type=submit]",
+        "property": "font-family",
+        "declaration": "Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7"
+      },
+      "Clarkson": {
+        "selector": ".sqs-blockStatus-box",
+        "property": "font-family",
+        "declaration": "\"Clarkson\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://static1.squarespace.com/static/sitecss/5abdff305b409b30c97a0fc7/98/55f0aac0e4b0f0a5b7e0b22e/5b3bd22688251b859b463ca9/360/site.css?nocustom=true",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5ee0d6b85f72f9baa96e78431d6aeaa61ae0f252c753ee1e3540ef8fd77495ff"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

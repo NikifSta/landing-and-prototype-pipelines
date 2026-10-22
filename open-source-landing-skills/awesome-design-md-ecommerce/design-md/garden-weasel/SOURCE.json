@@ -1,0 +1,801 @@
+{
+  "source_url": "https://gardenweasel.com",
+  "final_url": "https://www.gardenweasel.com/",
+  "captured_at": "2026-09-28T09:55:20.058520+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gardenweasel.com",
+      "final_url": "https://www.gardenweasel.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/cas7oxe.css",
+      "final_url": "https://use.typekit.net/cas7oxe.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "a2ad1a79143b30b8c1cdc4a162c11d05ab31d945b315aa012f3e935628617972",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "final_url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8955841b3497d90a3ae0c4cb46664462e76cfb2c85e9495bd584f98996a41f3a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/gw-custom.css?v=28898316045757421581788447354",
+      "final_url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/gw-custom.css?v=28898316045757421581788447354",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e0e0ede0c7f1c884f94a44f67d054069dc49266cc270148cfc9e771db5fd5152",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/component-cart-items.css?v=123238115697927560811787328159",
+      "final_url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/component-cart-items.css?v=123238115697927560811787328159",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b7f067889aa9249bbe8f756b7a9498ffe47b714f8474913a5e30a07a0601767",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#eae4dd": {
+      "count": 10,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#383838": {
+      "count": 64,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#c00321": {
+      "count": 29,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#129174": {
+      "count": 11,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#231f20": {
+      "count": 2,
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shop/t/21/assets/gw-custom.css?v=28898316045757421581788447354"
+      ]
+    }
+  },
+  "font_families": {
+    "Assistant": [
+      "https://www.gardenweasel.com/"
+    ],
+    "sans-serif": [
+      "https://www.gardenweasel.com/"
+    ],
+    "mr-eaves-sans": [
+      "https://www.gardenweasel.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".header-wrapper--custom-style .header__inline-menu ul > li .header__menu-item:hover",
+      "declarations": "text-decoration: underline;\n    text-decoration-color: #C00321;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".header-wrapper--custom-style .header__inline-menu ul > li .header__menu-item",
+      "declarations": "font-size: 15px;\n    font-weight: 800;\n    line-height: 16.65px;\n    transition: all 0.1s linear;\n    text-transform: uppercase;\n    color: #383838;\n    padding: 25px 15px;\n    font-family: \"mr-eaves-sans\", sans-serif;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".header-wrapper--custom-style .header__utility-menu-link",
+      "declarations": "display: inline-block;\n      padding: 10px 10px 0;\n      font-size: 12px;\n      font-weight: 800;\n      line-height: normal;\n      text-transform: uppercase;\n      text-decoration: none;\n      color: #c00321;\n      font-family: \"mr-eaves-sans\", sans-serif;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".menu-drawer__close-button-back",
+      "declarations": "font-size: 24px;\n    margin-bottom: 20px;\n    margin-top: 0 !important;\n    padding: 0 !important;\n    background: none !important;\n    line-height: 28px;\n    font-weight: 700;\n    color: #231f20;\n    font-family: 'mr-eaves-sans', sans-serif;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".menu-drawer__close-button-back:hover",
+      "declarations": "color: #c00321;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button",
+      "declarations": "background: #129174;\n    color: #FFFFFF !important;\n    padding: 8px 16px;\n    text-decoration: none;\n    font-family: \"mr-eaves-sans\", sans-serif;\n    font-size: 19px;\n    font-weight: 800;\n    text-align: center;\n    width: 100%;\n    display: block;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button.button--secondary",
+      "declarations": "color: #FFFFFF !important;\n    text-transform: none;\n    font-size: 19px;\n    margin-top: 15px;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button",
+      "declarations": "background: #129174;\n    color: #FFFFFF !important;\n    padding: 8px 16px;\n    text-decoration: none;\n    font-family: \"mr-eaves-sans\", sans-serif;\n    font-size: 19px;\n    font-weight: 800;\n    text-align: center;\n    width: 100%;\n    display: block;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button.button--secondary",
+      "declarations": "color: #FFFFFF !important;\n    text-transform: none;\n    font-size: 19px;\n    margin-top: 15px;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button",
+      "declarations": "background: #129174;\n    color: #FFFFFF !important;\n    padding: 8px 16px;\n    text-decoration: none;\n    font-family: \"mr-eaves-sans\", sans-serif;\n    font-size: 19px;\n    font-weight: 800;\n    text-align: center;\n    width: 100%;\n    display: block;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button.button--secondary",
+      "declarations": "color: #FFFFFF !important;\n    text-transform: none;\n    font-size: 19px;\n    margin-top: 15px;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button",
+      "declarations": "background: #129174;\n    color: #FFFFFF !important;\n    padding: 8px 16px;\n    text-decoration: none;\n    font-family: \"mr-eaves-sans\", sans-serif;\n    font-size: 19px;\n    font-weight: 800;\n    text-align: center;\n    width: 100%;\n    display: block;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".mega-menu__image-button.button--secondary",
+      "declarations": "color: #FFFFFF !important;\n    text-transform: none;\n    font-size: 19px;\n    margin-top: 15px;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/",
+      "selector": ".footer-block__brand-info .newsletter-form__button",
+      "declarations": "display: block;\nwidth: auto;\nposition: unset;\nbackground: #ffffff !important;\nmin-width: 100px;\npadding: 15px 30px;\nfloat: right;\nmargin-top: 20px;\ncolor: black;\nfont-size: 19px;\nfont-weight: 800;\nline-height: 21px;\nfont-family: \"mr-eaves-sans\", sans-serif;"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.gardenweasel.com/cdn/shop/t/21/assets/base.css?v=108145533408560962631788293506",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var( --buttons-border-offset );--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Garden Weasel Brand - Solutions from the Ground Up",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#c00321",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#129174",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#383838",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shop/t/21/assets/gw-custom.css?v=28898316045757421581788447354"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eae4dd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.dark": {
+      "value": "#231f20",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-dark": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-blue": {
+      "value": "#334fb4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gardenweasel.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "mr-eaves-sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 800,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "mr-eaves-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 800,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "mr-eaves-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": 800,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.06rem"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Assistant, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "mr-eaves-sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 800,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "mr-eaves-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": 800,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.title-md}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.md} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.muted}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.mega-menu-panel": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "surfaceColor": "{colors.surface-soft}",
+        "ctaBackground": "{colors.secondary}",
+        "ctaTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root,\n        .color-scheme-1",
+        "property": "--gradient-background",
+        "declaration": "#ffffff",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#f3f3f3": {
+        "selector": ".color-scheme-2",
+        "property": "--gradient-background",
+        "declaration": "#f3f3f3",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#121212": {
+        "selector": ".color-scheme-4",
+        "property": "--gradient-background",
+        "declaration": "#121212",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#334fb4": {
+        "selector": ".color-scheme-5",
+        "property": "--gradient-background",
+        "declaration": "#334fb4",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#eae4dd": {
+        "selector": ".color-scheme-d254480f-ff7e-4b55-8fe1-6f812d0151dc",
+        "property": "--gradient-background",
+        "declaration": "#eae4dd",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#383838": {
+        "selector": ".color-scheme-13bd495d-01e7-4e1b-96b9-8a15f84b43fc",
+        "property": "--gradient-background",
+        "declaration": "#383838",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#c00321": {
+        "selector": ".color-scheme-85485a3e-b7f7-4f98-a0ce-531c543433d1",
+        "property": "--gradient-background",
+        "declaration": "#c00321",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#129174": {
+        "selector": ".custom-mega-menu__image-caption a",
+        "property": "background-color",
+        "declaration": "#129174",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#231f20": {
+        "selector": ".menu-drawer__menu-item-wrapper",
+        "property": "color",
+        "declaration": "#231f20",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.gardenweasel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#cccccc": {
+        "selector": ".predictive-search-results",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://www.gardenweasel.com/cdn/shop/t/21/assets/gw-custom.css?v=28898316045757421581788447354",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "e0e0ede0c7f1c884f94a44f67d054069dc49266cc270148cfc9e771db5fd5152"
+      }
+    },
+    "font_families": {
+      "Assistant": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Assistant",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body-family",
+        "declaration": "Assistant, sans-serif",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      },
+      "mr-eaves-sans": {
+        "selector": ".header-wrapper--custom-style .header__inline-menu ul > li .header__menu-item",
+        "property": "font-family",
+        "declaration": "\"mr-eaves-sans\", sans-serif",
+        "url": "https://www.gardenweasel.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c4c6e610fe32cdfaf6023d2a50addd7d5f882d862afc3b3c9fb4ad12aca60a35"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

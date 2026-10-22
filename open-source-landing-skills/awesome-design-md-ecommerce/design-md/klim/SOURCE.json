@@ -1,0 +1,819 @@
+{
+  "source_url": "https://klim.com",
+  "final_url": "https://www.klim.com/",
+  "captured_at": "2026-09-28T09:44:31.005279+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://klim.com",
+      "final_url": "https://www.klim.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "final_url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/etc0mvj.css",
+      "final_url": "https://use.typekit.net/etc0mvj.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "aecbd4e93c02ec6f24b289bf32e333cbdd72e28c3a38d00702fb574df6353a90",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.klim.com/cdn/shop/t/3/assets/tailwind-output.css?v=13952692133190515811781703151",
+      "final_url": "https://www.klim.com/cdn/shop/t/3/assets/tailwind-output.css?v=13952692133190515811781703151",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ba83d58d72191a724ceb9c065664c1ba3afc7e1ccd204f49241f9a5e4373bdd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.klim.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.klim.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c9b1-b536-7817-99bb-85cdbd32be4f/wishlist-hero-95/assets/Dawn.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c9b1-b536-7817-99bb-85cdbd32be4f/wishlist-hero-95/assets/Dawn.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "59ea355f14bfc4581de410b98ab798eb8730a4bea3881af6ec5eb30b6d14b48c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 153,
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 171,
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#f6a529": {
+      "count": 2,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#108043": {
+      "count": 3,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 18,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#ebebeb": {
+      "count": 16,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 13,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#737373": {
+      "count": 11,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "#d32d2d": {
+      "count": 2,
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    }
+  },
+  "font_families": {
+    "Roboto": [
+      "https://www.klim.com/"
+    ],
+    "Cabin": [
+      "https://www.klim.com/"
+    ],
+    "Industry Bold": [
+      "https://www.klim.com/"
+    ],
+    "Industry Ultra": [
+      "https://www.klim.com/"
+    ],
+    "sans-serif": [
+      "https://www.klim.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.klim.com/",
+      "selector": ".h1, .h1-style, h2, h3, h4, h5, h6, .heading-font, .title, .button",
+      "declarations": "font-family: \"Industry Ultra\", \"Cabin\", sans-serif;"
+    },
+    {
+      "source": "https://www.klim.com/",
+      "selector": "ing: 100.0%;\n         --content-fit: cover;\n         --full-url: url(//www.klim.com/cdn/shop/files/category-card-life.jpg?v=1760034129&width=544);\n\n\n .testimoni",
+      "declarations": "background: #000;\n    color: #fff;\n    border: 2px solid #fff;\n    padding: 10px 28px;\n    text-decoration: none;\n    font-family: 'Industry Bold', 'Cabin', sans-serif;"
+    },
+    {
+      "source": "https://www.klim.com/",
+      "selector": ".testimonial__button-wrapper .testimonial__button .btn__text",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".store-availabilities-modal .cc-popup-modal .cc-popup-content .cc-popup-text .store-availabilities-modal__product-title",
+      "declarations": "margin-bottom:0;text-align:start;color:#000"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;min-width:0;outline:none;line-height:0px;font-size:0px;color:transparent;padding:0;cursor:pointer;position:relative"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".gallery-viewer__button",
+      "declarations": "position:absolute;pointer-events:auto;padding:8px;background:#ebebeb;color:#000;border-radius:0;transition:all 50ms"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": "input[type=submit],input[type=reset],input[type=button]",
+      "declarations": "background:#000;border:2px solid #000000;color:#fff;font-size:16px;line-height:1em;height:auto;margin:0;text-decoration:none!important;cursor:pointer;padding:8px 10px;text-align:center;border-radius:0;transition:background-color .1s,color .1s,border-color .1s,opacity .1s,transform 50ms;display:inline-block;font-family:Roboto,sans-serif;font-weight:500;font-style:normal;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".button,.btn,button",
+      "declarations": "background:var(--btn-bg-color);border:2px solid var(--btn-border-color);color:var(--btn-text-color);font-size:16px;line-height:1em;height:auto;margin:0;text-decoration:none!important;cursor:pointer;padding:8px 10px;text-align:center;border-radius:0;transition:background-color .1s,color .1s,border-color .1s,opacity .1s,transform 50ms;display:inline-block;font-family:Roboto,sans-serif;font-weight:500;font-style:normal;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".button:active,.btn:active,button:active,input[type=submit]:active,input[type=reset]:active,input[type=button]:active",
+      "declarations": "background:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".button:hover,.btn:hover,button:hover,input[type=submit]:hover,input[type=reset]:hover,input[type=button]:hover",
+      "declarations": "background:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--primary",
+      "declarations": "--btn-text-color: #ffffff;--btn-bg-color: #000000;--btn-border-color: #000000;--btn-hover-text-color: #000000;--btn-hover-bg-color: #ffffff;--btn-hover-border-color: #000000;padding:14px 28px"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--primary:hover",
+      "declarations": "background:var(--btn-hover-bg-color);color:var(--btn-hover-text-color);border:2px solid var(--btn-hover-border-color)"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--secondary",
+      "declarations": "--btn-text-color: #000000;--btn-bg-color: #FFFFFF;--btn-border-color: #000000;--btn-hover-text-color: #FFFFFF;--btn-hover-bg-color: #000000;--btn-hover-border-color: #FFFFFF;padding:14px 28px"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--secondary:hover",
+      "declarations": "background:var(--btn-hover-bg-color);color:var(--btn-hover-text-color);border:2px solid var(--btn-hover-border-color)"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": "button.btn--secondary,input[type=submit].btn--secondary,input[type=reset].btn--secondary,input[type=button].btn--secondary",
+      "declarations": "background:#fff;color:#000;border:1.5px solid #000000"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--secondary:active,button.btn--secondary:active,input[type=submit].btn--secondary:active,input[type=reset].btn--secondary:active,input[type=button].btn-",
+      "declarations": "background:#000;color:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": "button.btn--secondary:hover,input[type=submit].btn--secondary:hover,input[type=reset].btn--secondary:hover,input[type=button].btn--secondary:hover",
+      "declarations": "background:#000;color:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--tertiary",
+      "declarations": "padding:.7em 20px;font-size:13px;background:#ebebeb;color:#000;border-color:#ebebeb"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--tertiary:active",
+      "declarations": "opacity:1;background:#ebebeb;color:#000;border-color:#ebebeb"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn.btn--tertiary:hover",
+      "declarations": "opacity:1;background:#ebebeb;color:#000;border-color:#ebebeb"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn--icon,.btn--plain-text",
+      "declarations": "background:transparent;border:0;color:inherit;font-size:inherit;line-height:inherit;padding:0;vertical-align:baseline;border-radius:0;display:inline;font-family:inherit;font-weight:inherit;font-style:inherit"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn--icon:hover,.btn--icon:active,.btn--plain-text:hover,.btn--plain-text:active",
+      "declarations": "background:transparent;border:0;color:inherit"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn[disabled],.button[disabled]",
+      "declarations": "background:#999!important;color:#fff!important;border-color:#999!important"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn--in-progress,.btn--in-progress[disabled]",
+      "declarations": "position:relative;color:transparent!important"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn--in-progress:before,.btn--in-progress[disabled]:before",
+      "declarations": "content:\"\";position:absolute;top:calc(50% - .5em);left:calc(50% - .5em);width:1em;height:1em;border-radius:100%;border:1px solid transparent;border-left-color:#000;animation:loadingSpinner 1s linear infinite"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".button.btn--in-progress:before",
+      "declarations": "border-left-color:#fff"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".has-spb .button.btn--in-progress:before",
+      "declarations": "border-left-color:#000"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".btn__text",
+      "declarations": "font-family:Industry Bold,Cabin,sans-serif"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": ".quick-action-button",
+      "declarations": "display:block;padding:9px;color:#000!important;background:#fff;border-radius:0;transition:all .1s ease-out"
+    },
+    {
+      "source": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: 0px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Klim.com",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.muted": {
+      "value": "#737373",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e2e2e2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#bfbfbf",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#d32d2d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.accent-orange": {
+      "value": "#f6a529",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#108043",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "colors.tertiary-bg": {
+      "value": "#ebebeb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Industry Ultra', 'Cabin', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Industry Ultra', 'Cabin', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Industry Bold', 'Cabin', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": "1em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-tertiary": {
+      "value": {
+        "backgroundColor": "{colors.tertiary-bg}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "overlay": "{colors.border-strong}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.muted}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-orange}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.gallery-viewer": {
+      "value": {
+        "backgroundColor": "{colors.tertiary-bg}",
+        "iconColor": "{colors.ink}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "#section-id-sections--20174754906326__announcement-bar",
+        "property": "--announcement-background",
+        "declaration": "#000000",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "#ffffff": {
+        "selector": "#section-id-sections--20174754906326__announcement-bar",
+        "property": "--announcement-text",
+        "declaration": "#ffffff",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "#f9f9f9": {
+        "selector": "inline-style",
+        "property": "--btn-text-color",
+        "declaration": "#f9f9f9",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "#222222": {
+        "selector": ".cc-price-range__bar-active",
+        "property": "background",
+        "declaration": "#222",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#f6a529": {
+        "selector": ".cc-rating-stars--active",
+        "property": "color",
+        "declaration": "#f6a529",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#108043": {
+        "selector": ".store-availability-container .store-availability-information .store-availability-icon.store-availability-icon--available",
+        "property": "color",
+        "declaration": "#108043",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#e2e2e2": {
+        "selector": ".store-availabilities-modal .cc-popup-modal .cc-popup-content .store-availability-list__item:before",
+        "property": "background-color",
+        "declaration": "#e2e2e2",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#ebebeb": {
+        "selector": ".gallery-viewer__button",
+        "property": "background",
+        "declaration": "#ebebeb",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#bfbfbf": {
+        "selector": "input[type=text],input[type=search],input[type=number],input[type=email],input[type=password],input[type=address],input[type=tel],input[type=date],textarea",
+        "property": "border",
+        "declaration": "1.5px solid #bfbfbf",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#737373": {
+        "selector": "input[type=text]:hover,input[type=search]:hover,input[type=number]:hover,input[type=email]:hover,input[type=password]:hover,input[type=address]:hover,input[type=tel]:hover,input[type=date]:hover,textarea:hover",
+        "property": "border-color",
+        "declaration": "#737373",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#f5f5f5": {
+        "selector": ".placeholder-image",
+        "property": "background",
+        "declaration": "#f5f5f5",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      },
+      "#d32d2d": {
+        "selector": ".error-message",
+        "property": "border",
+        "declaration": "1px solid #d32d2d",
+        "url": "https://www.klim.com/cdn/shop/t/3/assets/styles.css?v=91802436718891073311790006244",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6678a03e90c879996138847370fb1f298e1186a2701fad6c67ba91a06ac814cf"
+      }
+    },
+    "font_families": {
+      "Roboto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Roboto",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "Cabin": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Cabin",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "Industry Bold": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Industry Bold\"",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "Industry Ultra": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Industry Ultra\"",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      },
+      "sans-serif": {
+        "selector": ".h1, .h1-style, h2, h3, h4, h5, h6, .heading-font, .title, .button",
+        "property": "font-family",
+        "declaration": "\"Industry Ultra\", \"Cabin\", sans-serif",
+        "url": "https://www.klim.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2ac547db0d93d64716b71dbf57029a2a4e6bc1bed486de21b7fd706505deedd7"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

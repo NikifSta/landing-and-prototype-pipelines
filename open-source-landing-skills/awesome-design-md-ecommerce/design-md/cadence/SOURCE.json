@@ -1,0 +1,821 @@
+{
+  "source_url": "https://keepyourcadence.com",
+  "final_url": "https://keepyourcadence.com/",
+  "captured_at": "2026-09-28T09:30:28.905590+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://keepyourcadence.com",
+      "final_url": "https://keepyourcadence.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "final_url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-compiled-codex-wip.css?v=57472028891871888491789501364",
+      "final_url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-compiled-codex-wip.css?v=57472028891871888491789501364",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "68b1d1d197a57de6aedcae7337cb420ce5809d5f17e6ba300f8fcc2a10decbed",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/yotpo.css?v=36632958173232096741789501366",
+      "final_url": "https://keepyourcadence.com/cdn/shop/t/193/assets/yotpo.css?v=36632958173232096741789501366",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "21afb119ddfd6defa8049728bafac5d72f8878c2e92f1435e697d52f0743f785",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-additional.css?v=69637464376380365111789501364",
+      "final_url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-additional.css?v=69637464376380365111789501364",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "79aa01a35000b205333ebaa4ba27ac6f855a98f7bab6ce1e9b8033737e60c892",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 221,
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 262,
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "#ffe302": {
+      "count": 5,
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "#000000": {
+      "count": 64,
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "#682b1f": {
+      "count": 17,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#b5b5db": {
+      "count": 34,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#a51313": {
+      "count": 8,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#d0cac3": {
+      "count": 93,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#f7f5f3": {
+      "count": 19,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#ebe5dd": {
+      "count": 20,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#f0ede9": {
+      "count": 21,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "#606060": {
+      "count": 10,
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-compiled-codex-wip.css?v=57472028891871888491789501364"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://keepyourcadence.com/"
+    ],
+    "SpeziaCustomMedium": [
+      "https://keepyourcadence.com/"
+    ],
+    "SpeziaMedium": [
+      "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+    ],
+    "SuisseInt": [
+      "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+    ],
+    "SpeziaBold": [
+      "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": ".header-container",
+      "declarations": "display: flex;\n    justify-content: space-between;\n    align-items: center;\n    padding: 25px;\n    background-color: #fff;\n    border-bottom:solid 1px black;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": ".menu-open .header-container",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": ".drawer-close-button",
+      "declarations": "background: none;\n        border: none;\n        cursor: pointer;\n        color: black;\n        padding: 4px;\n        display: flex;\n        align-items: center;\n        justify-content: center;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": ".new-navigation .back-button",
+      "declarations": "background: none;\n        border: none;\n        cursor: pointer;\n        color: #2b2b2b;\n        padding: 5px;\n        gap: 6px;\n        align-items: center;\n        transition: opacity 0.3s ease, transform 0.3s ease;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": ".new-navigation .back-button .menu-title",
+      "declarations": "color: #333;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": "color: #000000;\ncolor: #000000 !important;\nbackground-color: #000000; color: #ffffff; border: 1px solid #000000;\n    .viryll-container h2.cadfont-h2-header",
+      "declarations": "font-family: 'SpeziaCustomMedium', sans-serif;\n        font-weight: 400;\n        margin: 0 0 30px;\n        font-size: 34px;\n        line-height: 1.2;\n        letter-spacing: -0.88px;\n        width: 100%;\n        \n        \n        text-align: center;"
+    },
+    {
+      "source": "https://keepyourcadence.com/",
+      "selector": "#shopify-section-template--18946902720597__custom_section_collections_carousel_mRwVjr .cc__card-header",
+      "declarations": "color: #ffffff;\n    margin: 0;\n    text-shadow: 0 1px 3px rgba(0,0,0,0.3);\n    text-align: center;"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": "html,body",
+      "declarations": "padding:0;margin:0;font-family:SpeziaMedium,SuisseInt,sans-serif;font-size:16px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": "html,body",
+      "declarations": "background-color:#2b2b2b;color:#2b2b2b"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "font-family:SpeziaBold,sans-serif;margin:0 0 10px"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": "button",
+      "declarations": "color:currentColor;overflow:visible"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.product-reviews .spr-summary-actions a,.product-reviews .spr-button",
+      "declarations": "font-family:SpeziaBold;font-weight:600;font-size:.875rem;display:inline-block;padding:.7rem;margin:0;width:auto;min-width:90px;line-height:1.42;text-decoration:none;text-align:center;vertical-align:middle;white-space:normal;cursor:pointer;border:2px solid transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;color:#fff;background:#682b1f;transition:background .15s ease;border-radius:2px"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover,.product-reviews .spr-summary-actions a:hover,.product-revie",
+      "declarations": "color:#fff;background-color:#682b1f"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn:active,.rte .btn:active,.shopify-payment-button .shopify-payment-button__button--unbranded:active,.product-reviews .spr-summary-actions a:active,.product-r",
+      "declarations": "background-color:#b74b36"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": "tton--unbranded.disabled,.product-reviews .spr-summary-actions a[disabled],.product-reviews .spr-summary-actions a.disabled,.product-reviews .spr-button[disable",
+      "declarations": "cursor:default;color:#717171;background-color:#f6f6f6;transition:none"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ",.product-reviews .spr-summary-actions a[disabled]:hover,.product-reviews .spr-summary-actions a.disabled:hover,.product-reviews .spr-button[disabled]:hover,.pr",
+      "declarations": "color:#717171;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "color:#fff;background-color:#682b1f"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "color:#682b1f;background:#fff"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "color:#682b1f;background-color:#fff"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--tertiary,.rte .btn--tertiary",
+      "declarations": "background-color:#2b2b2b;border:2px solid #2b2b2b;color:#2b2b2b;font-weight:400"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--tertiary:hover,.rte .btn--tertiary:hover",
+      "declarations": "background-color:#2b2b2b;color:#2b2b2b"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--tertiary[disabled],.btn--tertiary.disabled,.rte .btn--tertiary[disabled],.rte .btn--tertiary.disabled",
+      "declarations": "cursor:default;color:#717171;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--tertiary:active,.rte .btn--tertiary:active",
+      "declarations": "color:#2b2b2b;background:#2b2b2b"
+    },
+    {
+      "source": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+      "selector": ".btn--inverse,.btn--inverse:hover",
+      "declarations": "background-color:#fff;color:#000000e6"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Leakproof and Magnetic Travel Containers",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#682b1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.ink": {
+      "value": "#2b2b2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#2b2b2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#606060",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-compiled-codex-wip.css?v=57472028891871888491789501364"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value": "#d0cac3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f5f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f0ede9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#ebe5dd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "colors.accent-merlot": {
+      "value": "#a51313",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.accent-jelly": {
+      "value": "#b5b5db",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033"
+      ]
+    },
+    "colors.accent-alert": {
+      "value": "#ffe302",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://keepyourcadence.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "SpeziaBold, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "SpeziaCustomMedium, sans-serif",
+        "fontSize": "34px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.88px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "SpeziaBold, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "SpeziaMedium, SuisseInt, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "SpeziaMedium, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "SpeziaMedium, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "SpeziaBold, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.42,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border-light}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderBottomColor": "{colors.hairline}",
+        "padding": "{spacing.lg}",
+        "itemTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "headlineTypography": "{typography.display-md}",
+        "bodyTypography": "{typography.body-md}",
+        "ctaComponent": "button-primary"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.muted}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "iconColor": "{colors.ink}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headerBorderColor": "{colors.hairline}",
+        "lineItemTypography": "{typography.body-sm}",
+        "progressTrackColor": "{colors.surface-alt}",
+        "progressFillColor": "{colors.primary}",
+        "ctaComponent": "button-primary"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".splash-screen",
+        "property": "background-color",
+        "declaration": "white",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "#2b2b2b": {
+        "selector": ".loader-logo",
+        "property": "background-color",
+        "declaration": "#2b2b2b",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "#ffe302": {
+        "selector": ".color-bubble-preview/**/.6PM,\n      .color-swatch[title=\"6PM\"],\n      .color-swatch--6pm",
+        "property": "background",
+        "declaration": "#ffe302",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "#000000": {
+        "selector": ".parcel-color-circle-ink-snow",
+        "property": "background",
+        "declaration": "linear-gradient(45deg, rgb(0, 0, 0) 50%, rgb(221, 218, 218) 50%)",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "#00000000": {
+        "selector": ".mobile-toggle",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "#682b1f": {
+        "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.product-reviews .spr-summary-actions a,.product-reviews .spr-button",
+        "property": "background",
+        "declaration": "#682b1f",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#b5b5db": {
+        "selector": "input,textarea,select",
+        "property": "border",
+        "declaration": "1px solid #b5b5db",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#a51313": {
+        "selector": ".site-footer__section--newsletter",
+        "property": "background-color",
+        "declaration": "#a51313",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#d0cac3": {
+        "selector": ".cart__item-subtitle .expand-wrapper .expand-content",
+        "property": "border-left",
+        "declaration": ".5px solid #D0CAC3",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#f7f5f3": {
+        "selector": ".selectize-input,.selectize-control.single .selectize-input.input-active",
+        "property": "background-color",
+        "declaration": "#f7f5f3",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#ebe5dd": {
+        "selector": ".impact-progress",
+        "property": "color",
+        "declaration": "#ebe5dd",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#f0ede9": {
+        "selector": ".mobile-menu-container",
+        "property": "background",
+        "declaration": "#f0ede9",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "#606060": {
+        "selector": ".corporate-gifting-preview .preview .copy",
+        "property": "color",
+        "declaration": "#606060",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme-compiled-codex-wip.css?v=57472028891871888491789501364",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "68b1d1d197a57de6aedcae7337cb420ce5809d5f17e6ba300f8fcc2a10decbed"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ".image-grid-version .level0-callout-arrow",
+        "property": "font-family",
+        "declaration": "\"HelveticaNowTextRegular\", system-ui, sans-serif",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "SpeziaCustomMedium": {
+        "selector": ".viryll-container h2.cadfont-h2-header",
+        "property": "font-family",
+        "declaration": "\"SpeziaCustomMedium\", sans-serif",
+        "url": "https://keepyourcadence.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10bacd093321be97e73337d364c8e3c4e0468ee8133c2a34427ccb0614ce52fb"
+      },
+      "SpeziaMedium": {
+        "selector": "html,body",
+        "property": "font-family",
+        "declaration": "SpeziaMedium,SuisseInt,sans-serif",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "SuisseInt": {
+        "selector": "html,body",
+        "property": "font-family",
+        "declaration": "SpeziaMedium,SuisseInt,sans-serif",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      },
+      "SpeziaBold": {
+        "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+        "property": "font-family",
+        "declaration": "SpeziaBold,sans-serif",
+        "url": "https://keepyourcadence.com/cdn/shop/t/193/assets/theme.scss.css?v=109418239935179311911789666033",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "80173f6e31649ef3aeb9addcf6b59fa701aba8b2f192df078c2a4f5910ff222c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

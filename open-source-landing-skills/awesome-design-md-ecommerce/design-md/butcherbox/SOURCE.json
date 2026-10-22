@@ -1,0 +1,878 @@
+{
+  "source_url": "https://butcherbox.com",
+  "final_url": "https://www.butcherbox.com/",
+  "captured_at": "2026-09-28T04:33:36.316675+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://butcherbox.com",
+      "final_url": "https://www.butcherbox.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "final_url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/featured-products.css?v=152228254069731688761780932339",
+      "final_url": "https://www.butcherbox.com/cdn/shop/t/202/assets/featured-products.css?v=152228254069731688761780932339",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1bbe1afb7f6767d68b9294996108b8490151c53be280ee309e0506f8e9efcecc",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css",
+      "final_url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ae9733b662dd1528bc28d1c8aee02b140e02daff7c90e734f0b18ca9ff50052d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#b81504": {
+      "count": 5,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 34,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#00000026": {
+      "count": 4,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#f3f0ec": {
+      "count": 3,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#dfa70f": {
+      "count": 2,
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "#fbfaf9": {
+      "count": 5,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#454b4a": {
+      "count": 1,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#1c2623": {
+      "count": 1,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#050a08": {
+      "count": 1,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#bfecdc": {
+      "count": 1,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#00945f": {
+      "count": 1,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#fcf6dd": {
+      "count": 3,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#ffe6e3": {
+      "count": 3,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#717070": {
+      "count": 4,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+    ],
+    "sans-serif": [
+      "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+    ],
+    "Bebas Neue": [
+      "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+    ],
+    "Lato": [
+      "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "#shopify-section-template--22314629759215__featured_products_URYqYm",
+      "declarations": "color: var(--color-charcoal-green-800);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "#shopify-section-template--22314629759215__featured_products_BRjiL7",
+      "declarations": "color: var(--color-charcoal-green-800);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "section-template--22314629759215__full_width_banner_C3cqdp .content .button.button--inverted,\n    #shopify-section-template--22314629759215__full_width_banner_C",
+      "declarations": "color: var(--color-charcoal-green-800);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "late--22314629759215__full_width_banner_C3cqdp .content .button.button--inverted:hover,\n    #shopify-section-template--22314629759215__full_width_banner_C3cqdp ",
+      "declarations": "color: var(--color-white);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "81504; color: #ffffff;\nbackground-color: #b81504; color: #ffffff;\npadding-bottom: 32px\npadding-bottom: 48px\n#shopify-section-template--22314629759215__tabbed_pr",
+      "declarations": "background-color: var(--color-white);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "#shopify-section-template--22314629759215__tabbed_products_qD7YmH .tabbed-products__content .content",
+      "declarations": "color: var(--color-charcoal-green-800);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_eBJx7y:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_QWVY3E:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_phChgP:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_hFtBwb:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_DNzyGW:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "d_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_zQTUDW:checked) ~ .tabbed-products__tab-list .ta",
+      "declarations": "background-color: var(--color-white);\n            color: var(--color-charcoal-green-800);\n            box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "#shopify-section-template--22314629759215__tabbed_products_qD7YmH .tabbed-products__tab-list .tabbed-products__tab-label:not(:last-child)::after",
+      "declarations": "display: block;\n          content: '';\n          position: absolute;\n          bottom: 50%;\n          right: 0;\n          transform: translateY(50%);\n          width: 1px;\n          height: 24px;\n          background-color: #f3f0ec;"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "section-template--22314629759215__full_width_banner_8x8DUG .content .button.button--inverted,\n    #shopify-section-template--22314629759215__full_width_banner_8",
+      "declarations": "color: var(--color-charcoal-green-800);"
+    },
+    {
+      "source": "https://www.butcherbox.com/",
+      "selector": "late--22314629759215__full_width_banner_8x8DUG .content .button.button--inverted:hover,\n    #shopify-section-template--22314629759215__full_width_banner_8x8DUG ",
+      "declarations": "color: var(--color-white);"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": "body",
+      "declarations": "min-height:100vh;color:var(--color-charcoal-green-800);font-family:var(--font-lato);flex-direction:column;display:flex"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": "a:not(.button)",
+      "declarations": "color:var(--color-charcoal-green-800);text-decoration-line:underline"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": "input:not(.button),textarea,select",
+      "declarations": "border-style:var(--tw-border-style);background-color:var(--color-white);width:100%;padding-inline:calc(var(--spacing) * 4);padding-block:calc(var(--spacing) * 3);border-width:1px"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": ":is(input:not(.button),textarea,select):hover",
+      "declarations": "border-color:var(--color-charcoal-green-800)"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": ".rte a:not(.button)",
+      "declarations": "color:var(--color-charcoal-green-800);text-decoration-line:underline"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": ".rte h1",
+      "declarations": "letter-spacing:0;font-family:Poppins,sans-serif;font-size:32px;font-weight:600;line-height:44px"
+    },
+    {
+      "source": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+      "selector": ".button",
+      "declarations": "justify-content:center;align-items:center;gap:calc(var(--spacing) * 2);width:100%;max-width:fit-content;max-height:max-content;padding-inline:calc(var(--spacing) * 4);--tw-leading:calc(var(--spacing) * 4);font-size:14px;line-height:calc(var(--spacing) * 4);--tw-font-weight:var(--font-weight-bold);font-weight:var(--font-weight-bold);--tw-tracking:.65px;letter-spacing:.65px;white-space:nowrap;text-transform:uppercase;transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,v"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "ButcherBox",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#b81504",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c2623",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#fbfaf9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#717070",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f0ec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "colors.surface-red-soft": {
+      "value": "#ffe6e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.surface-cream": {
+      "value": "#fcf6dd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#dfa70f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#00945f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.accent-green-soft": {
+      "value": "#bfecdc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.charcoal-900": {
+      "value": "#050a08",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "colors.neutral-700": {
+      "value": "#454b4a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Bebas Neue, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 400,
+        "lineHeight": 1.05,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Bebas Neue, sans-serif",
+        "fontSize": "34px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Lato, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "shadow": "0 2px 7px 0 rgba(0,0,0,0.15)"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.charcoal-900}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.charcoal-900}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-cream}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.tabbed-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "activeTabBackground": "{colors.surface-card}",
+        "activeTabText": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "dividerColor": "{colors.surface-soft}",
+        "rounded": "{rounded.sm}",
+        "shadow": "0 2px 7px 0 rgba(0,0,0,0.15)"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".background-scrim",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#b81504": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#b81504",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#00000026": {
+        "selector": "#shopify-section-template--22314629759215__tabbed_products_qD7YmH .tabbed-products__radio-wrapper:has(#tab-template--22314629759215__tabbed_products_qD7YmH-tab_eBJx7y:checked) ~ .tabbed-products__tab-list .tabbed-products__tab-label:nth-of-type(1)",
+        "property": "box-shadow",
+        "declaration": "0 2px 7px 0 rgba(0, 0, 0, 0.15)",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#f3f0ec": {
+        "selector": "#shopify-section-template--22314629759215__tabbed_products_qD7YmH .tabbed-products__tab-list .tabbed-products__tab-label:not(:last-child)::after",
+        "property": "background-color",
+        "declaration": "#f3f0ec",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#dfa70f": {
+        "selector": "#shopify-section-template--22314629759215__testimonal_carousel_aLiFXa .testimonial-carousel__stars--yellow .testimonial-carousel__star",
+        "property": "color",
+        "declaration": "#DFA70F",
+        "url": "https://www.butcherbox.com/",
+        "snapshot": "homepage.html",
+        "sha256": "068e5c159db81015b69d6d2f62cd4bb61fcd2bad8aa4a64f57393357e00e5727"
+      },
+      "#fbfaf9": {
+        "selector": ":root,:host",
+        "property": "--color-base-neutral-100",
+        "declaration": "#fbfaf9",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#454b4a": {
+        "selector": ":root,:host",
+        "property": "--color-charcoal-green-700",
+        "declaration": "#454b4a",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#1c2623": {
+        "selector": ":root,:host",
+        "property": "--color-charcoal-green-800",
+        "declaration": "#1c2623",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#050a08": {
+        "selector": ":root,:host",
+        "property": "--color-charcoal-green-900",
+        "declaration": "#050a08",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#bfecdc": {
+        "selector": ":root,:host",
+        "property": "--color-deep-seafoam-200",
+        "declaration": "#bfecdc",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#00945f": {
+        "selector": ":root,:host",
+        "property": "--color-deep-seafoam-500",
+        "declaration": "#00945f",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#fcf6dd": {
+        "selector": ":root,:host",
+        "property": "--color-system-yellow-100",
+        "declaration": "#fcf6dd",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#ffe6e3": {
+        "selector": ":root,:host",
+        "property": "--color-system-red-100",
+        "declaration": "#ffe6e3",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#717070": {
+        "selector": ".border-\\[\\#717070\\]",
+        "property": "border-color",
+        "declaration": "#717070",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "#dddddd": {
+        "selector": ".fancybox__container",
+        "property": "--f-toolbar-color",
+        "declaration": "#ddd",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "ae9733b662dd1528bc28d1c8aee02b140e02daff7c90e734f0b18ca9ff50052d"
+      },
+      "#333333": {
+        "selector": ".fancybox__container",
+        "property": "--f-error-bg",
+        "declaration": "#333",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-CS0i6PXw.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "ae9733b662dd1528bc28d1c8aee02b140e02daff7c90e734f0b18ca9ff50052d"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": ".rte h1",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "sans-serif": {
+        "selector": ".rte h1",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "Bebas Neue": {
+        "selector": ".rte h4",
+        "property": "font-family",
+        "declaration": "Bebas Neue,sans-serif",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      },
+      "Lato": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Lato",
+        "url": "https://www.butcherbox.com/cdn/shop/t/202/assets/theme-C_LdIOgK.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fb0210825c4f57e79dc7a1c2288ac6c4587025116e2dad1508f7dcb734b93afb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

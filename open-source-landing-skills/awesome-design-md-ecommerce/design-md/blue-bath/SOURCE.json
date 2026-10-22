@@ -1,0 +1,944 @@
+{
+  "source_url": "https://bluebath.com",
+  "final_url": "https://www.bluebath.com/",
+  "captured_at": "2026-09-29T04:07:14.896177+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://bluebath.com",
+      "final_url": "https://www.bluebath.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e141182422dd23725f293956a8de49496b05f75ebb53b5d79345be9d28c9b1ed",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "73bdc5f82af2050c4e7dd2bf25b33e80bb8f4aab271fbde8375ffe48654218cc",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29a7f0f2602a42c306c46e218530eb83423c9999c5d7778eeae7990fecd8c08f",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://www.bluebath.com/#computed-style-snapshot",
+      "final_url": "https://www.bluebath.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "4b1295744d52f8659d1e12c4b1827b0e766cb8adc439a94c16a0943810164392",
+      "snapshot": "rendered-style-5.css"
+    }
+  ],
+  "colors": {
+    "#0056b3": {
+      "count": 19,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#222222": {
+      "count": 74,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 233,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#2563eb": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#333333": {
+      "count": 79,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#c13a00": {
+      "count": 7,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#033871": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f8f9fc": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b6": {
+      "count": 38,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#666666": {
+      "count": 11,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f0f2f8": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 8,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 21,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 14,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Geist": [
+      "https://www.bluebath.com/"
+    ],
+    "-apple-system": [
+      "https://www.bluebath.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.bluebath.com/"
+    ],
+    "Segoe UI": [
+      "https://www.bluebath.com/"
+    ],
+    "Roboto": [
+      "https://www.bluebath.com/"
+    ],
+    "sans-serif": [
+      "https://www.bluebath.com/"
+    ],
+    "Oswald": [
+      "https://www.bluebath.com/"
+    ],
+    "Arial": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--global-color:#0056B3"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "body",
+      "declarations": "font-size:16px;font-family:\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;color:#222;margin:0"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.price",
+      "declarations": "font-family:\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "#search_mini_form button",
+      "declarations": "background:transparent;border:none;color:#2563EB;font-size:22px;opacity:1;cursor:pointer"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".page-main>.page-title-wrapper .page-title,.product-info-main .page-title-wrapper .page-title",
+      "declarations": "margin:0;font-size:29px;font-weight:600;color:#0056B3;width:100%;border-bottom:2px solid;padding-bottom:5px;font-family:\"Oswald\",sans-serif"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".button-primary:hover",
+      "declarations": "background-color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--dlx-heading-bg:#033871;--dlx-heading-text:#ffffff;--dlx-left-bg:#f8f9fc;--dlx-hover-bg:#eef2fb;--dlx-viewall-bg:#033871;--dlx-highlight:#033871;--dlx-price:#C13A00;--dlx-old-price:#aaaaaa;"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--c-navy:#071525;--c-navy2:#0c2040;--c-blue:#1565c0;--c-blue-mid:#1e88e5;--c-blue-lite:#42a5f5;--c-orange:#f4511e;--c-orange2:#ff7043;--c-white:#fff;--glass-bg:#fffffff7;--shadow-drop:0 28px 70px #07152533 0 4px 16px #1565c01a;--ease-out:cubic-bezier(0.22,1,0.36,1);--ease-bounce:cubic-bezier(0.34,1.56,0.64,1);"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".title-home h1",
+      "declarations": "color: #0459B6; margin: 0; font-size: 30px; padding: 10px; font-weight: 400;text-align: center;"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".product-list-name a",
+      "declarations": "color:#000;text-decoration:none;position:relative;display:block"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".product-list-name a:hover",
+      "declarations": "color:#0459B6"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "selector": ".dlx-product-item",
+      "declarations": "display:flex;align-items:center;gap:12px;padding:10px 16px;text-decoration:none;color:#1a1a2e;border-bottom:1px solid #f0f2f8;transition:background .1s;cursor:pointer;outline:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "body",
+      "declarations": "color:#333;font-family:'Geist',Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.42857143;font-size:1.4rem"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small",
+      "declarations": "color:#333;font-family:'Geist',Arial,sans-serif;font-style:normal;font-weight:400;line-height:1"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button,.cart.table-wrapper .actions-toolbar>.action,.action-gift",
+      "declarations": "background-image:none;background:#f2f2f2;border:1px solid #cdcdcd;color:#333;cursor:pointer;display:inline-block;font-family:'Geist',Arial,sans-serif;font-weight:700;margin:0;padding:7px 15px;font-size:1.4rem;line-height:1.6rem;box-sizing:border-box;vertical-align:middle"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button:focus,button:active,.cart.table-wrapper .actions-toolbar>.action:focus,.cart.table-wrapper .actions-toolbar>.action:active,.action-gift:focus,.action-gif",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button:hover,.cart.table-wrapper .actions-toolbar>.action:hover,.action-gift:hover",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#555"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".product-info-main .action.tocompare,.product-options-bottom .action.tocompare,.product-info-main .action.towishlist,.product-options-bottom .action.towishlist,",
+      "declarations": "background-image:none;background:#f2f2f2;border:1px solid #cdcdcd;color:#333;cursor:pointer;font-family:'Geist',Arial,sans-serif;font-weight:700;margin:0;padding:7px 15px;font-size:1.4rem;line-height:1.6rem;box-sizing:border-box;vertical-align:middle;display:inline-block;text-decoration:none;border-radius:3px"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "active,.product-options-bottom .action.towishlist:focus,.product-options-bottom .action.towishlist:active,.block-bundle-summary .action.towishlist:focus,.block-",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "ompare:hover,.product-options-bottom .action.tocompare:hover,.product-info-main .action.towishlist:hover,.product-options-bottom .action.towishlist:hover,.block",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#555"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-remove-button-for-blocks:before,.sidebar .action.delete:before,.table-comparison .cell.remove .action.delete:before,.block-compare .action.delete:before,.f",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:26px;line-height:15px;color:#303030;content:'\\e616';font-family:'icons-blank-theme';vertical-align:middle;display:inline-block;font-weight:400;overflow:hidden;speak:none;text-align:center"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".product-item-name>a,.product.name a>a",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:visited,.product-item-name>a:visited,.product.name a>a:visited",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:hover,.product-item-name>a:hover,.product.name a>a:hover",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:active,.product-item-name>a:active,.product.name a>a:active",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "giftcard .action.check,.gift-options .actions-toolbar .action-cancel,.table-comparison .wishlist.split.button>.action,.product-items .wishlist.split.button>.act",
+      "declarations": "line-height:1.42857143;padding:0;color:#1979c3;text-decoration:none;background:0 0;border:0;display:inline;border-radius:0;font-size:inherit;font-weight:400"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "ions .actions-toolbar .action-cancel:visited,.table-comparison .wishlist.split.button>.action:visited,.product-items .wishlist.split.button>.action:visited,.pay",
+      "declarations": "color:#1979c3;text-decoration:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "gift-options .actions-toolbar .action-cancel:hover,.table-comparison .wishlist.split.button>.action:hover,.product-items .wishlist.split.button>.action:hover,.p",
+      "declarations": "color:#006bb4;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "-options .actions-toolbar .action-cancel:active,.table-comparison .wishlist.split.button>.action:active,.product-items .wishlist.split.button>.action:active,.pa",
+      "declarations": "color:#ff5501;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "bled] .product-items .wishlist.split.button>.action,.paypal-button-widget .paypal-button.disabled,.paypal-button-widget .paypal-button[disabled],fieldset[disabl",
+      "declarations": "color:#1979c3;opacity:.5;cursor:default;pointer-events:none;text-decoration:underline"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Blue Bath | Kitchen & Bathroom Sinks, Faucets & Fixtures",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "6abb93676fecb2779bfd865d99493d22eca28de763441aa05a23ed4b35b33aad"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0056B3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cdcdcd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f9fc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.accent-price": {
+      "value": "#C13A00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value": "#f4511e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.navy-deep": {
+      "value": "#033871",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#0459B6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.border-muted": {
+      "value": "#e2e2e2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "colors.old-price": {
+      "value": "#aaaaaa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.control-fill": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Oswald', sans-serif",
+        "fontSize": "29px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Geist', Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Geist', Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.42857143,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Geist', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.42857143,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Geist', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Geist', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": "1.6rem",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.control-fill}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.mega-menu": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "headerBackground": "{colors.navy-deep}",
+        "headerTextColor": "{colors.on-primary}",
+        "hoverBackground": "{colors.border-muted}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "titleColor": "{colors.ink}",
+        "titleHoverColor": "{colors.link-hover}",
+        "priceTypography": "{typography.title-md}",
+        "priceColor": "{colors.accent-price}",
+        "oldPriceColor": "{colors.old-price}",
+        "padding": "{spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.price-badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-price}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "titleTypography": "{typography.display-md}",
+        "titleColor": "{colors.link-hover}",
+        "bodyTypography": "{typography.body-md}",
+        "bodyColor": "{colors.body}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.trust-badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "iconColor": "{colors.primary}",
+        "labelTypography": "{typography.body-sm}",
+        "labelColor": "{colors.ink}",
+        "supportTypography": "{typography.caption}",
+        "supportColor": "{colors.muted}",
+        "rounded": "{rounded.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.navy-deep}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "iconColor": "#2563EB",
+        "suggestionBackground": "{colors.canvas}",
+        "suggestionHoverBackground": "{colors.surface-soft}",
+        "suggestionDivider": "#f0f2f8",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#0056b3": {
+        "selector": ":root",
+        "property": "--global-color",
+        "declaration": "#0056B3",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#222222": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#222",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#ffffff": {
+        "selector": "#search_mini_form",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#2563eb": {
+        "selector": "#search_mini_form button",
+        "property": "color",
+        "declaration": "#2563EB",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#333333": {
+        "selector": ".button-primary:hover",
+        "property": "background-color",
+        "declaration": "#333",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#c13a00": {
+        "selector": ".price,.price-range,.price-single",
+        "property": "color",
+        "declaration": "#C13A00",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#033871": {
+        "selector": ":root",
+        "property": "--dlx-heading-bg",
+        "declaration": "#033871",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#f8f9fc": {
+        "selector": ":root",
+        "property": "--dlx-left-bg",
+        "declaration": "#f8f9fc",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#aaaaaa": {
+        "selector": ":root",
+        "property": "--dlx-old-price",
+        "declaration": "#aaaaaa",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#f4511e": {
+        "selector": ":root",
+        "property": "--c-orange",
+        "declaration": "#f4511e",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#0459b6": {
+        "selector": ".slick-slide .item:hover",
+        "property": "border",
+        "declaration": "1px solid #0459B6",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#666666": {
+        "selector": ".bb-badge-text p",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "#f0f2f8": {
+        "selector": ".dlx-product-item",
+        "property": "border-bottom",
+        "declaration": "1px solid #f0f2f8",
+        "url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e141182422dd23725f293956a8de49496b05f75ebb53b5d79345be9d28c9b1ed"
+      },
+      "#f2f2f2": {
+        "selector": "button,.cart.table-wrapper .actions-toolbar>.action,.action-gift",
+        "property": "background",
+        "declaration": "#f2f2f2",
+        "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963"
+      },
+      "#cdcdcd": {
+        "selector": "button,.cart.table-wrapper .actions-toolbar>.action,.action-gift",
+        "property": "border",
+        "declaration": "1px solid #cdcdcd",
+        "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963"
+      },
+      "#e2e2e2": {
+        "selector": "button:focus,button:active,.cart.table-wrapper .actions-toolbar>.action:focus,.cart.table-wrapper .actions-toolbar>.action:active,.action-gift:focus,.action-gift:active",
+        "property": "background",
+        "declaration": "#e2e2e2",
+        "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963"
+      }
+    },
+    "font_families": {
+      "Geist": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "-apple-system": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "BlinkMacSystemFont": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "Segoe UI": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "Roboto": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "Oswald": {
+        "selector": ".page-main>.page-title-wrapper .page-title,.product-info-main .page-title-wrapper .page-title",
+        "property": "font-family",
+        "declaration": "\"Oswald\",sans-serif",
+        "url": "https://www.bluebath.com/",
+        "snapshot": "homepage.html",
+        "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Geist\",Arial,sans-serif",
+        "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

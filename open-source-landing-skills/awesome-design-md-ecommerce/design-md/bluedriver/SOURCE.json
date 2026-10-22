@@ -1,0 +1,851 @@
+{
+  "source_url": "https://www.bluedriver.com",
+  "final_url": "https://us.bluedriver.com/",
+  "captured_at": "2026-09-29T04:18:42.693023+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.bluedriver.com",
+      "final_url": "https://us.bluedriver.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f0a58188d75f4d4b1351c07fa6559baf9d78831d68d93585c602051eefec5582",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-style.css?v=173574623397985780091781899101",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-style.css?v=173574623397985780091781899101",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b242867cea6114e8c02988528bee3619236eecd5e43cc3a7a26411822614d8a5",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/lity.css?v=28705549254472321951781849163",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/lity.css?v=28705549254472321951781849163",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6a2b8a226fd81733715676f878e6868274ac923609708e7afe12de4bcb10d4e9",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/fancyBox.css?v=60303366024881453111781849165",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/fancyBox.css?v=60303366024881453111781849165",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ca0bd95a953ad2e48c9289d3605c61cd59ff922e87bb4d007200e059f5ae41bb",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://us.bluedriver.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/swiper-bundle.min.css?v=150784071885930508201781849165",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/swiper-bundle.min.css?v=150784071885930508201781849165",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b5e75a6b6761afacf1cd0fa8c0063321b61434773ac5275c7fa7ec666d8d5c3c",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-style-vendor.css?v=149427344665922698891781849165",
+      "final_url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-style-vendor.css?v=149427344665922698891781849165",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b6a19177157e92979e2fbf7c01fe4a0210d902873e5bd51c3d2c00737d91118f",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7308785c99f4f8b61419a93661b4613603b7c6f72da77dfa9da9fa9728625a17",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "79b70f14198fd273afc55e948631b729e9975ae8a9c8bd3d8ec63cab5533b97d",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://us.bluedriver.com/#computed-style-snapshot",
+      "final_url": "https://us.bluedriver.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "82e80fa843ddc9d96a1b281103c00325a3209333bd7dbffa9c5d050f10251843",
+      "snapshot": "rendered-style-10.css"
+    }
+  ],
+  "colors": {
+    "#08101b": {
+      "count": 174,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 375,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#108474": {
+      "count": 8,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#0086fe": {
+      "count": 35,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#000000": {
+      "count": 18,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#212121": {
+      "count": 17,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#1863dc": {
+      "count": 24,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "#0070ff": {
+      "count": 121,
+      "sources": [
+        "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773"
+      ]
+    },
+    "#787978": {
+      "count": 13,
+      "sources": [
+        "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://us.bluedriver.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://us.bluedriver.com/"
+    ],
+    "sans-serif": [
+      "https://us.bluedriver.com/"
+    ],
+    "Instrument Sans": [
+      "https://us.bluedriver.com/"
+    ],
+    "Roboto": [
+      "https://us.bluedriver.com/cdn/shop/t/12/assets/fancyBox.css?v=60303366024881453111781849165"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ":root,\n    .color-",
+      "declarations": "--color-background: ,,;\n    \n      --gradient-background: ;\n    \n\n    \n\n    --color-foreground: ,,;\n    --color-background-contrast: ,,;\n    --color-shadow: ,,;\n    --color-button: ,,;\n    --color-button-text: ,,;\n    --color-secondary-button: ,,;\n    --color-secondary-button-text: ,,;\n    --color-link: ,,;\n    --color-badge-foreground: ,,;\n    --color-badge-background: ,,;\n    --color-badge-border: ,,;\n    --payment-terms-background-color: rgb();"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #0086FE;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": "es p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.",
+      "declarations": "color:inherit;margin-top:0;word-break:break-word"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-notice-des a.cky-link-default,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper",
+      "declarations": "font-size:14px;color:#1863dc;white-space:nowrap;cursor:pointer;background:#fff0"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": "button.cky-show-desc-btn:not(:hover):not(:active)",
+      "declarations": "color:#1863dc;background:#fff0"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-accordion-header .cky-accordion-btn",
+      "declarations": "font-size:16px;font-family:inherit;color:#212121;line-height:24px;background:none;border:none;font-weight:700;padding:0;margin:0;cursor:pointer;text-transform:none;min-height:0;text-shadow:none;box-shadow:none"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-accordion-header .cky-always-active",
+      "declarations": "color:green;font-weight:600;line-height:24px;font-size:14px"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-preference-header,.cky-preference-body-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper",
+      "declarations": "border-color:inherit"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-preference-body-wrapper .cky-dma-content-wrapper p",
+      "declarations": "color:inherit;word-break:break-word"
+    },
+    {
+      "source": "https://us.bluedriver.com/",
+      "selector": ".cky-preference-body-wrapper .cky-horizontal-separator",
+      "declarations": "border-bottom:1px solid;border-color:inherit"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": "body",
+      "declarations": "font:500 100%/.8 var(--font-family-primary)!important;color:#fff;letter-spacing:normal;overflow-wrap:break-word;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;margin:0;font-size:var(--para-desktop-fontsize);line-height:var(--para-desktop-lineheight);letter-spacing:var(--para-desktop-letterspacing);font-weight:var(--para-desktop-fontweight);position:relative;background:#08101b"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-family-secondary);font-weight:700;line-height:normal;text-transform:capitalize"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--primary",
+      "declarations": "font-family:var(--font-family-button);cursor:pointer;display:block;font-size:var(--buttons-desktop-fontsize);font-style:var(--buttons-desktop-fontstyle);font-weight:var(--buttons-desktop-fontweight);line-height:var(--buttons-desktop-lineheight);letter-spacing:var(--buttons-desktop-letterspacing);text-align:center;color:#fff!important;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-width:var(--buttons-border-width);border-style:solid;border-radius:var(--buttons-radius-outset);background:linear-gradient(96deg,#0070ff,#0086fe);-webkit-appearance:none;-moz-appearance:none;text-decoration:none;padding:0 25px;border-radius:40px;display:-webkit-box;display:-ms-flexbox;disp"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--primary.dark:hover",
+      "declarations": "color:#08101b"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--primary.white-bg:hover,.btn--primary.white-bg:hover *",
+      "declarations": "color:#08101b!important"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--secondary",
+      "declarations": "font-family:var(--font-family-button);cursor:pointer;display:block;font-size:var(--buttons-desktop-fontsize);font-style:var(--buttons-desktop-fontstyle);font-weight:var(--buttons-desktop-fontweight);line-height:var(--buttons-desktop-lineheight);letter-spacing:var(--buttons-desktop-letterspacing);text-align:center;color:#fff!important;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-width:var(--buttons-border-width);border-style:solid;border-radius:var(--buttons-radius-outset);background:linear-gradient(96deg,#0070ff,#0086fe);-webkit-appearance:none;-moz-appearance:none;text-decoration:none;padding:0 25px;border-radius:40px;display:-webkit-box;display:-ms-flexbox;disp"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--secondary.white-bg",
+      "declarations": "color:#08101b!important"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--secondary.white-bg:hover",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn--tertiary",
+      "declarations": "font-family:var(--font-family-button);cursor:pointer;display:block;font-size:var(--buttons-desktop-fontsize);font-style:var(--buttons-desktop-fontstyle);font-weight:var(--buttons-desktop-fontweight);line-height:var(--buttons-desktop-lineheight);letter-spacing:var(--buttons-desktop-letterspacing);text-align:center;color:#fff!important;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-width:var(--buttons-border-width);border-style:solid;border-radius:var(--buttons-radius-outset);background:linear-gradient(96deg,#0070ff,#0086fe);-webkit-appearance:none;-moz-appearance:none;text-decoration:none;padding:0 25px;border-radius:40px;display:-webkit-box;display:-ms-flexbox;disp"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn-fourth",
+      "declarations": "font-family:var(--font-family-button);cursor:pointer;display:block;font-size:var(--buttons-desktop-fontsize);font-style:var(--buttons-desktop-fontstyle);font-weight:var(--buttons-desktop-fontweight);line-height:var(--buttons-desktop-lineheight);letter-spacing:var(--buttons-desktop-letterspacing);text-align:center;color:#fff!important;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-width:var(--buttons-border-width);border-style:solid;border-radius:var(--buttons-radius-outset);background:linear-gradient(96deg,#0070ff,#0086fe);-webkit-appearance:none;-moz-appearance:none;text-decoration:none;padding:0 25px;border-radius:40px;display:-webkit-box;display:-ms-flexbox;disp"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".btn-fourth:hover",
+      "declarations": "border:none;color:#08101b!important;background:linear-gradient(96deg,#55dbaa,#11d5ff)!important"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format a,.shopify-policy__body a",
+      "declarations": "color:#0070ff;text-decoration:underline"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format .wp-caption-text,.shopify-policy__body .wp-caption-text",
+      "declarations": "font-size:14px!important;font-weight:400;font-stretch:normal;font-style:italic;line-height:1.57;text-align:left;color:#1f1b01;margin-top:11px!important;display:inline-block"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format a,.shopify-policy__body a",
+      "declarations": "text-decoration:underline;color:#0070ff"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format blockquote,.shopify-policy__body blockquote",
+      "declarations": "font-size:30px;font-style:normal;line-height:1.2;font-weight:600;padding-left:44px;font-family:var(--font-family-secondary);position:relative;color:#08101b;margin:0 0 30px"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format blockquote:before,.shopify-policy__body blockquote:before",
+      "declarations": "content:\"\\201c\";position:absolute;font-family:var(--font-family-secondary);left:0;top:0;color:#0070ff;font-size:50px;font-style:normal;font-weight:600;line-height:1"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format blockquote p,.shopify-policy__body blockquote p",
+      "declarations": "font-size:30px;font-style:normal;font-weight:600;line-height:1.2;font-family:var(--font-family-secondary);text-align:left;color:#08101b"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format a.btn--primary,.shopify-policy__body a.btn--primary",
+      "declarations": "text-decoration:none;color:#fff"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".full-format ol li,.full-format ul li,.shopify-policy__body ol li,.shopify-policy__body ul li",
+      "declarations": "padding-left:10px;list-style-type:decimal;font-size:var(--para-desktop-fontsize);line-height:var(--para-desktop-lineheight);letter-spacing:var(--para-desktop-letterspacing);text-transform:var(--para-desktop-texttransform);font-weight:var(--para-desktop-fontweight);font-style:var(--para-desktop-fontstyle);color:#08101b;margin-bottom:1px"
+    },
+    {
+      "source": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+      "selector": ".shopify-challenge__container .shopify-challenge__button",
+      "declarations": "font-family:var(--font-family-button);cursor:pointer;display:block;font-size:var(--buttons-desktop-fontsize);font-style:var(--buttons-desktop-fontstyle);font-weight:var(--buttons-desktop-fontweight);line-height:var(--buttons-desktop-lineheight);letter-spacing:var(--buttons-desktop-letterspacing);text-align:center;color:#fff!important;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;border-width:var(--buttons-border-width);border-style:solid;border-radius:var(--buttons-radius-outset);background:linear-gradient(96deg,#0070ff,#0086fe);-webkit-appearance:none;-moz-appearance:none;text-decoration:none;padding:0 25px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-bo"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "BlueDriver | Bluetooth Automotive Diagnostic Tool",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "74cc05f307c70d13080f8bbcfbba20026d45b30c15d4520b7573fe87b7fdcfb6"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0070ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773"
+      ]
+    },
+    "colors.gradient-end": {
+      "value": "#0086fe",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#08101b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#212121",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#787978",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#108474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "colors.link": {
+      "value": "#1863dc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.bluedriver.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Instrument Sans', Inter, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Instrument Sans', Inter, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Instrument Sans', Inter, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, Roboto, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "background": "linear-gradient({colors.primary}, {colors.gradient-end})",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "borderColor": "{colors.primary}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "eyebrowTypography": "{typography.caption}",
+        "headingTypography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.link}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-teal}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.compatibility-checker": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "accentColor": "{colors.accent-teal}",
+        "labelTypography": "{typography.caption}",
+        "resultTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#08101b": {
+        "selector": ":root",
+        "property": "--input-border-color",
+        "declaration": "#08101b",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--input-border-background-color",
+        "declaration": "#ffffff",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#108474": {
+        "selector": ":root",
+        "property": "--jdgm-primary-color",
+        "declaration": "#108474",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#0086fe": {
+        "selector": ":root",
+        "property": "--jdgm-star-color",
+        "declaration": "#0086FE",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#000000": {
+        "selector": ".jdgm-review-snippet-widget",
+        "property": "--jdgm-snippet-text-color",
+        "declaration": "#000",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#eeeeee": {
+        "selector": ".jdgm-spinner",
+        "property": "border-top",
+        "declaration": "2px solid #eee",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#212121": {
+        "selector": ".cky-notice .cky-title",
+        "property": "color",
+        "declaration": "#212121",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#1863dc": {
+        "selector": ".cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-notice-des a.cky-link-default,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper button.cky-policy",
+        "property": "color",
+        "declaration": "#1863dc",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#f4f4f4": {
+        "selector": ".cky-audit-table",
+        "property": "background",
+        "declaration": "#f4f4f4",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "border-color",
+        "declaration": "transparent",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "#0070ff": {
+        "selector": "::-moz-selection",
+        "property": "background",
+        "declaration": "#0070ff",
+        "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "f0a58188d75f4d4b1351c07fa6559baf9d78831d68d93585c602051eefec5582"
+      },
+      "#787978": {
+        "selector": ".custom-slider-controls .custom-progress",
+        "property": "background",
+        "declaration": "#787978",
+        "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/_sm-global.css?v=119561014394991346001781899773",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "f0a58188d75f4d4b1351c07fa6559baf9d78831d68d93585c602051eefec5582"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://us.bluedriver.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "rendered-style-5.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": ":root",
+        "property": "--font-family-primary",
+        "declaration": "\"Inter\", sans-serif",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-family-primary",
+        "declaration": "\"Inter\", sans-serif",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "Instrument Sans": {
+        "selector": ":root",
+        "property": "--font-family-secondary",
+        "declaration": "\"Instrument Sans\", sans-serif",
+        "url": "https://us.bluedriver.com/",
+        "snapshot": "homepage.html",
+        "sha256": "de4d88da727c56edd92fee16e3ab59cd3b1d2a5f220226e5a20415cb784f0f67"
+      },
+      "Roboto": {
+        "selector": ".fancybox-container",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol",
+        "url": "https://us.bluedriver.com/cdn/shop/t/12/assets/fancyBox.css?v=60303366024881453111781849165",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "ca0bd95a953ad2e48c9289d3605c61cd59ff922e87bb4d007200e059f5ae41bb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

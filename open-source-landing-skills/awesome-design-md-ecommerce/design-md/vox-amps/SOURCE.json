@@ -1,0 +1,926 @@
+{
+  "source_url": "https://www.voxamps.com",
+  "final_url": "https://voxamps.com/",
+  "captured_at": "2026-09-29T04:08:06.081130+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.voxamps.com",
+      "final_url": "https://voxamps.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "final_url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.1",
+      "final_url": "https://voxamps.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c52dc19e1f84684beb82391dacc133a11400f1c351dc2c456fb38a1e22ec8ddd",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.1",
+      "final_url": "https://voxamps.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80f45f78239104690319043ad10ddaa7c9dbc8a868b05fc1c80dfe596f9ff56d",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1",
+      "final_url": "https://voxamps.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ba118403d96ca9b5b8370047b86aa7a93ecd12201ccbb6068cadaf9d55db02f6",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/themes/voxamps/modules/animateCss/css/animateCss.css?ver=3.0",
+      "final_url": "https://voxamps.com/wp-content/themes/voxamps/modules/animateCss/css/animateCss.css?ver=3.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b2b9a99a8ba87a66ba80373e244e277d7c06512b5188650e756e34d40bf8190a",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.5",
+      "final_url": "https://voxamps.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5c7608f4cba633d72995cec002ce7226417bb77bdc1265d639028115ab8235cd",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=3.1.2",
+      "final_url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=3.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=3.1.2",
+      "final_url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=3.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "36cac8f2416171549249cf22db7f470ebbbd49de2e8e79b300fe3fdb69e15101",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=3.1.2",
+      "final_url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=3.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b134dc0e01c644c6073b9bd5553017b003268e41549e52c24f47cb4354e8ea51",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=3.1.2",
+      "final_url": "https://voxamps.com/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=3.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1068618a6c350ab394dd0b0f0a695fe57b63e873a815cf3696635b694da2e2cb",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Palanquin:400,600,700&ver=7.1.2",
+      "final_url": "https://fonts.googleapis.com/css?family=Palanquin:400,600,700&ver=7.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "17e0dc465fd7317e0cd5751cf593da1ffa9816f1f6ac844285a9272c2533444e",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.8&ver=2.1.0",
+      "final_url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.8&ver=2.1.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "008a1d103902f15fdb1c191fcb1ce8954330e7b8de43d09abb08555ba609f420",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://voxamps.com/#computed-style-snapshot",
+      "final_url": "https://voxamps.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "5167cef280d84260a3c635f59ca90452ff377874462cbeab7314ed13e1065f95",
+      "snapshot": "rendered-style-13.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 322,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#000000": {
+      "count": 183,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#a39164": {
+      "count": 94,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#212121": {
+      "count": 30,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#1863dc": {
+      "count": 19,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#008000": {
+      "count": 2,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 16,
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 22,
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "#333333": {
+      "count": 28,
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 13,
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "#e0ae14": {
+      "count": 3,
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "#767676": {
+      "count": 20,
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "#111111": {
+      "count": 5,
+      "sources": [
+        "https://voxamps.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.5"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+    ],
+    "Open Sans": [
+      "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+    ],
+    "Roboto Condensed": [
+      "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+    ],
+    "Helvetica Neue LT W05_77 Bd Cn": [
+      "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+    ],
+    "Avenir LT W01_55 Roman1475520": [
+      "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ":root",
+      "declarations": "--admin-bar-top : 7px;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": "es p,.wcc-gpc-wrapper .wcc-gpc-desc p,.wcc-preference-body-wrapper .wcc-preference-content-wrapper p,.wcc-accordion-header-wrapper .wcc-accordion-header-des p,.",
+      "declarations": "color: inherit; margin-top: 0;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy",
+      "declarations": "font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": "button.wcc-show-desc-btn:not(:hover):not(:active)",
+      "declarations": "color: #1863dc; background: transparent;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wcc-accordion-header .wcc-accordion-btn",
+      "declarations": "font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wcc-accordion-header .wcc-always-active",
+      "declarations": "color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;"
+    },
+    {
+      "source": "https://voxamps.com/",
+      "selector": ".wcc-preference-header,.wcc-preference-body-wrapper,.wcc-preference-content-wrapper,.wcc-accordion-wrapper,.wcc-accordion,.wcc-accordion-wrapper,.wcc-footer-wra",
+      "declarations": "border-color: inherit;"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"•\";width:20px;height:20px;font-family:slick;font-size:6px;line-height:20px;text-align:center;color:#000;opacity:.25;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#000;opacity:.75"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".fancybox-button,.fancybox-button:link,.fancybox-button:visited",
+      "declarations": "color:#ccc"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".fancybox-button:focus,.fancybox-button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".fancybox-button.disabled,.fancybox-button.disabled:hover,.fancybox-button[disabled],.fancybox-button[disabled]:hover",
+      "declarations": "color:#888;cursor:default"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".fancybox-share h1",
+      "declarations": "color:#222;font-size:35px;font-weight:700;margin:0 0 20px 0"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".fancybox-share__button:link,.fancybox-share__button:visited",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": "body,html",
+      "declarations": "font-family:Roboto;margin:0;padding:0;height:100%;color:#000"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".a11-button-group--style-primary a,.btn,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,input[type",
+      "declarations": "min-width:185px;display:inline-block;text-align:center;color:#fff;font-size:16px;font-weight:700;line-height:1;padding:10px;text-transform:uppercase;border-radius:3px;background:#a39164;border:2px solid #a39164;-webkit-box-sizing:border-box;box-sizing:border-box;outline:0;-webkit-appearance:none;text-decoration:none;-webkit-transition:.3s ease;-o-transition:.3s ease;transition:.3s ease"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": "n-group--style-primary a:hover,.btn:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce inp",
+      "declarations": "background-color:transparent;color:#a39164"
+    },
+    {
+      "source": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+      "selector": ".btn--outline",
+      "declarations": "background:0 0;color:#a39164"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "The VOX tradition of innovation carries on today in our product designs",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "d9bda16c2adb8914e4bf5dedf620083f731ccf1f40bb89c78da5d5bd06c7ecb0"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212121",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "colors.muted": {
+      "value": "#767676",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.accent-brass": {
+      "value": "#a39164",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#e0ae14",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907"
+      ]
+    },
+    "colors.link": {
+      "value": "#1863dc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#008000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://voxamps.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.5"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Helvetica Neue LT W05_77 Bd Cn', 'Roboto Condensed', sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue LT W05_77 Bd Cn', 'Roboto Condensed', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Avenir LT W01_55 Roman1475520', 'Open Sans', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Avenir LT W01_55 Roman1475520', 'Open Sans', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Avenir LT W01_55 Roman1475520', 'Open Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Avenir LT W01_55 Roman1475520', 'Open Sans', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-brass}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".fa-layers-counter",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#a39164": {
+        "selector": ".wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu a:hover,.wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu a:focus, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu a:link:hover, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu a:link:focus",
+        "property": "color",
+        "declaration": "#a39164",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#212121": {
+        "selector": ".wcc-notice .wcc-title",
+        "property": "color",
+        "declaration": "#212121",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#1863dc": {
+        "selector": ".wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy",
+        "property": "color",
+        "declaration": "#1863dc",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#00000000": {
+        "selector": ".wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#008000": {
+        "selector": ".wcc-accordion-header .wcc-always-active",
+        "property": "color",
+        "declaration": "#008000",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#f4f4f4": {
+        "selector": ".wcc-audit-table",
+        "property": "background",
+        "declaration": "#f4f4f4",
+        "url": "https://voxamps.com/",
+        "snapshot": "homepage.html",
+        "sha256": "18164fc2630889f32326af5d6a025d1179bcbf1d6358d0da099b4f8375b23563"
+      },
+      "#cccccc": {
+        "selector": ".fancybox-infobar",
+        "property": "color",
+        "declaration": "#ccc",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "#333333": {
+        "selector": ".easy-autocomplete.eac-dark-light input:focus,.easy-autocomplete.eac-dark-light input:hover",
+        "property": "border-color",
+        "declaration": "#333",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "#f6f6f6": {
+        "selector": ".easy-autocomplete.eac-dark input",
+        "property": "color",
+        "declaration": "#f6f6f6",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "#e0ae14": {
+        "selector": ".btn--buy-now-us",
+        "property": "background",
+        "declaration": "#e0ae14",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "#767676": {
+        "selector": ".header__search--mobile input[type=text]",
+        "property": "border",
+        "declaration": "1px solid #767676",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "#111111": {
+        "selector": ".wpa-ld .longdesc",
+        "property": "color",
+        "declaration": "#111",
+        "url": "https://voxamps.com/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=2.3.5",
+        "snapshot": "rendered-style-6.css",
+        "sha256": "5c7608f4cba633d72995cec002ce7226417bb77bdc1265d639028115ab8235cd"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ".fancybox-container",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "Open Sans": {
+        "selector": ".easy-autocomplete.eac-round",
+        "property": "font-family",
+        "declaration": "\"Open Sans\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "Roboto Condensed": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Roboto Condensed\"",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "Helvetica Neue LT W05_77 Bd Cn": {
+        "selector": ".artist-archive__hero-caption,.hero__caption",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue LT W05_77 Bd Cn\",sans-serif",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      },
+      "Avenir LT W01_55 Roman1475520": {
+        "selector": ".downloads__anchor-links-title",
+        "property": "font-family",
+        "declaration": "\"Avenir LT W01_55 Roman1475520\",sans-serif",
+        "url": "https://voxamps.com/wp-content/themes/voxamps/style.css?ver=20260907",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "e2ba45b35c52a670d0ec286dc6035653134171c7241c96c1aa1fd14b1eaccdbe"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

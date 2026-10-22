@@ -1,0 +1,1440 @@
+{
+  "url": "https://www.clutch.security/",
+  "date": "2026-10-06T10:08:34.214Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 4,
+        "scrollHeight": 8394
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 78,
+          "parentHeight": 8394,
+          "el": "header.header.fixed «Platform Solutions Use Cases Resources Company Boo»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 38,
+          "el": "div.mobile-menu.fixed «PlatformClutch PlatformIdentity, Agent, and Secret»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.pointer-events-none.fixed"
+        },
+        {
+          "position": "fixed",
+          "top": "62px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.pointer-events-none.fixed"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": false
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": false
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": false
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": false
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": false
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": false
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": false
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": false
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": false
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": true
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": true
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": false
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": false
+        },
+        {
+          "frame": "017-y7494.png",
+          "y": 7494,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.section-home-hero__animation-icon-bg.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "img.w-full.select-none",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Nuno Teodoro VP, Group Cybersecurity In today's th»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-center-glow.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 700,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-center-part.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «David Stender EVP, Enterprise Risk Officer & CISO »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.section-home-hero__animation-icon.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-top-glow.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-shield.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 0,
+          "delay": 500,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-top-part.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-top-part-glow.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Paul Stapleton Chief Product Security Officer & VP»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.header.fixed «Platform Solutions Use Cases Resources Company Boo»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "top",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.header.fixed «Platform Solutions Use Cases Resources Company Boo»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-bottom-glow.absolute",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Delegate to»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.shrink-0",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Human Identities»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «MANAGED»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 750,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Consume»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 550,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Al Agents»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 550,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «MULTIPLYING»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Text»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 1100,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Non-Human Identities»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 1100,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «100X MORE THAN HUMANS»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view «INTRODUCING»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "top",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.section-home-hero__animation-figure-center-part.absolute",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "img.h-[160px].w-full",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.inline-block.tracking-normal «->»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span «Every Identity.»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.text-black «Every Agent.»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.h-full.w-full",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.body-heading-m.cursor-pointer «AI Agents»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Ángel Uruñuela Global CISO, Fluidra Non-Human Iden»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.text-black «Every Identity.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span «Every Secret.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a.group.button-primary-xs «->»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.pawl.pointer-events-none",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.fixed-line.absolute",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.circle-decor.pointer-events-none",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Jenkins»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «PagerDuty»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Kubernetes»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Amazon EC2»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «SAP»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Okta»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «CircleCI»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «GitHub»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «HashiCorp»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Delinea»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «LastPass»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Microsoft»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Salesforce»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «PostgreSQL»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Azure AD»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «CrowdStrike»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «1Password»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Splunk»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Oracle»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Slack»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Datadog»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Terraform»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Azure»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «CyberArk»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Amazon EKS»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Workday»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Google Cloud»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Snowflake»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Databricks»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «Bitbucket»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «GitLab»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.products-wheel__item.pointer-events-none «AWS»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-top.absolute",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-center.absolute",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-bottom.absolute",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span «Every Agent.»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.text-black «Every Secret.»",
+          "firstSeenAtY": 5850
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 4,
+        "scrollHeight": 10503
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 62,
+          "parentHeight": 10503,
+          "el": "header.header.fixed «Book a demo»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 38,
+          "el": "div.mobile-menu.fixed"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 62,
+          "parentHeight": 844,
+          "el": "div.pointer-events-none.fixed"
+        },
+        {
+          "position": "fixed",
+          "top": "62px",
+          "height": 1,
+          "parentHeight": 844,
+          "el": "div.pointer-events-none.fixed"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": false
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": false
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": true
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": false
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": false
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": false
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": false
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": true
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": true
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "021-y8862.png",
+          "y": 8862,
+          "moving": false
+        },
+        {
+          "frame": "022-y9284.png",
+          "y": 9284,
+          "moving": false
+        },
+        {
+          "frame": "023-y9659.png",
+          "y": 9659,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.in-view.inline «Every Identity.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 150,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.in-view.inline «Every Agent.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.in-view.inline «Every Secret.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 450,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view.block «Discover, Govern, and Secure Your Entire Non-Human»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 550,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view.block",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view «Trusted by world-recognized brands»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.section-home-hero__animation-icon-bg.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-center-glow.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "img.w-full.select-none",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-shield.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Nuno Teodoro VP, Group Cybersecurity In today's th»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.header.fixed «Book a demo»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "top",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.header.fixed «Book a demo»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 700,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.section-home-hero__animation-figure-center-part.absolute",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Delegate to»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.shrink-0",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Human Identities»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «MANAGED»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 500,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Consume»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Al Agents»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «MULTIPLYING»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Paul Stapleton Chief Product Security Officer & VP»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.section-home-hero__animation-icon.absolute",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 800,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.bg-white.px-xs «Text»",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Non-Human Identities»",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.w-full «100X MORE THAN HUMANS»",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.in-view «INTRODUCING»",
+          "firstSeenAtY": 1266
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «Ángel Uruñuela Global CISO, Fluidra Non-Human Iden»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.inline-block.tracking-normal «->»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 100,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.block.shrink-0",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-top.absolute",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-center.absolute",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.line-bottom.absolute",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div «David Stender EVP, Enterprise Risk Officer & CISO »",
+          "firstSeenAtY": 6330
+        }
+      ]
+    }
+  }
+}

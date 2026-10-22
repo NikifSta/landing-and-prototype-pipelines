@@ -1,0 +1,496 @@
+{
+  "source_url": "https://www.analogman.com",
+  "final_url": "https://www.analogman.com/",
+  "captured_at": "2026-09-29T04:21:06.555630+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.analogman.com",
+      "final_url": "https://www.analogman.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "62a6edc7d19efb03812336ed20962a07f91dea9358130ed91f0f5be18d871a4e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.analogman.com/#computed-style-snapshot",
+      "final_url": "https://www.analogman.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3",
+      "snapshot": "rendered-style-1.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 224,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "#0000ee": {
+      "count": 250,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    }
+  },
+  "font_families": {
+    "Times": [
+      "https://www.analogman.com/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-0-body",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-4-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-137-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-163-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-165-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-167-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-170-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-173-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-190-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-194-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-203-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-207-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-210-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "aNaLoG.MaN Custom Guitar Effects Pedals",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "4f2571ca0ad91d1fac24982d1e285a08b6c4540e25ca35ae145f8385e142de5d"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0000ee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "40px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Times, serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "linkColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.pedal-index-row": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "linkColor": "{colors.primary}",
+        "dividerColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xs} {spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".sample-0-body",
+        "property": "color",
+        "declaration": "rgb(0, 0, 0)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      },
+      "#ffffff": {
+        "selector": ".sample-0-body",
+        "property": "background-color",
+        "declaration": "rgb(255, 255, 255)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      },
+      "#0000ee": {
+        "selector": ".sample-3-a",
+        "property": "color",
+        "declaration": "rgb(0, 0, 238)",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      }
+    },
+    "font_families": {
+      "Times": {
+        "selector": ".sample-0-body",
+        "property": "font-family",
+        "declaration": "Times",
+        "url": "https://www.analogman.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,985 @@
+{
+  "source_url": "https://lloydmats.com",
+  "final_url": "https://www.lloydmatsstore.com/",
+  "captured_at": "2026-09-28T10:00:50.583653+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lloydmats.com",
+      "final_url": "https://www.lloydmatsstore.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c212eb75d93692a377091ccd4461087cb9b378ebed7159c374287a9ed6a300b0",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/Anowave_Ec/css/ec.css",
+      "final_url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/Anowave_Ec/css/ec.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "61b4c0492aa4cfa25242ab92b21219a0954ea970b74bf4d60cba605f6cc11ca6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "final_url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+      "final_url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/local-m.css",
+      "final_url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/local-m.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a49740942f0b18974f6fef1b97ad39b763f86b30ad20cbae780b44426377c6e2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/cls_issue.css",
+      "final_url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/cls_issue.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "269a9fe4e5206e23cbc81a7aee8fe17c7e1540be096d18a20d78862b6de27a4a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 248,
+      "sources": [
+        "https://www.lloydmatsstore.com/"
+      ]
+    },
+    "#333333": {
+      "count": 118,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 107,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 8,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#1979c3": {
+      "count": 47,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#006bb4": {
+      "count": 38,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#ff5501": {
+      "count": 23,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 22,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 26,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#286090": {
+      "count": 6,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "#a6a7ab": {
+      "count": 18,
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/local-m.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+    ],
+    "Helvetica": [
+      "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+    ],
+    "Arial": [
+      "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+    ],
+    "sans-serif": [
+      "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.lloydmatsstore.com/",
+      "selector": ".nav-sections .header.links .minicart-wrapper .action.showcart::before",
+      "declarations": "content:none !important;color: #fff;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/",
+      "selector": ".nav-sections .header.links .minicart-wrapper .action.showcart span.text",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/",
+      "selector": "#html-body [data-pb-style=TS8YANE]",
+      "declarations": "border-radius:0;min-height:200px;background-color:transparent"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/",
+      "selector": "#html-body [data-pb-style=EEQYU4E]",
+      "declarations": "border-radius:0;min-height:200px;background-color:transparent"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/",
+      "selector": "#html-body [data-pb-style=T2AVK8Q]",
+      "declarations": "border-radius:0;min-height:200px;background-color:transparent"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "body",
+      "declarations": "color: #333333;\n  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  line-height: 1.42857143;\n  font-size: 1.4rem;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "h1 small,\nh2 small,\nh3 small,\nh4 small,\nh5 small,\nh6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small",
+      "declarations": "color: #333333;\n  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  font-style: normal;\n  font-weight: 400;\n  line-height: 1;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "button",
+      "declarations": "background-image: none;\n  background: #eeeeee;\n  border: 1px solid #cccccc;\n  color: #333333;\n  cursor: pointer;\n  display: inline-block;\n  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  font-weight: 600;\n  margin: 0;\n  padding: 7px 15px;\n  font-size: 1.4rem;\n  line-height: 1.6rem;\n  box-sizing: border-box;\n  vertical-align: middle;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "button:focus,\nbutton:active",
+      "declarations": "background: #e2e2e2;\n  border: 1px solid #cccccc;\n  color: #333333;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "button:hover",
+      "declarations": "background: #e1e1e1;\n  border: 1px solid #cccccc;\n  color: #333333;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-action-link-button:focus,\n.abs-action-link-button:active,\n.block-event .slider-panel .slider .item .action.event:focus,\n.block-event .slider-panel .slider ",
+      "declarations": "background: #e2e2e2;\n  border: 1px solid #cccccc;\n  color: #333333;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-action-link-button:hover,\n.block-event .slider-panel .slider .item .action.event:hover",
+      "declarations": "background: #e1e1e1;\n  border: 1px solid #cccccc;\n  color: #333333;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "ton-for-blocks:before,\n.filtered .item .action.remove:before,\n.sidebar .product-items .action.delete:before,\n.table-comparison .cell.remove .action.delete:befor",
+      "declarations": "-webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  font-size: 12px;\n  line-height: 15px;\n  color: #999999;\n  content: '\\e616';\n  font-family: 'luma-icons';\n  vertical-align: middle;\n  display: inline-block;\n  font-weight: normal;\n  overflow: hidden;\n  speak: none;\n  text-align: center;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "filtered .item .action.remove:hover:before,\n.sidebar .product-items .action.delete:hover:before,\n.table-comparison .cell.remove .action.delete:hover:before,\n.bl",
+      "declarations": "color: #494949;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": "ered .item .action.remove:active:before,\n.sidebar .product-items .action.delete:active:before,\n.table-comparison .cell.remove .action.delete:active:before,\n.blo",
+      "declarations": "color: #999999;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".product-item-name > a,\n.product.name a > a",
+      "declarations": "color: #333333;\n  text-decoration: none;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-product-link > a:visited,\n.product-item-name > a:visited,\n.product.name a > a:visited",
+      "declarations": "color: #333333;\n  text-decoration: underline;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-product-link > a:hover,\n.product-item-name > a:hover,\n.product.name a > a:hover",
+      "declarations": "color: #333333;\n  text-decoration: underline;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-product-link > a:active,\n.product-item-name > a:active,\n.product.name a > a:active",
+      "declarations": "color: #333333;\n  text-decoration: underline;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle:after",
+      "declarations": "-webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  font-size: 22px;\n  line-height: inherit;\n  color: inherit;\n  content: '\\e622';\n  font-family: 'luma-icons';\n  margin: 0;\n  vertical-align: top;\n  display: inline-block;\n  font-weight: normal;\n  overflow: hidden;\n  speak: none;\n  text-align: center;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle:hover:after",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle:active:after",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle.active:after",
+      "declarations": "-webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  font-size: 22px;\n  line-height: inherit;\n  color: inherit;\n  content: '\\e621';\n  font-family: 'luma-icons';\n  margin: 0;\n  vertical-align: top;\n  display: inline-block;\n  font-weight: normal;\n  overflow: hidden;\n  speak: none;\n  text-align: center;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle.active:hover:after",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .action.toggle.active:active:after",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .items:before",
+      "declarations": "border: 6px solid;\n  border-color: transparent transparent #ffffff transparent;\n  z-index: 99;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-split-button .items:after",
+      "declarations": "border: 7px solid;\n  border-color: transparent transparent #bbbbbb transparent;\n  z-index: 98;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".product-item-actions .actions-secondary > .action,\n.product-social-links .action.tocompare,\n.wishlist.split.button > .action.split",
+      "declarations": "color: #999999;\n  font-weight: 600;\n  letter-spacing: .05em;\n  text-transform: uppercase;\n  display: inline-block;\n  text-decoration: none;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".abs-actions-addto:before,\n.product-item-actions .actions-secondary > .action:before,\n.product-social-links .action.tocompare:before,\n.wishlist.split.button > .",
+      "declarations": "-webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  font-size: 16px;\n  line-height: 16px;\n  color: inherit;\n  font-family: 'luma-icons';\n  margin: -2px 5px 0 0;\n  vertical-align: middle;\n  display: inline-block;\n  font-weight: normal;\n  overflow: hidden;\n  speak: none;\n  text-align: center;"
+    },
+    {
+      "source": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+      "selector": ".product-item-actions .actions-secondary > .action:hover,\n.product-social-links .action.tocompare:hover,\n.wishlist.split.button > .action.split:hover",
+      "declarations": "color: #333333;\n  text-decoration: none;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Lloyd Mats Store: Custom Car Floor Mats, Truck Floor Mats, SUV Floor Mats",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1979c3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value": "#006bb4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ff5501",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#a6a7ab",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/local-m.css"
+      ]
+    },
+    "colors.link": {
+      "value": "#337ab7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#286090",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#3c763d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value": "#dff0d8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#a94442",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.danger-bg": {
+      "value": "#f2dede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#8a6d3b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.warning-bg": {
+      "value": "#fcf8e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#31708f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "colors.info-bg": {
+      "value": "#d9edf7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.42857143,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": "1.6rem",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceColor": "{colors.accent}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-md}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "hairline": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "labelTypography": "{typography.body-sm}",
+        "activeStateColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".navigation .level0.active > a:not(.ui-state-active)",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.lloydmatsstore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c212eb75d93692a377091ccd4461087cb9b378ebed7159c374287a9ed6a300b0"
+      },
+      "#333333": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#333333",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#cccccc": {
+        "selector": "abbr[title]",
+        "property": "border-bottom",
+        "declaration": "1px dotted #cccccc",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#f6f6f6": {
+        "selector": "mark",
+        "property": "background",
+        "declaration": "#f6f6f6",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#1979c3": {
+        "selector": "a,\n.alink",
+        "property": "color",
+        "declaration": "#1979c3",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#006bb4": {
+        "selector": "a:hover,\n.alink:hover",
+        "property": "color",
+        "declaration": "#006bb4",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#ff5501": {
+        "selector": "a:active,\n.alink:active",
+        "property": "color",
+        "declaration": "#ff5501",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#f5f5f5": {
+        "selector": ".order-details-items tfoot td",
+        "property": "background",
+        "declaration": "#f5f5f5",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "#337ab7": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#337ab7",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#777777": {
+        "selector": "h1 small,\nh2 small,\nh3 small,\nh4 small,\nh5 small,\nh6 small,\n.h1 small,\n.h2 small,\n.h3 small,\n.h4 small,\n.h5 small,\n.h6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small,\n.h1 .small,\n.h2 .small,\n.h3 .small,\n.h4 .small,\n.h5 .small,\n.h6 .small",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#fcf8e3": {
+        "selector": "mark,\n.mark",
+        "property": "background-color",
+        "declaration": "#fcf8e3",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#286090": {
+        "selector": "a.text-primary:hover,\na.text-primary:focus",
+        "property": "color",
+        "declaration": "#286090",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#3c763d": {
+        "selector": ".text-success",
+        "property": "color",
+        "declaration": "#3c763d",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#31708f": {
+        "selector": ".text-info",
+        "property": "color",
+        "declaration": "#31708f",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#8a6d3b": {
+        "selector": ".text-warning",
+        "property": "color",
+        "declaration": "#8a6d3b",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#a94442": {
+        "selector": ".text-danger",
+        "property": "color",
+        "declaration": "#a94442",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#dff0d8": {
+        "selector": ".bg-success",
+        "property": "background-color",
+        "declaration": "#dff0d8",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#d9edf7": {
+        "selector": ".bg-info",
+        "property": "background-color",
+        "declaration": "#d9edf7",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#f2dede": {
+        "selector": ".bg-danger",
+        "property": "background-color",
+        "declaration": "#f2dede",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/bootstrap.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b63d76bcbfe1e0a99839489c2c19b99ef08d92b6ea56ae068d617c4a25e8a5af"
+      },
+      "#a6a7ab": {
+        "selector": ".action.tocart.primary",
+        "property": "background",
+        "declaration": "#a6a7ab",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/local-m.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "a49740942f0b18974f6fef1b97ad39b763f86b30ad20cbae780b44426377c6e2"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.lloydmatsstore.com/static/frontend/Sohoprospecting/soho/en_US/css/styles-m.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "135dcd7cad11c7d8aee3ac9b3548263ae07c79ddbed18415e0e898a2c4e7fce6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

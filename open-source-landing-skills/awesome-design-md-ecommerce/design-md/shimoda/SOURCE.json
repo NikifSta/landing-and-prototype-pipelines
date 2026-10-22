@@ -1,0 +1,786 @@
+{
+  "source_url": "https://shimodadesigns.com",
+  "final_url": "https://shimodadesigns.com/",
+  "captured_at": "2026-09-28T04:36:27.905941+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shimodadesigns.com",
+      "final_url": "https://shimodadesigns.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "6e8a264e5766381811c9f18537cb52ded8c841d666f066b81c2a8f6e67d38eec",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://c.zmags.com/static/styles.css",
+      "final_url": "https://c.zmags.com/static/styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "af1e6edc875a382b338bb25bd7c5c3f474a7f1b36212002a5896dd06f2186325",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/theme/scripts/mmenu/mmenu.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/theme/scripts/mmenu/mmenu.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "6da922d109eacd88de031d9d8617967726cfd928dc21da535ed34a141c9e847b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/theme/scripts/gallery/css/unite-gallery.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/theme/scripts/gallery/css/unite-gallery.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "bc3505fc353fc8a92b48dbcae8ae97ddaf92660c709db67f21f22680ba6d5c76",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 56,
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 242,
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "#000000": {
+      "count": 48,
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 28,
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "#757575": {
+      "count": 40,
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "#444444": {
+      "count": 52,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 69,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "#999999": {
+      "count": 40,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "#191d1d": {
+      "count": 55,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 14,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "#485b3d": {
+      "count": 15,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://c.zmags.com/static/styles.css"
+    ],
+    "Helvetica": [
+      "https://c.zmags.com/static/styles.css"
+    ],
+    "sans-serif": [
+      "https://c.zmags.com/static/styles.css"
+    ],
+    "Satoshi": [
+      "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://c.zmags.com/static/styles.css",
+      "selector": ".CleanSlate_cleanslate_2LZA9 button,.CleanSlate_cleanslate_2LZA9 input[type=submit]",
+      "declarations": "text-align:center;padding:2px 6px 3px;border-radius:4px;text-decoration:none;font-family:arial,helvetica,sans-serif;font-size:small;background:transparent;color:buttontext;border:1px solid #a6a6a6;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "body",
+      "declarations": "background:#fff;color:#333;cursor:auto;margin:0;padding:0;position:relative"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "body",
+      "declarations": "font-family:Satoshi,Arial,Helvetica,sans-serif;line-height:1.5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#444;font-family:Satoshi,Arial,Helvetica,sans-serif;letter-spacing:.25px;margin-bottom:.78571rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#444;font-size:60%;line-height:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;border-radius:0;border-style:solid;border-width:1px;cursor:pointer;font-family:Satoshi,Arial,Helvetica,sans-serif;font-weight:400;line-height:normal;margin:0 0 1rem;position:relative;text-align:center;text-decoration:none;display:inline-block;background-color:transparent;border-color:#191d1d;color:#191d1d;font-size:1rem;padding:.85714rem 2.28571rem;border-radius:4px;outline:0;vertical-align:middle"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button.active,.button.is-active,.button:focus,.button:hover",
+      "declarations": "background-color:transparent;border-color:#333;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button:active",
+      "declarations": "background-color:transparent;border:1px solid #000;color:#000"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button--primary",
+      "declarations": "background-color:#191d1d;border-color:#191d1d;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button--primary.active,.button--primary.is-active,.button--primary:focus,.button--primary:hover",
+      "declarations": "background-color:#191d1d;border-color:#191d1d;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button--primary:active",
+      "declarations": "background-color:#191d1d;border:1px solid #191d1d;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:#ccc;border-color:rgba(0,0,255,0);color:#fff;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".form-body",
+      "declarations": "background-color:#fff;border:1px solid #999;-webkit-box-shadow:0 1px 2px rgba(255,255,255,.13);box-shadow:0 1px 2px rgba(255,255,255,.13);margin-bottom:1.5rem;max-width:none;padding:1.5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".panel-header",
+      "declarations": "background-color:#e5e5e5;margin:0;padding:1.5rem 2rem 0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".pagination-list li a,.pagination-list li button",
+      "declarations": "border-radius:4px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;background:0 0;color:#444;display:block;font-size:1em;font-weight:400;line-height:inherit;padding:.28571rem .5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "li.pagination-item--current a,li.pagination-item--current button",
+      "declarations": "color:#333;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".card-figcaption-body .card-text",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".card-figcaption-button",
+      "declarations": "background-color:rgba(255,255,255,.9);color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".card-figcaption-button:hover",
+      "declarations": "background-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".card-body .card-text",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\";width:20px;height:20px;font-family:inherit;font-size:60px;line-height:20px;text-align:center;color:#333;opacity:.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#757575;opacity:1"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".carousel-play-pause-button",
+      "declarations": "background-color:#fff;background-color:rgba(255,255,255,.9);border:1px solid #fff;bottom:.5rem;color:#8f8f8f;display:none;font-size:14px;font-weight:700;height:32px;left:15px;line-height:1.25;max-width:60px;min-width:60px;overflow:hidden;position:absolute;text-overflow:ellipsis;-webkit-transition:color .1s ease-out;transition:color .1s ease-out;white-space:nowrap;z-index:5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".carousel-play-pause-button:hover",
+      "declarations": "color:#474747"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": "#wishlist-dropdown.is-open .button",
+      "declarations": "background-color:#fff;border-top-left-radius:0;border-top-right-radius:0;width:100%"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".modal--alert .button-container .confirm",
+      "declarations": "background-color:#191d1d;border-color:#191d1d;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".modal--alert .button-container .confirm:focus,.modal--alert .button-container .confirm:hover",
+      "declarations": "background-color:#191d1d;border-color:#191d1d;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+      "selector": ".modal--alert .button-container .confirm:active",
+      "declarations": "background-color:#191d1d;border-color:#191d1d;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shimoda | Explore More. The next evolution of the adventure camera bag.",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#191d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shimodadesigns.com/"
+      ]
+    },
+    "colors.heading": {
+      "value": "#444444",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "colors.border": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "colors.disabled": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://c.zmags.com/static/styles.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#485b3d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Satoshi, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": "normal",
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.on-primary}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.capacity-spec-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#333333": {
+        "selector": "[data-sub-layout-container=\"b0514277-1399-4c84-a58b-afc3412af1f0\"]",
+        "property": "border-color",
+        "declaration": "#333333",
+        "url": "https://shimodadesigns.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6e8a264e5766381811c9f18537cb52ded8c841d666f066b81c2a8f6e67d38eec"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#FFFFFF",
+        "url": "https://shimodadesigns.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6e8a264e5766381811c9f18537cb52ded8c841d666f066b81c2a8f6e67d38eec"
+      },
+      "#00000000": {
+        "selector": ".CleanSlate_cleanslate_2LZA9,.CleanSlate_cleanslate_2LZA9 a,.CleanSlate_cleanslate_2LZA9 abbr,.CleanSlate_cleanslate_2LZA9 acronym,.CleanSlate_cleanslate_2LZA9 address,.CleanSlate_cleanslate_2LZA9 applet,.CleanSlate_cleanslate_2LZA9 area,.CleanSlate_cleanslate_2LZA9 article,.CleanSlate_cleanslate_2L",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "#000000": {
+        "selector": ".CleanSlate_cleanslate_2LZA9,.CleanSlate_cleanslate_2LZA9 a,.CleanSlate_cleanslate_2LZA9 abbr,.CleanSlate_cleanslate_2LZA9 acronym,.CleanSlate_cleanslate_2LZA9 address,.CleanSlate_cleanslate_2LZA9 applet,.CleanSlate_cleanslate_2LZA9 area,.CleanSlate_cleanslate_2LZA9 article,.CleanSlate_cleanslate_2L",
+        "property": "-webkit-column-rule",
+        "declaration": "medium none #000",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "#cccccc": {
+        "selector": ".CleanSlate_cleanslate_2LZA9 input,.CleanSlate_cleanslate_2LZA9 select,.CleanSlate_cleanslate_2LZA9 textarea",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "#757575": {
+        "selector": ".SceneNavigatorWidgetComponent_scene_navigator_container_3wdFT.SceneNavigatorWidgetComponent_black_2_1SdGq li,.SceneNavigatorWidgetComponent_scene_navigator_container_3wdFT.SceneNavigatorWidgetComponent_white_2_WCgio li",
+        "property": "background",
+        "declaration": "#757575",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "#444444": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "color",
+        "declaration": "#444",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      },
+      "#e5e5e5": {
+        "selector": "hr",
+        "property": "border",
+        "declaration": "solid #e5e5e5",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      },
+      "#999999": {
+        "selector": "cite",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      },
+      "#191d1d": {
+        "selector": ".button",
+        "property": "border-color",
+        "declaration": "#191d1d",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      },
+      "#f3f3f3": {
+        "selector": ".mfp-title",
+        "property": "color",
+        "declaration": "#f3f3f3",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      },
+      "#485b3d": {
+        "selector": ".xs-menu .secondary__color",
+        "property": "color",
+        "declaration": "#485b3d",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": ".CleanSlate_cleanslate_2LZA9 button,.CleanSlate_cleanslate_2LZA9 input[type=submit]",
+        "property": "font-family",
+        "declaration": "arial,helvetica,sans-serif",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "Helvetica": {
+        "selector": ".CleanSlate_cleanslate_2LZA9 button,.CleanSlate_cleanslate_2LZA9 input[type=submit]",
+        "property": "font-family",
+        "declaration": "arial,helvetica,sans-serif",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "sans-serif": {
+        "selector": ".CleanSlate_cleanslate_2LZA9 button,.CleanSlate_cleanslate_2LZA9 input[type=submit]",
+        "property": "font-family",
+        "declaration": "arial,helvetica,sans-serif",
+        "url": "https://c.zmags.com/static/styles.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "53cedf542b045c7a7ca401dd7090647297c22b028b707224dd62d2086d371e84"
+      },
+      "Satoshi": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Satoshi",
+        "url": "https://cdn11.bigcommerce.com/s-qocvgxy3yl/stencil/33dddd10-94f9-013f-6136-2a8b2d7d8b1d/e/dcac5940-d450-013e-b8f4-7e3236a52136/css/theme-e2ebbcd0-94fe-013f-e7cc-7608931f64d7.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "da5c3264d9bc297436ec6bb013706fca8ef5d3951aa7c8f4b2a6b23c1b544b21"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,798 @@
+{
+  "source_url": "https://rastellis.com",
+  "final_url": "https://rastellis.com/",
+  "captured_at": "2026-09-28T09:29:11.046463+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rastellis.com",
+      "final_url": "https://rastellis.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/5c2e794b7e331c38-fonts-style.css",
+      "final_url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/5c2e794b7e331c38-fonts-style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "9be768bd68e1644522abbae6f99859fa7a558a6a64467eaa99429c9094e4030b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/3c89a1b6a5313a35-app-style.css",
+      "final_url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/3c89a1b6a5313a35-app-style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "9c06f920677c6768699bf4b208f4d69c93270cb4fac3595606be02c8660e7d05",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/1d09da81fa6a517d-app-style.css",
+      "final_url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/1d09da81fa6a517d-app-style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "e982b387e83b0746e939e9e9ad5f20215623cf2acb8dfa940b4bb1429e03ba8b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/132ef1f918ae5f3e-wpa-style.css",
+      "final_url": "https://rastellis.com/wp-content/cache/speedycache/rastellis.com/assets/132ef1f918ae5f3e-wpa-style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "d5e27e4b57ab49d3a3db8958c890636156b41d4987519e6b1f4dd8a44de57f60",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://rastellis.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.21",
+      "final_url": "https://rastellis.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.21",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "55a869bd24777d056167221d5b330dd4c2a6991dedd85249d3ab914a12f52776",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 71,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#666666": {
+      "count": 15,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#2ea3f2": {
+      "count": 15,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#9b2242": {
+      "count": 32,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 5,
+      "sources": [
+        "https://rastellis.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.21"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://rastellis.com/"
+    ],
+    "Arial": [
+      "https://rastellis.com/"
+    ],
+    "sans-serif": [
+      "https://rastellis.com/"
+    ],
+    "bebas-neue-pro-semiexpanded": [
+      "https://rastellis.com/"
+    ],
+    "Bebas Neue": [
+      "https://rastellis.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px;"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ":root",
+      "declarations": "--admin-bar-top : 7px;"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "body",
+      "declarations": "font-family:Open Sans,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.7em;font-weight:500;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#333;padding-bottom:10px;line-height:1em;font-weight:500"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "#et_search_icon:hover,.et-social-icon a:hover,.et_password_protected_form .et_submit_button,.form-submit .et_pb_buttontton.alt.disabled,.nav-single a,.posted_in",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_password_protected_form .et_submit_button",
+      "declarations": "font-family:inherit;display:block;float:right;margin:8px auto 0;cursor:pointer"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "fter,.et_pb_pricing_table_button:after,.et_pb_promo_button:after,.et_pb_testimonial:before,.et_pb_toggle_title:before,.form-submit .et_pb_button:after,.mobile_m",
+      "declarations": "font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_button",
+      "declarations": "font-size:20px;font-weight:500;padding:.3em 1em;line-height:1.7em!important;background-color:transparent;background-size:cover;background-position:50%;background-repeat:no-repeat;border:2px solid;border-radius:3px;transition-duration:.2s;transition-property:all!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_button:hover",
+      "declarations": "background-color:hsla(0,0%,100%,.2)"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light.et_pb_button:hover,.et_pb_bg_layout_light .et_pb_button:hover",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_dark,.et_pb_bg_layout_dark h1,.et_pb_bg_layout_dark h2,.et_pb_bg_layout_dark h3,.et_pb_bg_layout_dark h4,.et_pb_bg_layout_dark h5,.et_pb_bg_lay",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_more_button",
+      "declarations": "color:inherit;text-shadow:none;text-decoration:none;display:inline-block;margin-top:20px"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light_tablet.et_pb_button,.et_pb_bg_layout_light_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_light_tablet .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light_tablet h1,.et_pb_bg_layout_light_tablet h2,.et_pb_bg_layout_light_tablet h3,.et_pb_bg_layout_light_tablet h4,.et_pb_bg_layout_light_table",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_tablet.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "k_tablet,.et_pb_bg_layout_dark_tablet h1,.et_pb_bg_layout_dark_tablet h2,.et_pb_bg_layout_dark_tablet h3,.et_pb_bg_layout_dark_tablet h4,.et_pb_bg_layout_dark_t",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_dark_tablet.et_pb_button,.et_pb_bg_layout_dark_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_tablet .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light_phone.et_pb_button,.et_pb_bg_layout_light_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_light_phone .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_light_phone h1,.et_pb_bg_layout_light_phone h2,.et_pb_bg_layout_light_phone h3,.et_pb_bg_layout_light_phone h4,.et_pb_bg_layout_light_phone h5,",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_phone.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": "out_dark_phone,.et_pb_bg_layout_dark_phone h1,.et_pb_bg_layout_dark_phone h2,.et_pb_bg_layout_dark_phone h3,.et_pb_bg_layout_dark_phone h4,.et_pb_bg_layout_dark",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_bg_layout_dark_phone.et_pb_button,.et_pb_bg_layout_dark_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_phone .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_dark_phone.et_pb_button",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ":root",
+      "declarations": "--gcid-primary-color: #9b2242;--gcid-secondary-color: #2ea3f2;--gcid-heading-color: #666666;--gcid-body-color: #666666;"
+    },
+    {
+      "source": "https://rastellis.com/",
+      "selector": ":root",
+      "declarations": "--content-width:80%;--content-max-width:1080px;--section-padding:56px;--section-gutter:60px;--row-gutter-horizontal:5.5%;--row-gutter-vertical:40px;--module-gutter:30px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rastelli's | Order High-Quality Meats Online",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#9b2242",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.21"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#2ea3f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.button-dark": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "colors.border": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rastellis.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'bebas-neue-pro-semiexpanded', 'Bebas Neue', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": "1.7em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": "1.6em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": "1.5em",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": "1.7em",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "borderWidth": "2px",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "priceColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.button-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "iconColor": "{colors.accent}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.weight-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "activeBackgroundColor": "{colors.primary}",
+        "activeTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xs} {spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--wp--preset--color--white",
+        "declaration": "#ffffff",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#32373c": {
+        "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#00000000": {
+        "selector": "a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,tt,u,ul,var",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#666666": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#2ea3f2": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#2ea3f2",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#333333": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#999999": {
+        "selector": ".et_password_protected_form p input",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#dddddd": {
+        "selector": ".wp-caption",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#9b2242": {
+        "selector": ":root",
+        "property": "--gcid-primary-color",
+        "declaration": "#9b2242",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#cccccc": {
+        "selector": ".gfield_select",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "#f4f4f4": {
+        "selector": "#wpsl-search-btn",
+        "property": "background-image",
+        "declaration": "-moz-linear-gradient(top,#f4f4f4,#e6e6e6)",
+        "url": "https://rastellis.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.21",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "55a869bd24777d056167221d5b330dd4c2a6991dedd85249d3ab914a12f52776"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Open Sans,Arial,sans-serif",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "bebas-neue-pro-semiexpanded": {
+        "selector": "h1,h2,h3",
+        "property": "font-family",
+        "declaration": "bebas-neue-pro-semiexpanded,sans-serif",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      },
+      "Bebas Neue": {
+        "selector": ".et_pb_tabs_7 .et_pb_tabs_controls li,.et_pb_tabs_7 .et_pb_tabs_controls li a",
+        "property": "font-family",
+        "declaration": "\"Bebas Neue\",Helvetica,Arial,Lucida,sans-serif",
+        "url": "https://rastellis.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e8caf323172e814e604a9459914ae640511e66f494a122008529f88a4fd8c7d9"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

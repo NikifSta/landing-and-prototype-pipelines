@@ -1,0 +1,838 @@
+{
+  "source_url": "https://kingshocks.com",
+  "final_url": "https://kingshocks.com/",
+  "captured_at": "2026-09-28T09:24:54.037398+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kingshocks.com",
+      "final_url": "https://kingshocks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/wsm_base.css",
+      "final_url": "https://kingshocks.com/files/css/wsm_base.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/bs_min.css",
+      "final_url": "https://kingshocks.com/files/css/bs_min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "09fd45807326c824bee4e228d202d794a0581c42c5c9ea417e7d2b684f44e345",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/style.css?t=7",
+      "final_url": "https://kingshocks.com/files/css/style.css?t=7",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "c8b93704bac41d87c83fada89e627f55b71efd09ebd8244d281068569062abaf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3",
+      "final_url": "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "d11fe6470f1fe5e135033521b809f5de92c885d6ee684b113dfd801529fd55c2",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#005cb8": {
+      "count": 9,
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 290,
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 123,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#333333": {
+      "count": 50,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 17,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 13,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#5bc0de": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#111111": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    }
+  },
+  "font_families": {
+    "Helvetica Neue": [
+      "https://kingshocks.com/"
+    ],
+    "Arial": [
+      "https://kingshocks.com/"
+    ],
+    "Open Sans": [
+      "https://kingshocks.com/"
+    ],
+    "sans-serif": [
+      "https://kingshocks.com/"
+    ],
+    "Montserrat": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://kingshocks.com/",
+      "selector": "display:none;\nflex-grow: 1\n\n        .Sui-SearchBar--search-button",
+      "declarations": "background-color: #005cb8 !important;\n            color: #ffffff !important;"
+    },
+    {
+      "source": "https://kingshocks.com/",
+      "selector": "ext-decoration: underline;\ntext-decoration: underline;\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay: none;\nflex-grow: 1",
+      "declarations": "background-color: #005cb8 !important;\n            color: #ffffff !important;"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".text-shadow-1,.ui-accordion-header",
+      "declarations": "color:#333;text-shadow:1px 1px 1px #fffff;filter:dropshadow(color=#fffff,offx=1,offy=1)"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".text-shadow-2,.ui-accordion-header.ui-state-active,.wsm_checkout_accordion h3.ui-state-focus,.wsm_checkout_next a,.wsm_checkout_next a:hover",
+      "declarations": "color:#fff;text-shadow:1px 1px 1px #333;filter:dropshadow(color=#fffff,offx=1,offy=1)"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "wsm_cart_rd_wrapper select,.wsm_cart_total_wrapper,.wsm_cart_total_wrapper .wsm_cart_total_row,.wsm_cart_total_wrapper span.wsm_cart_total_col1,h3.wsm_cart_tabl",
+      "declarations": "border-color:#eee;border-style:solid;border-width:1px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm_header",
+      "declarations": "background-color:#333;color:#fff;font-weight:700;margin:0 0 10px;padding:5px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsm_table div#header",
+      "declarations": "background-color:#333;font:700 16px verdana,arial,helvetica,sans-serif;padding:5px 10px;margin:10px 0 0;color:#fff"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_h1",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-position:0 -173px;background-color:#333;padding:.4em;color:#fff;font-size:1.33em;margin:0 0 10px;font-family:Verdana,Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsmdt_header_2",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-repeat:repeat-x;background-position:top left;background-color:#e5e5e5;border-top:1px solid #e0e0e0;border-bottom:1px solid #fff;clear:both"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsmdt_header_3",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-repeat:repeat-x;background-color:#3d3d3d;background-position:0 -115px;font-size:1em;clear:both"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "ul.wsmdt_left_menu li.menu_header",
+      "declarations": "color:#fff;background-image:url(/images/ui/catalog/bg_brown_collage.png);background-color:#3d3d3d;background-repeat:repeat-x;background-position:0 -115px;font-size:1em;font-weight:700;margin-bottom:.15em;padding:.5em .25em"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_company_header,.wsmdt_my_cart_header",
+      "declarations": "color:#fff;background-image:url(/images/ui/catalog/bg_brown_collage.png);background-color:#3d3d3d;background-repeat:repeat-x;background-position:0 -115px;font-size:1em;font-weight:700;margin-bottom:.15em;padding:.5em .25em"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_my_cart_header a,.wsmdt_my_cart_header a:hover",
+      "declarations": "color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm_framework .wsm_header",
+      "declarations": "background:#333 none;border:none;color:#fff;font:700 large verdana,arial,helvetica,sans-serif;padding:3px 10px;margin:0"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.dropdown,div.product_option div.container,div.product_option_set div.selector,div.product_option_value_extended",
+      "declarations": "background-color:#fff;border-width:1px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option_set div.selector",
+      "declarations": "background-position:right -637px;cursor:pointer;display:inline;padding:2px 22px 2px 2px;margin:8px 0;position:relative;white-space:nowrap;color:#333"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option_value_extended div.wsm_product_option_dropdown_unavailable",
+      "declarations": "font-weight:700;color:#c00;padding:5px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option div.container div.caption",
+      "declarations": "background-color:#666;color:#fff;font-size:.83em;padding:2px 0;width:100%"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option div.container div.description",
+      "declarations": "font-size:.83em;font-style:italic;color:#000;padding:5px;text-align:left;width:100%;white-space:normal"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm-registries-image-uploader .wsma_product_photo",
+      "declarations": "background-color:red;border:1px solid #000;float:left;height:144px;margin:4px;width:120px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm-registries-image-uploader .wsma_product_photoname",
+      "declarations": "-moz-border-bottom-colors:none;-moz-border-image:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-color:#000;border-style:solid;border-width:1px 0;bottom:0;height:21px;position:relative;width:120px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget button,.ui-widget input,.ui-widget select,.ui-widget textarea",
+      "declarations": "font-family:Verdana,Arial,sans-serif;font-size:12px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #aaa;background:#ccc url(/images/jqueryui/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;color:#222;font-weight:700"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+      "declarations": "border:1px solid #d3d3d3;background:#e6e6e6 url(/images/jqueryui/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:400;color:#000"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-focus,.ui-state-hover,.ui-widget-content .ui-state-focus,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-focus,.ui-widget-header .ui-st",
+      "declarations": "border:1px solid #999;background:#dadada url(/images/jqueryui/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:400;color:#212121"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+      "declarations": "border:0;background:#fff url(/images/jqueryui/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:400;color:#212121"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #fcefa1;background:#fbf9ee url(/images/jqueryui/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x;color:#363636"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#363636"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #cd0a0a;background:#fef1ec url(/images/jqueryui/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x;color:#cd0a0a"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "King Off-Road Racing Shocks, Bypass Shocks, Adjustable Coil Over Shocks, Air Shocks, UTV Shocks, Jeep Shocks, Pre-Runner Shocks, Adjustable Shocks, and Bump Stops",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#005cb8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/"
+      ]
+    },
+    "colors.dark-surface": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.darker-surface": {
+      "value": "#3d3d3d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#cc0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#d9534f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#5cb85c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#f0ad4e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#5bc0de",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Montserrat, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Montserrat, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.dark-surface}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hairline": "{colors.darker-surface}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.dark-surface}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-red}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "labelTypography": "{typography.body-sm}",
+        "actionTypography": "{typography.button-md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#005cb8": {
+        "selector": ".Sui-SearchBar--search-button",
+        "property": "background-color",
+        "declaration": "#005cb8",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "#ffffff": {
+        "selector": ".Sui-SearchBar--search-button",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "#eeeeee": {
+        "selector": "h3.wsm_cart_table_headers",
+        "property": "background",
+        "declaration": "#eee",
+        "url": "https://kingshocks.com/files/css/wsm_base.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d"
+      },
+      "#333333": {
+        "selector": ".text-shadow-1,.ui-accordion-header",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://kingshocks.com/files/css/wsm_base.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d"
+      },
+      "#cc0000": {
+        "selector": ".wsm_cart_item_price_info .wsm_cart_item_sale,.wsm_cart_total_wrapper span.wsm_cart_total_col2",
+        "property": "color",
+        "declaration": "#c00",
+        "url": "https://kingshocks.com/files/css/wsm_base.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d"
+      },
+      "#777777": {
+        "selector": ".wsm_form_tab,.wsm_form_tab:active,.wsm_form_tab:link,.wsm_form_tab:visited,.wsm_form_tab_selected",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://kingshocks.com/files/css/wsm_base.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d"
+      },
+      "#3d3d3d": {
+        "selector": "#wsmdt_header_3",
+        "property": "background-color",
+        "declaration": "#3d3d3d",
+        "url": "https://kingshocks.com/files/css/wsm_base.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d"
+      },
+      "#f5f5f5": {
+        "selector": "pre",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://kingshocks.com/files/css/bs_min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf"
+      },
+      "#5cb85c": {
+        "selector": ".btn-success",
+        "property": "background-color",
+        "declaration": "#5cb85c",
+        "url": "https://kingshocks.com/files/css/bs_min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf"
+      },
+      "#5bc0de": {
+        "selector": ".btn-info.disabled.focus,.btn-info.disabled:focus,.btn-info.disabled:hover,.btn-info[disabled].focus,.btn-info[disabled]:focus,.btn-info[disabled]:hover,fieldset[disabled] .btn-info.focus,fieldset[disabled] .btn-info:focus,fieldset[disabled] .btn-info:hover",
+        "property": "background-color",
+        "declaration": "#5bc0de",
+        "url": "https://kingshocks.com/files/css/bs_min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf"
+      },
+      "#f0ad4e": {
+        "selector": ".btn-warning",
+        "property": "background-color",
+        "declaration": "#f0ad4e",
+        "url": "https://kingshocks.com/files/css/bs_min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf"
+      },
+      "#d9534f": {
+        "selector": ".btn-danger",
+        "property": "background-color",
+        "declaration": "#d9534f",
+        "url": "https://kingshocks.com/files/css/bs_min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf"
+      },
+      "#111111": {
+        "selector": ":root",
+        "property": "--dark2",
+        "declaration": "#111",
+        "url": "https://kingshocks.com/files/css/style.css?t=7",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "c8b93704bac41d87c83fada89e627f55b71efd09ebd8244d281068569062abaf"
+      }
+    },
+    "font_families": {
+      "Helvetica Neue": {
+        "selector": ".pl-fitment-text,\n    strong",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue LT Std\", \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", -apple-system, BlinkMacSystemFont, \"Segoe UI\"",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "Arial": {
+        "selector": ".pl-fitment-text,\n    strong",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue LT Std\", \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", -apple-system, BlinkMacSystemFont, \"Segoe UI\"",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "Open Sans": {
+        "selector": ".pl-fitment-text,\n    strong",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue LT Std\", \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", -apple-system, BlinkMacSystemFont, \"Segoe UI\"",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "sans-serif": {
+        "selector": ".pl-fitment-text,\n    strong",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue LT Std\", \"Helvetica Neue\", Helvetica, Arial, \"Open Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", -apple-system, BlinkMacSystemFont, \"Segoe UI\"",
+        "url": "https://kingshocks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191"
+      },
+      "Montserrat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Montserrat\"",
+        "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "09fd45807326c824bee4e228d202d794a0581c42c5c9ea417e7d2b684f44e345"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

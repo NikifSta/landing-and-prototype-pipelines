@@ -1,0 +1,320 @@
+{
+  "url": "https://www.ggaide.org/",
+  "date": "2026-10-06T10:03:25.171Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 7137
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 7137,
+          "el": "div.common-loader.fixed"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 40,
+          "parentHeight": 7137,
+          "el": "div.common-cursor.pointer-events-none"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 6288,
+          "el": "div.common-header__sticky.sticky «À propos Horaire Partenaires BILLETTERIE»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 2473,
+          "el": "div.hidden.sm:block"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y434.png",
+          "y": 434,
+          "moving": true
+        },
+        {
+          "frame": "002-y858.png",
+          "y": 858,
+          "moving": true
+        },
+        {
+          "frame": "003-y1319.png",
+          "y": 1319,
+          "moving": true
+        },
+        {
+          "frame": "004-y1773.png",
+          "y": 1773,
+          "moving": true
+        },
+        {
+          "frame": "005-y2219.png",
+          "y": 2219,
+          "moving": true
+        },
+        {
+          "frame": "006-y2679.png",
+          "y": 2679,
+          "moving": true
+        },
+        {
+          "frame": "007-y3114.png",
+          "y": 3114,
+          "moving": true
+        },
+        {
+          "frame": "008-y3564.png",
+          "y": 3564,
+          "moving": true
+        },
+        {
+          "frame": "009-y4019.png",
+          "y": 4019,
+          "moving": false
+        },
+        {
+          "frame": "010-y4464.png",
+          "y": 4464,
+          "moving": false
+        },
+        {
+          "frame": "011-y4914.png",
+          "y": 4914,
+          "moving": true
+        },
+        {
+          "frame": "012-y5373.png",
+          "y": 5373,
+          "moving": true
+        },
+        {
+          "frame": "013-y5829.png",
+          "y": 5829,
+          "moving": true
+        },
+        {
+          "frame": "014-y6213.png",
+          "y": 6213,
+          "moving": true
+        },
+        {
+          "frame": "015-y6237.png",
+          "y": 6237,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.32, 0.94, 0.6, 1)",
+          "target": "img.lazyautosizes.lazyloaded",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.32, 0.94, 0.6, 1)",
+          "target": "span.placeholder",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "shake",
+          "duration": 200,
+          "delay": 150,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.f-controller-inner",
+          "firstSeenAtY": 434
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.common-header__nav-inner.absolute",
+          "firstSeenAtY": 5829
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.common-header__nav-inner.absolute",
+          "firstSeenAtY": 5829
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 5884
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 5884,
+          "el": "div.common-loader.fixed"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 5884,
+          "el": "div.common-cursor.pointer-events-none"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 5325,
+          "el": "div.common-header__sticky.sticky «À propos Horaire Partenaires BILLETTERIE»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 2298,
+          "el": "div.hidden.sm:block"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y400.png",
+          "y": 400,
+          "moving": true
+        },
+        {
+          "frame": "002-y818.png",
+          "y": 818,
+          "moving": true
+        },
+        {
+          "frame": "003-y1247.png",
+          "y": 1247,
+          "moving": true
+        },
+        {
+          "frame": "004-y1662.png",
+          "y": 1662,
+          "moving": true
+        },
+        {
+          "frame": "005-y2097.png",
+          "y": 2097,
+          "moving": true
+        },
+        {
+          "frame": "006-y2515.png",
+          "y": 2515,
+          "moving": true
+        },
+        {
+          "frame": "007-y2941.png",
+          "y": 2941,
+          "moving": false
+        },
+        {
+          "frame": "008-y3354.png",
+          "y": 3354,
+          "moving": true
+        },
+        {
+          "frame": "009-y3779.png",
+          "y": 3779,
+          "moving": true
+        },
+        {
+          "frame": "010-y4190.png",
+          "y": 4190,
+          "moving": true
+        },
+        {
+          "frame": "011-y4620.png",
+          "y": 4620,
+          "moving": false
+        },
+        {
+          "frame": "012-y5016.png",
+          "y": 5016,
+          "moving": true
+        },
+        {
+          "frame": "013-y5040.png",
+          "y": 5040,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.common-header__nav-inner.absolute",
+          "firstSeenAtY": 5016
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.common-header__nav-inner.absolute",
+          "firstSeenAtY": 5016
+        }
+      ]
+    }
+  }
+}

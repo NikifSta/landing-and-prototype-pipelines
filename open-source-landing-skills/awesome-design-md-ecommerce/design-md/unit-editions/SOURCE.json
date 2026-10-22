@@ -1,0 +1,798 @@
+{
+  "source_url": "https://www.uniteditions.com",
+  "final_url": "https://uniteditions.com/",
+  "captured_at": "2026-09-28T04:09:58.569162+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.uniteditions.com",
+      "final_url": "https://uniteditions.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+      "final_url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8ae2f985740561351681243706a2d44e5f14dc9d9d359ad39c5e50a157978d1d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752",
+      "final_url": "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7a228375a7fd4e11fbc1939f7d49356c74f5a2aa51c5a0d4c3f3993072e54f6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://uniteditions.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://uniteditions.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://uniteditions.com/cdn/shop/t/5/assets/custom-globals.css?v=99265532897117526121742480654",
+      "final_url": "https://uniteditions.com/cdn/shop/t/5/assets/custom-globals.css?v=99265532897117526121742480654",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c3d7adb6f83b79bcad275eb64f4ac4408401241575728266870b6d7639d6014b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 146,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 85,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#7367f0": {
+      "count": 1,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#f72119": {
+      "count": 1,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 8,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#303030": {
+      "count": 72,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#616161": {
+      "count": 10,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#2332d5": {
+      "count": 7,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#29845a": {
+      "count": 2,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "#ffaa00": {
+      "count": 1,
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Helvetica Neue": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753"
+    ],
+    "Helvetica": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753"
+    ],
+    "Arial": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753"
+    ],
+    "sans-serif": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753"
+    ],
+    "Berthold Akzidenz Grotesk": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752"
+    ],
+    "Berthold Akzidenz Grotesk Medium": [
+      "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".freegifts-main-container .product-title, .freegifts-main-container .bogos-gift-product-title",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".freegifts-main-container .btn-add-to-cart",
+      "declarations": "color: #FFFFFF; background-color: #7367f0;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundles-widget-body .bogos-bundle-item",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundles-widget-footer .bogos-bundles-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundles-quantity-break-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-volume-discount-widget.default-layout .bogos-volume-discount-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-volume-discount-widget.table-layout .bogos-volume-discount-widget-header",
+      "declarations": "background-color: #F3F3F3;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": "t-widget.table-layout .bogos-volume-discount-item, .bogos-volume-discount-widget-body .bogos-volume-discount-tier-info, .bogos-volume-discount-widget.table-layo",
+      "declarations": "border-color: #E0E0E0;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-mix-match-widget .bogos-mix-match-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-subtitle",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-subtitle",
+      "declarations": "color: #616161;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-title, .bogos-step-item .bogos-step-item-title, .bogos-product-detail-modal .bogos-product-title",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-price, .bogos-step-item .bogos-step-item-discount-price, .bogos-bp-widget-footer .bogos-bp-total-discount-price",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-btn-add-product, .bogos-product-detail-modal .bogos-product-add-btn",
+      "declarations": "background-color: #303030; color: #FFFFFF"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-step-items-product-require.success .bogos-step-items-product-require-title",
+      "declarations": "color: #2332D5;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-bp-widget .bogos-bp-button-add",
+      "declarations": "background-color: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-header-description",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-footer-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-product-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-upsell-product-discounted-price",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-upsell-product-original-price",
+      "declarations": "color: #808080;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-upsell-body-item-checkbox",
+      "declarations": "border-color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-fbt-upsell-body-item-checkbox:checked",
+      "declarations": "border-color: #303030; background-color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-cheapest-list-product-modal .bogos-cheapest-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-cheapest-product-card .bogos-cheapest-product-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-cheapest-product-card .bogos-cheapest-product-price",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://uniteditions.com/",
+      "selector": ".bogos-cheapest-product-card .bogos-cheapest-select-variant-title",
+      "declarations": "color: #303030;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Unit Editions",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#303030",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#616161",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#2332d5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.accent-alt": {
+      "value": "#7367f0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#29845a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffaa00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#f72119",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uniteditions.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Berthold Akzidenz Grotesk, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Berthold Akzidenz Grotesk, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Berthold Akzidenz Grotesk, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Helvetica Neue, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Berthold Akzidenz Grotesk Medium, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "ctaBackground": "{colors.primary}",
+        "ctaText": "{colors.on-primary}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#ffffff": {
+        "selector": ".freegifts-main-container .btn-add-to-cart",
+        "property": "color",
+        "declaration": "#FFFFFF",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#7367f0": {
+        "selector": ".freegifts-main-container .btn-add-to-cart",
+        "property": "background-color",
+        "declaration": "#7367f0",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#f72119": {
+        "selector": "#sca-promotion-glider",
+        "property": "background-color",
+        "declaration": "#F72119",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#f3f3f3": {
+        "selector": ".bogos-bundles-widget",
+        "property": "background-color",
+        "declaration": "#F3F3F3",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#303030": {
+        "selector": ".bogos-bundles-widget .bogos-bundles-widget-title",
+        "property": "color",
+        "declaration": "#303030",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#616161": {
+        "selector": ".bogos-bundles-widget .bogos-bundles-widget-description",
+        "property": "color",
+        "declaration": "#616161",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#2332d5": {
+        "selector": ".bogos-bundles-widget .bogos-bundle-shipping-discount-title",
+        "property": "color",
+        "declaration": "#2332D5",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#e0e0e0": {
+        "selector": ".bogos-volume-discount-widget.table-layout, .bogos-volume-discount-widget.table-layout .bogos-volume-discount-item, .bogos-volume-discount-widget-body .bogos-volume-discount-tier-info, .bogos-volume-discount-widget.table-layout .bogos-volume-discount-widget-header",
+        "property": "border-color",
+        "declaration": "#E0E0E0",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#29845a": {
+        "selector": ".bogos-mix-match-widget .bogos-mix-match-badge-item.success .bogos-mix-match-badge-title",
+        "property": "color",
+        "declaration": "#29845A",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      },
+      "#ffaa00": {
+        "selector": ".is-cheapest-free-label",
+        "property": "background-color",
+        "declaration": "#FFAA00",
+        "url": "https://uniteditions.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a90c6b5226a69ccf98330dad107e8c4edb0094c3e520b1a053770877a529db46"
+      }
+    },
+    "font_families": {
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8ae2f985740561351681243706a2d44e5f14dc9d9d359ad39c5e50a157978d1d"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8ae2f985740561351681243706a2d44e5f14dc9d9d359ad39c5e50a157978d1d"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8ae2f985740561351681243706a2d44e5f14dc9d9d359ad39c5e50a157978d1d"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/colors.scss.css?v=7851278893779827891785227753",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8ae2f985740561351681243706a2d44e5f14dc9d9d359ad39c5e50a157978d1d"
+      },
+      "Berthold Akzidenz Grotesk": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Berthold Akzidenz Grotesk",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c7a228375a7fd4e11fbc1939f7d49356c74f5a2aa51c5a0d4c3f3993072e54f6"
+      },
+      "Berthold Akzidenz Grotesk Medium": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Berthold Akzidenz Grotesk Medium",
+        "url": "https://uniteditions.com/cdn/shop/t/5/assets/fvcmedia.css?v=32226458820958716601785227752",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c7a228375a7fd4e11fbc1939f7d49356c74f5a2aa51c5a0d4c3f3993072e54f6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,3650 @@
+{
+  "url": "https://www.monologue.to/",
+  "date": "2026-10-06T10:04:28.618Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://www.monologue.to/videos/product-demo/dictation-v2.mp4",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.product-story-glass.relative"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 14736
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "8px",
+          "height": 45,
+          "parentHeight": 14736,
+          "el": "a.skip-link «Skip to content»"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 96,
+          "parentHeight": 14736,
+          "el": "header.design-section.site-header «Monologue Dictation Notes Features Pricing Docs Do»"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 48,
+          "el": "span#_R_2oav5b_.brand-assets-module__lve7Tq__menu «Copy logo as SVGCopy wordmark as SVGDownload brand»"
+        },
+        {
+          "position": "sticky",
+          "top": "96px",
+          "height": 234,
+          "parentHeight": 3438,
+          "el": "nav.dictation-use-cases «Coding Team chat Messages Email»"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 48,
+          "el": "span#_R_1boav5b_.brand-assets-module__lve7Tq__menu «Copy logo as SVGCopy wordmark as SVGDownload brand»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": true
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": false
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": true
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": true
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": true
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": false
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": true
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": true
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": true
+        },
+        {
+          "frame": "017-y7650.png",
+          "y": 7650,
+          "moving": true
+        },
+        {
+          "frame": "018-y8550.png",
+          "y": 8550,
+          "moving": false
+        },
+        {
+          "frame": "019-y9000.png",
+          "y": 9000,
+          "moving": false
+        },
+        {
+          "frame": "020-y9450.png",
+          "y": 9450,
+          "moving": true
+        },
+        {
+          "frame": "021-y9900.png",
+          "y": 9900,
+          "moving": false
+        },
+        {
+          "frame": "022-y10350.png",
+          "y": 10350,
+          "moving": false
+        },
+        {
+          "frame": "023-y10800.png",
+          "y": 10800,
+          "moving": false
+        },
+        {
+          "frame": "024-y11250.png",
+          "y": 11250,
+          "moving": false
+        },
+        {
+          "frame": "025-y11700.png",
+          "y": 11700,
+          "moving": false
+        },
+        {
+          "frame": "026-y12150.png",
+          "y": 12150,
+          "moving": false
+        },
+        {
+          "frame": "027-y12600.png",
+          "y": 12600,
+          "moving": false
+        },
+        {
+          "frame": "028-y13050.png",
+          "y": 13050,
+          "moving": false
+        },
+        {
+          "frame": "029-y13500.png",
+          "y": 13500,
+          "moving": false
+        },
+        {
+          "frame": "030-y13836.png",
+          "y": 13836,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "trusted-logo-scroll",
+          "duration": 100000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-max «Hugging Face Hugging Face Better Stack Better Stac»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "h2#work-story-title.text-text-bright.font-mono «Monologue is what happens when you talk through yo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.text-text-bright.font-mono «It starts as dictation that writes what you meant.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.work-story-continuity.text-text-bright «It stays with you from Cursor to a walk to a call.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-caret-blink",
+          "duration": 1050,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-caret-line",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-wave-flow",
+          "duration": 1250,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-recording-wave",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-processing-spin",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-caret-blink",
+          "duration": 1150,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-caret",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-orbit-clockwise",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.feature-app-orbit",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--slack",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9200,
+          "delay": -3100,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--notion",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8800,
+          "delay": -6200,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--messages",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10100,
+          "delay": -1800,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--gmail",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8700,
+          "delay": -7300,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--sheets",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9800,
+          "delay": -4400,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--word",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10600,
+          "delay": -8100,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--monday",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8900,
+          "delay": -2500,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--figma",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9600,
+          "delay": -5600,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--zendesk",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10300,
+          "delay": -9200,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--whatsapp",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9100,
+          "delay": -4900,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--discord",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9900,
+          "delay": -7800,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--google-docs",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Keep it casual and friendly Us»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue has replaced Wispr Flow for me.” Ben To»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-progress",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.testimonial-tab-progress.relative",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“It’s the simplest voice to text app I’ve used! In»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 280,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "div.feature-mode-preview «Custom instructions Use a courteous, semi-formal t»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Use a courteous, semi-formal t»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-left-radius",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-right-radius",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-left-radius",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-right-radius",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "height",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "margin-top",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-bottom",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-left",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-right",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "padding-top",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.design-rail.nav-rail «Monologue Dictation Notes Features Pricing Docs Do»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Zapier»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Hugging Face»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Keep punctuation minimal Prese»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue is a true productivity game changer, an»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.product-story-tab-progress",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Preserve technical identifiers»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue from Every is fantastic. It has been ve»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Coding»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-demo-input.dictation-agent-draft «In TodoList.tsx, load the todos from api.ts. Add l»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-caret-blink",
+          "duration": 1050,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-pasted-caret-line",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast.is-visible «✓ File names, typed correctly.»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast.is-visible «✓ File names, typed correctly.»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 520,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dictation-agent-prompt.is-contextual «In TodoList.tsx, load the todos from api.ts. Add l»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--dark «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--dark «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a «Coding»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.dictation-caret-dot",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-caret-dot",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast «✓ File names, typed correctly.»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast «✓ File names, typed correctly.»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "ol.dictation-work-draft-list «Tighten the copy Record the demo Send the update»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast.is-visible «✓ Numbered list, neatly formatted.»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 520,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-work-message.dictation-work-message--reply «Daniel 10:04 AM Tighten the copy Record the demo S»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast «✓ Numbered list, neatly formatted.»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast «✓ Numbered list, neatly formatted.»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? iMessage ✓ Self-correcti»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? iMessage ✓ Self-correcti»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-recording-pill",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-recording-pill",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? 8:30, actually 9:30 work»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? 8:30, actually 9:30 work»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-app-window.dictation-message-window «What time should we meet? 8:30, actually 9:30 work»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-composer.dictation-composer--light «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-composer.dictation-composer--light «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-composer.dictation-composer--light «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-composer.dictation-composer--light «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-composer.dictation-composer--light «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-demo-input.dictation-personal-draft «8:30, actually 9:30 works for me.»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 280,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "div.feature-mode-preview «Custom instructions Preserve technical identifiers»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-correction-strike",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "del «8:30, actually»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a «Messages»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast «✓ Self-corrections, handled.»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast «✓ Self-corrections, handled.»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-email-formatted-copy «Hi Dan, It’s ready. I tightened the examples and c»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "article.dictation-email-sent «N Naveen to Dan · Just now Hi Dan, It’s ready. I t»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Ben's Bites»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Founders School»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "flex-basis",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "article.notes-carousel-panel.notes-carousel-panel--capture «01 Capture»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "flex-grow",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "article.notes-carousel-panel.notes-carousel-panel--capture «01 Capture»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "img.notes-carousel-image.notes-carousel-image--capture",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "img.notes-carousel-image.notes-carousel-image--capture",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "flex-basis",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "article.notes-carousel-panel.notes-carousel-panel--summarize «02 Summarize»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "flex-grow",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "article.notes-carousel-panel.notes-carousel-panel--summarize «02 Summarize»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "img.notes-carousel-image.notes-carousel-image--summarize",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "img.notes-carousel-image.notes-carousel-image--summarize",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 40,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.notes-carousel-asset.notes-carousel-asset--summarize-call",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "div.notes-carousel-asset.notes-carousel-asset--summarize-call",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 40,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.notes-carousel-asset.notes-carousel-asset--summarize-note",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 260,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "div.notes-carousel-asset.notes-carousel-asset--summarize-note",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 4200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--codex «Codex»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 4800,
+          "delay": 40,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--gemini-one «Gemini»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 4500,
+          "delay": 80,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--github «GitHub»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 5000,
+          "delay": 120,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--chatgpt «ChatGPT»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 4400,
+          "delay": 160,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--cursor «Cursor»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-agent-float",
+          "duration": 4700,
+          "delay": 200,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-badge.feature-agent-badge--claude «Claude»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 280,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.23, 1, 0.32, 1)",
+          "target": "div.feature-mode-preview «Custom instructions Keep it casual and friendly Us»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Chatting»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Email»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-position-y",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.button.button--primary «Download for Mac»",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-hit-corner",
+          "duration": 1020,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.footer-dvd-mark-art.is-colliding",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-color-signal-lock",
+          "duration": 1860,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.footer-dvd-logo.footer-dvd-logo--color",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-wash",
+          "duration": 680,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-wash",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-ring",
+          "duration": 620,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-ring",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-core",
+          "duration": 560,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-core",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-spark",
+          "duration": 860,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "i.footer-dvd-spark",
+          "firstSeenAtY": 13500
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-caption",
+          "duration": 1860,
+          "delay": 40,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-caption «INSERT NOSTALGIA.»",
+          "firstSeenAtY": 13500
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.product-story-glass.relative"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 16018
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "8px",
+          "height": 45,
+          "parentHeight": 16018,
+          "el": "a.skip-link «Skip to content»"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 68,
+          "parentHeight": 16018,
+          "el": "header.design-section.site-header «Monologue Download»"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 36,
+          "el": "span#_R_2oav5b_.brand-assets-module__lve7Tq__menu «Copy logo as SVGCopy wordmark as SVGDownload brand»"
+        },
+        {
+          "position": "sticky",
+          "top": "76px",
+          "height": 68,
+          "parentHeight": 2772,
+          "el": "div.dictation-nav-column «Coding Team chat Messages Email»"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 36,
+          "el": "span#_R_1boav5b_.brand-assets-module__lve7Tq__menu «Copy logo as SVGCopy wordmark as SVGDownload brand»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": true
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": true
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": true
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": false
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": true
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": true
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": true
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "021-y8862.png",
+          "y": 8862,
+          "moving": true
+        },
+        {
+          "frame": "022-y9284.png",
+          "y": 9284,
+          "moving": false
+        },
+        {
+          "frame": "023-y9706.png",
+          "y": 9706,
+          "moving": true
+        },
+        {
+          "frame": "024-y10128.png",
+          "y": 10128,
+          "moving": false
+        },
+        {
+          "frame": "025-y10550.png",
+          "y": 10550,
+          "moving": false
+        },
+        {
+          "frame": "026-y10972.png",
+          "y": 10972,
+          "moving": false
+        },
+        {
+          "frame": "027-y11394.png",
+          "y": 11394,
+          "moving": false
+        },
+        {
+          "frame": "028-y11816.png",
+          "y": 11816,
+          "moving": false
+        },
+        {
+          "frame": "029-y12238.png",
+          "y": 12238,
+          "moving": false
+        },
+        {
+          "frame": "030-y12660.png",
+          "y": 12660,
+          "moving": false
+        },
+        {
+          "frame": "031-y13082.png",
+          "y": 13082,
+          "moving": false
+        },
+        {
+          "frame": "032-y13504.png",
+          "y": 13504,
+          "moving": false
+        },
+        {
+          "frame": "033-y13926.png",
+          "y": 13926,
+          "moving": false
+        },
+        {
+          "frame": "034-y14348.png",
+          "y": 14348,
+          "moving": false
+        },
+        {
+          "frame": "035-y14770.png",
+          "y": 14770,
+          "moving": false
+        },
+        {
+          "frame": "036-y15174.png",
+          "y": 15174,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "trusted-logo-scroll",
+          "duration": 100000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-max «Hugging Face Hugging Face Better Stack Better Stac»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "h2#work-story-title.text-text-bright.font-mono «Monologue is what happens when you talk through yo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.text-text-bright.font-mono «It starts as dictation that writes what you meant.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "work-story-reading-highlight",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.work-story-continuity.text-text-bright «It stays with you from Cursor to a walk to a call.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-caret-blink",
+          "duration": 1050,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-caret-line",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-wave-flow",
+          "duration": 1250,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-recording-wave",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-processing-spin",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-caret-blink",
+          "duration": 1150,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-agent-caret",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-orbit-clockwise",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.feature-app-orbit",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--slack",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9200,
+          "delay": -3100,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--notion",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8800,
+          "delay": -6200,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--messages",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10100,
+          "delay": -1800,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--gmail",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8700,
+          "delay": -7300,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--sheets",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9800,
+          "delay": -4400,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--word",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10600,
+          "delay": -8100,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--monday",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 8900,
+          "delay": -2500,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--figma",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9600,
+          "delay": -5600,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--zendesk",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 10300,
+          "delay": -9200,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--whatsapp",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9100,
+          "delay": -4900,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--discord",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-app-float",
+          "duration": 9900,
+          "delay": -7800,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-app-icon.feature-app-icon--google-docs",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Keep it casual and friendly Us»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue has replaced Wispr Flow for me.” Ben To»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-progress",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.testimonial-tab-progress.relative",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--dark «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--dark «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-caret-blink",
+          "duration": 800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.feature-format-caret.is-streaming",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.dictation-demo-scene-shell «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-app-window.dictation-code-window «atlas-web TodoList.tsx TodoItem.tsx api.ts Agent T»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.dictation-recording-pill",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-recording-pill",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-recording-pill",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-processing-disc",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Ben's Bites»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Zapier»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“It’s the simplest voice to text app I’ve used! In»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Coding»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-demo-input.dictation-agent-draft «In TodoList.tsx, load the todos from api.ts. Add l»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-caret-blink",
+          "duration": 1050,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.dictation-pasted-caret-line",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Use a courteous, semi-formal t»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast.is-visible «✓ File names, typed correctly.»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 520,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dictation-agent-prompt.is-contextual «In TodoList.tsx, load the todos from api.ts. Add l»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Coding»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "span.dictation-caret-dot",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast «✓ File names, typed correctly.»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast «✓ File names, typed correctly.»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Hugging Face»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Keep punctuation minimal Prese»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue is a true productivity game changer, an»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Team chat»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «Paul Leung 10:04 AM It’s launch week for Atlas. @d»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? iMessage ✓ Self-correcti»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «What time should we meet? iMessage ✓ Self-correcti»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.dictation-work-draft-copy «One, tighten the copy. Two, record the demo. Three»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-mode-preview-enter",
+          "duration": 320,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.feature-mode-preview «Custom instructions Preserve technical identifiers»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.relative.flex «Founders School»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "ol.dictation-work-draft-list «Tighten the copy Record the demo Send the update»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "testimonial-enter",
+          "duration": 240,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.flex.min-h-0 «“Monologue from Every is fantastic. It has been ve»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a «Team chat»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Messages»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "span.dictation-caret-dot",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-benefit-toast «✓ Numbered list, neatly formatted.»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 460,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.dictation-benefit-toast «✓ Numbered list, neatly formatted.»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Chatting»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Coding»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «What time should we meet? ✓ Self-corrections, hand»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a «Messages»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 220,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-listening-glow",
+          "duration": 1400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dictation-demo-scene-shell «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 80,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "a.is-active «Email»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 160,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.dictation-demo-frame.dictation-demo-frame--light «D Dan Shipper dan@every.to · Today Monologue launc»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.dictation-email-draft-copy «Hi Dan, it’s ready. I tightened the examples and c»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dictation-email-formatted-copy «Hi Dan, It’s ready. I tightened the examples and c»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dictation-paste-in",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "article.dictation-email-sent «N Naveen to Dan · Just now Hi Dan, It’s ready. I t»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip «Notes»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 180,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "button.feature-mode-chip.is-active «Coding»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-hit-corner",
+          "duration": 1020,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.footer-dvd-mark-art.is-colliding",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-color-signal-lock",
+          "duration": 1860,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.footer-dvd-logo.footer-dvd-logo--color",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-wash",
+          "duration": 680,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-wash",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-ring",
+          "duration": 620,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-ring",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-core",
+          "duration": 560,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-impact-core",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-spark",
+          "duration": 860,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "i.footer-dvd-spark",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-caption",
+          "duration": 1860,
+          "delay": 40,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-caption «INSERT NOSTALGIA.»",
+          "firstSeenAtY": 14770
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-hit-y",
+          "duration": 820,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.footer-dvd-mark-art.is-colliding",
+          "firstSeenAtY": 15174
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "footer-dvd-caption",
+          "duration": 1860,
+          "delay": 40,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.footer-dvd-caption «BE KIND, REWIND.»",
+          "firstSeenAtY": 15174
+        }
+      ]
+    }
+  }
+}

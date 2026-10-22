@@ -1,0 +1,778 @@
+{
+  "source_url": "https://parkmanwoodworks.com",
+  "final_url": "https://www.parkmanwoodworks.com/",
+  "captured_at": "2026-09-28T10:09:22.789218+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://parkmanwoodworks.com",
+      "final_url": "https://www.parkmanwoodworks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "final_url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.parkmanwoodworks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.parkmanwoodworks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/custom-style.css?v=22539540055068435001788799613",
+      "final_url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/custom-style.css?v=22539540055068435001788799613",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e9363f77918ae17ccf0b65df080f8582084be9ce782c58c667295e8d3418a938",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn-spurit.com/shopify-apps/installment-payments/common.css",
+      "final_url": "https://cdn-spurit.com/shopify-apps/installment-payments/common.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b262a94019e0c452b817056448c0bee14b169d035b38aa2c150edf968f17869e",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 131,
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 45,
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "#000000": {
+      "count": 29,
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 93,
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "#111111": {
+      "count": 21,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#040404": {
+      "count": 5,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#ff4f33": {
+      "count": 2,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 6,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://www.parkmanwoodworks.com/"
+    ],
+    "Hannik": [
+      "https://www.parkmanwoodworks.com/"
+    ],
+    "sans-serif": [
+      "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.parkmanwoodworks.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Poppins;\n\t--typeHeaderPrimary: Hannik;\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 35px;\n    --typeHeaderWeight: 700;\n\t--typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1.2;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:\"Open Sans\";\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 17px;\n    --typeBaseWeight: 400;\n    --typeBaseLineHeight: 1.6;\n    --typeBaseSpacing: 0.025em;\n\n    --iconWeight: 3px;\n    --iconLinecaps: miter;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/",
+      "selector": ".site-header",
+      "declarations": "border-bottom: 1px solid;\n      border-bottom-color: #e8e8e1;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "@charset \"utf-8\";\n\n\n\n:root",
+      "declarations": "--colorBtnPrimary:#111111;\n  --colorBtnPrimaryDim:#040404;\n  --colorBtnPrimaryText:#ffffff;\n  --colorCartDot:#ff4f33;\n\n  --colorLink:#1c1d1d;\n\n  --colorTextBody:#1c1d1d;\n  --colorSalePrice:#1c1d1d;\n  --colorSaleTag:#1c1d1d;\n  --colorSaleTagText:#ffffff;\n\n  --colorBody:#ffffff;\n  --colorBodyDim:#f2f2f2;\n  --colorInputBg:#ffffff;\n  --colorInputBgDim:#f2f2f2;\n  --colorInputBgDark:#e6e6e6;\n  --colorInputText:#1c1d1d;\n\n  --colorFooter:#ffffff;\n  --colorFooterText:#1c1d1d;\n\n  --colorBorder:#e8e8e1;\n\n  --colorNav:#ffffff;\n  --colorNavText:#1c1d1d;\n  --colorAnnouncement:#1c1d1d;\n  --colorAnnouncementText:#ffffff;\n\n  --colorHeroText:#ffffff;\n\n  --colorModalBg:#000000;\n\n  --colorSmallImageBg:#ffffff;\n"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;\n  border:none;\n  color:#ffffff;\n  color:var(--colorBtnPrimaryText);\n  background:#111111;\n  background:var(--colorBtnPrimary);\n  border-radius:50%"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".hero .flickity-button",
+      "declarations": "color:#1c1d1d;\n    color:var(--colorTextBody);\n    background-color:#ffffff;\n    background-color:var(--colorBody);\n    box-shadow:0 5px 5px rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "body,html",
+      "declarations": "background-color:#ffffff;\n  background-color:var(--colorBody);\n  color:#1c1d1d;\n  color:var(--colorTextBody);"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "body,button,input,p,select,textarea",
+      "declarations": "font-family:var(--typeBasePrimary),var(--typeBaseFallback);\n  font-weight:var(--typeBaseWeight);\n  letter-spacing:var(--typeBaseSpacing);\n  line-height:var(--typeBaseLineHeight);\n  font-size:var(--typeBaseSize);\n  -webkit-font-smoothing:antialiased;\n  -webkit-text-size-adjust:100%;\n  text-rendering:optimizeSpeed;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);\n  font-weight:var(--typeHeaderWeight);\n  letter-spacing:var(--typeHeaderSpacing);\n  line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "button",
+      "declarations": "overflow:visible;\n  color:currentColor;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.spr-container .spr-button,.spr-container .spr-summary-actions a",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);\n  font-weight:var(--typeHeaderWeight);\n  letter-spacing:var(--typeHeaderSpacing);\n  line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.spr-container .spr-button,.spr-container .spr-summary-actions a",
+      "declarations": "display:inline-block;\n  padding:11px 20px;\n  margin:0;\n  width:auto;\n  min-width:90px;\n  line-height:1.42;\n  font-size:16px;\n  text-decoration:none;\n  text-align:center;\n  vertical-align:middle;\n  white-space:normal;\n  cursor:pointer;\n  border:1px solid transparent;\n  -webkit-user-select:none;\n          user-select:none;\n  -webkit-appearance:none;\n  -moz-appearance:none;\n  border-radius:0;\n  color:#ffffff;\n  color:var(--colorBtnPrimaryText);\n  background:#111111;\n  background:var(--colorBtnPrimary);\n  transition:padding-right 0.3s,background 0.3s,opacity 1s"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover,.spr-container .spr-button:hover,.spr-container .spr-summary",
+      "declarations": "color:#ffffff;\n    color:var(--colorBtnPrimaryText);\n    background-color:#111111;\n    background-color:var(--colorBtnPrimary);"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "ton__button--unbranded[disabled],.spr-container .spr-button.disabled,.spr-container .spr-button[disabled],.spr-container .spr-summary-actions a.disabled,.spr-co",
+      "declarations": "cursor:default;\n    color:#444;\n    background-color:#f6f6f6 !important;\n    transition:none"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": "d]:hover,.spr-container .spr-button.disabled:hover,.spr-container .spr-button[disabled]:hover,.spr-container .spr-summary-actions a.disabled:hover,.spr-containe",
+      "declarations": "color:#444;\n      background-color:#f6f6f6;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "color:#ffffff;\n  color:var(--colorBtnPrimaryText);\n  background-color:#111111;\n  background-color:var(--colorBtnPrimary);"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--tertiary,.rte .btn--tertiary",
+      "declarations": "background-color:transparent;\n  border:1px solid;\n  border-color:#e8e8e1;\n  border-color:var(--colorBorder);\n  color:#1c1d1d;\n  color:var(--colorTextBody);\n  font-weight:400;\n  font-size:12px;\n  padding:6px 10px"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--tertiary:hover,.rte .btn--tertiary:hover",
+      "declarations": "background-color:transparent;\n    color:#1c1d1d;\n    color:var(--colorTextBody);\n    border-color:#1c1d1d;\n    border-color:var(--colorTextBody);\n    transition:border 0.25s ease;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--tertiary.disabled,.btn--tertiary[disabled],.rte .btn--tertiary.disabled,.rte .btn--tertiary[disabled]",
+      "declarations": "cursor:default;\n    color:#444;\n    background-color:#f6f6f6;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--inverse",
+      "declarations": "background-color:transparent !important;\n  border:2px solid #fff;\n  color:#fff"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--inverse:active,.btn--inverse:hover",
+      "declarations": "background-color:#fff !important;\n    color:#000 !important;\n    transition:all 0.5s ease;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".hero__link .btn--inverse",
+      "declarations": "color:#ffffff;\n    color:var(--colorHeroText);\n    border-color:#ffffff;\n    border-color:var(--colorHeroText)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--body",
+      "declarations": "background-color:#ffffff;\n  background-color:var(--colorBody);\n  color:#1c1d1d;\n  color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--body:active,.btn--body:hover",
+      "declarations": "background-color:#ffffff;\n    background-color:var(--colorBody);\n    color:#1c1d1d;\n    color:var(--colorTextBody);"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading",
+      "declarations": "position:relative;\n  text-indent:-9999px;\n\n  background-color:#040404;\n\n  background-color:var(--colorBtnPrimaryDim);\n  color:#040404;\n  color:var(--colorBtnPrimaryDim)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading:active,.btn--loading:hover",
+      "declarations": "background-color:#040404;\n    background-color:var(--colorBtnPrimaryDim);\n    color:#040404;\n    color:var(--colorBtnPrimaryDim);\n    background-image:none !important;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading:after",
+      "declarations": "content:\"\";\n    display:block;\n    width:24px;\n    height:24px;\n    position:absolute;\n    left:50%;\n    top:50%;\n    margin-left:-12px;\n    margin-top:-12px;\n    border-radius:50%;\n    border:3px solid;\n    border-color:#ffffff;\n    border-color:var(--colorBtnPrimaryText);\n    border-top-color:transparent;\n    animation:spin 1s linear infinite;"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading.add-to-cart--secondary",
+      "declarations": "background-color:transparent;\n    border-color:#e8e8e1;\n    border-color:var(--colorBorder);\n    color:#1c1d1d;\n    color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading.add-to-cart--secondary:active,.btn--loading.add-to-cart--secondary:hover",
+      "declarations": "background-color:transparent;\n      color:#1c1d1d;\n      color:var(--colorTextBody);"
+    },
+    {
+      "source": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+      "selector": ".btn--loading.add-to-cart--secondary:after",
+      "declarations": "border-color:#1c1d1d;\n      border-color:var(--colorTextBody);\n      border-top-color:transparent;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Custom Handmade Wood & Steel Furniture | Parkman Woodworks",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.primary-dim": {
+      "value": "#040404",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#1c1d1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#444444",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e8e8e1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.input-bg-dark": {
+      "value": "#e6e6e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ff4f33",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.parkmanwoodworks.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Hannik, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Hannik, sans-serif",
+        "fontSize": "35px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Hannik, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0.025em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0.025em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.03em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Hannik, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "hoverBorderColor": "{colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "backgroundColorDisabled": "{colors.input-bg-dark}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderBottomColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "priceColor": "{colors.ink}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "controlBackground": "{colors.primary}",
+        "controlIconColor": "{colors.on-primary}",
+        "controlRounded": "{rounded.full}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderTopColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.none}",
+        "iconWeight": "3px",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.quote-request-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "ctaBackground": "{colors.primary}",
+        "ctaTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": ".collection-hero__content:before,\n  .hero__image-wrapper:before,\n  .hero__media:before",
+        "property": "background-image",
+        "declaration": "linear-gradient(to bottom, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.0) 40%, rgba(0, 0, 0, 0.62) 100%)",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "#ffffff": {
+        "selector": ".placeholder-content",
+        "property": "background-image",
+        "declaration": "linear-gradient(100deg, #ffffff 40%, #f7f7f7 63%, #ffffff 79%)",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "#e8e8e1": {
+        "selector": ".site-header",
+        "property": "border-bottom-color",
+        "declaration": "#e8e8e1",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "#000000": {
+        "selector": ".slideshow__slide--1653654458d4436385-1 .hero__image-wrapper:after",
+        "property": "background-color",
+        "declaration": "#000",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "#1c1d1d": {
+        "selector": ".testimonials-template--22907214790870__1653654833a206877e",
+        "property": "color",
+        "declaration": "#1c1d1d",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "#111111": {
+        "selector": ":root",
+        "property": "--colorbtnprimary",
+        "declaration": "#111111",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#040404": {
+        "selector": ":root",
+        "property": "--colorbtnprimarydim",
+        "declaration": "#040404",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#ff4f33": {
+        "selector": ":root",
+        "property": "--colorcartdot",
+        "declaration": "#ff4f33",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#f2f2f2": {
+        "selector": ":root",
+        "property": "--colorbodydim",
+        "declaration": "#f2f2f2",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#e6e6e6": {
+        "selector": ":root",
+        "property": "--colorinputbgdark",
+        "declaration": "#e6e6e6",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#444444": {
+        "selector": ".btn.disabled,.btn[disabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-payment-button__button--unbranded[disabled],.spr-container .spr-button.disabled,.spr-container .spr-button[disabled],.spr-c",
+        "property": "color",
+        "declaration": "#444",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      },
+      "#f6f6f6": {
+        "selector": ".btn.disabled,.btn[disabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-payment-button__button--unbranded[disabled],.spr-container .spr-button.disabled,.spr-container .spr-button[disabled],.spr-c",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "Hannik": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Hannik",
+        "url": "https://www.parkmanwoodworks.com/",
+        "snapshot": "homepage.html",
+        "sha256": "fd079c4730bfb5a80f1175b3f7d9c618d6718b4d892e2ec033aea8d635e03d48"
+      },
+      "sans-serif": {
+        "selector": ".announcement__text",
+        "property": "font-family",
+        "declaration": "\"Inter\", sans-serif",
+        "url": "https://www.parkmanwoodworks.com/cdn/shop/t/30/assets/theme.css?v=144722634077542129331788799914",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6472aa62ddaf6e7a079cd058ebb20c0b31a1d9b421d94d3b8ea785e906bc620e"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

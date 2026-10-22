@@ -1,0 +1,2669 @@
+{
+  "imported_at": "2026-09-23",
+  "source": "Telegram Saved Messages, owner verified",
+  "message_id": 3403289,
+  "archive": "received_files/holdi-handoff-2026-09-23/holdi-codex-handoff-2026-09-21.zip",
+  "archive_bytes": 773076371,
+  "historical_bundle": "dev/pipeline-workspace/holdi-codex-handoff-2026-09-21",
+  "scope": "Unmodified reusable instructions; historical runs stay in the imported bundle. No pipeline was executed.",
+  "files": [
+    {
+      "path": "sources/Тестирование гипотез/categories.json",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/categories.json",
+      "bytes": 1101,
+      "sha256": "cfd36c1b45d905a4226f271f857338d6b169a8d8f2e59598d15f004ccb80b245"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Universal Visual Story & Asset Production.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Universal Visual Story & Asset Production.md",
+      "bytes": 27575,
+      "sha256": "b7918d127b8837d8979f5b420dcde08ea6654c767b594f0ea345639a62cccca2"
+    },
+    {
+      "path": "sources/Тестирование гипотез/04_Субпромпт_интерфейса.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/04_Субпромпт_интерфейса.md",
+      "bytes": 2824,
+      "sha256": "92f2484c77e777b80407ec44c3a1b882892e45b55c7e475a6697ede0dfb8c8be"
+    },
+    {
+      "path": "sources/Тестирование гипотез/01_Общие_правила_метапромпта.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/01_Общие_правила_метапромпта.md",
+      "bytes": 13040,
+      "sha256": "7ac98bb2f32b0857c7eb1e418e309f2d7a15c37a2d3d309f2a1cdc0c5d89712f"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт_лендинга_без_ИИ-слопа.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт_лендинга_без_ИИ-слопа.md",
+      "bytes": 19588,
+      "sha256": "37aec36709698b5eb0ff51988ac73175056231841a208244b947b4ec1ba8a106"
+    },
+    {
+      "path": "sources/Тестирование гипотез/05_Субпромпт_иконок_и_символов.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/05_Субпромпт_иконок_и_символов.md",
+      "bytes": 2726,
+      "sha256": "5328e69fe043fd4356a51da7ee42d8032fd9856c46244ad022864cc8cdf27555"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт_для_создания_иконок_и_небольших_символов.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт_для_создания_иконок_и_небольших_символов.md",
+      "bytes": 17651,
+      "sha256": "c5e359c57ad1e43a4e70faea66874251fb90b8dbb70b0f132d3da0446484bb4a"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Universal Asset-to-Page Assembly & Integration Orchestrator.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Universal Asset-to-Page Assembly & Integration Orchestrator.md",
+      "bytes": 23384,
+      "sha256": "a28efd5ba7b3d45e6883241b22bd132eea829cd7d4dbd20976dc90b4104eb9e0"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Проверка_метапромптов.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Проверка_метапромптов.md",
+      "bytes": 41024,
+      "sha256": "fee506232ee3c78cf5d91d91b8c1507d78d6e6d91394b526b55ea02de1afe86f"
+    },
+    {
+      "path": "sources/Тестирование гипотез/03_Субпромпт_фотографии.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/03_Субпромпт_фотографии.md",
+      "bytes": 3023,
+      "sha256": "64f71e254aee351381ae8991b2740b84acac716cdd76f7a45b887f2928919a2d"
+    },
+    {
+      "path": "sources/Тестирование гипотез/build_prompt.py",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/build_prompt.py",
+      "bytes": 17045,
+      "sha256": "d90f159f5eac43b217eb5c79bf1764c8bf273e059a91016746eb686acc8d5fad"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт_для_создания_отдельной_фотографии.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт_для_создания_отдельной_фотографии.md",
+      "bytes": 17918,
+      "sha256": "0d7c75b2263330e7ff558f49c9940fabdfa12a6d337306d4dd6fb17a13dd4ad7"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт — поиск арт-дирекшна лендинга.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт — поиск арт-дирекшна лендинга.md",
+      "bytes": 22444,
+      "sha256": "e30fc0fad9914e863559fd033d45fdf1c360df4a6176d543d9fbb174f10c120b"
+    },
+    {
+      "path": "sources/Тестирование гипотез/02_Общий_промпт_раздела.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/02_Общий_промпт_раздела.md",
+      "bytes": 5681,
+      "sha256": "9dbde27f2cdb378126d51ddc4da7d8984f4bfa7b241128e9c7bbb9f07ee9eb03"
+    },
+    {
+      "path": "sources/Тестирование гипотез/standalone_template.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/standalone_template.md",
+      "bytes": 1970,
+      "sha256": "2ee5635ecee54d642a1fc281572c917ddb1cc1f34e6a7bdc36d72ceab75e797e"
+    },
+    {
+      "path": "sources/Тестирование гипотез/test_build_prompt.py",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/test_build_prompt.py",
+      "bytes": 13469,
+      "sha256": "576d45ce9eb6dd2d1d02cbb805e5caa0e260cba33a9ecb47160f4aab0ccd2066"
+    },
+    {
+      "path": "sources/Тестирование гипотез/06_Субпромпт_иллюстраций.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/06_Субпромпт_иллюстраций.md",
+      "bytes": 2799,
+      "sha256": "2fb402c8e63c5b29932c6027f220aa6ef9b8ac5bfe2436fad05d541e4ff81776"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Universal Visual Asset Production Orchestrator.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Universal Visual Asset Production Orchestrator.md",
+      "bytes": 30213,
+      "sha256": "76e26b1071dd0f5bb43a4fdbadc6e785aed9db44d3cda440b9310dbc61aee57a"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Объекты-лендинга.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Объекты-лендинга.md",
+      "bytes": 5591,
+      "sha256": "25d5a4fca44deaba2a5ddd46b7f9475859b57d27197ac34f21c72f1556771475"
+    },
+    {
+      "path": "sources/Тестирование гипотез/README_Сборка_мастерпромпта.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/README_Сборка_мастерпромпта.md",
+      "bytes": 11748,
+      "sha256": "96ce897f84de43cfa678c4eb5429dd7ca4c12c031effe1444f6715f8db30523c"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт-сопоставления-элементов-лендинга.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт-сопоставления-элементов-лендинга.md",
+      "bytes": 11268,
+      "sha256": "b328f137d1079b706757a03ae1ca1beb6589cbbaa22c039852daef203c347bf9"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт_для_создания_интерфейса_продукта.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт_для_создания_интерфейса_продукта.md",
+      "bytes": 17735,
+      "sha256": "779c5e5160793d6fd13c2ef2fc269891ec3d7537f16b61ef991508ccebe6c497"
+    },
+    {
+      "path": "sources/Тестирование гипотез/00_Как_собрать_промпт_раздела.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/00_Как_собрать_промпт_раздела.md",
+      "bytes": 3527,
+      "sha256": "72192f441307788e8f8323ae35e494bb0106aa03b2175c218a6e1b2b0c486d8d"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Universal Hi-Fi Design & Production Polish.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Universal Hi-Fi Design & Production Polish.md",
+      "bytes": 20008,
+      "sha256": "de5bc83250655475e422885410ca9ff4a5631e1b47096d9ce41f9960f9d5be9f"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Промпт_для_создания_иллюстраций.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Промпт_для_создания_иллюстраций.md",
+      "bytes": 17697,
+      "sha256": "189d79bf3cf08cb0f936a3c9458f29ecd7bb08cc5be39130331a52b8008666dc"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Мастер-промпт — премиальный прототип лендинга.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Мастер-промпт — премиальный прототип лендинга.md",
+      "bytes": 19148,
+      "sha256": "0731a472bc77ffcc3ec00cce1c45eba5dcc138fda7bb6d453ead161ff142c711"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/PIPELINE_COMPARISON.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/PIPELINE_COMPARISON.md",
+      "bytes": 3607,
+      "sha256": "7c018d543b0b526a2bed31a6a23aeb2920ca9bc7f91402bec05c975767d6abb5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/SOURCE_MANIFEST.json",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/SOURCE_MANIFEST.json",
+      "bytes": 28312,
+      "sha256": "04ae7acd142197e3e3894c9ea70e18d3d9982936057409fa7f624e291ecd02d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/BUILD_REVIEW.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/BUILD_REVIEW.md",
+      "bytes": 8391,
+      "sha256": "6b901f0b63bd408f0cbeefed628cb53b04269008249b616833f6fcefe6c8d445"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/MASTER_PROMPT.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/MASTER_PROMPT.md",
+      "bytes": 24732,
+      "sha256": "4a4dc57c6a31ec253ae163ddfb46255bfc8dc5a0a05ae0e979e0579222d24f1c"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/INTEGRATION_MAP.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/INTEGRATION_MAP.md",
+      "bytes": 10877,
+      "sha256": "a0249a27b98fa8c1f78f9d8ec2b8ff080f908a0c2da3ec197824c9c38b15ad82"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/README.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/README.md",
+      "bytes": 7395,
+      "sha256": "92e7b572567a0d1102ac8ab7fa630a34379928092eee82b2382b37ee3e32fb07"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/PROMPT_VERSIONING_RULE.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/PROMPT_VERSIONING_RULE.md",
+      "bytes": 6169,
+      "sha256": "6fa4921f198dd5aaacecb571d071180598f971c7f783670b93d0bb86b6f7a4b4"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/01_Universal_UX_Context_Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/01_Universal_UX_Context_Prompt.md",
+      "bytes": 12168,
+      "sha256": "e0a58c14ad78ad09212f434aa000f1b126982b651f205e523175a49c52dffdf6"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "bytes": 32329,
+      "sha256": "6186e089af1cf3e1adad01a0610d8931bb26c2817b835891547c0fa2fc2e3239"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/00A — Product Clarification Agent Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/00A — Product Clarification Agent Prompt.md",
+      "bytes": 8877,
+      "sha256": "79b9c132222a8aca04255ffb6fa22228899c3ec3ca33750cec8c231bed04bba9"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/04 — Universal User Flows Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/04 — Universal User Flows Prompt.md",
+      "bytes": 9574,
+      "sha256": "693e06a65fc2fe0eabba6f8612dfd79baa6e95b937e9b386e1c5f56e012bdadb"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "bytes": 7450,
+      "sha256": "f4f3b3c802bf98ac7ddf7d0d25df13edce225a5fbf7c7997b942e8531ba46089"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "bytes": 7649,
+      "sha256": "1d9c544fd55d26ad9b4172c2ba4390049e5e316eccba68d8df156e3c346a497f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/05 — Universal State Architecture Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/05 — Universal State Architecture Prompt.md",
+      "bytes": 6486,
+      "sha256": "e0db41a7a6fd4beb0573a16a0df8b3675fa24e4c0add86675518d5e152a0779b"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/08 — Universal Independent UX Usability Review.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/08 — Universal Independent UX Usability Review.md",
+      "bytes": 10021,
+      "sha256": "26732345347e0a4298f6c1c00660451305b75cd27a764665ac36e4fe35c862b0"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/02 — Universal Domain Model Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/02 — Universal Domain Model Prompt.md",
+      "bytes": 5429,
+      "sha256": "5d5ec6872496a88d8c3ad8f425586cb1dbc854a9a0e3ffa542065b3da13e10c2"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/00 — Universal Product Intake Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/00 — Universal Product Intake Prompt.md",
+      "bytes": 10738,
+      "sha256": "958c94d66b33aabd5e70790132cddeb40bbafa9250fdf9e8a593314e6b2cad24"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "bytes": 9331,
+      "sha256": "cb6f7188769180cd6a2963da9a5006efbb37aba38aaed32acdb459bebde2d88e"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/03 — Universal Information Architecture Prompt.md",
+      "group": "product-interface",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/03 — Universal Information Architecture Prompt.md",
+      "bytes": 6310,
+      "sha256": "43990784a4696bea2d4e7a9c8a80d28f05ebc61346c9c6c335206a42f15d559b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/Архив/README--2026-09-21-before-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/Архив/README--2026-09-21-before-build.md",
+      "bytes": 2698,
+      "sha256": "514ca94ed26f948f80ff3d7ef26c5177a2f07197090559ebd97f28ddfdcaed42"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/PROMPT_VERSIONING_RULE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/PROMPT_VERSIONING_RULE.md",
+      "bytes": 6169,
+      "sha256": "6fa4921f198dd5aaacecb571d071180598f971c7f783670b93d0bb86b6f7a4b4"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/01_Universal_UX_Context_Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/01_Universal_UX_Context_Prompt.md",
+      "bytes": 12168,
+      "sha256": "e0a58c14ad78ad09212f434aa000f1b126982b651f205e523175a49c52dffdf6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "bytes": 32329,
+      "sha256": "6186e089af1cf3e1adad01a0610d8931bb26c2817b835891547c0fa2fc2e3239"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/00A — Product Clarification Agent Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/00A — Product Clarification Agent Prompt.md",
+      "bytes": 8877,
+      "sha256": "79b9c132222a8aca04255ffb6fa22228899c3ec3ca33750cec8c231bed04bba9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/04 — Universal User Flows Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/04 — Universal User Flows Prompt.md",
+      "bytes": 9574,
+      "sha256": "693e06a65fc2fe0eabba6f8612dfd79baa6e95b937e9b386e1c5f56e012bdadb"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "bytes": 7450,
+      "sha256": "f4f3b3c802bf98ac7ddf7d0d25df13edce225a5fbf7c7997b942e8531ba46089"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "bytes": 7649,
+      "sha256": "1d9c544fd55d26ad9b4172c2ba4390049e5e316eccba68d8df156e3c346a497f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/05 — Universal State Architecture Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/05 — Universal State Architecture Prompt.md",
+      "bytes": 6486,
+      "sha256": "e0db41a7a6fd4beb0573a16a0df8b3675fa24e4c0add86675518d5e152a0779b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/08 — Universal Independent UX Usability Review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/08 — Universal Independent UX Usability Review.md",
+      "bytes": 10021,
+      "sha256": "26732345347e0a4298f6c1c00660451305b75cd27a764665ac36e4fe35c862b0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/02 — Universal Domain Model Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/02 — Universal Domain Model Prompt.md",
+      "bytes": 5429,
+      "sha256": "5d5ec6872496a88d8c3ad8f425586cb1dbc854a9a0e3ffa542065b3da13e10c2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/00 — Universal Product Intake Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/00 — Universal Product Intake Prompt.md",
+      "bytes": 10738,
+      "sha256": "958c94d66b33aabd5e70790132cddeb40bbafa9250fdf9e8a593314e6b2cad24"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "bytes": 9331,
+      "sha256": "cb6f7188769180cd6a2963da9a5006efbb37aba38aaed32acdb459bebde2d88e"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/03 — Universal Information Architecture Prompt.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/03 — Universal Information Architecture Prompt.md",
+      "bytes": 6310,
+      "sha256": "43990784a4696bea2d4e7a9c8a80d28f05ebc61346c9c6c335206a42f15d559b"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/README.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/README.md",
+      "bytes": 13324,
+      "sha256": "eb76693affc6c3e7ae528ac06e7edccbf798dc0860ad0c58fba1805661a790f7"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/README.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/README.md",
+      "bytes": 13324,
+      "sha256": "eb76693affc6c3e7ae528ac06e7edccbf798dc0860ad0c58fba1805661a790f7"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/PIPELINE.md",
+      "bytes": 11635,
+      "sha256": "d000b29de0540420f92fe1e5ee6a057f062d228142725c85f24991f001d19b70"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/CONTRACTS.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/CONTRACTS.md",
+      "bytes": 46456,
+      "sha256": "6a3bf79baef99f6e407cfd18e583f7a94bfb94a48fd7b40566c889bd9c045892"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/PIPELINE.md",
+      "bytes": 11731,
+      "sha256": "0bcce879a4ce823a39e94bb21c442483fbd8f8dbbb5db742e1e849cdb5f95e1c"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/CONTRACTS.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/CONTRACTS.md",
+      "bytes": 46456,
+      "sha256": "6a3bf79baef99f6e407cfd18e583f7a94bfb94a48fd7b40566c889bd9c045892"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/PIPELINE.md",
+      "bytes": 11652,
+      "sha256": "1266ce9a81f5a982cac6ac1449a2c7504408e2b74619cc898b23b3cac02aea00"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/CONTRACTS.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/CONTRACTS.md",
+      "bytes": 46456,
+      "sha256": "6a3bf79baef99f6e407cfd18e583f7a94bfb94a48fd7b40566c889bd9c045892"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/PIPELINE.md",
+      "bytes": 11703,
+      "sha256": "9fb3b210b5ad41d5cff59e2187a7e1401afcd74606bc2169ce6814402a98fc38"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/CONTRACTS.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/CONTRACTS.md",
+      "bytes": 46456,
+      "sha256": "6a3bf79baef99f6e407cfd18e583f7a94bfb94a48fd7b40566c889bd9c045892"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/PIPELINE.md",
+      "bytes": 11689,
+      "sha256": "fa079a0af83771f6dd3daa5b40ed16dbc5b40a8e333e59ec8b1bb05542025f7a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/CONTRACTS.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/CONTRACTS.md",
+      "bytes": 46456,
+      "sha256": "6a3bf79baef99f6e407cfd18e583f7a94bfb94a48fd7b40566c889bd9c045892"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 11-38 — v1.md",
+      "bytes": 11706,
+      "sha256": "1be88c4560d8e81f10a2a241f413c5c2f1bdbc06c4002909baca766192cd6439"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 17-31 — v4.md",
+      "bytes": 12880,
+      "sha256": "99b7ef9c807f7d4f96056d71f872ddcfae5c55f6d74ffe48f2d5c946f60d2ee4"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 15-11 — v2.md",
+      "bytes": 11493,
+      "sha256": "38ac383d6701699deea3e4523fa971f5864d52b704831a1103fccdd46f952f3a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/Архив/README — 2026-09-21 15-24 — v3.md",
+      "bytes": 12269,
+      "sha256": "d83eaf83335c97b5d8ba786f2b1a92b76b73fb758a35163a006162e92017a082"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "bytes": 32050,
+      "sha256": "7506634a33d00cde1d70dae3ae57363a058c45d82c913152b22ffad24557bd10"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "bytes": 33124,
+      "sha256": "ecdbaae01f092603db1a14f398b7ace5c90eee105c5d51ee022963ef51bb04a0"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "bytes": 32531,
+      "sha256": "8fb23230ad26aca8649b124cf0c0b5df44d569bf118f2923a08ff3904276fa54"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "bytes": 32398,
+      "sha256": "c90dbf6ddcfb67d95d6946e7c11466c7f040b45534ca3dfe18d360521c1ce0e1"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "bytes": 32664,
+      "sha256": "92b8fee90828dfefe9f49ef4fb04949083ec9045b862de1bce0d1a28cfa1ca1b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "bytes": 32050,
+      "sha256": "7506634a33d00cde1d70dae3ae57363a058c45d82c913152b22ffad24557bd10"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "bytes": 33124,
+      "sha256": "ecdbaae01f092603db1a14f398b7ace5c90eee105c5d51ee022963ef51bb04a0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "bytes": 32531,
+      "sha256": "8fb23230ad26aca8649b124cf0c0b5df44d569bf118f2923a08ff3904276fa54"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "bytes": 32398,
+      "sha256": "c90dbf6ddcfb67d95d6946e7c11466c7f040b45534ca3dfe18d360521c1ce0e1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "bytes": 32664,
+      "sha256": "92b8fee90828dfefe9f49ef4fb04949083ec9045b862de1bce0d1a28cfa1ca1b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/17-method-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/17-method-proof.md",
+      "bytes": 1948,
+      "sha256": "0ba7c74ee0ca5ae2e08761214e86abce8b905a4cb1eec903ea51af53dff73e4b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/14-freeze.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/14-freeze.md",
+      "bytes": 8317,
+      "sha256": "12063f0abc478516e5ccb0f4cbd279e42e112307922cf6c8ed6d2fc7e0d3797b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/15-method-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/15-method-plan.md",
+      "bytes": 1856,
+      "sha256": "eabcf8cf261d8d3bd7c1b22dc883d1e67bbfba9606a0ada329506135ed912ba3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/19-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/19-selection.md",
+      "bytes": 5423,
+      "sha256": "173f24d45c1d455c13560edad16505a7e62ef14d9ce4bd8751aacff51ff915c9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/11-data.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/11-data.md",
+      "bytes": 3107,
+      "sha256": "90738621e3f25eb986d3977260a6bde241adc3050efd56d9f666fe67db3e039d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/01-research-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/01-research-plan.md",
+      "bytes": 3495,
+      "sha256": "fabc3380ec147613e2cf6713a3676386e036dc6f1854b9b5194c030b32446c18"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/21-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/21-build.md",
+      "bytes": 3796,
+      "sha256": "f375c7be88fc1d698c641904a6db15c152b071f8d80f0936d2f56685861993ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/18-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/18-candidates.md",
+      "bytes": 4204,
+      "sha256": "3dbec7a290e4187dd5723ebd535afce32d307fb0e52435703a25722d093b1db0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/08-ia.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/08-ia.md",
+      "bytes": 1994,
+      "sha256": "08e88598a0b5f2b2199c1cfd5027f54cec5f3b297fe7ce27c4622027cee00a51"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/02-service-research.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/02-service-research.md",
+      "bytes": 4581,
+      "sha256": "37ff3ab42f7099ceb5c9d919f9e753c2b17d5bff67bb7ff7490e164b2a6f1c03"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/24-package.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/24-package.md",
+      "bytes": 4562,
+      "sha256": "5f3e66bfdc9925e7cf2a6f84b061033c8dfc189ac54c188e0c5b3f62c6d97671"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/13-ux-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/13-ux-review.md",
+      "bytes": 2024,
+      "sha256": "ca955b21924b855f0c01e4be2af37d80e33e97a9eb66b07a0e58aa2395610555"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/04-synthesis.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/04-synthesis.md",
+      "bytes": 7455,
+      "sha256": "be84179d0555f130cfdf98c82d9e4336d82e311be60f8559c6e1234f25ff4f67"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/03-research-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/03-research-review.md",
+      "bytes": 3032,
+      "sha256": "fc53fd391593549b35e2372c2cddbd3351f0ea8c8180518be1d94d8dfcbd94f2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/23-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/23-accept.md",
+      "bytes": 4281,
+      "sha256": "7e9e3820f7ab389b4c5163fc40443b7210bd95f2e0e7c897b35acc050926eeb1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/00-intent.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/00-intent.md",
+      "bytes": 3745,
+      "sha256": "e526bcf4473b7ef59452cd82b089c5dcfff16b6ca0981de66c8d8e8a8ca04c6b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/22-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/22-verify.md",
+      "bytes": 4366,
+      "sha256": "45eb2b11874b61d821b8e796f3c5ac6b328fc5a9def383ddb5db1a6b8c0ab3a6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/10-states.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/10-states.md",
+      "bytes": 2473,
+      "sha256": "4474a05641386e29c5451dda8b0d4171afaeaaaae0859b1f2b1118fbcbd2c279"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/05-product-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/05-product-context.md",
+      "bytes": 2628,
+      "sha256": "17df6fc918494636d7b222016889c623684ce22f89edcc810816109427180200"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/16-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/16-references.md",
+      "bytes": 3109,
+      "sha256": "0ab8765e0ac70c3af0cb1876b04006361e500515691001a2ab9d37ed64553624"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/06-ux-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/06-ux-context.md",
+      "bytes": 2783,
+      "sha256": "6bc335139c144bb20c87afbb4e7525c59a258b7cde44507e098e9e6f873e5e9d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/12-ux-concepts.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/12-ux-concepts.md",
+      "bytes": 4299,
+      "sha256": "5ae4374e4230f734c2659914d78124abf57095b16f202db07be65f751bcc58d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/20-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/20-system.md",
+      "bytes": 4894,
+      "sha256": "4028a0c90a3c60142c98f154a77f5407251ee9403b5b380a031a2a75b59891e5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/09-flows.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/09-flows.md",
+      "bytes": 2569,
+      "sha256": "fc4029a601a87c408d89ff34ad33107b73725e1498dbacfa0dc3c06b9d009e40"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/07-domain.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/07-domain.md",
+      "bytes": 1825,
+      "sha256": "8cde09dfd85824b7500f42441cafd62902468d9ac93a067d0a51e447dc16f88f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/17-method-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/17-method-proof.md",
+      "bytes": 2196,
+      "sha256": "ed847591169a14efdeccf26a3b91ba928b59cb45776c9254b73c5fae2adc5df9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/14-freeze.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/14-freeze.md",
+      "bytes": 8317,
+      "sha256": "12063f0abc478516e5ccb0f4cbd279e42e112307922cf6c8ed6d2fc7e0d3797b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/15-method-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/15-method-plan.md",
+      "bytes": 2745,
+      "sha256": "0665ad31bb39fe3ef3d14e7cd4708a01bbc8afcebe23c09fb3f639ffb9966c92"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/19-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/19-selection.md",
+      "bytes": 5423,
+      "sha256": "173f24d45c1d455c13560edad16505a7e62ef14d9ce4bd8751aacff51ff915c9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/11-data.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/11-data.md",
+      "bytes": 3107,
+      "sha256": "90738621e3f25eb986d3977260a6bde241adc3050efd56d9f666fe67db3e039d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/01-research-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/01-research-plan.md",
+      "bytes": 3495,
+      "sha256": "fabc3380ec147613e2cf6713a3676386e036dc6f1854b9b5194c030b32446c18"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/21-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/21-build.md",
+      "bytes": 3796,
+      "sha256": "f375c7be88fc1d698c641904a6db15c152b071f8d80f0936d2f56685861993ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/18-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/18-candidates.md",
+      "bytes": 4204,
+      "sha256": "3dbec7a290e4187dd5723ebd535afce32d307fb0e52435703a25722d093b1db0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/08-ia.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/08-ia.md",
+      "bytes": 1994,
+      "sha256": "08e88598a0b5f2b2199c1cfd5027f54cec5f3b297fe7ce27c4622027cee00a51"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/02-service-research.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/02-service-research.md",
+      "bytes": 4581,
+      "sha256": "37ff3ab42f7099ceb5c9d919f9e753c2b17d5bff67bb7ff7490e164b2a6f1c03"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/24-package.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/24-package.md",
+      "bytes": 4562,
+      "sha256": "5f3e66bfdc9925e7cf2a6f84b061033c8dfc189ac54c188e0c5b3f62c6d97671"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/13-ux-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/13-ux-review.md",
+      "bytes": 2024,
+      "sha256": "ca955b21924b855f0c01e4be2af37d80e33e97a9eb66b07a0e58aa2395610555"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/04-synthesis.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/04-synthesis.md",
+      "bytes": 7455,
+      "sha256": "be84179d0555f130cfdf98c82d9e4336d82e311be60f8559c6e1234f25ff4f67"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/03-research-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/03-research-review.md",
+      "bytes": 3032,
+      "sha256": "fc53fd391593549b35e2372c2cddbd3351f0ea8c8180518be1d94d8dfcbd94f2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/23-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/23-accept.md",
+      "bytes": 4281,
+      "sha256": "7e9e3820f7ab389b4c5163fc40443b7210bd95f2e0e7c897b35acc050926eeb1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/00-intent.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/00-intent.md",
+      "bytes": 3745,
+      "sha256": "e526bcf4473b7ef59452cd82b089c5dcfff16b6ca0981de66c8d8e8a8ca04c6b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/22-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/22-verify.md",
+      "bytes": 4366,
+      "sha256": "45eb2b11874b61d821b8e796f3c5ac6b328fc5a9def383ddb5db1a6b8c0ab3a6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/10-states.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/10-states.md",
+      "bytes": 2473,
+      "sha256": "4474a05641386e29c5451dda8b0d4171afaeaaaae0859b1f2b1118fbcbd2c279"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/05-product-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/05-product-context.md",
+      "bytes": 2628,
+      "sha256": "17df6fc918494636d7b222016889c623684ce22f89edcc810816109427180200"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/16-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/16-references.md",
+      "bytes": 3109,
+      "sha256": "0ab8765e0ac70c3af0cb1876b04006361e500515691001a2ab9d37ed64553624"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/06-ux-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/06-ux-context.md",
+      "bytes": 2783,
+      "sha256": "6bc335139c144bb20c87afbb4e7525c59a258b7cde44507e098e9e6f873e5e9d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/12-ux-concepts.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/12-ux-concepts.md",
+      "bytes": 4299,
+      "sha256": "5ae4374e4230f734c2659914d78124abf57095b16f202db07be65f751bcc58d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/20-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/20-system.md",
+      "bytes": 4894,
+      "sha256": "4028a0c90a3c60142c98f154a77f5407251ee9403b5b380a031a2a75b59891e5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/09-flows.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/09-flows.md",
+      "bytes": 2569,
+      "sha256": "fc4029a601a87c408d89ff34ad33107b73725e1498dbacfa0dc3c06b9d009e40"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/07-domain.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/07-domain.md",
+      "bytes": 1825,
+      "sha256": "8cde09dfd85824b7500f42441cafd62902468d9ac93a067d0a51e447dc16f88f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/17-method-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/17-method-proof.md",
+      "bytes": 2221,
+      "sha256": "64bc91614fcfffad10aa642c1bc09413a2899e58de9608e4844517c67450eee4"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/14-freeze.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/14-freeze.md",
+      "bytes": 8317,
+      "sha256": "12063f0abc478516e5ccb0f4cbd279e42e112307922cf6c8ed6d2fc7e0d3797b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/15-method-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/15-method-plan.md",
+      "bytes": 2341,
+      "sha256": "0b963d7d2a01a02b00aaa9045ed90d0eebec20e67ac7e890835fb72b3b522952"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/19-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/19-selection.md",
+      "bytes": 5423,
+      "sha256": "173f24d45c1d455c13560edad16505a7e62ef14d9ce4bd8751aacff51ff915c9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/11-data.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/11-data.md",
+      "bytes": 3107,
+      "sha256": "90738621e3f25eb986d3977260a6bde241adc3050efd56d9f666fe67db3e039d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/01-research-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/01-research-plan.md",
+      "bytes": 3495,
+      "sha256": "fabc3380ec147613e2cf6713a3676386e036dc6f1854b9b5194c030b32446c18"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/21-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/21-build.md",
+      "bytes": 3796,
+      "sha256": "f375c7be88fc1d698c641904a6db15c152b071f8d80f0936d2f56685861993ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/18-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/18-candidates.md",
+      "bytes": 4204,
+      "sha256": "3dbec7a290e4187dd5723ebd535afce32d307fb0e52435703a25722d093b1db0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/08-ia.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/08-ia.md",
+      "bytes": 1994,
+      "sha256": "08e88598a0b5f2b2199c1cfd5027f54cec5f3b297fe7ce27c4622027cee00a51"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/02-service-research.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/02-service-research.md",
+      "bytes": 4581,
+      "sha256": "37ff3ab42f7099ceb5c9d919f9e753c2b17d5bff67bb7ff7490e164b2a6f1c03"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/24-package.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/24-package.md",
+      "bytes": 4562,
+      "sha256": "5f3e66bfdc9925e7cf2a6f84b061033c8dfc189ac54c188e0c5b3f62c6d97671"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/13-ux-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/13-ux-review.md",
+      "bytes": 2024,
+      "sha256": "ca955b21924b855f0c01e4be2af37d80e33e97a9eb66b07a0e58aa2395610555"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/04-synthesis.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/04-synthesis.md",
+      "bytes": 7455,
+      "sha256": "be84179d0555f130cfdf98c82d9e4336d82e311be60f8559c6e1234f25ff4f67"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/03-research-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/03-research-review.md",
+      "bytes": 3032,
+      "sha256": "fc53fd391593549b35e2372c2cddbd3351f0ea8c8180518be1d94d8dfcbd94f2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/23-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/23-accept.md",
+      "bytes": 4281,
+      "sha256": "7e9e3820f7ab389b4c5163fc40443b7210bd95f2e0e7c897b35acc050926eeb1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/00-intent.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/00-intent.md",
+      "bytes": 3745,
+      "sha256": "e526bcf4473b7ef59452cd82b089c5dcfff16b6ca0981de66c8d8e8a8ca04c6b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/22-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/22-verify.md",
+      "bytes": 4366,
+      "sha256": "45eb2b11874b61d821b8e796f3c5ac6b328fc5a9def383ddb5db1a6b8c0ab3a6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/10-states.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/10-states.md",
+      "bytes": 2473,
+      "sha256": "4474a05641386e29c5451dda8b0d4171afaeaaaae0859b1f2b1118fbcbd2c279"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/05-product-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/05-product-context.md",
+      "bytes": 2628,
+      "sha256": "17df6fc918494636d7b222016889c623684ce22f89edcc810816109427180200"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/16-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/16-references.md",
+      "bytes": 3109,
+      "sha256": "0ab8765e0ac70c3af0cb1876b04006361e500515691001a2ab9d37ed64553624"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/06-ux-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/06-ux-context.md",
+      "bytes": 2783,
+      "sha256": "6bc335139c144bb20c87afbb4e7525c59a258b7cde44507e098e9e6f873e5e9d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/12-ux-concepts.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/12-ux-concepts.md",
+      "bytes": 4299,
+      "sha256": "5ae4374e4230f734c2659914d78124abf57095b16f202db07be65f751bcc58d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/20-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/20-system.md",
+      "bytes": 4894,
+      "sha256": "4028a0c90a3c60142c98f154a77f5407251ee9403b5b380a031a2a75b59891e5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/09-flows.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/09-flows.md",
+      "bytes": 2569,
+      "sha256": "fc4029a601a87c408d89ff34ad33107b73725e1498dbacfa0dc3c06b9d009e40"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/07-domain.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/07-domain.md",
+      "bytes": 1825,
+      "sha256": "8cde09dfd85824b7500f42441cafd62902468d9ac93a067d0a51e447dc16f88f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/17-method-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/17-method-proof.md",
+      "bytes": 2607,
+      "sha256": "73aed4a4aa2b0b25f508f7dd01a3e2411ee26805fa1c2e00b14f47fb0a1854e3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/14-freeze.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/14-freeze.md",
+      "bytes": 8317,
+      "sha256": "12063f0abc478516e5ccb0f4cbd279e42e112307922cf6c8ed6d2fc7e0d3797b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/15-method-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/15-method-plan.md",
+      "bytes": 2147,
+      "sha256": "c23a11cce1b3f8a11bef52a69e139e3cf8c925080f04be51fd8c272329ae0e9f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/19-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/19-selection.md",
+      "bytes": 5423,
+      "sha256": "173f24d45c1d455c13560edad16505a7e62ef14d9ce4bd8751aacff51ff915c9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/11-data.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/11-data.md",
+      "bytes": 3107,
+      "sha256": "90738621e3f25eb986d3977260a6bde241adc3050efd56d9f666fe67db3e039d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/01-research-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/01-research-plan.md",
+      "bytes": 3495,
+      "sha256": "fabc3380ec147613e2cf6713a3676386e036dc6f1854b9b5194c030b32446c18"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/21-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/21-build.md",
+      "bytes": 3796,
+      "sha256": "f375c7be88fc1d698c641904a6db15c152b071f8d80f0936d2f56685861993ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/18-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/18-candidates.md",
+      "bytes": 4204,
+      "sha256": "3dbec7a290e4187dd5723ebd535afce32d307fb0e52435703a25722d093b1db0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/08-ia.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/08-ia.md",
+      "bytes": 1994,
+      "sha256": "08e88598a0b5f2b2199c1cfd5027f54cec5f3b297fe7ce27c4622027cee00a51"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/02-service-research.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/02-service-research.md",
+      "bytes": 4581,
+      "sha256": "37ff3ab42f7099ceb5c9d919f9e753c2b17d5bff67bb7ff7490e164b2a6f1c03"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/24-package.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/24-package.md",
+      "bytes": 4562,
+      "sha256": "5f3e66bfdc9925e7cf2a6f84b061033c8dfc189ac54c188e0c5b3f62c6d97671"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/13-ux-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/13-ux-review.md",
+      "bytes": 2024,
+      "sha256": "ca955b21924b855f0c01e4be2af37d80e33e97a9eb66b07a0e58aa2395610555"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/04-synthesis.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/04-synthesis.md",
+      "bytes": 7455,
+      "sha256": "be84179d0555f130cfdf98c82d9e4336d82e311be60f8559c6e1234f25ff4f67"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/03-research-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/03-research-review.md",
+      "bytes": 3032,
+      "sha256": "fc53fd391593549b35e2372c2cddbd3351f0ea8c8180518be1d94d8dfcbd94f2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/23-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/23-accept.md",
+      "bytes": 4281,
+      "sha256": "7e9e3820f7ab389b4c5163fc40443b7210bd95f2e0e7c897b35acc050926eeb1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/00-intent.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/00-intent.md",
+      "bytes": 3745,
+      "sha256": "e526bcf4473b7ef59452cd82b089c5dcfff16b6ca0981de66c8d8e8a8ca04c6b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/22-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/22-verify.md",
+      "bytes": 4366,
+      "sha256": "45eb2b11874b61d821b8e796f3c5ac6b328fc5a9def383ddb5db1a6b8c0ab3a6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/10-states.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/10-states.md",
+      "bytes": 2473,
+      "sha256": "4474a05641386e29c5451dda8b0d4171afaeaaaae0859b1f2b1118fbcbd2c279"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/05-product-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/05-product-context.md",
+      "bytes": 2628,
+      "sha256": "17df6fc918494636d7b222016889c623684ce22f89edcc810816109427180200"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/16-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/16-references.md",
+      "bytes": 3109,
+      "sha256": "0ab8765e0ac70c3af0cb1876b04006361e500515691001a2ab9d37ed64553624"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/06-ux-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/06-ux-context.md",
+      "bytes": 2783,
+      "sha256": "6bc335139c144bb20c87afbb4e7525c59a258b7cde44507e098e9e6f873e5e9d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/12-ux-concepts.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/12-ux-concepts.md",
+      "bytes": 4299,
+      "sha256": "5ae4374e4230f734c2659914d78124abf57095b16f202db07be65f751bcc58d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/20-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/20-system.md",
+      "bytes": 4894,
+      "sha256": "4028a0c90a3c60142c98f154a77f5407251ee9403b5b380a031a2a75b59891e5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/09-flows.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/09-flows.md",
+      "bytes": 2569,
+      "sha256": "fc4029a601a87c408d89ff34ad33107b73725e1498dbacfa0dc3c06b9d009e40"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/07-domain.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/07-domain.md",
+      "bytes": 1825,
+      "sha256": "8cde09dfd85824b7500f42441cafd62902468d9ac93a067d0a51e447dc16f88f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/17-method-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/17-method-proof.md",
+      "bytes": 1837,
+      "sha256": "bb32fbd6f9a43204dec4b084ceaf1e6020d36283bc40235b6b25e601222af09b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/14-freeze.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/14-freeze.md",
+      "bytes": 8317,
+      "sha256": "12063f0abc478516e5ccb0f4cbd279e42e112307922cf6c8ed6d2fc7e0d3797b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/15-method-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/15-method-plan.md",
+      "bytes": 1522,
+      "sha256": "d3db3048f06d81b9830c1fabb6a32cffe7bc199f3b421a7ea39fca60ea615487"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/19-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/19-selection.md",
+      "bytes": 5423,
+      "sha256": "173f24d45c1d455c13560edad16505a7e62ef14d9ce4bd8751aacff51ff915c9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/11-data.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/11-data.md",
+      "bytes": 3107,
+      "sha256": "90738621e3f25eb986d3977260a6bde241adc3050efd56d9f666fe67db3e039d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/01-research-plan.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/01-research-plan.md",
+      "bytes": 3495,
+      "sha256": "fabc3380ec147613e2cf6713a3676386e036dc6f1854b9b5194c030b32446c18"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/21-build.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/21-build.md",
+      "bytes": 3796,
+      "sha256": "f375c7be88fc1d698c641904a6db15c152b071f8d80f0936d2f56685861993ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/18-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/18-candidates.md",
+      "bytes": 4204,
+      "sha256": "3dbec7a290e4187dd5723ebd535afce32d307fb0e52435703a25722d093b1db0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/08-ia.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/08-ia.md",
+      "bytes": 1994,
+      "sha256": "08e88598a0b5f2b2199c1cfd5027f54cec5f3b297fe7ce27c4622027cee00a51"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/02-service-research.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/02-service-research.md",
+      "bytes": 4581,
+      "sha256": "37ff3ab42f7099ceb5c9d919f9e753c2b17d5bff67bb7ff7490e164b2a6f1c03"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/24-package.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/24-package.md",
+      "bytes": 4562,
+      "sha256": "5f3e66bfdc9925e7cf2a6f84b061033c8dfc189ac54c188e0c5b3f62c6d97671"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/13-ux-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/13-ux-review.md",
+      "bytes": 2024,
+      "sha256": "ca955b21924b855f0c01e4be2af37d80e33e97a9eb66b07a0e58aa2395610555"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/04-synthesis.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/04-synthesis.md",
+      "bytes": 7455,
+      "sha256": "be84179d0555f130cfdf98c82d9e4336d82e311be60f8559c6e1234f25ff4f67"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/03-research-review.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/03-research-review.md",
+      "bytes": 3032,
+      "sha256": "fc53fd391593549b35e2372c2cddbd3351f0ea8c8180518be1d94d8dfcbd94f2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/23-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/23-accept.md",
+      "bytes": 4281,
+      "sha256": "7e9e3820f7ab389b4c5163fc40443b7210bd95f2e0e7c897b35acc050926eeb1"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/00-intent.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/00-intent.md",
+      "bytes": 3745,
+      "sha256": "e526bcf4473b7ef59452cd82b089c5dcfff16b6ca0981de66c8d8e8a8ca04c6b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/22-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/22-verify.md",
+      "bytes": 4366,
+      "sha256": "45eb2b11874b61d821b8e796f3c5ac6b328fc5a9def383ddb5db1a6b8c0ab3a6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/10-states.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/10-states.md",
+      "bytes": 2473,
+      "sha256": "4474a05641386e29c5451dda8b0d4171afaeaaaae0859b1f2b1118fbcbd2c279"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/05-product-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/05-product-context.md",
+      "bytes": 2628,
+      "sha256": "17df6fc918494636d7b222016889c623684ce22f89edcc810816109427180200"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/16-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/16-references.md",
+      "bytes": 3109,
+      "sha256": "0ab8765e0ac70c3af0cb1876b04006361e500515691001a2ab9d37ed64553624"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/06-ux-context.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/06-ux-context.md",
+      "bytes": 2783,
+      "sha256": "6bc335139c144bb20c87afbb4e7525c59a258b7cde44507e098e9e6f873e5e9d"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/12-ux-concepts.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/12-ux-concepts.md",
+      "bytes": 4299,
+      "sha256": "5ae4374e4230f734c2659914d78124abf57095b16f202db07be65f751bcc58d9"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/20-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/20-system.md",
+      "bytes": 4894,
+      "sha256": "4028a0c90a3c60142c98f154a77f5407251ee9403b5b380a031a2a75b59891e5"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/09-flows.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/09-flows.md",
+      "bytes": 2569,
+      "sha256": "fc4029a601a87c408d89ff34ad33107b73725e1498dbacfa0dc3c06b9d009e40"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/07-domain.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/07-domain.md",
+      "bytes": 1825,
+      "sha256": "8cde09dfd85824b7500f42441cafd62902468d9ac93a067d0a51e447dc16f88f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "bytes": 20875,
+      "sha256": "83631114efa56f5e0c5e37bbf0b66a46577892f20ea5c8e682b049152f0ebf97"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "bytes": 1549,
+      "sha256": "f75febe51e8a46263a2125e090a934bd5191d37e5c1021ef6f51c92b3bf20902"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/04-visual-system — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/04-visual-system — 2026-09-21 17-31 — v3.md",
+      "bytes": 1599,
+      "sha256": "8e19e11fa3575b1382d0a0b1c206ad46de5c23740da7eed99814cf9fcd80beb5"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "bytes": 26561,
+      "sha256": "afa15513bc5c1e5e4fd62b00494dea6ae7adfe412deec63cbc29270be2c89482"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "bytes": 23849,
+      "sha256": "eb100b36744368acda20ff8c668653889963353d590127b9ffb47e72bc94edcb"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/02-references — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/02-references — 2026-09-21 17-31 — v4.md",
+      "bytes": 2364,
+      "sha256": "cce77c56f386187ed9a5430a0c74c9a229375451db46f685ea7c524af91081bd"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "bytes": 1846,
+      "sha256": "90bec4b915f29ba4cfe515468f3ace7299618e244e52b2dd9f23b0e3e5e09b61"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "bytes": 1700,
+      "sha256": "1af3f6b6ee0a85f3e9d2890f83b872dfb301a0e082ae148d3ad41aef324ed361"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "bytes": 20773,
+      "sha256": "a151486a49b867bb44c6820f1df4040593d34a7c704df5c213132ff4340f7aad"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/04-visual-system — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/04-visual-system — 2026-09-21 15-11 — v2.md",
+      "bytes": 1474,
+      "sha256": "bdc8f0a52b8e0e9462c57cc20e56a3247e4a5153de56b6d20a48f14632baa939"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/02-references — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/02-references — 2026-09-21 15-24 — v3.md",
+      "bytes": 1817,
+      "sha256": "cd23836fe9fa20dc621378275945f9571b4bdc2e340f9e148c6e3b44645c7d0a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "bytes": 1941,
+      "sha256": "c808a016a206d9e5276d7dfcdb6fb58284fec2d88ec82b87545a40b9417e1d05"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "bytes": 1397,
+      "sha256": "b0a2b899dd5b4f1412565a2eb743795dd25f7bf0145e24fed1263d91990ca257"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "bytes": 1803,
+      "sha256": "84a183c27916d39a87aab990db666d39456b432cf307eca7b19214f086db8bed"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "bytes": 1273,
+      "sha256": "b943703cc439f59754c7e3f2ad4fe7e8e66a6fc07fbcbbca4ca751d9c89ad93b"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "bytes": 1369,
+      "sha256": "31b1a28765fc89d772715485ce5a65f84e7ebc010b602ace9c185cb2c7f8db21"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "bytes": 2528,
+      "sha256": "909f3dde3d4ddd4987f4988f37235628dea43cd786a1f5a7be4184eb398f5bf6"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "bytes": 21952,
+      "sha256": "77675670d2d8941dfc99310d8714cc5fd6ef0b0b92a8ab22e4e67792ea3a7f1f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 15-11 — v2.md",
+      "bytes": 1426,
+      "sha256": "fb87a63c24cadfcb799c0b0d0a05db6d3263ed99b3f56676297f23c865fab17d"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 17-31 — v4.md",
+      "bytes": 1692,
+      "sha256": "2af0237f7836ff1ebd1e5e8d4ce084092c968a21dfe0344166371192467f8213"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 17-31 — v4.md",
+      "bytes": 1640,
+      "sha256": "e702efe09334d36ea712c39337c46795256b0630e99230f5114bc47f58408edc"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 15-11 — v2.md",
+      "bytes": 1375,
+      "sha256": "6f352aa4b95024cd2967d6e1df6b9edffa2a9c081e7fd621891439c927feb880"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 11-38 — v1.md",
+      "bytes": 1555,
+      "sha256": "7f25172381120793db1751f4a2941952b8bc4e7d4180ff9f591dbcfc8c390ead"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 17-31 — v3.md",
+      "bytes": 1750,
+      "sha256": "bcafe663cc728819f13f0910355fc8308fae0cd4bbe9a6a0aa35aea0817de2b8"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "bytes": 27635,
+      "sha256": "c549f06f224adcb237acfa875b8001b813240a37780e905bd352079308d487db"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/07-verify — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/07-verify — 2026-09-21 11-38 — v1.md",
+      "bytes": 1549,
+      "sha256": "88dc4c453b515f49ce7e10564bdfa4bb5f086d1984307298289ab542de6863ee"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/03-candidates — 2026-09-21 15-24 — v3.md",
+      "bytes": 1487,
+      "sha256": "e62fa6744058a467e2271519bb9fcf47ae3616526cbdbd3da1184982438aab08"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 15-24 — v3.md",
+      "bytes": 1444,
+      "sha256": "b6fac881d4a14d3007497a7934eb484dcbe1177070c2b9ceec2c864bf23ee7f1"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 15-11 — v2.md",
+      "bytes": 1523,
+      "sha256": "b61d5883f9069e77e729a27e1c1e81b4685f82413178237d2ccbe790cd4d2f7d"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "bytes": 24923,
+      "sha256": "e106ace5ad93a0a785e44346cfeed7717ee603f9a17eb2d4cad1b8820df206ea"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 11-38 — v1.md",
+      "bytes": 1519,
+      "sha256": "f7f9d4c982d08475999944fcb6e5ca6ba1e18a52d4b8e5b7f560cf8cffde6e95"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "bytes": 2364,
+      "sha256": "0aaaf71c79e4703bc8fcc7fda5796fecbcff6115d49f62134de92a9db5080811"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/05-develop-winner — 2026-09-21 17-31 — v3.md",
+      "bytes": 1612,
+      "sha256": "c3a3e7eb8a75d5732759e1cfaa417e75337f0a365e22b9e504ee7a81c3eb9a07"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/08-accept — 2026-09-21 17-31 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/08-accept — 2026-09-21 17-31 — v2.md",
+      "bytes": 1941,
+      "sha256": "989a0a34ac131cdc9e30847b9433bd38ec0f53b1b8a0fa2d9db8a313dff9090f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/02-hypotheses — 2026-09-21 11-38 — v1.md",
+      "bytes": 1396,
+      "sha256": "7e64afa49d2360f891d6aaf118a96ef0c6649f5b57c5cc7ae0021a041493ccb7"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "bytes": 1700,
+      "sha256": "1af3f6b6ee0a85f3e9d2890f83b872dfb301a0e082ae148d3ad41aef324ed361"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "bytes": 21786,
+      "sha256": "986956ebbb130ed7b0990858c49e93e75ca8792b7995eb10782b2d1483cf52a8"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "bytes": 1817,
+      "sha256": "44c59125ba3171802251075ebb87ee9602dfaa3cf96b0a98557ba914c8999052"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/08-accept — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/08-accept — 2026-09-21 11-38 — v1.md",
+      "bytes": 1846,
+      "sha256": "ee8f301f6e6ad5842f3ffc910e33223e260f3d73318a37378bc0558c76411e95"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/Архив/04-blind-selection — 2026-09-21 15-11 — v2.md",
+      "bytes": 1655,
+      "sha256": "09ac5c845fc03a98ca37a0cbcc66657577d7e59aab254007cca05bff28b85d3a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "bytes": 1621,
+      "sha256": "744bbcfe5562caa5026425c0ffaef2e28aee73547055f39ba803dbbd645331f4"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "bytes": 1897,
+      "sha256": "e11bce7d85a14e8cbf9d87840a94bf33c7a468b64963df7dac06a17a13b7dfea"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "bytes": 1871,
+      "sha256": "67a2bbb25c74a2872c941c915a1db4c49dc79e55f7aac0d7d681b017748582ee"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "bytes": 1252,
+      "sha256": "3edf999b8b25b1443313ffb81205f0a5413a8a8a8690b686cc8f65acbd7b6945"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "bytes": 1645,
+      "sha256": "2f3a7eec5b9960610437e30d3e08babb2276c200ba0fc69ee5686532ca485537"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "bytes": 2209,
+      "sha256": "c79d5df101e059afb6531f8a7d775d336e0ee54f8463fc296fd08cc8888d516b"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "bytes": 1936,
+      "sha256": "cb93f4d7b02fa1ca23209b20363e1c5af968b573eb924e5c48e10edf22c7f6fd"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "bytes": 21397,
+      "sha256": "5bdba6da4fe58aca9b5304ac5abd49c872a03f57c4b8ea0db9ec90e9dbff5d09"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/02-composition — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/02-composition — 2026-09-21 17-31 — v3.md",
+      "bytes": 1236,
+      "sha256": "57354519936b6fd2a31906f39b68572b60a1c7a0f6b02901c6f848cd255cd09a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/04-system — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/04-system — 2026-09-21 15-11 — v2.md",
+      "bytes": 1401,
+      "sha256": "4e90685f252341a456d49021f147000923a9be03a6f15a90d6efa665f4f7062f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "bytes": 1549,
+      "sha256": "f75febe51e8a46263a2125e090a934bd5191d37e5c1021ef6f51c92b3bf20902"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "bytes": 27042,
+      "sha256": "b578af577715bf846e62d2e8485f97c3bed050a4cade45d08d786f77263af7a2"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/03-task-fit — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/03-task-fit — 2026-09-21 17-31 — v3.md",
+      "bytes": 1509,
+      "sha256": "d115af68e1cc4281fb8841d7692b0ab422e66842a12fc83470c4508e1f122075"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "bytes": 24330,
+      "sha256": "7b09319c987a406b563e37e3e6bef12c38305e78cdeba2902fa5e3dc5261b5d1"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/03-task-fit — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/03-task-fit — 2026-09-21 15-11 — v2.md",
+      "bytes": 1360,
+      "sha256": "08f288d4ff66cc5275ab281dad7a11d041ebda2e40bd834d13ffe539a21c29d7"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "bytes": 2364,
+      "sha256": "0aaaf71c79e4703bc8fcc7fda5796fecbcff6115d49f62134de92a9db5080811"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/02-composition — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/02-composition — 2026-09-21 15-11 — v2.md",
+      "bytes": 1381,
+      "sha256": "0cb853118ca5b0ed07db0a0325033f2fee98cc0ebe718def58bfa21886c8e928"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "bytes": 1846,
+      "sha256": "90bec4b915f29ba4cfe515468f3ace7299618e244e52b2dd9f23b0e3e5e09b61"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "bytes": 1700,
+      "sha256": "1af3f6b6ee0a85f3e9d2890f83b872dfb301a0e082ae148d3ad41aef324ed361"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "bytes": 21295,
+      "sha256": "3f6d10b493c96cea4b3ee5969608e60ec5ba81ec4a2adb923cc21ea2752b3e1a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/04-system — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/04-system — 2026-09-21 17-31 — v3.md",
+      "bytes": 1455,
+      "sha256": "7d14db3d7d9e8e019f79b6a4afdc2f0516d0f223daf42a53a4c65f423ee54e6c"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "bytes": 1941,
+      "sha256": "c808a016a206d9e5276d7dfcdb6fb58284fec2d88ec82b87545a40b9417e1d05"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "bytes": 1817,
+      "sha256": "44c59125ba3171802251075ebb87ee9602dfaa3cf96b0a98557ba914c8999052"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "bytes": 1482,
+      "sha256": "52371ee229fc78ecca3a251c53183c7e97fc761cbbbbe3c67d3640a5cd517e32"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "bytes": 1635,
+      "sha256": "618e38aff5bbc298b52f3b6c1a89c8e83cbac67861670a13722207abe9892f3f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "bytes": 1274,
+      "sha256": "ef3ab51850a6f7e8f9955daab760e3ad5ab6f4c45abb93918b40806e303970b3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "bytes": 1414,
+      "sha256": "67171e38fd0617457bbaf25e2bf4bef07ff2b18d88050f58da991c004435668c"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "bytes": 21221,
+      "sha256": "9d2574392cd6058e83378a347683c28178e7c75e4ea3deeecd72b0548b1cb4db"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "bytes": 1549,
+      "sha256": "f75febe51e8a46263a2125e090a934bd5191d37e5c1021ef6f51c92b3bf20902"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "bytes": 26909,
+      "sha256": "1dfe9419040d015f4facec9deb580b3bff306673759cf973958e3c69449b8615"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/03-complete-route — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/03-complete-route — 2026-09-21 17-31 — v3.md",
+      "bytes": 1747,
+      "sha256": "8be5818664d75bbeb19546f0b65641ec104cb88cf4f2c85566e77d281ecf83d3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "bytes": 24197,
+      "sha256": "06eb0c92402c8a42c94d71e0d0637e32f5b301bd189f4e638f1161badb558b57"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/04-transfer — 2026-09-21 17-31 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/04-transfer — 2026-09-21 17-31 — v1.md",
+      "bytes": 1480,
+      "sha256": "a5dffbd941b179b28ee0214bd2ad24c13cc61e6b5b962a8a868e05b374eff106"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/03-complete-route — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/03-complete-route — 2026-09-21 15-11 — v2.md",
+      "bytes": 1398,
+      "sha256": "7cedf859092d073989cf8b756137cf74020baacbcf4cf52d232aa9a609d4227f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "bytes": 2364,
+      "sha256": "0aaaf71c79e4703bc8fcc7fda5796fecbcff6115d49f62134de92a9db5080811"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "bytes": 1846,
+      "sha256": "90bec4b915f29ba4cfe515468f3ace7299618e244e52b2dd9f23b0e3e5e09b61"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "bytes": 1700,
+      "sha256": "1af3f6b6ee0a85f3e9d2890f83b872dfb301a0e082ae148d3ad41aef324ed361"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "bytes": 21119,
+      "sha256": "f9c2e53c00cdaf63e5e8858c00837ea312934c30b59141fc66bc085212370201"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "bytes": 1941,
+      "sha256": "c808a016a206d9e5276d7dfcdb6fb58284fec2d88ec82b87545a40b9417e1d05"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "bytes": 1817,
+      "sha256": "44c59125ba3171802251075ebb87ee9602dfaa3cf96b0a98557ba914c8999052"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "bytes": 1853,
+      "sha256": "42e90e5bbd88fd7e614f000a29e365b1c09b3dae2b95600f0efa2ec5a5d394a2"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "bytes": 1530,
+      "sha256": "455da93e62b09a150a6862c108262997c11efe267284f6ff6c316634b6609830"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "bytes": 1397,
+      "sha256": "765e7af62f8f13f9ff7a091d91e894064b8f0378befaf5d0208d27905308acc0"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "bytes": 1471,
+      "sha256": "36297ab03b1ad960d927ff3e66d06cee2f609af9d629dc7960c1a53f3cc78beb"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 15-11 — v2.md",
+      "bytes": 21545,
+      "sha256": "7ab0e1fc2943353600d4f746fe1b4041c04a42b0d3bf0f2c31dd2413f69edff1"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/06-verify — 2026-09-21 11-38 — v1.md",
+      "bytes": 1549,
+      "sha256": "f75febe51e8a46263a2125e090a934bd5191d37e5c1021ef6f51c92b3bf20902"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 17-31 — v4.md",
+      "bytes": 27175,
+      "sha256": "2793616d0dbee3740fc5b783cc2759ae560f6ea6b4869313ad30a5c32dc7602c"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/04-screen-proof — 2026-09-21 15-11 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/04-screen-proof — 2026-09-21 15-11 — v2.md",
+      "bytes": 1459,
+      "sha256": "c854fc4f9b7fbe40d33f32571bb22ed401a847214348d0e62be63fda0d513f9d"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/02-foundation — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/02-foundation — 2026-09-21 11-38 — v1.md",
+      "bytes": 1502,
+      "sha256": "a8783c7d04479a75caa7385db5920c97190c9e68c7af04e5768db97d683687de"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 15-24 — v3.md",
+      "bytes": 24463,
+      "sha256": "992b1a87b96820c4da1d68eafbab9b0d3da20e38e986a1a651b0d61e99eb49e7"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/04-screen-proof — 2026-09-21 17-31 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/04-screen-proof — 2026-09-21 17-31 — v3.md",
+      "bytes": 1767,
+      "sha256": "30a0942e07b41107efd9b581d0e416303d53d3f9b8676186ad7a00caf3676717"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/01-references — 2026-09-21 17-31 — v4.md",
+      "bytes": 2364,
+      "sha256": "0aaaf71c79e4703bc8fcc7fda5796fecbcff6115d49f62134de92a9db5080811"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/07-accept — 2026-09-21 11-38 — v1.md",
+      "bytes": 1846,
+      "sha256": "90bec4b915f29ba4cfe515468f3ace7299618e244e52b2dd9f23b0e3e5e09b61"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/00-intake — 2026-09-21 11-38 — v1.md",
+      "bytes": 1700,
+      "sha256": "1af3f6b6ee0a85f3e9d2890f83b872dfb301a0e082ae148d3ad41aef324ed361"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/PIPELINE — 2026-09-21 11-38 — v1.md",
+      "bytes": 21443,
+      "sha256": "0b32ecd7cf5dbb245ae54fe691a010134ce5e6723e54cd8e033379aaae11d74c"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/07-accept — 2026-09-21 17-31 — v2.md",
+      "bytes": 1941,
+      "sha256": "c808a016a206d9e5276d7dfcdb6fb58284fec2d88ec82b87545a40b9417e1d05"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/03-components — 2026-09-21 17-31 — v1.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/03-components — 2026-09-21 17-31 — v1.md",
+      "bytes": 1426,
+      "sha256": "2df7b9cc23dd9035aa743f97f97ce24c341d192a439ff0c3058204be7ceb1ff2"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/Архив/01-references — 2026-09-21 15-24 — v3.md",
+      "bytes": 1817,
+      "sha256": "44c59125ba3171802251075ebb87ee9602dfaa3cf96b0a98557ba914c8999052"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "bytes": 1375,
+      "sha256": "704e053f2b528be378feb281a8ae120116898e3ad82ed60f7bc462bdfda0247f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "bytes": 1902,
+      "sha256": "10c2b4b1c26a418efc63c4f6d30be89ff298803a8b67c620c3dab2f9ad5c4d62"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "bytes": 1555,
+      "sha256": "abe7676e85b82d0dae27e9ff8100552e74fdf0de5b3fcd20af7eb9988f4abc8a"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "bytes": 1724,
+      "sha256": "09908bd1c0cc663267ce9055109e8e78fed454ce90c34232dc7bef6becb4a01f"
+    },
+    {
+      "path": "sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "group": "ux-ui-pipelines",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "bytes": 1397,
+      "sha256": "b0a2b899dd5b4f1412565a2eb743795dd25f7bf0145e24fed1263d91990ca257"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "bytes": 1803,
+      "sha256": "84a183c27916d39a87aab990db666d39456b432cf307eca7b19214f086db8bed"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "bytes": 1273,
+      "sha256": "b943703cc439f59754c7e3f2ad4fe7e8e66a6fc07fbcbbca4ca751d9c89ad93b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "bytes": 1369,
+      "sha256": "31b1a28765fc89d772715485ce5a65f84e7ebc010b602ace9c185cb2c7f8db21"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "bytes": 2528,
+      "sha256": "909f3dde3d4ddd4987f4988f37235628dea43cd786a1f5a7be4184eb398f5bf6"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "bytes": 1621,
+      "sha256": "744bbcfe5562caa5026425c0ffaef2e28aee73547055f39ba803dbbd645331f4"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "bytes": 1897,
+      "sha256": "e11bce7d85a14e8cbf9d87840a94bf33c7a468b64963df7dac06a17a13b7dfea"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "bytes": 1871,
+      "sha256": "67a2bbb25c74a2872c941c915a1db4c49dc79e55f7aac0d7d681b017748582ee"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "bytes": 1252,
+      "sha256": "3edf999b8b25b1443313ffb81205f0a5413a8a8a8690b686cc8f65acbd7b6945"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "bytes": 1645,
+      "sha256": "2f3a7eec5b9960610437e30d3e08babb2276c200ba0fc69ee5686532ca485537"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "bytes": 2209,
+      "sha256": "c79d5df101e059afb6531f8a7d775d336e0ee54f8463fc296fd08cc8888d516b"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "bytes": 1936,
+      "sha256": "cb93f4d7b02fa1ca23209b20363e1c5af968b573eb924e5c48e10edf22c7f6fd"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "bytes": 1482,
+      "sha256": "52371ee229fc78ecca3a251c53183c7e97fc761cbbbbe3c67d3640a5cd517e32"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "bytes": 1635,
+      "sha256": "618e38aff5bbc298b52f3b6c1a89c8e83cbac67861670a13722207abe9892f3f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "bytes": 1274,
+      "sha256": "ef3ab51850a6f7e8f9955daab760e3ad5ab6f4c45abb93918b40806e303970b3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "bytes": 1414,
+      "sha256": "67171e38fd0617457bbaf25e2bf4bef07ff2b18d88050f58da991c004435668c"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "bytes": 1853,
+      "sha256": "42e90e5bbd88fd7e614f000a29e365b1c09b3dae2b95600f0efa2ec5a5d394a2"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "bytes": 1530,
+      "sha256": "455da93e62b09a150a6862c108262997c11efe267284f6ff6c316634b6609830"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "bytes": 1397,
+      "sha256": "765e7af62f8f13f9ff7a091d91e894064b8f0378befaf5d0208d27905308acc0"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "bytes": 1471,
+      "sha256": "36297ab03b1ad960d927ff3e66d06cee2f609af9d629dc7960c1a53f3cc78beb"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "bytes": 1375,
+      "sha256": "704e053f2b528be378feb281a8ae120116898e3ad82ed60f7bc462bdfda0247f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "bytes": 1902,
+      "sha256": "10c2b4b1c26a418efc63c4f6d30be89ff298803a8b67c620c3dab2f9ad5c4d62"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "bytes": 1555,
+      "sha256": "abe7676e85b82d0dae27e9ff8100552e74fdf0de5b3fcd20af7eb9988f4abc8a"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "bytes": 1724,
+      "sha256": "09908bd1c0cc663267ce9055109e8e78fed454ce90c34232dc7bef6becb4a01f"
+    },
+    {
+      "path": "sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "group": "app-prototype-factory",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/App Prototype Factory — 2026-09-21/source-pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Holdi_hero_Amplemarket_prompt.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Holdi_hero_Amplemarket_prompt.md",
+      "bytes": 6044,
+      "sha256": "eebadd5b524ab82dcdb2a740261aa1049312ea258956cdb140ff7c91f1fce64a"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Holdi_metaprompt.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Holdi_metaprompt.md",
+      "bytes": 31429,
+      "sha256": "3e157f4845c2ded01fd9332a300237befd48422c3c571eda8b3ce374b7648a7c"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Holdi_hero_brief.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Holdi_hero_brief.md",
+      "bytes": 14840,
+      "sha256": "5e01b68a0b116fb8475c0a86f45beb65cb16e8f3d52abd1d73eaf100341557f9"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Holdi_generation_prompt.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Holdi_generation_prompt.md",
+      "bytes": 7743,
+      "sha256": "15d1f92fbc2a8da0a30788484779ca6897b61022d2b598a341726724eae01aca"
+    },
+    {
+      "path": "sources/Тестирование гипотез/TODO-тестирование-гипотез.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/TODO-тестирование-гипотез.md",
+      "bytes": 1787,
+      "sha256": "2ec0369eb75053a8c6fe1cb008ad697a4bbe12d05d97667fe110a63bdbd665e5"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Разбор-Amplemarket-по-категориям.md",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Разбор-Amplemarket-по-категориям.md",
+      "bytes": 3775,
+      "sha256": "07a4266d0db26eeee4b5265dba6a87ba560263d13971202609cecb18c75ffac0"
+    },
+    {
+      "path": "sources/Тестирование гипотез/Holdi_request.json",
+      "group": "landing-visuals",
+      "archive_path": "holdi-codex-handoff-2026-09-21/sources/Тестирование гипотез/Holdi_request.json",
+      "bytes": 5810,
+      "sha256": "64a21416446b47eddd3891a16a253485a3ba33e14ce215bde2f5f552794d9e83"
+    }
+  ],
+  "filename_normalization": "ZIP filename bytes decoded as UTF-8; local paths normalized to Unicode NFC for Linux compatibility. File contents unchanged.",
+  "archive_sha256": "13086258d5d7347e8438004983e630de48829e6cdeb2db479abb0a94e4922bda",
+  "historical_bundle_files": 18507,
+  "local_modifications": [
+    {
+      "date": "2026-09-24",
+      "paths": [
+        "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-01/prompts/11-data.md",
+        "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-02/prompts/11-data.md",
+        "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-03/prompts/11-data.md",
+        "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-04/prompts/11-data.md",
+        "sources/App Prototype Factory — 2026-09-21/pipelines/pipeline-05/prompts/11-data.md"
+      ],
+      "reason": "Stage 11 must size nested data by real-world scale (e.g. transcript volume by meeting duration); first dataset had a 65-minute meeting with 3 transcript lines.",
+      "bytes": 4783,
+      "sha256": "ee56b14346e46f593200b3f65b7e54698a1235ab4228928f76acc4956b6b7858",
+      "note": "files[].bytes/sha256 keep the original archive values"
+    }
+  ]
+}

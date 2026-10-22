@@ -1,0 +1,873 @@
+{
+  "source_url": "https://smithtea.com",
+  "final_url": "https://www.smithtea.com/",
+  "captured_at": "2026-09-28T04:31:45.828257+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://smithtea.com",
+      "final_url": "https://www.smithtea.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://pieeyegpc.pii.ai/1/dsrp/bee336c5-541e-480c-b4a5-ad35e072856e/gpc.css",
+      "final_url": "https://pieeyegpc.pii.ai/1/dsrp/bee336c5-541e-480c-b4a5-ad35e072856e/gpc.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4ffd863ced3e9f72f965fe68f8bf316753b6d3bbd70b03c94f37e7e78da59f09",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://use.typekit.net/fpf7ild.css",
+      "final_url": "https://use.typekit.net/fpf7ild.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "1a27a2460af88a13934105e48f11cae756b3401e39d632b60c5adef943f4ff57",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "final_url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "final_url": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c695458f7222a405de68eeedcaf09d69b45abb02da816ff52961574609fce4f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#616f53": {
+      "count": 8,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#a23434": {
+      "count": 9,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#3e3d38": {
+      "count": 3,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 20,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 10,
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#212121": {
+      "count": 4,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#787f82": {
+      "count": 3,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#e0e0df": {
+      "count": 3,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#f5f3ee": {
+      "count": 2,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#ebe7dc": {
+      "count": 1,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#72654e": {
+      "count": 4,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "#f4a735": {
+      "count": 3,
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    }
+  },
+  "font_families": {
+    "Figtree": [
+      "https://www.smithtea.com/"
+    ],
+    "Janson": [
+      "https://www.smithtea.com/"
+    ],
+    "sans-serif": [
+      "https://www.smithtea.com/"
+    ],
+    "serif": [
+      "https://use.typekit.net/fpf7ild.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.smithtea.com/",
+      "selector": "#content .button-color",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.smithtea.com/",
+      "selector": "#button",
+      "declarations": "background-color: white;\n    width: 100%;\n    height: 50px;\n    border-radius: 6px;\n    border-color:black;\n    color: black;\n    font-size: 16px;\n    font-family: ;"
+    },
+    {
+      "source": "https://www.smithtea.com/",
+      "selector": "#button",
+      "declarations": "cursor: pointer ;\n    background-color: transparent;\n        border: 0;\n    color: black;\n    padding: 0;\n    font-size: 16px;\n    padding-top:2px;\n    font-family: ;"
+    },
+    {
+      "source": "https://pieeyegpc.pii.ai/1/dsrp/bee336c5-541e-480c-b4a5-ad35e072856e/gpc.css",
+      "selector": "button[name=\"data[submit]\"]",
+      "declarations": "background-color:#897158!important"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "[data-whatintent=mouse] button,[data-whatintent=mouse] textarea,[data-whatintent=mouse] input,[data-whatintent=mouse] select,[data-whatintent=mouse] a",
+      "declarations": "-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;outline:transparent"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "body",
+      "declarations": "display:flex;flex-direction:column;background-color:var(--color-sand-100);font-family:var(--font-family-janson);font-size:var(--font-size-body);line-height:var(--line-height-loose)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "h1,.h1,h2,.h2",
+      "declarations": "font-family:var(--font-family-janson);font-weight:400;text-transform:none"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+      "selector": "a:not([class]):hover,a.inline-link:hover,button.button-link:hover",
+      "declarations": "color:var(--color-sand-500);fill:var(--color-sand-500)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button,.button--primary,.btn",
+      "declarations": "display:inline-grid;grid-auto-flow:column;grid-gap:var(--spacing-1);justify-content:center;align-items:center;font-family:var(--font-family-avenir);font-size:var(--font-size-button);font-weight:600;text-align:center;text-transform:uppercase;letter-spacing:.0625rem;white-space:nowrap;color:var(--color-white);background-color:var(--color-brown-700);padding:.75rem var(--spacing-6);border:.0625rem solid var(--slate-blue-800);transition:background-color,var(--transition-duration-default)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button:not(:disabled):hover,.button--primary:not(:disabled):hover,.btn:not(:disabled):hover",
+      "declarations": "background-color:var(--color-brown-800)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button:not(:disabled):active,.button--primary:not(:disabled):active,.btn:not(:disabled):active",
+      "declarations": "background-color:var(--color-brown-900)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button:disabled,.button--primary:disabled,.btn:disabled",
+      "declarations": "background-color:var(--color-neutral-100);color:var(--color-neutral-400)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--secondary",
+      "declarations": "color:var(--color-neutral-800);background-color:var(--color-white);border:var(--color-transparent)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--secondary:not(:disabled):hover",
+      "declarations": "background-color:var(--color-brown-200)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--secondary:not(:disabled):active",
+      "declarations": "background-color:var(--color-brown-400)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--secondary:disabled",
+      "declarations": "background-color:var(--color-neutral-100);color:var(--color-neutral-400)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--small",
+      "declarations": "font-family:var(--font-family-news-gothic-std);font-size:var(--font-size-button-small);line-height:var(--line-height-normal);letter-spacing:.125rem;text-transform:uppercase;padding:var(--spacing-1) var(--spacing-2)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--small:not(.button--primary)",
+      "declarations": "color:var(--color-slate-blue-800);background-color:var(--color-transparent);border:.125rem solid var(--color-slate-blue-800)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--small:not(.button--primary):not(:disabled):hover,.button--small:not(.button--primary):not(:disabled):active,.button--small:not(.button--primary):not(:d",
+      "declarations": "color:var(--color-white);background-color:var(--color-slate-blue-800)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--small:not(.button--primary):disabled",
+      "declarations": "background-color:var(--color-neutral-100);color:var(--color-neutral-400);border:.125rem solid var(--color-neutral-100)"
+    },
+    {
+      "source": "https://www.smithtea.com/cdn/shop/t/193/assets/layout.theme.css?v=146709872823251462011769813102",
+      "selector": ".button--transparent",
+      "declarations": "display:inline-grid;grid-auto-flow:column;grid-gap:var(--spacing-1);justify-content:center;align-items:center;font-family:var(--font-family-news-gothic-std);font-size:var(--font-size-button-small);font-weight:600;line-height:var(--line-height-normal);letter-spacing:.125rem;white-space:nowrap;text-align:center;text-transform:uppercase;color:var(--color-neutral-800);padding:var(--spacing-1) var(--spacing-2);border:.125rem solid var(--color-neutral-100);transition:all var(--transition-duration-default)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Steven Smith Teamaker - The Finest Name in Tea Since 1949",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#72654e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212121",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#f5f3ee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.body": {
+      "value": "#3e3d38",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#787f82",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0df",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#ebe7dc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#a23434",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.sage": {
+      "value": "#616f53",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.gold": {
+      "value": "#f4a735",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102"
+      ]
+    },
+    "colors.interactive": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.interactive-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/"
+      ]
+    },
+    "colors.skeleton": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Janson, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Janson, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Janson, serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border-strong}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subheadTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "iconColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.variant-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "selectedBorderColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#616f53": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#616f53",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#a23434": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#a23434",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#3e3d38": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#3e3d38",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#000000": {
+        "selector": "#content form,\n  #content form *:focus,\n  #content form *:focus-within:not(#methods)",
+        "property": "--tw-ring-color",
+        "declaration": "#000000",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#ffffff": {
+        "selector": "#content .bg-primary,\n  #content #method .active",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#00000000": {
+        "selector": "#code",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.smithtea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#212121": {
+        "selector": ":root",
+        "property": "--color-black-100",
+        "declaration": "#212121",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#787f82": {
+        "selector": ":root",
+        "property": "--color-black-500",
+        "declaration": "#787F82",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#e0e0df": {
+        "selector": ":root",
+        "property": "--color-neutral-100",
+        "declaration": "#e0e0df",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#f5f3ee": {
+        "selector": ":root",
+        "property": "--color-sand-100",
+        "declaration": "#f5f3ee",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#ebe7dc": {
+        "selector": ":root",
+        "property": "--color-sand-200",
+        "declaration": "#ebe7dc",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#72654e": {
+        "selector": ":root",
+        "property": "--color-brown-700",
+        "declaration": "#72654e",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      },
+      "#f4a735": {
+        "selector": ":root",
+        "property": "--color-orange-500",
+        "declaration": "#f4a735",
+        "url": "https://www.smithtea.com/cdn/shop/t/193/assets/base.css?v=39336721559556924491769813102",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "365acc2fad4719d17a06c5ad79d77c1354c692f9672ffec98919f35fd926ba53"
+      }
+    },
+    "font_families": {
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Figtree",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "Janson": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Janson\"",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "sans-serif": {
+        "selector": "#content, #alerts",
+        "property": "font-family",
+        "declaration": "Helvetica, Arial, sans-serif",
+        "url": "https://www.smithtea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fd13ebf60100b34844b505ecd7b6cebf126689e9f8bd5d56df38451a72829ea"
+      },
+      "serif": {
+        "selector": ".tk-arno-pro",
+        "property": "font-family",
+        "declaration": "\"arno-pro\",serif",
+        "url": "https://use.typekit.net/fpf7ild.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "1a27a2460af88a13934105e48f11cae756b3401e39d632b60c5adef943f4ff57"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

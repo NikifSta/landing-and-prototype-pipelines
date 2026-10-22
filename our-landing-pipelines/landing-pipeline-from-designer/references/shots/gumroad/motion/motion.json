@@ -1,0 +1,162 @@
+{
+  "url": "https://gumroad.com/",
+  "date": "2026-10-06T13:51:53.923Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": true,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 900
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 80,
+          "parentHeight": 7881,
+          "el": "div.justify-between.bg-white «9.7K Discover Blog Pricing Features About Gumclaw »"
+        },
+        {
+          "position": "fixed",
+          "top": "80px",
+          "height": 0,
+          "parentHeight": 7881,
+          "el": "div#mobile-menu.override.hidden «DiscoverBlogPricingFeaturesAboutGumclaw Log inStar»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "parallax-scroll",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.absolute.inset-0",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «blender meditation comic notion template textures »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «art after effects education fitness sci-fi vrchat »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «reference photos coloring page singles programming»",
+          "firstSeenAtY": 0
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": true,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 844
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 80,
+          "parentHeight": 10593,
+          "el": "div.justify-between.bg-white «9.7K»"
+        },
+        {
+          "position": "fixed",
+          "top": "80px",
+          "height": 0,
+          "parentHeight": 10593,
+          "el": "div#mobile-menu.override.hidden «DiscoverBlogPricingFeaturesAboutGumclaw Log inStar»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "parallax-scroll",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.absolute.inset-0",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 20000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «blender meditation comic notion template textures »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 20000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «art after effects education fitness sci-fi vrchat »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 20000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.w-[200%] «reference photos coloring page singles programming»",
+          "firstSeenAtY": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,174 @@
+[
+  {
+    "ref": "granola",
+    "mood": [
+      "редакционный",
+      "дружелюбный",
+      "тихий"
+    ],
+    "palette_family": "earth",
+    "type_class": "serif-editorial",
+    "imagery_modes": [
+      "ui-code",
+      "photo-objects"
+    ],
+    "density": "low",
+    "motion_signature": "демонстрация сама по времени (строки заметки дописываются цветной волной), прокрутка двигает только композицию: уменьшение окна, прогресс шагов, заголовок уезжает под панель",
+    "fits": [
+      "B2B-saas",
+      "consumer"
+    ],
+    "avoid": "антиква + оливково-салатовый + бумажный бежевый, плёночные пейзажи как подложка, радуга-спектр, гигантский вордмарк-спираль"
+  },
+  {
+    "ref": "notion",
+    "mood": [
+      "дружелюбный",
+      "чистый",
+      "игривый"
+    ],
+    "palette_family": "black-white",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "ui-code",
+      "illustration"
+    ],
+    "density": "low",
+    "motion_signature": "слово-ротатор в цветной пилюле, зацикленное видео окна продукта, бегущая лента цифр",
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "devtools"
+    ],
+    "avoid": "рисованные ч/б человечки вокруг окна, пилюля с точкой и три цвета глаголов, дуотон-портреты в красном/синем/жёлтом"
+  },
+  {
+    "ref": "gumroad",
+    "mood": [
+      "игривый",
+      "комикс",
+      "необрутализм"
+    ],
+    "palette_family": "saturated-primary",
+    "type_class": "grotesk-geometric",
+    "imagery_modes": [
+      "illustration",
+      "3d"
+    ],
+    "density": "medium",
+    "motion_signature": "почти статично: параллакс объектов в hero и бегущие ряды тегов, характер держат иллюстрации",
+    "fits": [
+      "consumer",
+      "marketplace"
+    ],
+    "avoid": "розовая капля-маскот, монеты с G, чёрный контур с жёсткой тенью, жёлтая дорожка, парк-панорама"
+  },
+  {
+    "ref": "pop",
+    "mood": [
+      "деловой",
+      "чистый",
+      "дружелюбный"
+    ],
+    "palette_family": "monochrome",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "ui-code",
+      "collage"
+    ],
+    "density": "medium",
+    "motion_signature": "каскад появления (заголовок → бейдж → подзаголовок → поле) и веер, раскрывающийся от центра к краям; страница статична",
+    "fits": [
+      "consumer",
+      "service"
+    ],
+    "avoid": "веер iPhone-мокапов с чужими сайтами, ярко-голубая кнопка, синяя и фиолетовая цветные полосы, плотный трекинг как у Framer-шаблонов"
+  },
+  {
+    "ref": "structured-app",
+    "mood": [
+      "тёплый",
+      "человечный",
+      "потребительский"
+    ],
+    "palette_family": "pastel",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "video",
+      "photo-objects",
+      "ui-code",
+      "illustration"
+    ],
+    "density": "medium",
+    "motion_signature": "смена фона секций, закреплённая сцена с меняющимися шагами и пузырями, подсветка слов абзаца по скроллу, бегущие ленты отзывов",
+    "fits": [
+      "consumer"
+    ],
+    "avoid": "лососево-розовый + пыльно-синий, строчный регистр по центру, акварельные иконки, видео кафе как первый кадр"
+  },
+  {
+    "ref": "weaveos",
+    "mood": [
+      "технологичный",
+      "тёплый",
+      "тактильный"
+    ],
+    "palette_family": "warm-neutral",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "3d",
+      "ui-code"
+    ],
+    "density": "medium",
+    "motion_signature": "маскот «приходит» в центр при загрузке, парящие иконки, canvas-линии и ленты, шапка превращается в плавающую пилюлю",
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech"
+    ],
+    "avoid": "вязаный оранжевый клубок-маскот, фанерные иконки, оранжево-бежевая пара, тёмно-бордовый текст, катушка с лентами"
+  },
+  {
+    "ref": "melius",
+    "mood": [
+      "редакционный",
+      "технологичный",
+      "кинематографичный"
+    ],
+    "palette_family": "acid-contrast",
+    "type_class": "serif-editorial",
+    "imagery_modes": [
+      "photo-objects",
+      "ui-code",
+      "collage"
+    ],
+    "density": "high",
+    "motion_signature": "закреплённая сцена со сменой вкладок, печатающийся промпт и появляющиеся ноды; медленное вплывание hero, зерно и дышащее свечение",
+    "fits": [
+      "B2B-saas",
+      "service"
+    ],
+    "avoid": "сериф + оранжево-жёлтая пара, светло-серый с зерном переходящий в тёмный холст, хромированные рыбы, перспективная лента картинок"
+  },
+  {
+    "ref": "theplaya",
+    "mood": [
+      "игривый",
+      "технологичный",
+      "мягко-абстрактный"
+    ],
+    "palette_family": "pastel",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "photo-objects",
+      "ui-code"
+    ],
+    "density": "medium",
+    "motion_signature": "перелистывающийся таймер, уведомления модели в hero, каскад карточек (AOS), сегменты проявляются при входе в экран",
+    "fits": [
+      "B2B-saas",
+      "fintech"
+    ],
+    "avoid": "мятно-розовая пара, рамки с фигурными вырезами, перья и ткань как изображения, наклонные розовые стикеры"
+  }
+]

@@ -1,0 +1,872 @@
+{
+  "source_url": "https://lovedbaby.com",
+  "final_url": "https://www.lovedbaby.com/",
+  "captured_at": "2026-09-28T09:07:09.943313+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lovedbaby.com",
+      "final_url": "https://www.lovedbaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "final_url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.lovedbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.lovedbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/country-flags.css",
+      "final_url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/country-flags.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2616cf9b43cf4b052a598eea5bea9730d78fffc2a7971b90dc38ec545d04ef9c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/glide.theme.css?v=125657842761037142641785537639",
+      "final_url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/glide.theme.css?v=125657842761037142641785537639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bbf0d956a8ebe84e5809b6fc0374172424bd3f898283f275c0708f950d726767",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#212427": {
+      "count": 19,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#505050": {
+      "count": 3,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#831d27": {
+      "count": 2,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#a66464": {
+      "count": 3,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#a8777a": {
+      "count": 1,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#009639": {
+      "count": 2,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#f8f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "#d02e2e": {
+      "count": 10,
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    }
+  },
+  "font_families": {
+    "Lora": [
+      "https://www.lovedbaby.com/"
+    ],
+    "Source Sans Pro": [
+      "https://www.lovedbaby.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": "5977__header #SiteHeader .site-nav .site-nav__item:nth-child(5) summary, #shopify-section-sections--20385469005977__header #NavDrawer .mobile-nav .mobile-nav__i",
+      "declarations": "color: #831d27 !important;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": "#shopify-section-sections--20385469005977__header .toolbar__menu li:nth-child(1) a, #shopify-section-sections--20385469005977__header .toolbar__menu li:nth-chil",
+      "declarations": "color: #a66464 !important; font-weight: bold;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": "; padding-bottom: 100.0%;\ntext-align: center\nmargin: 0 auto; max-width: 100px;\nheight: 0; padding-bottom: 100.0%;\ntext-align: center\n.testimonials-template--203",
+      "declarations": "background-color: #e7e5e4;\n    color: #1c1d1d;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": "margin-top: 20px\n #shopify-section-template--20385473888409__testimonials_button_cMirbh .testimonial-stars",
+      "declarations": "color: #a8777a;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": ".grid-product__tag .grid-product__tag--new",
+      "declarations": "background-color: var(--colorBtnPrimary); color: var(--colorBtnPrimaryText);"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": "#SiteHeader .site-nav .site-nav__item:nth-child(8) summary,#NavDrawer .mobile-nav .mobile-nav__item:nth-child(8) .mobile-nav__faux-link",
+      "declarations": "color: #009639 !important;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": ".btn--secondary",
+      "declarations": "text-decoration-color: #222222 !important;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": ".appbrew-download-banner-download-button",
+      "declarations": "height:30px;\n    background-color:#000000;\n    border:none;\n    outline:none;\n    border-radius:20px;\n    color:#ffffff;\n    font-size:12px;\n    padding-top:0px !important;\n    padding-bottom:0px !important; \n    padding-left:12px;\n    padding-right:12px;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": ".appbrew-download-banner-dismiss-button",
+      "declarations": "height:30px;\n    background-color:transparent;\n    border:none;\n    outline:none;  \n     padding-top:0px !important;\n    padding-bottom:0px !important;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/",
+      "selector": ".appbrew-download-confirmation-prompt-content button",
+      "declarations": "margin: 5px;\n    min-width: 272px;\n    border-radius: 10px;\n    text-transform: uppercase;\n    padding: 16px;\n    background-color: #000;\n    color: #fff;\n    font-weight: bold;"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;--drawer-gutter:30px"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".flickity-button",
+      "declarations": "background:var(--colorBtnPrimary);border:none;border-radius:50%;color:var(--colorBtnPrimaryText);position:absolute"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".hero .flickity-button",
+      "declarations": "background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".hotspots__buttons",
+      "declarations": "background-color:transparent;border:0;height:100%;left:0;position:absolute;top:0;width:100%"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".hotspot__button-content",
+      "declarations": "background-color:var(--colorBody);border-radius:5px;box-shadow:3px 3px 10px 3px #0003;color:var(--colorTextBody);left:50%;min-width:5rem;opacity:0;padding:1rem;pointer-events:none;position:absolute;top:calc(100% + 1rem);transform:translate(-50%);transition:opacity .3s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "border-color:transparent transparent var(--colorBody) transparent;border-style:solid;border-width:0 5px 10px 5px;content:\"\";height:0;left:50%;position:absolute;top:-10px;transform:translate(-50%);width:0"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".comparison__button:before",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".comparison__button:after",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "body,html",
+      "declarations": "background-color:var(--colorBody);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.92);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight);text-rendering:optimizeSpeed"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".h1,.h2,.h3,h1,h2,h3",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "button",
+      "declarations": "color:currentColor;overflow:visible"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;background:var(--colorBtnPrimary);border:1px solid transparent;border-radius:var(--buttonRadius);color:var(--colorBtnPrimaryText);cursor:pointer;display:inline-block;font-size:calc(var(--typeBaseSize) - 4px);font-size:max(calc(var(--typeBaseSize) - 4px),13px);font-weight:700;letter-spacing:.3em;line-height:1.42;margin:0;min-width:90px;padding:11px 20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;text-transform:uppercase;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:normal;width:auto"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6;cursor:default"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "ngled] .shopify-payment-button .shopify-payment-button__button--unbranded[disabled]:after,[data-button_style=angled] .shopify-payment-button .shopify-payment-bu",
+      "declarations": "background-color:#f6f6f6;border-bottom:1px solid;border-bottom-color:#b6b6b6;border-top:1px solid;border-top-color:#b6b6b6"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": "[data-button_style=angled] .shopify-payment-button .shopify-payment-button__button--unbranded:after,[data-button_style=angled] .shopify-payment-button .shopify-",
+      "declarations": "background-color:inherit;bottom:0;content:\"\";display:block;position:absolute;top:0;transform:skew(-12deg);width:20px"
+    },
+    {
+      "source": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "L'ovedbaby - Shop our Organic Baby Clothing",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#831d27",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212427",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.accent-rose": {
+      "value": "#a66464",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.accent-mauve": {
+      "value": "#a8777a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#009639",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#d02e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#b6b6b6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "colors.text-secondary": {
+      "value": "#505050",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#0000004d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Lora, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Lora, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Lora, serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Source Sans Pro, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Source Sans Pro, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Source Sans Pro, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Source Sans Pro, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "accentText": "{colors.primary}",
+        "boldAccentText": "{colors.accent-rose}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "controlBackground": "{colors.canvas}",
+        "controlShadow": "0 5px 5px #0000001a",
+        "titleTypography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.accent-mauve}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "iconColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.certification-badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.accent-green}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--colorannouncementtext",
+        "declaration": "#ffffff",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#fafafa": {
+        "selector": ":root",
+        "property": "--colorbodylightdim",
+        "declaration": "#fafafa",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#212427": {
+        "selector": ":root",
+        "property": "--colorbtnprimary",
+        "declaration": "#212427",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--colordrawertextdark",
+        "declaration": "#000000",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#505050": {
+        "selector": ":root",
+        "property": "--colorlink",
+        "declaration": "#505050",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#831d27": {
+        "selector": "#shopify-section-sections--20385469005977__header #SiteHeader .site-nav .site-nav__item:nth-child(5) summary, #shopify-section-sections--20385469005977__header #NavDrawer .mobile-nav .mobile-nav__item:nth-child(5) .mobile-nav__faux-link",
+        "property": "color",
+        "declaration": "#831d27",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#a66464": {
+        "selector": "#shopify-section-sections--20385469005977__header .toolbar__menu li:nth-child(1) a, #shopify-section-sections--20385469005977__header .toolbar__menu li:nth-child(2) a",
+        "property": "color",
+        "declaration": "#a66464",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#a8777a": {
+        "selector": "#shopify-section-template--20385473888409__testimonials_button_cMirbh .testimonial-stars",
+        "property": "color",
+        "declaration": "#a8777a",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#999999": {
+        "selector": "#shopify-section-sections--20385468874905__ed972334-c79b-433b-a8f6-a4b1630cc3b4 .text-small",
+        "property": "color",
+        "declaration": "#999999",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#009639": {
+        "selector": "#SiteHeader .site-nav .site-nav__item:nth-child(8) summary,#NavDrawer .mobile-nav .mobile-nav__item:nth-child(8) .mobile-nav__faux-link",
+        "property": "color",
+        "declaration": "#009639",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#333333": {
+        "selector": "[data-simple-bundles-options] select",
+        "property": "border",
+        "declaration": "1px solid #333",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#f8f5f5": {
+        "selector": ".appbrew-download-banner-container",
+        "property": "background-color",
+        "declaration": "#f8f5f5",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#00000000": {
+        "selector": ".appbrew-download-banner-dismiss-button",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "#0000001a": {
+        "selector": ".hero .flickity-button",
+        "property": "box-shadow",
+        "declaration": "0 5px 5px #0000001a",
+        "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b"
+      },
+      "#dddddd": {
+        "selector": ".noUi-active",
+        "property": "box-shadow",
+        "declaration": "inset 0 0 1px #fff,inset 0 1px 7px #ddd,0 3px 6px -3px #bbb",
+        "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b"
+      },
+      "#d02e2e": {
+        "selector": ".recipient-form .field__input--error",
+        "property": "border-color",
+        "declaration": "#d02e2e",
+        "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b"
+      },
+      "#b6b6b6": {
+        "selector": ".btn.disabled,.btn[disabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-payment-button__button--unbranded[disabled]",
+        "property": "color",
+        "declaration": "#b6b6b6",
+        "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b"
+      },
+      "#0000004d": {
+        "selector": ".header-wrapper--sticky",
+        "property": "background",
+        "declaration": "linear-gradient(180deg,rgba(0,0,0,.3) 0%,transparent)",
+        "url": "https://www.lovedbaby.com/cdn/shop/t/108/assets/theme.css?v=114080401782448315331785537639",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d373b9fce8bb42d7e862a028c69c47d8b9d840c4edd05494b876d2bbd0e39e2b"
+      }
+    },
+    "font_families": {
+      "Lora": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Lora",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      },
+      "Source Sans Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Source Sans Pro\"",
+        "url": "https://www.lovedbaby.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7d17b910f4adb65a8bb261da35241015ee0a41ff8f848b265be96321ca836b8a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

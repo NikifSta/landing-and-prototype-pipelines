@@ -1,0 +1,698 @@
+{
+  "source_url": "https://skoutshonor.com",
+  "final_url": "https://www.skoutshonor.com/",
+  "captured_at": "2026-09-28T09:17:34.448880+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://skoutshonor.com",
+      "final_url": "https://www.skoutshonor.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "final_url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e494fc71d4f003d8809c575bc2bde08da6a356739fe0d06db1ac4eabc8761c4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/apps.css?v=162097722211979372921789496919",
+      "final_url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/apps.css?v=162097722211979372921789496919",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "898f72ef133effe96dc274d12fecbd0c31481fdd9b4ad9979f73c4f81e4016e7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/newsletter-popup.css?v=70958374402311731511789496919",
+      "final_url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/newsletter-popup.css?v=70958374402311731511789496919",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b03cb1ae085b3efe550dcd455cac6d5bd24b01f4d8d603644d3630d6013a36f2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/mobile-dock.css?v=5910054077117460131789496922",
+      "final_url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/mobile-dock.css?v=5910054077117460131789496922",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04458337281098d4bc67c4cbf46fca9c6b73f58d792bb940a015bd098a67b7e4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#030f14": {
+      "count": 2,
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "#d82026": {
+      "count": 1,
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "#171717": {
+      "count": 1,
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Merriweather": [
+      "https://www.skoutshonor.com/"
+    ],
+    "Figtree": [
+      "https://www.skoutshonor.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.skoutshonor.com/",
+      "selector": "#shopify-section-sections--27853186171155__header",
+      "declarations": "--section-padding-top: 20px;\n    --section-padding-bottom: 20px;\n    --color-background: 255 255 255;\n    --color-foreground: 23 23 23;\n    --color-transparent: 255 255 255;\n    --color-localization: ;"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.additional-checkout-buttons [role=but",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".shopify-payment-button__button--branded",
+      "declarations": "z-index:auto;font-family:var(--font-button-family);border-radius:var(--buttons-radius)!important;overflow:hidden!important"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded",
+      "declarations": "cursor:pointer;position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;line-height:1;font-family:var(--font-button-family);font-size:var(--font-button-size);font-weight:var(--font-button-weight);text-transform:var(--font-button-text-transform);padding:clamp(var(--sp-4d5),1.2vw,var(--sp-5d5)) clamp(var(--sp-6d5),1.473vw,var(--sp-7d5));color:rgb(var(--color-button-text));background:var(--color-button-gradient);background-color:rgb(var(--color-button-background));border-radius:var(--buttons-radius);box-shadow:var(--shadow-horizontal-offset) var(--shadow-vertical-offset) rgb(var(--color-shadow)/ var(--shadow-opacity));max-height:3.75rem;border:none;height:"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button .btn-text",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--primary .btn-fill",
+      "declarations": "background-color:rgb(var(--color-button-text))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--secondary .btn-fill",
+      "declarations": "background:var(--color-button-gradient);background-color:rgb(var(--color-button-background))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "color:rgb(var(--color-button-background));background:none;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--close",
+      "declarations": "--shadow-opacity: 0;--border-opacity: .1;--buttons-border-width: 1px;--buttons-radius: var(--rounded-full);padding:0"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--close .icon:first-child",
+      "declarations": "--tw-rotate: 0deg;transform:rotate(var(--tw-rotate))"
+    },
+    {
+      "source": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+      "selector": ".button--blur",
+      "declarations": "--button-backdrop-blur: blur(12px)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Skout's Honor | Life-Changing Pet Essentials",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#d82026",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#171717",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923"
+      ]
+    },
+    "colors.ink-deep": {
+      "value": "#030f14",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Merriweather, serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Merriweather, serif",
+        "fontSize": "34px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Merriweather, serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "height": "{spacing.xxl}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.md}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink-deep}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "hairline": "{colors.surface-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.rating-badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#030f14": {
+        "selector": ":root",
+        "property": "--color-base-button-gradient",
+        "declaration": "#030f14",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      },
+      "#333333": {
+        "selector": "#shopify-section-sections--27853186171155__announcement-bar",
+        "property": "--gradient-background",
+        "declaration": "#333333",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      },
+      "#d82026": {
+        "selector": "#shopify-section-sections--27853186203923__newsletter-popup",
+        "property": "--color-drawer-button-gradient",
+        "declaration": "#d82026",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      },
+      "#171717": {
+        "selector": "#shopify-section-sections--27853186138387__footer-copyright",
+        "property": "--gradient-background",
+        "declaration": "#171717",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--tw-ring-offset-color",
+        "declaration": "#fff",
+        "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9e494fc71d4f003d8809c575bc2bde08da6a356739fe0d06db1ac4eabc8761c4"
+      },
+      "#e5e5e5": {
+        "selector": ".drawer__scrollable .item",
+        "property": "background-color",
+        "declaration": "#e5e5e5",
+        "url": "https://www.skoutshonor.com/cdn/shop/t/159/assets/theme.css?v=28942714276664258541789496923",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9e494fc71d4f003d8809c575bc2bde08da6a356739fe0d06db1ac4eabc8761c4"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.skoutshonor.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Merriweather": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Merriweather",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      },
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Figtree",
+        "url": "https://www.skoutshonor.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6f1fc114c53485f743e517a8b18981509dc18bb1e4d499a6be43a351a058457"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

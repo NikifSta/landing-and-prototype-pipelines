@@ -1,0 +1,788 @@
+{
+  "source_url": "https://www.soldano.com",
+  "final_url": "https://www.soldano.com/",
+  "captured_at": "2026-09-29T04:01:37.442041+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.soldano.com",
+      "final_url": "https://www.soldano.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.soldano.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=b6b8e5863e8daf49a50d413f629de639",
+      "final_url": "https://www.soldano.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=b6b8e5863e8daf49a50d413f629de639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a4478c8cc089e538147f5900b936647cf4049376e5d9f637b10b5eaafabc3f21",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.soldano.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+      "final_url": "https://www.soldano.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4dd7022da83246a9b8b293d5f4f51a89d5cdfd4ad2c1bdaa09434a83fbeb90cb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.soldano.com/wp-content/uploads/font-awesome/v5.12.0/css/svg-with-js.css",
+      "final_url": "https://www.soldano.com/wp-content/uploads/font-awesome/v5.12.0/css/svg-with-js.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bfa1a98b6d4b6b2f4e8154872857093249ba073497a57e1f8b5272432e640d13",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+      "final_url": "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "63b48438278c5dfb73dd5bb3cbf8310caccd91457201debe4cff4dec4410d96c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.soldano.com/wp-content/uploads/wtfdivi/wp_head.css?ver=1700643015",
+      "final_url": "https://www.soldano.com/wp-content/uploads/wtfdivi/wp_head.css?ver=1700643015",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "095d31768dd5f87cb8ecf73320e979a65c2e073f16d9e411f8f8e65745263061",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 7,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#9999ff": {
+      "count": 2,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#969696": {
+      "count": 18,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#595959": {
+      "count": 8,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 5,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://www.soldano.com/"
+    ],
+    "Arial": [
+      "https://www.soldano.com/"
+    ],
+    "sans-serif": [
+      "https://www.soldano.com/"
+    ],
+    "Roboto": [
+      "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "Helvetica Neue": [
+      "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ":root",
+      "declarations": "--wvs-tick:url(\"data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E\");\n\n--wvs-cross:url(\"data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E\");\n--wvs-position:left;\n--wvs-single-product-large-item-width:40px;\n--wvs-single-product-large-"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".xoo-wsc-header",
+      "declarations": "color: #000000;\r\n\tbackground-color: #ffffff;\r\n\tborder-bottom: 2px solid #eee;\r\n\tpadding: 15px 15px;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".xoo-wsc-body",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".xoo-wsc-products:not(.xoo-wsc-pattern-card), .xoo-wsc-products:not(.xoo-wsc-pattern-card) span.amount, .xoo-wsc-products:not(.xoo-wsc-pattern-card) a",
+      "declarations": "font-size: 16px;\r\n\tcolor: #000000;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".xoo-wsc-products:not(.xoo-wsc-pattern-card) .xoo-wsc-product",
+      "declarations": "padding: 20px 15px;\r\n\tmargin: 0;\r\n\tborder-radius: 0px;\r\n\tbox-shadow: 0 0;\r\n\tbackground-color: transparent;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".lmp_load_more_button.br_lmp_button_settings .lmp_button:hover",
+      "declarations": "background-color: #9999ff!important;\n                    color: #111111!important;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".lmp_load_more_button.br_lmp_prev_settings .lmp_button:hover",
+      "declarations": "background-color: #9999ff!important;\n                    color: #111111!important;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et_header_style_fullscreen .et_slide_in_menu_container .dgwt-wcas-search-input,\n\t\t.et_header_style_slide .et_slide_in_menu_container .dgwt-wcas-search-input",
+      "declarations": "color: #444;"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "body",
+      "declarations": "color:#595959"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type=\"checkbox\"]:checked+label i:before,.et_pb_b",
+      "declarations": "color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu",
+      "declarations": "background-color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et_secondary_nav_enabled #page-container #top-header",
+      "declarations": "background-color:#000000!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "#top-header,#top-header a",
+      "declarations": "color:#969696"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "er .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widge",
+      "declarations": "color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "rce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-messag",
+      "declarations": "font-size:17px;background-color:#000000;border-color:#000000;border-radius:0px;font-weight:normal;font-style:normal;text-transform:uppercase;text-decoration:none;;letter-spacing:1px"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "per_class #content input.button,.woocommerce-page.et_pb_button_helper_class #content input.button,body.et_pb_button_helper_class .et_pb_button,body.et_pb_button",
+      "declarations": "color:#ffffff"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "r,.woocommerce #respond input#submit:after,.woocommerce-page #respond input#submit:after,.woocommerce #content input.button:after,.woocommerce-page #content inp",
+      "declarations": "content:'E';font-size:17px;color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "body .et_pb_bg_layout_light.et_pb_button:hover,body .et_pb_bg_layout_light .et_pb_button:hover,body .et_pb_button:hover",
+      "declarations": "color:#000000!important;background-color:rgba(0,0,0,0);border-color:#000000!important;border-radius:0px;letter-spacing:1px"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "ce-page input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce-page #respond input#submit:hover,.woocommerce #content input.button:hover,.wooc",
+      "declarations": "color:#000000!important;background-color:rgba(0,0,0,0)!important;border-color:#000000!important;border-radius:0px;letter-spacing:1px"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et_fixed_nav #page-container .et-fixed-header#top-header",
+      "declarations": "background-color:#000000!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul",
+      "declarations": "background-color:#000000"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": "e,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed",
+      "declarations": "color:#969696!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et-fixed-header .et_search_form_container input::-moz-placeholder",
+      "declarations": "color:#969696!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et-fixed-header .et_search_form_container input::-webkit-input-placeholder",
+      "declarations": "color:#969696!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et-fixed-header .et_search_form_container input:-ms-input-placeholder",
+      "declarations": "color:#969696!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a",
+      "declarations": "color:#ffffff!important"
+    },
+    {
+      "source": "https://www.soldano.com/",
+      "selector": ".et-fixed-header#top-header a",
+      "declarations": "color:#969696"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Soldano Custom Amplification | High-Gain USA Tube Amps",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#595959",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#969696",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.secondary-dark": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.accent-hover": {
+      "value": "#9999ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.input-text": {
+      "value": "#444444",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "colors.border-generic": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.soldano.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.secondary-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.input-text}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.muted}",
+        "activeTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "priceColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.lg} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.muted}",
+        "headingColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-hover}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.input-text}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.configurator-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.border-generic}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--wp--preset--color--white",
+        "declaration": "#ffffff",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#eeeeee": {
+        "selector": ":root",
+        "property": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+        "declaration": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#32373c": {
+        "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#9999ff": {
+        "selector": ".lmp_load_more_button.br_lmp_button_settings .lmp_button:hover",
+        "property": "background-color",
+        "declaration": "#9999ff",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#969696": {
+        "selector": ".dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input,.dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:hover,.dgwt-wcas-search-wrapp .dgwt-wcas-sf-wrapp input[type=search].dgwt-wcas-search-input:focus",
+        "property": "color",
+        "declaration": "#969696",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#444444": {
+        "selector": ".et_header_style_fullscreen .et_slide_in_menu_container .dgwt-wcas-search-input,\n\t\t.et_header_style_slide .et_slide_in_menu_container .dgwt-wcas-search-input",
+        "property": "color",
+        "declaration": "#444",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#595959": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#595959",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#fafafa": {
+        "selector": "#main-footer",
+        "property": "background-color",
+        "declaration": "#fafafa",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#cccccc": {
+        "selector": ".cwp_et_pb_layout_slider_standard_0 .swiper-pagination-progressbar",
+        "property": "background-color",
+        "declaration": "#cccccc",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "#f2f2f2": {
+        "selector": ".et_pb_column_23:hover,.et_pb_column_24:hover",
+        "property": "background-color",
+        "declaration": "#f2f2f2",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Poppins\"",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "Arial": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "font-family",
+        "declaration": "\"Poppins\",Helvetica,Arial,Lucida,sans-serif",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "sans-serif": {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "property": "font-family",
+        "declaration": "\"Poppins\",Helvetica,Arial,Lucida,sans-serif",
+        "url": "https://www.soldano.com/",
+        "snapshot": "homepage.html",
+        "sha256": "45fc8019a604403333612cab73b1d57662871b2062769c4dd459c8288337c32d"
+      },
+      "Roboto": {
+        "selector": "#cookie-notice",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,Arial,Roboto,\"Helvetica Neue\",sans-serif",
+        "url": "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "63b48438278c5dfb73dd5bb3cbf8310caccd91457201debe4cff4dec4410d96c"
+      },
+      "Helvetica Neue": {
+        "selector": "#cookie-notice",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,Arial,Roboto,\"Helvetica Neue\",sans-serif",
+        "url": "https://www.soldano.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "63b48438278c5dfb73dd5bb3cbf8310caccd91457201debe4cff4dec4410d96c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

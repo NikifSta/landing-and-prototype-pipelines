@@ -1,0 +1,556 @@
+{
+  "snapshot_date": "2026-09-21",
+  "source_file_count": 61,
+  "notes": "Current source documents copied verbatim. Historical runs, old versions and product-specific Holdi artifacts are not pipeline instructions. Numbered source prompts end at 09; the existing five UX/UI methods supply further execution prompts.",
+  "files": [
+    {
+      "copy_path": "source-pipeline/00 — Universal Product Intake Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/00 — Universal Product Intake Prompt.md",
+      "library_file_id": "libfile_aeac1be40ed08191acd792edab021dc8",
+      "version_id": "11",
+      "modified_at": "2026-09-19T07:08:13.539925Z",
+      "size_bytes": 10738,
+      "sha256": "958c94d66b33aabd5e70790132cddeb40bbafa9250fdf9e8a593314e6b2cad24"
+    },
+    {
+      "copy_path": "source-pipeline/00A — Product Clarification Agent Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/00A — Product Clarification Agent Prompt.md",
+      "library_file_id": "libfile_df7832c7243c819185b8ce7e0e74be17",
+      "version_id": "9",
+      "modified_at": "2026-09-19T07:08:18.026565Z",
+      "size_bytes": 8877,
+      "sha256": "79b9c132222a8aca04255ffb6fa22228899c3ec3ca33750cec8c231bed04bba9"
+    },
+    {
+      "copy_path": "source-pipeline/01_Universal_UX_Context_Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/01_Universal_UX_Context_Prompt.md",
+      "library_file_id": "libfile_ad8d470ba674819182fa821df26d9f29",
+      "version_id": "5",
+      "modified_at": "2026-09-19T18:38:37.040430Z",
+      "size_bytes": 12168,
+      "sha256": "e0a58c14ad78ad09212f434aa000f1b126982b651f205e523175a49c52dffdf6"
+    },
+    {
+      "copy_path": "source-pipeline/02 — Universal Domain Model Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/02 — Universal Domain Model Prompt.md",
+      "library_file_id": "libfile_8498172d983c8191bdc3b53a1154e7cf",
+      "version_id": null,
+      "modified_at": "2026-09-19T19:02:47.782081Z",
+      "size_bytes": 5429,
+      "sha256": "5d5ec6872496a88d8c3ad8f425586cb1dbc854a9a0e3ffa542065b3da13e10c2"
+    },
+    {
+      "copy_path": "source-pipeline/03 — Universal Information Architecture Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/03 — Universal Information Architecture Prompt.md",
+      "library_file_id": "libfile_c254c2bbad4881919b5de61c9264007a",
+      "version_id": null,
+      "modified_at": "2026-09-20T05:34:05.263334Z",
+      "size_bytes": 6310,
+      "sha256": "43990784a4696bea2d4e7a9c8a80d28f05ebc61346c9c6c335206a42f15d559b"
+    },
+    {
+      "copy_path": "source-pipeline/04 — Universal User Flows Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/04 — Universal User Flows Prompt.md",
+      "library_file_id": "libfile_49bc9b7932788191bd12428239e335e5",
+      "version_id": "9",
+      "modified_at": "2026-09-20T07:53:52.072159Z",
+      "size_bytes": 9574,
+      "sha256": "693e06a65fc2fe0eabba6f8612dfd79baa6e95b937e9b386e1c5f56e012bdadb"
+    },
+    {
+      "copy_path": "source-pipeline/05 — Universal State Architecture Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/05 — Universal State Architecture Prompt.md",
+      "library_file_id": "libfile_c8d1f2e226488191ac22a9ecbfa4dec2",
+      "version_id": "2",
+      "modified_at": "2026-09-20T08:41:18.747727Z",
+      "size_bytes": 6486,
+      "sha256": "e0db41a7a6fd4beb0573a16a0df8b3675fa24e4c0add86675518d5e152a0779b"
+    },
+    {
+      "copy_path": "source-pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "source_path": "/AI Product Interface Pipeline/06 — Universal Synthetic Data Preparation Prompt.md",
+      "library_file_id": "libfile_928e6a9a3d348191b9fabfa72ca70681",
+      "version_id": "1",
+      "modified_at": "2026-09-20T19:11:13.552027Z",
+      "size_bytes": 7649,
+      "sha256": "1d9c544fd55d26ad9b4172c2ba4390049e5e316eccba68d8df156e3c346a497f"
+    },
+    {
+      "copy_path": "source-pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "source_path": "/AI Product Interface Pipeline/07 — Universal UX Concept Exploration Orchestrator.md",
+      "library_file_id": "libfile_8a8683047f54819183fb61af803b9305",
+      "version_id": "2",
+      "modified_at": "2026-09-20T18:12:21.755976Z",
+      "size_bytes": 9331,
+      "sha256": "cb6f7188769180cd6a2963da9a5006efbb37aba38aaed32acdb459bebde2d88e"
+    },
+    {
+      "copy_path": "source-pipeline/08 — Universal Independent UX Usability Review.md",
+      "source_path": "/AI Product Interface Pipeline/08 — Universal Independent UX Usability Review.md",
+      "library_file_id": "libfile_cde692c02cbc8191a6c8148de77ac70f",
+      "version_id": "2",
+      "modified_at": "2026-09-20T19:47:08.349318Z",
+      "size_bytes": 10021,
+      "sha256": "26732345347e0a4298f6c1c00660451305b75cd27a764665ac36e4fe35c862b0"
+    },
+    {
+      "copy_path": "source-pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "source_path": "/AI Product Interface Pipeline/09 — Universal Visual Art Direction Exploration.md",
+      "library_file_id": "libfile_c23168ce0ae081918238aecf1953af7e",
+      "version_id": "3",
+      "modified_at": "2026-09-20T20:04:52.554553Z",
+      "size_bytes": 7450,
+      "sha256": "f4f3b3c802bf98ac7ddf7d0d25df13edce225a5fbf7c7997b942e8531ba46089"
+    },
+    {
+      "copy_path": "source-pipeline/PROMPT_VERSIONING_RULE.md",
+      "source_path": "/AI Product Interface Pipeline/PROMPT_VERSIONING_RULE.md",
+      "library_file_id": "libfile_a3a64ab3d6108191853a47f4479c4b8e",
+      "version_id": "11",
+      "modified_at": "2026-09-19T18:38:37.107128Z",
+      "size_bytes": 6169,
+      "sha256": "6fa4921f198dd5aaacecb571d071180598f971c7f783670b93d0bb86b6f7a4b4"
+    },
+    {
+      "copy_path": "source-pipeline/Tools/Prompt Compare — template.html",
+      "source_path": "/AI Product Interface Pipeline/Tools/Prompt Compare — template.html",
+      "library_file_id": "libfile_aaf8121697f4819185f720acabdc49de",
+      "version_id": "2",
+      "modified_at": "2026-09-19T18:38:37.103933Z",
+      "size_bytes": 4991,
+      "sha256": "625fb181efd35a8683bea5ef09ce095b943b561cbd5a7bc17752151898eb0e39"
+    },
+    {
+      "copy_path": "source-pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "source_path": "/AI Product Interface Pipeline/Universal AI Product Interface Pipeline — Plan.md",
+      "library_file_id": "libfile_1ce0796a86f481918e328df601ffd1ae",
+      "version_id": "2",
+      "modified_at": "2026-09-19T18:54:13.766141Z",
+      "size_bytes": 32329,
+      "sha256": "6186e089af1cf3e1adad01a0610d8931bb26c2817b835891547c0fa2fc2e3239"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/README.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/README.md",
+      "library_file_id": "libfile_d4755839e2188191b146bb20b7291526",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:40.711146Z",
+      "size_bytes": 13324,
+      "sha256": "eb76693affc6c3e7ae528ac06e7edccbf798dc0860ad0c58fba1805661a790f7"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/PIPELINE.md",
+      "library_file_id": "libfile_57be59d6ac1c8191ab3978c108e7fe51",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:40.741391Z",
+      "size_bytes": 32050,
+      "sha256": "7506634a33d00cde1d70dae3ae57363a058c45d82c913152b22ffad24557bd10"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/00-intake.md",
+      "library_file_id": "libfile_47d7d0e15fec8191b773123adda96731",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.354056Z",
+      "size_bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/01-architecture.md",
+      "library_file_id": "libfile_6941058b3a84819180fd4fdc4fe295b7",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:02.524194Z",
+      "size_bytes": 1273,
+      "sha256": "b943703cc439f59754c7e3f2ad4fe7e8e66a6fc07fbcbbca4ca751d9c89ad93b"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/02-references.md",
+      "library_file_id": "libfile_23faf84978ec819185bce40d60796e76",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.723286Z",
+      "size_bytes": 2528,
+      "sha256": "909f3dde3d4ddd4987f4988f37235628dea43cd786a1f5a7be4184eb398f5bf6"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/03-ux.md",
+      "library_file_id": "libfile_8658d15797288191b83ff293c4d0e5d7",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:02.533965Z",
+      "size_bytes": 1397,
+      "sha256": "b0a2b899dd5b4f1412565a2eb743795dd25f7bf0145e24fed1263d91990ca257"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/04-visual-system.md",
+      "library_file_id": "libfile_b156b5193a008191bf2f1d9f4bdb0ef3",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.660318Z",
+      "size_bytes": 1803,
+      "sha256": "84a183c27916d39a87aab990db666d39456b432cf307eca7b19214f086db8bed"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/05-expand.md",
+      "library_file_id": "libfile_005b19bc70e081918a2792a00747d6cd",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:02.565841Z",
+      "size_bytes": 1369,
+      "sha256": "31b1a28765fc89d772715485ce5a65f84e7ebc010b602ace9c185cb2c7f8db21"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/06-verify.md",
+      "library_file_id": "libfile_42717fde64488191802831713a6e892b",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.285561Z",
+      "size_bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-01/prompts/07-accept.md",
+      "library_file_id": "libfile_59443b15c5e88191a759a83641f103f8",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.748674Z",
+      "size_bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/PIPELINE.md",
+      "library_file_id": "libfile_541fc9c7821481919773ee78eaa81570",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:40.705110Z",
+      "size_bytes": 32531,
+      "sha256": "8fb23230ad26aca8649b124cf0c0b5df44d569bf118f2923a08ff3904276fa54"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/00-intake.md",
+      "library_file_id": "libfile_47934a2a42e881919be987c38d4136af",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.320168Z",
+      "size_bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/01-references.md",
+      "library_file_id": "libfile_481358452f848191b38863fcc38efc4a",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.730077Z",
+      "size_bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/02-composition.md",
+      "library_file_id": "libfile_298c78488338819182d3697bff69f96a",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.638902Z",
+      "size_bytes": 1414,
+      "sha256": "67171e38fd0617457bbaf25e2bf4bef07ff2b18d88050f58da991c004435668c"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/03-task-fit.md",
+      "library_file_id": "libfile_56d32e215a088191a0751007fa412597",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.761521Z",
+      "size_bytes": 1635,
+      "sha256": "618e38aff5bbc298b52f3b6c1a89c8e83cbac67861670a13722207abe9892f3f"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/04-system.md",
+      "library_file_id": "libfile_e14b3fdc8ae48191bbd763446490e917",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.696879Z",
+      "size_bytes": 1482,
+      "sha256": "52371ee229fc78ecca3a251c53183c7e97fc761cbbbbe3c67d3640a5cd517e32"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/05-expand.md",
+      "library_file_id": "libfile_38eb274dd9c4819188150a9f87548192",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:02.521683Z",
+      "size_bytes": 1274,
+      "sha256": "ef3ab51850a6f7e8f9955daab760e3ad5ab6f4c45abb93918b40806e303970b3"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/06-verify.md",
+      "library_file_id": "libfile_280b17ae905c8191adeabe08b9c577ec",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.318174Z",
+      "size_bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-02/prompts/07-accept.md",
+      "library_file_id": "libfile_cf0373787ad48191a8eb8a2be6df30e0",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:40.726199Z",
+      "size_bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/PIPELINE.md",
+      "library_file_id": "libfile_0a37f66160508191acb168f56becb988",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:40.670835Z",
+      "size_bytes": 32398,
+      "sha256": "c90dbf6ddcfb67d95d6946e7c11466c7f040b45534ca3dfe18d360521c1ce0e1"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/00-intake.md",
+      "library_file_id": "libfile_fb38f0ccfc58819199bd3d9f1995f77a",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.328906Z",
+      "size_bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/01-references.md",
+      "library_file_id": "libfile_48831e585420819199d7f5a8986a2726",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.152956Z",
+      "size_bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/02-route-contract.md",
+      "library_file_id": "libfile_2e6bc97a5b6c819191a6c1145924165a",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:05.813753Z",
+      "size_bytes": 1397,
+      "sha256": "765e7af62f8f13f9ff7a091d91e894064b8f0378befaf5d0208d27905308acc0"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/03-complete-route.md",
+      "library_file_id": "libfile_ee2a2d4f4024819196785630b0e429bc",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.099975Z",
+      "size_bytes": 1853,
+      "sha256": "42e90e5bbd88fd7e614f000a29e365b1c09b3dae2b95600f0efa2ec5a5d394a2"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/04-transfer.md",
+      "library_file_id": "libfile_4e9161d7bf34819191133c8a5fb1ea03",
+      "version_id": "1",
+      "modified_at": "2026-09-21T12:34:47.094278Z",
+      "size_bytes": 1530,
+      "sha256": "455da93e62b09a150a6862c108262997c11efe267284f6ff6c316634b6609830"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/05-expand-routes.md",
+      "library_file_id": "libfile_1ca168ef465c81918cee2245858bdb5d",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:05.830009Z",
+      "size_bytes": 1471,
+      "sha256": "36297ab03b1ad960d927ff3e66d06cee2f609af9d629dc7960c1a53f3cc78beb"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/06-verify.md",
+      "library_file_id": "libfile_5e00f501ca188191b40289eb930b25e5",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.271758Z",
+      "size_bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-03/prompts/07-accept.md",
+      "library_file_id": "libfile_a91dd876a36c8191908ee10f7ada96af",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.168725Z",
+      "size_bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/PIPELINE.md",
+      "library_file_id": "libfile_ce34475985788191b925772bce8de203",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:47.146113Z",
+      "size_bytes": 32664,
+      "sha256": "92b8fee90828dfefe9f49ef4fb04949083ec9045b862de1bce0d1a28cfa1ca1b"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/00-intake.md",
+      "library_file_id": "libfile_6d37688c3498819182e9c0491a86b295",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:12.340284Z",
+      "size_bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/01-references.md",
+      "library_file_id": "libfile_dc7e6d6dd2f881919b5b51fc3964e937",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.184937Z",
+      "size_bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/02-foundation.md",
+      "library_file_id": "libfile_35525df7e3248191a36b90e25d51b0a5",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:18.076670Z",
+      "size_bytes": 1555,
+      "sha256": "abe7676e85b82d0dae27e9ff8100552e74fdf0de5b3fcd20af7eb9988f4abc8a"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/03-components.md",
+      "library_file_id": "libfile_efbcbaa959688191abb871eb8acbfb4f",
+      "version_id": "1",
+      "modified_at": "2026-09-21T12:34:47.150682Z",
+      "size_bytes": 1724,
+      "sha256": "09908bd1c0cc663267ce9055109e8e78fed454ce90c34232dc7bef6becb4a01f"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/04-screen-proof.md",
+      "library_file_id": "libfile_528195e50b6881918a1f3cd4eed28bf1",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.112652Z",
+      "size_bytes": 1902,
+      "sha256": "10c2b4b1c26a418efc63c4f6d30be89ff298803a8b67c620c3dab2f9ad5c4d62"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/05-assemble.md",
+      "library_file_id": "libfile_52834a6945408191ae1d5c55572cc326",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:05.960140Z",
+      "size_bytes": 1375,
+      "sha256": "704e053f2b528be378feb281a8ae120116898e3ad82ed60f7bc462bdfda0247f"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/06-verify.md",
+      "library_file_id": "libfile_2afecef7a1f08191b6b0ee43108cbe92",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:18.097042Z",
+      "size_bytes": 1621,
+      "sha256": "7f7511a26849cea67b97a91cf792af4af59ccee074e6a8c15ce476da8b34cc4a"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-04/prompts/07-accept.md",
+      "library_file_id": "libfile_4fa8554719a481918f403a882230c7e7",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.136685Z",
+      "size_bytes": 2209,
+      "sha256": "31ee4252ec243ce59cdd69038eff00bf72219a45a1a96cf4d73e3833b6fa7fb3"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/PIPELINE.md",
+      "library_file_id": "libfile_08de31c2dcc48191bd33e0cf98ada6df",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:47.134490Z",
+      "size_bytes": 33124,
+      "sha256": "ecdbaae01f092603db1a14f398b7ace5c90eee105c5d51ee022963ef51bb04a0"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/00-intake.md",
+      "library_file_id": "libfile_8bd1848ea08481918361c05a848cb205",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:18.181747Z",
+      "size_bytes": 1608,
+      "sha256": "9b7c3e5ef48da99bf4e8a8fa68a71088c8a89c5ba1130f1e24e5106c3a5872fe"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/01-references.md",
+      "library_file_id": "libfile_559d9f1bde4c81918e2534628ea480c1",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.127648Z",
+      "size_bytes": 2528,
+      "sha256": "214b97a8369ab6296b2c532efa6eb9a1b4b796900235dd2c5c098f4211d4a718"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/02-hypotheses.md",
+      "library_file_id": "libfile_e761f6851f788191a154757edfecdfc9",
+      "version_id": "4",
+      "modified_at": "2026-09-21T12:34:47.201078Z",
+      "size_bytes": 1871,
+      "sha256": "67a2bbb25c74a2872c941c915a1db4c49dc79e55f7aac0d7d681b017748582ee"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/03-candidates.md",
+      "library_file_id": "libfile_9af53bbb9110819189f5552aef1c9f60",
+      "version_id": "3",
+      "modified_at": "2026-09-21T12:34:47.235445Z",
+      "size_bytes": 1936,
+      "sha256": "cb93f4d7b02fa1ca23209b20363e1c5af968b573eb924e5c48e10edf22c7f6fd"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/04-blind-selection.md",
+      "library_file_id": "libfile_52192cd6cdc88191bf20b5d19589f926",
+      "version_id": "3",
+      "modified_at": "2026-09-21T12:34:47.231270Z",
+      "size_bytes": 1897,
+      "sha256": "e11bce7d85a14e8cbf9d87840a94bf33c7a468b64963df7dac06a17a13b7dfea"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/05-develop-winner.md",
+      "library_file_id": "libfile_8f7ab5964974819194b7c794248b3c23",
+      "version_id": "3",
+      "modified_at": "2026-09-21T12:34:47.166013Z",
+      "size_bytes": 1645,
+      "sha256": "2f3a7eec5b9960610437e30d3e08babb2276c200ba0fc69ee5686532ca485537"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/06-expand.md",
+      "library_file_id": "libfile_59eebd37831881918cfb78dc33cca436",
+      "version_id": null,
+      "modified_at": "2026-09-21T06:31:09.469723Z",
+      "size_bytes": 1252,
+      "sha256": "3edf999b8b25b1443313ffb81205f0a5413a8a8a8690b686cc8f65acbd7b6945"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/07-verify.md",
+      "library_file_id": "libfile_3f3e224b56008191bbea6bae6a9b67d2",
+      "version_id": "1",
+      "modified_at": "2026-09-21T06:40:18.026096Z",
+      "size_bytes": 1621,
+      "sha256": "744bbcfe5562caa5026425c0ffaef2e28aee73547055f39ba803dbbd645331f4"
+    },
+    {
+      "copy_path": "source-pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "source_path": "/AI Product Interface Pipeline/ux-ui-pipelines/pipeline-05/prompts/08-accept.md",
+      "library_file_id": "libfile_a9979917cec0819195293154126fca89",
+      "version_id": "2",
+      "modified_at": "2026-09-21T12:34:47.148341Z",
+      "size_bytes": 2209,
+      "sha256": "c79d5df101e059afb6531f8a7d775d336e0ee54f8463fc296fd08cc8888d516b"
+    }
+  ]
+}

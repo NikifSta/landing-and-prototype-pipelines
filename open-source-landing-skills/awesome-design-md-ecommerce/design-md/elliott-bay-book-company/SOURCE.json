@@ -1,0 +1,853 @@
+{
+  "source_url": "https://www.elliottbaybook.com",
+  "final_url": "https://www.elliottbaybook.com/",
+  "captured_at": "2026-09-28T10:11:07.664940+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.elliottbaybook.com",
+      "final_url": "https://www.elliottbaybook.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "39493047a604d1d2541df19d3769fca72c89bdcec937b23326edeeb4bdfa93c9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151",
+      "final_url": "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "b16af41d065232b3cda9592e01262178c0bdddc2cdcc94cb066dc863571248a3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+      "final_url": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "4873060989924f8e92a321a0a38611ffd0252b5bdfddf7fce00abdc8ae2176a3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "final_url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 269,
+      "sources": [
+        "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+      ]
+    },
+    "#154532": {
+      "count": 16,
+      "sources": [
+        "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+      ]
+    },
+    "#333333": {
+      "count": 23,
+      "sources": [
+        "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      ]
+    },
+    "#666666": {
+      "count": 43,
+      "sources": [
+        "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 41,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#c20232": {
+      "count": 16,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 75,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 130,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 25,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#f2eddd": {
+      "count": 5,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "#1b4b59": {
+      "count": 3,
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+    ],
+    "-apple-system": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Segoe UI": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Roboto": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Oxygen": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Ubuntu": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Cantarell": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Fira Sans": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Droid Sans": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "sans-serif": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ],
+    "Brown": [
+      "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+      "selector": ".leaflet-container a.leaflet-popup-close-button",
+      "declarations": "position: absolute;\r\n\ttop: 0;\r\n\tright: 0;\r\n\tpadding: 4px 4px 0 0;\r\n\tborder: none;\r\n\ttext-align: center;\r\n\twidth: 18px;\r\n\theight: 14px;\r\n\tfont: 16px/14px Tahoma, Verdana, sans-serif;\r\n\tcolor: #c3c3c3;\r\n\ttext-decoration: none;\r\n\tfont-weight: bold;\r\n\tbackground: transparent;"
+    },
+    {
+      "source": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+      "selector": ".leaflet-container a.leaflet-popup-close-button:hover",
+      "declarations": "color: #999;"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": "@charset \"UTF-8\";body",
+      "declarations": "font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".internal,body",
+      "declarations": "font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": "body",
+      "declarations": "color:rgba(0,0,0,.85);font-size:14px;font-variant:tabular-nums;line-height:1.5715;background-color:#fff;font-feature-settings:\"tnum\",\"tnum\",\"tnum\""
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-top:0;margin-bottom:.5em;color:rgba(0,0,0,.85);font-weight:500"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;color:inherit;font-size:inherit;font-family:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-picker-header",
+      "declarations": "display:flex;padding:0 8px;color:rgba(0,0,0,.85);border-bottom:1px solid rgba(0,0,0,.06)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-picker-header button",
+      "declarations": "padding:0;color:rgba(0,0,0,.25);line-height:40px;background:transparent;border:0;cursor:pointer;transition:color .3s"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-picker-header>button:hover",
+      "declarations": "color:rgba(0,0,0,.85)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-picker-header-view button",
+      "declarations": "color:inherit;font-weight:inherit"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-picker-header-view button:hover",
+      "declarations": "color:#000;color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper",
+      "declarations": "position:relative;display:inline-block;height:32px;margin:0;padding:0 15px;color:rgba(0,0,0,.85);font-size:14px;line-height:30px;background:#fff;border-color:#d9d9d9;border-style:solid;border-width:1.02px 1px 1px 0;cursor:pointer;transition:color .3s,background .3s,border-color .3s,box-shadow .3s"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper a",
+      "declarations": "color:rgba(0,0,0,.85)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper:not(:first-child):before",
+      "declarations": "position:absolute;top:-1px;left:-1px;display:block;box-sizing:content-box;width:1px;height:100%;padding:1px 0;background-color:#d9d9d9;transition:background-color .3s;content:\"\""
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper:hover",
+      "declarations": "position:relative;color:#000;color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled)",
+      "declarations": "z-index:1;color:#000;color:var(--ant-primary-color);background:#fff;border-color:#000;border-color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):before",
+      "declarations": "background-color:#000;background-color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):first-child",
+      "declarations": "border-color:#000;border-color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):hover",
+      "declarations": "color:#0d0d0d;color:var(--ant-primary-5);border-color:#0d0d0d;border-color:var(--ant-primary-5)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):hover:before",
+      "declarations": "background-color:#0d0d0d;background-color:var(--ant-primary-5)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):active",
+      "declarations": "color:#000;color:var(--ant-primary-7);border-color:#000;border-color:var(--ant-primary-7)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):active:before",
+      "declarations": "background-color:#000;background-color:var(--ant-primary-7)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-group-solid .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled)",
+      "declarations": "color:#fff;background:#000;background:var(--ant-primary-color);border-color:#000;border-color:var(--ant-primary-color)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-group-solid .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):hover",
+      "declarations": "color:#fff;background:#0d0d0d;background:var(--ant-primary-5);border-color:#0d0d0d;border-color:var(--ant-primary-5)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-group-solid .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):active",
+      "declarations": "color:#fff;background:#000;background:var(--ant-primary-7);border-color:#000;border-color:var(--ant-primary-7)"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-disabled,.ant-radio-button-wrapper-disabled:first-child,.ant-radio-button-wrapper-disabled:hover",
+      "declarations": "color:rgba(0,0,0,.25);background-color:#f5f5f5;border-color:#d9d9d9"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-disabled:first-child",
+      "declarations": "border-left-color:#d9d9d9"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-disabled.ant-radio-button-wrapper-checked",
+      "declarations": "color:rgba(0,0,0,.25);background-color:#e6e6e6;border-color:#d9d9d9;box-shadow:none"
+    },
+    {
+      "source": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+      "selector": ".ant-radio-button-wrapper-checked:not([class*=\" ant-radio-button-wrapper-disabled\"]).ant-radio-button-wrapper:first-child",
+      "declarations": "border-right-color:#0d0d0d;border-right-color:var(--ant-primary-5)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Elliott Bay Book Company",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#154532",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#1b4b59",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#c20232",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#0d0d0d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9d9d9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.surface-warm": {
+      "value": "#f2eddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Brown, -apple-system, BlinkMacSystemFont, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Brown, -apple-system, BlinkMacSystemFont, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, -apple-system, BlinkMacSystemFont, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5715,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Poppins, -apple-system, BlinkMacSystemFont, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.5715,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.title-md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "accentColor": "{colors.accent}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-warm}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.event-listing": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "dateAccent": "{colors.secondary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".bm-btn-0",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b16af41d065232b3cda9592e01262178c0bdddc2cdcc94cb066dc863571248a3"
+      },
+      "#154532": {
+        "selector": ".bm-btn-1",
+        "property": "border",
+        "declaration": "2px solid rgba(21,69,50,1)",
+        "url": "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b16af41d065232b3cda9592e01262178c0bdddc2cdcc94cb066dc863571248a3"
+      },
+      "#333333": {
+        "selector": ".leaflet-control-layers-expanded",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4873060989924f8e92a321a0a38611ffd0252b5bdfddf7fce00abdc8ae2176a3"
+      },
+      "#666666": {
+        "selector": ".leaflet-div-icon",
+        "property": "border",
+        "declaration": "1px solid #666",
+        "url": "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4873060989924f8e92a321a0a38611ffd0252b5bdfddf7fce00abdc8ae2176a3"
+      },
+      "#0d0d0d": {
+        "selector": "html",
+        "property": "--ant-primary-5",
+        "declaration": "#0d0d0d",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#c20232": {
+        "selector": "html",
+        "property": "--ant-error-color-active",
+        "declaration": "#c20232",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#f5f5f5": {
+        "selector": ".ant-select-disabled.ant-select-multiple .ant-select-selector",
+        "property": "background",
+        "declaration": "#f5f5f5",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#d9d9d9": {
+        "selector": ".ant-select-disabled.ant-select-multiple .ant-select-selection-item",
+        "property": "border-color",
+        "declaration": "#d9d9d9",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#fafafa": {
+        "selector": ".ant-empty-img-simple-path",
+        "property": "fill",
+        "declaration": "#fafafa",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#f2eddd": {
+        "selector": ".eventCellActive",
+        "property": "color",
+        "declaration": "#f2eddd",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "#1b4b59": {
+        "selector": ".eventCellActive",
+        "property": "background-color",
+        "declaration": "#1b4b59",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Poppins\"",
+        "url": "https://www.elliottbaybook.com/shop.css?id=231848&cb=1786224151",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "b16af41d065232b3cda9592e01262178c0bdddc2cdcc94cb066dc863571248a3"
+      },
+      "-apple-system": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "BlinkMacSystemFont": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Segoe UI": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Roboto": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Oxygen": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Ubuntu": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Cantarell": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Fira Sans": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Droid Sans": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Roboto\",\"Oxygen\",\"Ubuntu\",\"Cantarell\",\"Fira Sans\",\"Droid Sans\",\"Helvetica Neue\",sans-serif",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      },
+      "Brown": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Brown\"",
+        "url": "https://www.elliottbaybook.com/static/css/main.81928fec.chunk.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "827f0511dcb0c3e846a32c035be40a0af3f203d8930fecc5ae087709bfb14967"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

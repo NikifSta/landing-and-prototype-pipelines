@@ -1,0 +1,799 @@
+{
+  "source_url": "https://toddlekind.com",
+  "final_url": "https://toddlekind.com/",
+  "captured_at": "2026-09-28T09:59:12.589681+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://toddlekind.com",
+      "final_url": "https://toddlekind.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro",
+      "final_url": "https://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "81686d0964dccebf83591646a2b04c5ba9c9fc988ee95aca99aed0ad14d70e17",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "final_url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://toddlekind.com/cdn/shop/t/244/assets/custom_styles.css?v=120636171832345718771787056920",
+      "final_url": "https://toddlekind.com/cdn/shop/t/244/assets/custom_styles.css?v=120636171832345718771787056920",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "76d7537bb7e3f3c8606609ff617a5a94b1d0d2ce47e05fed057dce3405458caf",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://toddlekind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://toddlekind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://toddlekind.com/cdn/shop/t/244/assets/announcement-bar.css?v=90793885594512150831783348194",
+      "final_url": "https://toddlekind.com/cdn/shop/t/244/assets/announcement-bar.css?v=90793885594512150831783348194",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "106191c6a48c26065d447a5f4bc33ebf851a40914b61eb42f54da3ff6894b14f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#f1ece5": {
+      "count": 11,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#ede7de": {
+      "count": 1,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#66402e": {
+      "count": 33,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 27,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#6f5e54": {
+      "count": 18,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#f7f3ec": {
+      "count": 7,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#a8b8a3": {
+      "count": 8,
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "#cacaca": {
+      "count": 4,
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 4,
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "#f6eee9": {
+      "count": 2,
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "#e93636": {
+      "count": 2,
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    }
+  },
+  "font_families": {
+    "Canela Deck": [
+      "https://toddlekind.com/"
+    ],
+    "Neue Haas Grotesk Text Pro": [
+      "https://toddlekind.com/"
+    ],
+    "sans-serif": [
+      "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "h1, h2, h3, h4, h5,\n      .h1, .h2, .h3, .h4, .h5,\n      .logolink.text-logo,\n      .customer-addresses .my-address .address-index",
+      "declarations": "font-family: \"Canela Deck\";\n        font-weight: 400;\n        letter-spacing: 0;\n        color: var(--color-text-primary);"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "body,\n      .body-font,\n      .paragraph,\n      .thb-product-detail .product-title  , p",
+      "declarations": "font-family: \"Neue Haas Grotesk Text Pro\";\n        font-weight: 400;\n        font-size: 18px;\n        line-height: 180%;\n        letter-spacing: 1px;\n        color: var(--color-body-primary);\n        letter-spacing: 1px;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": ":root",
+      "declarations": "--bg-body: #F1ECE5;\n        --bg-body-rgb: 241,236,229;\n        --bg-color-side-panel-footer: #ede7de;\n\n        --color-accent: #66402e;\n        --color-spotlight: #66402e;\n        --color-accent-rgb: 102,64,46;\n        --color-text-primary: #66402e;\n        --color-body-primary: #66402e;\n        --color-text-secondary: #ffffff;\n        --color-btn-prime-bg: #6F5E54;\n        --color-btn-prime-color: #ffffff;\n        --color-sec-color: #6F5E54;\n        --color-sec-bg: rgba(0,0,0,0);\n\n\n        --color-accent3: #f6f6f0;\n\n        --color-accent-bg: #f7f3ec;\n        --color-accent-border: #66402e;\n\n        --color-border: #66402E;\n        --color-overlay-rgb: 12,13,13;\n        --color-form-border"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "background-color:#6f5e54\nheight : 50px;\nheight : 50px;\n\n:root",
+      "declarations": "--logo-height: 43px;\n    \t--logo-height-mobile: 27px;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "--overlay-opacity: 0.5\ncolor: #66402e;\ncolor : #66402e\n #shopify-section-template--26215986561289__background_video_4LYj8G .button.button-background-video",
+      "declarations": "background: #6f5e54; border-color: #6f5e54 !important; border-radius: 4px; font-size: 16px; line-height: 20px;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "#shopify-section-template--26215986561289__background_video_4LYj8G .button.button-background-video:hover",
+      "declarations": "background: #a8b8a3; border-color: #a8b8a3 !important; opacity: 1; color: white !important;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": ":#414141;--color-accent-rgb: 65,65,65\n--ratio-percent: 100%;\nobject-position: 50.0% 50.0%;\nobject-position: 50.0% 50.0%;\n #shopify-section-template--26215986561",
+      "declarations": "border-color: #a8b8a3; color: #a8b8a3;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": "#shopify-section-template--26215986561289__image_with_text_dLimUR .button-sec:hover",
+      "declarations": "background: #a8b8a3; color: white;"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": ":root",
+      "declarations": "--accessease-icon-fill-color: rgb(0, 0, 0);\n           --accessease-icon-stroke-color: rgb(255, 255, 255);\n           --accessease-widget-button-bg: rgb(0, 86, 179);\n           --accessease-widget-button-text: rgb(255, 255, 255);\n           --accessease-widget-border-color: rgba(0, 0, 0, 0.3);\n           --accessease-widget-bg: rgb(239, 241, 245);\n           --accessease-widget-text: rgb(0, 0, 0);\n           --accessease-widget-text-subdued: rgba(0, 0, 0, 0.85);\n           --accessease-widget-card-bg: rgb(255, 255, 255);\n           --accessease-widget-button-bg-10: rgba(0, 86, 179, 0.1);\n           --accessease-widget-button-bg-20: rgba(0, 86, 179, 0.2);\n           --accessease-position-top:"
+    },
+    {
+      "source": "https://toddlekind.com/",
+      "selector": ":root",
+      "declarations": "--accessease-position-top: 20px;\n             --accessease-position-right: 20px;\n             --accessease-position-bottom: 20px;\n             --accessease-position-left: 20px;"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;background:var(--bg-body, #fff);font-family:-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Ubuntu,roboto,noto,arial,sans-serif;font-weight:400;line-height:1.75;color:var(--color-accent);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "font-family:-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Ubuntu,roboto,noto,arial,sans-serif;font-style:normal;font-weight:700;color:var(--color-accent);text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small",
+      "declarations": "line-height:0;color:#cacaca"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".subheader",
+      "declarations": "margin-top:.2rem;margin-bottom:.5rem;font-weight:400;line-height:1.4;color:#8a8a8a"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".jdgm-revs-tab-btn.btn",
+      "declarations": "background-color:var(--color-accent)!important"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".side-panel-header",
+      "declarations": "position:sticky;top:0;left:0;z-index:10;margin-bottom:0;padding:16px 0;background-color:#f6eee9"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "cart-drawer product-recommendations .h3",
+      "declarations": "font-family:Neue Haas Grotesk Text Pro;text-transform:uppercase;font-weight:500;font-size:18px"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": "cart-drawer .product-cart-item--container .product-cart-item-options",
+      "declarations": "font-family:Neue Haas Grotesk Text Pro;font-size:14px;line-height:160%;font-weight:400;letter-spacing:1px;color:var(--color-text-primary);opacity:1"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".template-index .header-transparent.mobile-nav-active",
+      "declarations": "background-color:#f7f3ec!important"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".template-index .header-transparent.menu-hover",
+      "declarations": "background-color:#f7f3ec;transition:all .1s ease-in-out"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".template-index .header-transparent.mobile-nav-active .columns-transparent-header .mobile-toggle span",
+      "declarations": "background-color:#66402e"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".template-index .columns-transparent-header .thb-full-menu>li>a",
+      "declarations": "font-size:15px!important;color:#fff!important;text-transform:capitalize!important"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".template-index .header-transparent.menu-hover .thb-full-menu>li>a",
+      "declarations": "color:#66402e!important"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".thb-quick-search .product-cart-item .cart-product-link",
+      "declarations": "color:var(--color-header-links, --color-accent)"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".thb-quick-search .product-cart-item .cart-product-link:hover",
+      "declarations": "color:var(--color-header-links-hover, --color-accent2);opacity:1"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".thb-quick-search--popular .button.outline",
+      "declarations": "margin-right:5px;display:inline-flex;border:1px solid var(--color-header-links, --color-accent);color:var(--color-header-links, --color-accent)"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".thb-quick-search--popular .button.outline:hover",
+      "declarations": "background:var(--color-header-links, --color-accent);color:var(--color-header-bg, #fff)"
+    },
+    {
+      "source": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+      "selector": ".shopify-payment-button__more-options.white,.text-button.white",
+      "declarations": "color:var(--color-text-secondary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#66402e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#66402e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#f1ece5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#66402e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6f5e54",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e6e6e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f3ec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value": "#a8b8a3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.surface-panel": {
+      "value": "#ede7de",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/"
+      ]
+    },
+    "colors.surface-header": {
+      "value": "#f6eee9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "colors.muted-text": {
+      "value": "#8a8a8a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#cacaca",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "colors.sale": {
+      "value": "#e93636",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Canela Deck, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Canela Deck, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Canela Deck, serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Neue Haas Grotesk Text Pro, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.8,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Neue Haas Grotesk Text Pro, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Neue Haas Grotesk Text Pro, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Neue Haas Grotesk Text Pro, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.25,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.muted}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.accent-sage}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.accent-sage}",
+        "hoverTextColor": "{colors.on-primary}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.border-strong}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "priceTypography": "{typography.body-md}",
+        "titleTypography": "{typography.title-md}",
+        "rounded": "{rounded.sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "headlineTypography": "{typography.display-xl}",
+        "subtextTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-panel}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.sale}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border-strong}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.trust-badge-strip": {
+      "value": {
+        "backgroundColor": "{colors.surface-header}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#f1ece5": {
+        "selector": ":root",
+        "property": "--bg-body",
+        "declaration": "#F1ECE5",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#ede7de": {
+        "selector": ":root",
+        "property": "--bg-color-side-panel-footer",
+        "declaration": "#ede7de",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#66402e": {
+        "selector": ":root",
+        "property": "--color-accent",
+        "declaration": "#66402e",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-text-secondary",
+        "declaration": "#ffffff",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#6f5e54": {
+        "selector": ":root",
+        "property": "--color-btn-prime-bg",
+        "declaration": "#6F5E54",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#f7f3ec": {
+        "selector": ":root",
+        "property": "--color-accent-bg",
+        "declaration": "#f7f3ec",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#a8b8a3": {
+        "selector": "#shopify-section-template--26215986561289__background_video_4LYj8G .button.button-background-video:hover",
+        "property": "background",
+        "declaration": "#a8b8a3",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "#cacaca": {
+        "selector": "h1 small,.h1 small,h2 small,.h2 small,h3 small,.h3 small,h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small",
+        "property": "color",
+        "declaration": "#cacaca",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      },
+      "#8a8a8a": {
+        "selector": "blockquote,blockquote p",
+        "property": "color",
+        "declaration": "#8a8a8a",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      },
+      "#e6e6e6": {
+        "selector": "kbd",
+        "property": "background-color",
+        "declaration": "#e6e6e6",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      },
+      "#f6eee9": {
+        "selector": ".side-panel-header",
+        "property": "background-color",
+        "declaration": "#f6eee9",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      },
+      "#e93636": {
+        "selector": "input[type=text].invalid,input[type=password].invalid,input[type=date].invalid,input[type=datetime].invalid,input[type=email].invalid,input[type=number].invalid,input[type=search].invalid,input[type=tel].invalid,input[type=time].invalid,input[type=url].invalid,textarea.invalid,select.invalid",
+        "property": "border-color",
+        "declaration": "#e93636",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      }
+    },
+    "font_families": {
+      "Canela Deck": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Canela Deck\"",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "Neue Haas Grotesk Text Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Neue Haas Grotesk Text Pro\"",
+        "url": "https://toddlekind.com/",
+        "snapshot": "homepage.html",
+        "sha256": "73957ce4af3d2a10a40e321622a2c7801678924a720eb0d4a10b4f477c424ac5"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Ubuntu,roboto,noto,arial,sans-serif",
+        "url": "https://toddlekind.com/cdn/shop/t/244/assets/app.css?v=114101869383805193211784212623",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "38dcf406bab7cc054ab5535ab5281ed5c6bac1a10c6921f6c4a3b5965bdd4ce7"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

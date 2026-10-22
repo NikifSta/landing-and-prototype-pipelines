@@ -1,0 +1,931 @@
+{
+  "source_url": "https://4xspower.com/",
+  "final_url": "https://4xspower.com/",
+  "captured_at": "2026-09-29T03:59:02.248457+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://4xspower.com/",
+      "final_url": "https://4xspower.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://4xspower.com/cdn/shop/t/9/assets/theme.css?v=157763399158846783781745992658",
+      "final_url": "https://4xspower.com/cdn/shop/t/9/assets/theme.css?v=157763399158846783781745992658",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ed5f6d3e666f9f3453a19418cfcf2143b7d5abc7cae2e8b11059ab238420221e",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://4xspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://4xspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019fa834-0e23-7f54-ac13-2cb3321f8032/heartcoding-sales-and-discounts-62/assets/hc-countdown.css",
+      "final_url": "https://cdn.shopify.com/extensions/019fa834-0e23-7f54-ac13-2cb3321f8032/heartcoding-sales-and-discounts-62/assets/hc-countdown.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7e6fc88ca5f5333f07e9aa9d280da3d7d7cced180891f9ea952216792bc467b",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Rubik:300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Rubik:300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f727d02e91ac06667d1300fda6f7956bb60a8a16ba58c7f4f71fcaedc9e9bcdf",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Google+Symbols&icon_names=top_quality_store&display=block",
+      "final_url": "https://fonts.googleapis.com/css2?family=Google+Symbols&icon_names=top_quality_store&display=block",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c8511f091b10fd2923f0d99f8488e485263aeca613c85ea8b166ede49951102a",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/Icon-Dm_usQ00.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/Icon-Dm_usQ00.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "02675ae96c2b2fdcc8a0116e2f7689c32a5810f8b370f65a0ed04969d33c1711",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/StarRating-CcPYmFC3.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/StarRating-CcPYmFC3.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ddab0dee56c21bb2fc65889f9bdb6089a3da54e4aba2c2a98d54f1595f75520",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/review_snippet-Dl-d3Bge.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/review_snippet-Dl-d3Bge.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2da4f188c4ce9e42584de46e5ab54fb67f0d8a54854b91fa102d94d04f849e8b",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/JCarousel-tmrYLSv7.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/JCarousel-tmrYLSv7.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "65d863ad5c7e4e54d9b3e4c2fc280db98f8dccd9d608bfe070f3085714ec5632",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/Cluster-CiawKNFa.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/Cluster-CiawKNFa.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ddaf250ed9349076dbc820ebc1ab74a8a2e42706b940f271f622bc8b65957e72",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019f5aeb-d1e0-7295-8ed0-d6ef28c142b1/year-make-model-advance-search-381/assets/ymm-utility.css",
+      "final_url": "https://cdn.shopify.com/extensions/019f5aeb-d1e0-7295-8ed0-d6ef28c142b1/year-make-model-advance-search-381/assets/ymm-utility.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7936109104f364d59870e2a32382f36befcc97450ad5d8b53335b9297c58697",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019f5aeb-d1e0-7295-8ed0-d6ef28c142b1/year-make-model-advance-search-381/assets/ymm-searchbox.css",
+      "final_url": "https://cdn.shopify.com/extensions/019f5aeb-d1e0-7295-8ed0-d6ef28c142b1/year-make-model-advance-search-381/assets/ymm-searchbox.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ae33ee0465e744c7dd49dc20f00ad8addbfcd23fa5cf454a1890f5bd3c196f7c",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://4xspower.com/#computed-style-snapshot",
+      "final_url": "https://4xspower.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "8abc011ba7ebf2658e80f755400091b81d75f454ecd624c2f6ea20272cbff483",
+      "snapshot": "rendered-style-13.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Rubik:300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Rubik:300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f727d02e91ac06667d1300fda6f7956bb60a8a16ba58c7f4f71fcaedc9e9bcdf",
+      "snapshot": "import-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 204,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#000000": {
+      "count": 65,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#ea3335": {
+      "count": 1,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#428445": {
+      "count": 1,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#f49701": {
+      "count": 9,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#ff9900": {
+      "count": 10,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#282828": {
+      "count": 26,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 27,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 26,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 6,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#303030": {
+      "count": 17,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "#108474": {
+      "count": 7,
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Tomorrow": [
+      "https://4xspower.com/"
+    ],
+    "Rubik": [
+      "https://4xspower.com/"
+    ],
+    "sans-serif": [
+      "https://4xspower.com/"
+    ],
+    "Barlow": [
+      "https://4xspower.com/"
+    ],
+    "Barlow Condensed": [
+      "https://4xspower.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://4xspower.com/",
+      "selector": "--header-height: 99.5px; --header-height-without-bottom-nav: 99.5px; --window-height: 1000px;\n\n  \n  @font-face",
+      "declarations": "font-family: Tomorrow;\n  font-weight: 700;\n  font-style: normal;\n  font-display: swap;\n  src: url(\"//4xspower.com/cdn/fonts/tomorrow/tomorrow_n7.ead42505b112ff6838e42681e7271fa7f84c060c.woff2\") format(\"woff2\"),\n       url(\"//4xspower.com/cdn/fonts/tomorrow/tomorrow_n7.d9db03f14cdad10cbe1ced92f0eabfb96a8f5f85.woff\") format(\"woff\");"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 64px;\n      --vertical-breather-tight: 64px;\n\n      \n      --heading-xsmall-font-size: 11px;\n      --heading-small-font-size: 12px;\n      --heading-large-font-size: 48px;\n      --heading-h1-font-size: 48px;\n      --heading-h2-font-size: 36px;\n      --heading-h3-font-size: 30px;\n      --heading-h4-font-size: 22px;\n      --heading-h5-font-size: 18px;\n      --heading-h6-font-size: 16px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 80px;\n      --vertical-breather-tight: 64px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 58px;\n      --heading-h1-font-size: 50px;\n      --heading-h2-font-size: 44px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 26px;\n      --heading-h5-font-size: 22px;\n      --heading-h6-font-size: 16px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 90px;\n      --vertical-breather-tight: 64px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps button,.gps input,.gps optgroup,.gps select,.gps textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps [type=button],.gps [type=reset],.gps [type=submit],.gps button",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps .gp-instant-page [data-slot=children].product-feature-image:after",
+      "declarations": "border:unset;color:#aaa;visibility:visible"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #F49701;--jdgm-secondary-color: rgba(244,151,1,0.1);--jdgm-star-color: #F49701;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #F49701;--jdgm-paginate-color: #F49701;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #F49701"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".shopify-pc__banner__dialog button",
+      "declarations": "border: none;\n      text-decoration: none;\n      font-family: inherit;\n      padding: 8px 25px;\n      \n      margin: 15px 20px 0 0;\n      font-size: 100%;\n      flex-basis: 50%;\n      border-radius: 2px;\n      line-height: 120%;\n      height: unset;\n      text-align: center;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".shopify-pc__banner__dialog button.shopify-pc__banner__btn-accept",
+      "declarations": "border: 1px solid hsl(0deg, 0%, 0%, 100%);\n      \n    border: 1px solid hsl(0deg, 0%, 0%, 100%);\n    color: hsl(0deg, 0%, 0%, 100%);\n    background: hsl(0deg, 0%, 100%, 100%);"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".shopify-pc__banner__dialog button.shopify-pc__banner__btn-manage-prefs",
+      "declarations": "text-decoration: underline;\n      \n    border: none;\n    color: hsl(0deg, 0%, 0%, 100%);\n    background: transparent;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".shopify-pc__banner__dialog button.shopify-pc__banner__btn-decline",
+      "declarations": "border: 1px solid hsl(0deg, 0%, 0%, 100%);\n      \n    border: 1px solid hsl(0deg, 0%, 0%, 100%);\n    color: hsl(0deg, 0%, 0%, 100%);\n    background: hsl(0deg, 0%, 100%, 100%);"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "#ymm_searchbox .btn.ymm_search, #ymm_searchbox .btn.ymm_search[disabled]",
+      "declarations": "border-color: #FF9900;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "#ymm_searchbox .btn.ymm_search",
+      "declarations": "background-color: #FF9900; color: #ffffff;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "#ymm_searchbox .btn.ymm_reset",
+      "declarations": "border-color: #dddddd; background-color: #dddddd; color: #3d4246;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "display: block;\n\n  :root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 255, 255, 255;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "#shopify-section-sections--24635436499220__header",
+      "declarations": "--header-background: 40, 40, 40;\n    --header-text-color: 255, 255, 255;\n    --header-border-color: 72, 72, 72;\n    --reduce-header-padding: 1;position: -webkit-sticky;\n      position: sticky;\n      top: 0;z-index: 4;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps-632544704428245989 .gp-group\\/button:active .group-active\\/button\\:\\!gp-text-inherit",
+      "declarations": "color:inherit!important"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":100%;--op-mobile:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb-mobile:7px;--ta:center\n[data-id=\"gJQktIO7rV\"].gp-button-base::before, [data-id=\"gJQktIO7",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: solid;\n  border-width: 0px 0px 4px 0px;\n  border-color: #E4893A;\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":100%;--op-mobile:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb-mobile:7px;--ta:center\n[data-id=\"gQkp2NvYSR\"].gp-button-base::before, [data-id=\"gQkp2NvY",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: solid;\n  border-width: 0px 0px 4px 0px;\n  border-color: #E4893A;\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":100%;--op-mobile:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb-mobile:7px;--ta:center\n[data-id=\"gF7_47NmKt\"].gp-button-base::before, [data-id=\"gF7_47Nm",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: solid;\n  border-width: 0px 0px 4px 0px;\n  border-color: #E4893A;\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ":100%;--op-mobile:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb-mobile:7px;--ta:center\n[data-id=\"gJwFB_Y615\"].gp-button-base::before, [data-id=\"gJwFB_Y6",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: solid;\n  border-width: 0px 0px 4px 0px;\n  border-color: #E4893A;\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps-633690233661030999 .gp-group\\/button:active .group-active\\/button\\:\\!gp-text-inherit",
+      "declarations": "color:inherit!important"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--ta:left\n[data-id=\"gChemLnk2a\"].gp-button-base::before, [data-id=\"gChemLnk",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: none;\n  border-width: 1px 1px 1px 1px;\n  border-color: var(--g-c-line-3, line-3);\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--ta:left\n[data-id=\"gChemLnk2b\"].gp-button-base::before, [data-id=\"gChemLnk",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: none;\n  border-width: 1px 1px 1px 1px;\n  border-color: var(--g-c-line-3, line-3);\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--ta:left\n[data-id=\"gChemLnk2c\"].gp-button-base::before, [data-id=\"gChemLnk",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: none;\n  border-width: 1px 1px 1px 1px;\n  border-color: var(--g-c-line-3, line-3);\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "x;--bc:var(--g-c-line-3, line-3);--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--ta:left\n[data-id=\"gChemCmp2\"].gp-button-base::before, [data-id=\"gChemCm",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: none;\n  border-width: 1px 1px 1px 1px;\n  border-color: var(--g-c-line-3, line-3);\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps-634706080517063430 .gp-group\\/button:active .group-active\\/button\\:\\!gp-text-inherit",
+      "declarations": "color:inherit!important"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": "bbrr:0px;--btlr:0px;--btrr:0px;--op:100%;--pl:20px;--pl-tablet:20px;--pl-mobile:20px;--ta:left\n[data-id=\"gpJBWbTdHN\"].gp-button-base::before, [data-id=\"gpJBWbTd",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: none;\n  border-width: 1px 1px 1px 1px;\n  border-color: var(--g-c-line-3, line-3);\n  \n    \n      border-bottom-left-radius: 0px;\n      border-bottom-right-radius: 0px;\n      border-top-left-radius: 0px;\n      border-top-right-radius: 0px;"
+    },
+    {
+      "source": "https://4xspower.com/",
+      "selector": ".gps-633690313453470701 .gp-group\\/button:active .group-active\\/button\\:\\!gp-text-inherit",
+      "declarations": "color:inherit!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "0474c4e669f8aa37e919f2134bbb7650891b580a9b46bf76a8f369f640d7b917"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ff9900",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.primary-strong": {
+      "value": "#f49701",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#108474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6d6d6d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.hairline-dark": {
+      "value": "#303030",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.header-surface": {
+      "value": "#282828",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#ea3335",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#428445",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://4xspower.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Tomorrow, sans-serif",
+        "fontSize": "50px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Tomorrow, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Barlow Condensed, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Rubik, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "height": "52px"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.header-surface}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "borderColor": "{colors.hairline-dark}",
+        "height": "99.5px"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.header-surface}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.fitment-finder": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.lg}",
+        "submitButtonColor": "{colors.primary}",
+        "resetButtonColor": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary-strong}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--payment-terms-background-color",
+        "declaration": "#ffffff",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#00000000": {
+        "selector": ".hc-sale-tag",
+        "property": "border-right",
+        "declaration": "40px solid transparent",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#000000": {
+        "selector": ".gps",
+        "property": "--g-c-brand",
+        "declaration": "#000",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#ea3335": {
+        "selector": ".gps",
+        "property": "--g-c-error",
+        "declaration": "#ea3335",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#428445": {
+        "selector": ".gps",
+        "property": "--g-c-success",
+        "declaration": "#428445",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#f49701": {
+        "selector": ":root",
+        "property": "--jdgm-primary-color",
+        "declaration": "#F49701",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#ff9900": {
+        "selector": "#ymm_searchbox .btn.ymm_search, #ymm_searchbox .btn.ymm_search[disabled]",
+        "property": "border-color",
+        "declaration": "#FF9900",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#dddddd": {
+        "selector": "#ymm_searchbox .btn.ymm_reset",
+        "property": "border-color",
+        "declaration": "#dddddd",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#282828": {
+        "selector": "#shopify-section-sections--24635436499220__custom_liquid_BJUp6R #find-your-battery #ymm_searchbox h2",
+        "property": "color",
+        "declaration": "#282828",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#f4f4f4": {
+        "selector": "inline-style",
+        "property": "--dynamic-source-color",
+        "declaration": "#F4F4F4",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#1a1a1a": {
+        "selector": "inline-style",
+        "property": "--c",
+        "declaration": "#1a1a1a",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#6d6d6d": {
+        "selector": "inline-style",
+        "property": "--c",
+        "declaration": "#6d6d6d",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#303030": {
+        "selector": "inline-style",
+        "property": "--jdgm-snippet-text-color",
+        "declaration": "#303030",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "#108474": {
+        "selector": "inline-style",
+        "property": "--jdgm-snippet-star-color",
+        "declaration": "#108474",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      }
+    },
+    "font_families": {
+      "Tomorrow": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Tomorrow",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "Rubik": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Rubik",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Tomorrow, sans-serif",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "Barlow": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Barlow\"",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      },
+      "Barlow Condensed": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Barlow Condensed\"",
+        "url": "https://4xspower.com/",
+        "snapshot": "homepage.html",
+        "sha256": "110e763ae5b8bbb39f41b856fca458405be87862ff3b3bdb22240b8123107188"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

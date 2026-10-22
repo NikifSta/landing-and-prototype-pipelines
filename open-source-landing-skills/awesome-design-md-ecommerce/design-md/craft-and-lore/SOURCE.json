@@ -1,0 +1,923 @@
+{
+  "source_url": "https://craftandlore.com",
+  "final_url": "https://craftandlore.com/",
+  "captured_at": "2026-09-28T09:50:53.863724+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://craftandlore.com",
+      "final_url": "https://craftandlore.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "final_url": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a283a43e2ac897a9d4f4437afa0ee2f13bd9941612142e4696f623092e44f170",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://craftandlore.com/cdn/shop/t/19/assets/photoswipe.min.css?v=165459975419098386681743408844",
+      "final_url": "https://craftandlore.com/cdn/shop/t/19/assets/photoswipe.min.css?v=165459975419098386681743408844",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d8e96a1ee8566ae849e74d55df99ae9ef1915d2931e03f6a1ecf20296753a0f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://craftandlore.com/cdn/shop/t/19/assets/theme.min.css?v=69547489316746713911743408844",
+      "final_url": "https://craftandlore.com/cdn/shop/t/19/assets/theme.min.css?v=69547489316746713911743408844",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "725f214c039d682c1cc1885f7b5509e52700a609d8bd425899fd93c00ebd09c2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036",
+      "final_url": "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "813974e1350a6f761f0ec49d6bbd33c29397ed9eff2bc2193797441d607b8c29",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://craftandlore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://craftandlore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#494949": {
+      "count": 6,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 55,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#dbd1be": {
+      "count": 4,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#e68819": {
+      "count": 6,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#282520": {
+      "count": 5,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#2f2d27": {
+      "count": 1,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#cfbb99": {
+      "count": 13,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#111111": {
+      "count": 15,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#d67a15": {
+      "count": 1,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#b1660d": {
+      "count": 2,
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://craftandlore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Francois One": [
+      "https://craftandlore.com/"
+    ],
+    "Funnel Sans": [
+      "https://craftandlore.com/"
+    ],
+    "sans-serif": [
+      "https://craftandlore.com/"
+    ],
+    "Open Sans Condensed": [
+      "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "body",
+      "declarations": "background-color: var(--body-color);\n      min-height: 100%;\n      margin: 0;\n      display: grid;\n      grid-template-rows: auto auto 1fr auto;\n      grid-template-columns: 100%;\n      overflow-x: hidden;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "object-fit:cover;object-position:50.0% 50.0%!important;\n object-fit:cover;object-position:50.0% 50.0%!important;\n\n\n  :root",
+      "declarations": "--logo-max-width: 160px;\n    --header-overlay-background-color: #222222;\n\n    \n      --sticky-header-offset: -1px;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".header-section:not(.sticky-header) .overlay-header,\n  .contact-page .header-section.sticky-header:not(.sticked) .overlay-header,\n  .contact-page .header-sectio",
+      "declarations": "background-color: rgba(34, 34, 34, 0.0);"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".template-index .overlay-header.force-hover,\n  \n  .template-list-collections .overlay-header.force-hover\n  .contact-page .overlay-header.force-hover",
+      "declarations": "background-color: #222222;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "position:relative;\nwidth: 100%;\n\n  .ai-product-features-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "padding: 40px 20px;\n    background-color: #282520;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__heading-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "text-align: center;\n    margin: 0 0 40px;\n    color: #dbd1be;\n    font-size: 36px;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__image-placeholder-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "width: 100%;\n    aspect-ratio: 1;\n    background-color: #f4f4f4;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    position: relative;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__empty-state-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "position: absolute;\n    bottom: 20px;\n    left: 50%;\n    transform: translateX(-50%);\n    padding: 8px 16px;\n    font-size: 14px;\n    color: #666;\n    text-align: center;\n    pointer-events: none;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__title-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "margin: 0 0 8px;\n    color: #dbd1be;\n    font-size: 20px;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__title-link-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "color: inherit;\n    text-decoration: none;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__price-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "margin: 0 0 16px;\n    color: #cfbb99;\n    font-size: 18px;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__description-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "margin: 0 0 20px;\n    color: #cfbb99;\n    font-size: 14px;\n    line-height: 1.5;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__button-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh",
+      "declarations": "display: inline-block;\n    padding: 12px 24px;\n    background-color: #e68819;\n    color: #ffffff;\n    text-decoration: none;\n    border-radius: 4px;\n    transition: background-color 0.3s ease;\n    border: none;\n    cursor: pointer;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-product-features__button-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh:hover",
+      "declarations": "background-color: #d67a15;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".dynamic-section-button--grid-item--template--17109469855809__featured_collection_RGcpTP",
+      "declarations": "color: #b1660d !important;\n      --link-border-color: rgba(177, 102, 13, 0.5);"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "nt;\nmax-width: 1920px; max-height: 1280px;  object-fit:cover;object-position:50.0% 50.0%!important;\n\n  \n\n  \n    .dynamic-section-button--view-all--template--171",
+      "declarations": "color: #ffffff !important;\n      background-color: #b1660d;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".dynamic-section-button--grid-item--template--17109469855809__featured_collection_hAna4A",
+      "declarations": "color: #494949 !important;\n      --link-border-color: rgba(73, 73, 73, 0.5);"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "nt;\nmax-width: 2500px; max-height: 1667px;  object-fit:cover;object-position:50.0% 50.0%!important;\n\n  \n\n  \n    .dynamic-section-button--view-all--template--171",
+      "declarations": "color: #cfbb99 !important;\n      background-color: #494949;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-banner-body-aq1rlrk9wtvzinvv3waigenblock70b88f2chjkvw",
+      "declarations": "margin: 0 0 24px;\n    font-size: 18px;\n    line-height: 1.5;\n    color: #dbd1be;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-banner-button-aq1rlrk9wtvzinvv3waigenblock70b88f2chjkvw",
+      "declarations": "display: inline-block;\n    padding: 14px 32px;\n    background-color: #e68819;\n    color: #ffffff;\n    text-decoration: none;\n    border-radius: 4px;\n    font-size: 16px;\n    transition: all 0.3s ease;\n    border: none;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".ai-banner-button-aq1rlrk9wtvzinvv3waigenblock70b88f2chjkvw:hover",
+      "declarations": "background-color: #d17a15;\n    color: #ffffff;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".dynamic-section-button--grid-item--template--17109469855809__featured_collection_GgbHUx",
+      "declarations": "color: #e68819 !important;\n      --link-border-color: rgba(230, 136, 25, 0.5);"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "--padding-section-top: 60px; --padding-section-bottom: 60px;\n\n  \n\n  \n    .dynamic-section-button--navigation--template--17109469855809__featured_collection_GgbH",
+      "declarations": "color: #ffffff !important;\n      background-color: #e68819;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": "nt;\nmax-width: 1307px; max-height: 1307px;  object-fit:cover;object-position:50.0% 50.0%!important;\n\n  \n\n  \n    .dynamic-section-button--view-all--template--171",
+      "declarations": "color: #ffffff !important;\n      background-color: #e68819;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".back-to-top-button",
+      "declarations": "border: none;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://craftandlore.com/",
+      "selector": ".btn.btn--secondary",
+      "declarations": "color: #fff !important;"
+    },
+    {
+      "source": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://craftandlore.com/cdn/shop/t/19/assets/swiper-bundle.min.css?v=127370101718424465871743408844",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Craft and Lore Handmade Heritage Leather Goods North Idaho",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#e68819",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#d67a15",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value": "#b1660d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#494949",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f4f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f8f8f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#282520",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.text-on-dark": {
+      "value": "#dbd1be",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.text-on-dark-muted": {
+      "value": "#cfbb99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#28a745",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#dc3545",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://craftandlore.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Francois One, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Francois One, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Funnel Sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Funnel Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Funnel Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans Condensed, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans Condensed, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.primary-hover}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.accent-warm}",
+        "borderColor": "{colors.accent-warm}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.text-on-dark}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hairlineColor": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "priceColor": "{colors.accent-warm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.text-on-dark}",
+        "overlayColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.text-on-dark-muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "hairlineColor": "#2f2d27"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-warm}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.text-on-dark}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#494949": {
+        "selector": ":root",
+        "property": "--sale-badge-color",
+        "declaration": "#494949",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--badge-font-color",
+        "declaration": "#fff",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#dbd1be": {
+        "selector": ":root",
+        "property": "--text-color",
+        "declaration": "#dbd1be",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#e68819": {
+        "selector": ":root",
+        "property": "--link-color",
+        "declaration": "#E68819",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#f8f8f8": {
+        "selector": ":root",
+        "property": "--on-sale-color",
+        "declaration": "#f8f8f8",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#282520": {
+        "selector": ":root",
+        "property": "--body-color",
+        "declaration": "#282520",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#2f2d27": {
+        "selector": ":root",
+        "property": "--body-secondary-color-darken05",
+        "declaration": "#2f2d27",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#cfbb99": {
+        "selector": ":root",
+        "property": "--overlay-header-text-color",
+        "declaration": "#cfbb99",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#111111": {
+        "selector": ":root",
+        "property": "--color-scheme-feature-background",
+        "declaration": "#111111",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#28a745": {
+        "selector": ":root",
+        "property": "--success-color",
+        "declaration": "#28a745",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#dc3545": {
+        "selector": ":root",
+        "property": "--error-color",
+        "declaration": "#DC3545",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#000000": {
+        "selector": ".ai-video-banner__overlay-atxqxzmrjukdrnxdwwaigenblock5cc1507kbbg49",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#f4f4f4": {
+        "selector": ".ai-video-banner__placeholder-atxqxzmrjukdrnxdwwaigenblock5cc1507kbbg49",
+        "property": "background-color",
+        "declaration": "#f4f4f4",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#666666": {
+        "selector": ".ai-video-banner__empty-state-atxqxzmrjukdrnxdwwaigenblock5cc1507kbbg49",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#00000000": {
+        "selector": ".ai-collection-overlay-abvfotglhahhyrnhpcaigenblock598b897dtcbgx",
+        "property": "background",
+        "declaration": "linear-gradient(\n      to bottom,\n      rgba(0, 0, 0, 0) 0%,\n      rgba(0, 0, 0, 0.6) 100%\n    )",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#d67a15": {
+        "selector": ".ai-product-features__button-auhdarxk5qnnhoww5uaigenblockccbcb8c6epnyh:hover",
+        "property": "background-color",
+        "declaration": "#d67a15",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#b1660d": {
+        "selector": ".dynamic-section-button--grid-item--template--17109469855809__featured_collection_RGcpTP",
+        "property": "color",
+        "declaration": "#b1660d",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "#333333": {
+        "selector": ".summary:hover",
+        "property": "background-color",
+        "declaration": "#333",
+        "url": "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "813974e1350a6f761f0ec49d6bbd33c29397ed9eff2bc2193797441d607b8c29"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://craftandlore.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Francois One": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Francois One\"",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "Funnel Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Funnel Sans\"",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "sans-serif": {
+        "selector": ".ai-video-banner__title-atxqxzmrjukdrnxdwwaigenblock5cc1507kbbg49",
+        "property": "font-family",
+        "declaration": "\"Francois One\", sans-serif",
+        "url": "https://craftandlore.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6c91daedfc47a44ab051ba50ab2dc587a933dce0e3ad026b17c0f78276c70b42"
+      },
+      "Open Sans Condensed": {
+        "selector": ".popquestions h3",
+        "property": "font-family",
+        "declaration": "Open Sans Condensed",
+        "url": "https://craftandlore.com/cdn/shop/t/19/assets/custom.css?v=76892995056679937101768848036",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "813974e1350a6f761f0ec49d6bbd33c29397ed9eff2bc2193797441d607b8c29"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

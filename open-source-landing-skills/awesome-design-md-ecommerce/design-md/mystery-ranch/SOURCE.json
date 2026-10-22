@@ -1,0 +1,847 @@
+{
+  "source_url": "https://mysteryranch.com",
+  "final_url": "https://www.mysteryranch.com/",
+  "captured_at": "2026-09-29T04:22:05.999610+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mysteryranch.com",
+      "final_url": "https://www.mysteryranch.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "final_url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 135,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#dddddd": {
+      "count": 21,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 8,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#dff0d8": {
+      "count": 4,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#d9edf7": {
+      "count": 4,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 4,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#f2dede": {
+      "count": 4,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#ea7600": {
+      "count": 28,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#c6690a": {
+      "count": 12,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#231f20": {
+      "count": 23,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#6d6e71": {
+      "count": 44,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "#c01a29": {
+      "count": 5,
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    }
+  },
+  "font_families": {
+    "Industry": [
+      "https://www.mysteryranch.com/"
+    ],
+    "Open Sans": [
+      "https://www.mysteryranch.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.mysteryranch.com/"
+    ],
+    "Helvetica": [
+      "https://www.mysteryranch.com/"
+    ],
+    "Arial": [
+      "https://www.mysteryranch.com/"
+    ],
+    "sans-serif": [
+      "https://www.mysteryranch.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.mysteryranch.com/",
+      "selector": "#mission-video-jumbotron .jumbotron-subheader",
+      "declarations": "font-family: \"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn>.caret,.facets-facet-list-filters-see-more-less>.caret,.dropup>.btn>.caret,.dropup>.facets-facet-list-filters-see-more-less>.caret",
+      "declarations": "border-top-color:#000 !important"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-striped>tbody>tr:nth-child(odd)",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "tbody>tr>td.active,.table>tbody>tr>th.active,.table>tbody>tr.active>td,.table>tbody>tr.active>th,.table>tfoot>tr>td.active,.table>tfoot>tr>th.active,.table>tfoo",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover,.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr:hover>.active,.table-hov",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ">td.success,.table>tbody>tr>th.success,.table>tbody>tr.success>td,.table>tbody>tr.success>th,.table>tfoot>tr>td.success,.table>tfoot>tr>th.success,.table>tfoot>",
+      "declarations": "background-color:#dff0d8"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover,.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr:hover>.success,.table",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".info>th,.table>tbody>tr>td.info,.table>tbody>tr>th.info,.table>tbody>tr.info>td,.table>tbody>tr.info>th,.table>tfoot>tr>td.info,.table>tfoot>tr>th.info,.table>",
+      "declarations": "background-color:#d9edf7"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover,.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr:hover>.info,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ">td.warning,.table>tbody>tr>th.warning,.table>tbody>tr.warning>td,.table>tbody>tr.warning>th,.table>tfoot>tr>td.warning,.table>tfoot>tr>th.warning,.table>tfoot>",
+      "declarations": "background-color:#fcf8e3"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr>td.warning:hover,.table-hover>tbody>tr>th.warning:hover,.table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr:hover>.warning,.table",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "tbody>tr>td.danger,.table>tbody>tr>th.danger,.table>tbody>tr.danger>td,.table>tbody>tr.danger>th,.table>tfoot>tr>td.danger,.table>tfoot>tr>th.danger,.table>tfoo",
+      "declarations": "background-color:#f2dede"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".table-hover>tbody>tr>td.danger:hover,.table-hover>tbody>tr>th.danger:hover,.table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr:hover>.danger,.table-hov",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn:hover,.facets-facet-list-filters-see-more-less:hover,.btn:focus,.facets-facet-list-filters-see-more-less:focus,.btn.focus,.focus.facets-facet-list-filters-",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-default",
+      "declarations": "color:#333;background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-default:hover,.btn-default:focus,.btn-default.focus,.btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#adadad"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "-default,fieldset[disabled] .btn-default:hover,fieldset[disabled] .btn-default:focus,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:activ",
+      "declarations": "background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-default .badge",
+      "declarations": "color:#fff;background-color:#333"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#337ab7;border-color:#2e6da4"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-primary:hover,.btn-primary:focus,.btn-primary.focus,.btn-primary:active,.btn-primary.active,.open>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#286090;border-color:#204d74"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "-primary,fieldset[disabled] .btn-primary:hover,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:activ",
+      "declarations": "background-color:#337ab7;border-color:#2e6da4"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-primary .badge",
+      "declarations": "color:#337ab7;background-color:#fff"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#5cb85c;border-color:#4cae4c"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-success:hover,.btn-success:focus,.btn-success.focus,.btn-success:active,.btn-success.active,.open>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#449d44;border-color:#398439"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": "-success,fieldset[disabled] .btn-success:hover,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success.focus,fieldset[disabled] .btn-success:activ",
+      "declarations": "background-color:#5cb85c;border-color:#4cae4c"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-success .badge",
+      "declarations": "color:#5cb85c;background-color:#fff"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#5bc0de;border-color:#46b8da"
+    },
+    {
+      "source": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+      "selector": ".btn-info:hover,.btn-info:focus,.btn-info.focus,.btn-info:active,.btn-info.active,.open>.btn-info.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#31b0d5;border-color:#269abc"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "MYSTERY RANCH Backpacks | Built for the Mission",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ea7600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#c6690a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.ink": {
+      "value": "#231f20",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6d6e71",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.border-default": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.danger": {
+      "value": "#c01a29",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.success-tint": {
+      "value": "#dff0d8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.danger-tint": {
+      "value": "#f2dede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.info-tint": {
+      "value": "#d9edf7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "colors.warning-tint": {
+      "value": "#fcf8e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Industry', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Industry', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-default}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-default}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "hairline": "{colors.muted}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.danger}",
+        "textColor": "{colors.on-primary}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.border-default}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.filter-panel": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "hairline": "{colors.hairline}",
+        "labelTypography": "{typography.body-sm}",
+        "activeColor": "{colors.primary}",
+        "padding": "{spacing.base}",
+        "rounded": "{rounded.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "select",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#dddddd": {
+        "selector": ".table-bordered th,.table-bordered td",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#f9f9f9": {
+        "selector": ".table-striped>tbody>tr:nth-child(odd)",
+        "property": "background-color",
+        "declaration": "#f9f9f9",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#f5f5f5": {
+        "selector": ".table-hover>tbody>tr:hover",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#dff0d8": {
+        "selector": ".table>thead>tr>td.success,.table>thead>tr>th.success,.table>thead>tr.success>td,.table>thead>tr.success>th,.table>tbody>tr>td.success,.table>tbody>tr>th.success,.table>tbody>tr.success>td,.table>tbody>tr.success>th,.table>tfoot>tr>td.success,.table>tfoot>tr>th.success,.table>tfoot>tr.success>td,.ta",
+        "property": "background-color",
+        "declaration": "#dff0d8",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#d9edf7": {
+        "selector": ".table>thead>tr>td.info,.table>thead>tr>th.info,.table>thead>tr.info>td,.table>thead>tr.info>th,.table>tbody>tr>td.info,.table>tbody>tr>th.info,.table>tbody>tr.info>td,.table>tbody>tr.info>th,.table>tfoot>tr>td.info,.table>tfoot>tr>th.info,.table>tfoot>tr.info>td,.table>tfoot>tr.info>th",
+        "property": "background-color",
+        "declaration": "#d9edf7",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#fcf8e3": {
+        "selector": ".table>thead>tr>td.warning,.table>thead>tr>th.warning,.table>thead>tr.warning>td,.table>thead>tr.warning>th,.table>tbody>tr>td.warning,.table>tbody>tr>th.warning,.table>tbody>tr.warning>td,.table>tbody>tr.warning>th,.table>tfoot>tr>td.warning,.table>tfoot>tr>th.warning,.table>tfoot>tr.warning>td,.ta",
+        "property": "background-color",
+        "declaration": "#fcf8e3",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#f2dede": {
+        "selector": ".table>thead>tr>td.danger,.table>thead>tr>th.danger,.table>thead>tr.danger>td,.table>thead>tr.danger>th,.table>tbody>tr>td.danger,.table>tbody>tr>th.danger,.table>tbody>tr.danger>td,.table>tbody>tr.danger>th,.table>tfoot>tr>td.danger,.table>tfoot>tr>th.danger,.table>tfoot>tr.danger>td,.table>tfoot>t",
+        "property": "background-color",
+        "declaration": "#f2dede",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#333333": {
+        "selector": ".btn:hover,.facets-facet-list-filters-see-more-less:hover,.btn:focus,.facets-facet-list-filters-see-more-less:focus,.btn.focus,.focus.facets-facet-list-filters-see-more-less",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#cccccc": {
+        "selector": ".btn-default",
+        "property": "border-color",
+        "declaration": "#ccc",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#ea7600": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#EA7600",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#c6690a": {
+        "selector": "a:hover,a:focus",
+        "property": "color",
+        "declaration": "#c6690a",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#231f20": {
+        "selector": "html",
+        "property": "background",
+        "declaration": "#231F20",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#6d6e71": {
+        "selector": ".button-secondary,.button-info-cards-new,.list-header-filter-facets,.facets-facet-browse-list-header-filter-facets,.list-header-button,.button-apply,.cart-item-actions-item-list-actionable-edit-content-saveforlater,.cart-item-actions-item-list-actionable-edit-content-remove,.cart-promocode-form-summ",
+        "property": "background",
+        "declaration": "#6D6E71",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      },
+      "#c01a29": {
+        "selector": ".closeout-price",
+        "property": "color",
+        "declaration": "#c01a29",
+        "url": "https://www.mysteryranch.com/mr-sca/css/shopping.css?t=1790289402158",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0b1366637a3c20ec04e09f895663a7d88e12bff6df94c86219c4239e262b2d21"
+      }
+    },
+    "font_families": {
+      "Industry": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      },
+      "Open Sans": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      },
+      "Helvetica Neue": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      },
+      "Helvetica": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      },
+      "Arial": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      },
+      "sans-serif": {
+        "selector": "#mission-video-jumbotron .jumbotron-subheader",
+        "property": "font-family",
+        "declaration": "\"Industry\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://www.mysteryranch.com/",
+        "snapshot": "homepage.html",
+        "sha256": "43fa221f396f7d8f2ad2d103f5fd5c61c51d4780e1353b4bb2cb14f4091ff612"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

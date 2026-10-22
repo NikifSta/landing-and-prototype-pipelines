@@ -1,0 +1,844 @@
+{
+  "source_url": "https://bjornqorn.com",
+  "final_url": "https://bjornqorn.com/",
+  "captured_at": "2026-09-29T04:04:47.343398+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bjornqorn.com",
+      "final_url": "https://bjornqorn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f2a75a93ac0bdb3ed4cad3f1f793718cb6c925faa33b8ce40d36bae43dbcd754",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "final_url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.styleLiquid.scss.css?v=17736565938307314191763698360",
+      "final_url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.styleLiquid.scss.css?v=17736565938307314191763698360",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "335e3527b2405836d03077c9c47a0ea4c1732abf76b85c0f541dfcfd657fa7fc",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "40c90f4043714f562e8382e973f5e8d82be00d476a0401c3388918f62864868b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://bjornqorn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bjornqorn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 51,
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 19,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#03684a": {
+      "count": 10,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#f0ea1d": {
+      "count": 22,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#f0ea1dcc": {
+      "count": 12,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#024f38": {
+      "count": 4,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+    ],
+    "Montserrat": [
+      "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+    ],
+    "HelveticaNeue": [
+      "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+    ],
+    "Helvetica Neue": [
+      "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bjornqorn.com/",
+      "selector": ":root",
+      "declarations": "--color-accent: ;\n    --color-body-text: #000000;\n    --color-main-background: ;\n    --color-border: #808080;\n\n    --font-heading: , ;\n    --font-body: , ;\n    --font-body-weight: ;\n    --font-body-style: ;\n    --font-body-bold-weight: bold;"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar",
+      "declarations": "*zoom:1;font-family:Montserrat,HelveticaNeue,Helvetica Neue,sans-serif;font-size:.93333em;font-weight:400;background-color:#fff;color:#000;padding-top:2px;padding-bottom:2px;text-align:center"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar a,.header-bar button",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar a:active,.header-bar a:focus,.header-bar a:hover,.header-bar button:active,.header-bar button:focus,.header-bar button:hover",
+      "declarations": "outline-color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar__sep",
+      "declarations": "color:#000;opacity:.4;display:inline-block;padding:0 10px"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar__search",
+      "declarations": "*zoom:1;position:relative;background-color:#fff;border:0 none;border-radius:2px;min-width:100px"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".header-bar__search-input[type=search],.header-bar__search-input[type=search]:focus",
+      "declarations": "background:transparent;border-color:transparent"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "ary:hover,.header-bar__search .btn:focus,.header-bar__search .btn:hover,.header-bar__search input:focus[type=submit],.header-bar__search input:hover[type=submit",
+      "declarations": "background:transparent;color:#555"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "button.mfp-close",
+      "declarations": "margin:30px;font-size:2.66667em;font-weight:300px;color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "body",
+      "declarations": "font-family:Montserrat,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:;font-style:;font-size:1.6rem"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "body,button,input,select,textarea",
+      "declarations": "font-size:15px;line-height:1.7;font-family:Montserrat,HelveticaNeue,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Montserrat,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:400;margin:0 0 15px;line-height:1.4"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn,.btn--secondary,.btn--tertiary,input.btn--secondary,input.btn--tertiary,input[type=submit]",
+      "declarations": "display:inline-block;padding:8px 16px;margin:0;font-size:1.33333em;font-family:Montserrat,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:400;font-style:normal;line-height:1.42;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:2px;background-color:#f0ea1d;color:#000;transition:background-color .1s ease-in"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "ocus,.btn--secondary:hover,.btn--tertiary:active,.btn--tertiary:focus,.btn--tertiary:hover,.btn:active,.btn:focus,.btn:hover,input:active[type=submit],input:foc",
+      "declarations": "background-color:#f0ea1dcc;color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--secondary[disabled],.btn--tertiary[disabled],.btn.disabled,.btn[disabled],.disabled.btn--secondary,.disabled.btn--tertiary,input.disabled[type=submit],inp",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--secondary,input.btn--secondary",
+      "declarations": "background-color:#03684a"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.btn--secondary:hover,input.btn--secondary:active,input.btn--secondary:focus,input.btn--secondary:hover",
+      "declarations": "background-color:#f0ea1dcc;color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--tertiary,input.btn--tertiary",
+      "declarations": "margin:0;background-color:#f0ea1d;color:#000;border:1px solid #000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--tertiary:hover,input.btn--tertiary:hover",
+      "declarations": "opacity:1;background-color:#f0ea1dcc"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--tertiary:active,.btn--tertiary:focus,input.btn--tertiary:active,input.btn--tertiary:focus",
+      "declarations": "background-color:#f0ea1dcc"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": "select.btn--tertiary:active,select.btn--tertiary:focus,select.btn--tertiary:hover",
+      "declarations": "background-color:#f0ea1dcc;color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--flipped",
+      "declarations": "background-color:#56ad6a;color:#fff"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".btn--flipped:active,.btn--flipped:focus,.btn--flipped:hover",
+      "declarations": "background-color:#67b579;color:#fff"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".supports-csstransforms .btn--loading,.supports-csstransforms .btn--loading:active,.supports-csstransforms .btn--loading:hover",
+      "declarations": "background-color:#024f38;color:#024f38"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".supports-csstransforms .btn--loading:after",
+      "declarations": "content:\"\";display:block;width:24px;height:24px;position:absolute;left:50%;top:50%;margin-left:-12px;margin-top:-12px;border-radius:50%;border:3px solid #fff;border-top-color:transparent;animation:spin 1s infinite linear"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".section-header__title",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".section-header__link--right option,.section-header__link--right select",
+      "declarations": "color:#000;font-size:.9em"
+    },
+    {
+      "source": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+      "selector": ".site-header",
+      "declarations": "padding:40px 0;background-color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BjornQorn",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f0ea1d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#f0ea1dcc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#03684a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.secondary-dark": {
+      "value": "#024f38",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#555555",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#808080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f9fafb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.on-secondary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.disabled-text": {
+      "value": "#b6b6b6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "colors.danger": {
+      "value": "#d02e2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.7,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.7,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, HelveticaNeue, Helvetica Neue, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.42,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "hover": "backgroundColor: {colors.primary-hover}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.secondary}",
+        "textColor": "{colors.on-secondary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "hover": "proposed backgroundColor: {colors.secondary-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xs} {spacing.base}",
+        "borderBottom": "1px solid {colors.border-light}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "border": "1px solid {colors.border-light}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "borderTop": "1px solid {colors.hairline}",
+        "padding": "{spacing.xl} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid transparent",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.flavor-swatch": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.border-light}",
+        "rounded": "{rounded.full}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-body-text",
+        "declaration": "#000000",
+        "url": "https://bjornqorn.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f2a75a93ac0bdb3ed4cad3f1f793718cb6c925faa33b8ce40d36bae43dbcd754"
+      },
+      "#808080": {
+        "selector": ":root",
+        "property": "--color-border",
+        "declaration": "#808080",
+        "url": "https://bjornqorn.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f2a75a93ac0bdb3ed4cad3f1f793718cb6c925faa33b8ce40d36bae43dbcd754"
+      },
+      "#00000000": {
+        "selector": ".st-peel-link",
+        "property": "background",
+        "declaration": "transparent",
+        "url": "https://bjornqorn.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f2a75a93ac0bdb3ed4cad3f1f793718cb6c925faa33b8ce40d36bae43dbcd754"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "white",
+        "url": "https://bjornqorn.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f2a75a93ac0bdb3ed4cad3f1f793718cb6c925faa33b8ce40d36bae43dbcd754"
+      },
+      "#cccccc": {
+        "selector": ".mfp-preloader",
+        "property": "color",
+        "declaration": "#ccc",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#555555": {
+        "selector": ".header-bar__search .btn,.header-bar__search .btn--secondary,.header-bar__search .btn--secondary:focus,.header-bar__search .btn--secondary:hover,.header-bar__search .btn--tertiary,.header-bar__search .btn--tertiary:focus,.header-bar__search .btn--tertiary:hover,.header-bar__search .btn:focus,.header",
+        "property": "color",
+        "declaration": "#555",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#03684a": {
+        "selector": ".badge,.badge--sold-out",
+        "property": "background-color",
+        "declaration": "#03684a",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#f0ea1d": {
+        "selector": ".btn,.btn--secondary,.btn--tertiary,input.btn--secondary,input.btn--tertiary,input[type=submit]",
+        "property": "background-color",
+        "declaration": "#f0ea1d",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#f0ea1dcc": {
+        "selector": ".btn--secondary:active,.btn--secondary:focus,.btn--secondary:hover,.btn--tertiary:active,.btn--tertiary:focus,.btn--tertiary:hover,.btn:active,.btn:focus,.btn:hover,input:active[type=submit],input:focus[type=submit],input:hover[type=submit]",
+        "property": "background-color",
+        "declaration": "#f0ea1dcc",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#b6b6b6": {
+        "selector": ".btn--secondary[disabled],.btn--tertiary[disabled],.btn.disabled,.btn[disabled],.disabled.btn--secondary,.disabled.btn--tertiary,input.disabled[type=submit],input[disabled][type=submit]",
+        "property": "color",
+        "declaration": "#b6b6b6",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#f6f6f6": {
+        "selector": ".btn--secondary[disabled],.btn--tertiary[disabled],.btn.disabled,.btn[disabled],.disabled.btn--secondary,.disabled.btn--tertiary,input.disabled[type=submit],input[disabled][type=submit]",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#024f38": {
+        "selector": ".supports-csstransforms .btn--loading,.supports-csstransforms .btn--loading:active,.supports-csstransforms .btn--loading:hover",
+        "property": "background-color",
+        "declaration": "#024f38",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#d02e2e": {
+        "selector": "input[type=email].error,input[type=file].error,input[type=number].error,input[type=password].error,input[type=search].error,input[type=tel].error,input[type=text].error,textarea.error",
+        "property": "border-color",
+        "declaration": "#d02e2e",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "#f9fafb": {
+        "selector": ".placeholder-svg",
+        "property": "background-color",
+        "declaration": "#f9fafb",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "button,input,optgroup,select,textarea",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "Montserrat": {
+        "selector": ".header-bar",
+        "property": "font-family",
+        "declaration": "Montserrat,HelveticaNeue,Helvetica Neue,sans-serif",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "HelveticaNeue": {
+        "selector": ".header-bar",
+        "property": "font-family",
+        "declaration": "Montserrat,HelveticaNeue,Helvetica Neue,sans-serif",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      },
+      "Helvetica Neue": {
+        "selector": ".header-bar",
+        "property": "font-family",
+        "declaration": "Montserrat,HelveticaNeue,Helvetica Neue,sans-serif",
+        "url": "https://bjornqorn.com/cdn/shop/t/22/assets/layout.theme.css?v=12014674660150664581763698360",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dea92a015a8f869ff6491f215ee7955f81c43ebe5106e806c60165d18f4fa1ad"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

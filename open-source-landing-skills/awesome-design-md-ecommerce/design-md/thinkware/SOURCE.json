@@ -1,0 +1,774 @@
+{
+  "source_url": "https://thinkware.com",
+  "final_url": "https://thinkwarestore.com/us/",
+  "captured_at": "2026-09-29T04:04:06.967249+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thinkware.com",
+      "final_url": "https://thinkwarestore.com/us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+      "final_url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "e3a0e7ffcce9efdb9de6a36fb757a4f1d43fe91726a1798b0cb510eb9e619646",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://thinkwarestore.com/_jb_static/??abc844c516",
+      "final_url": "https://thinkwarestore.com/_jb_static/??abc844c516",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "04117635a20d6d47566f4d8b4252b7e094f747da95a12e80a03781d05817049e",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://thinkwarestore.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/src/../dist/contact-form/css/jetpack-forms-layout.css?ver=16.3-a.3",
+      "final_url": "https://thinkwarestore.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/dist/contact-form/css/jetpack-forms-layout.css?ver=16.3-a.3",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8361441d694f7190026c8dcb66ce833137ff31b0dd43b4ac266267f9f668a1d6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts-api.wp.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+      "final_url": "https://fonts-api.wp.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e9e3a45493b4c28a8569d4325ebb4df51289e96e6b1d16030e1664f815cb6f15",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://thinkwarestore.com/_jb_static/??9bc88521b9",
+      "final_url": "https://thinkwarestore.com/_jb_static/??9bc88521b9",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "84c870970fc0ef24c1d2f2b218bafb069d92710fbd7aa40d432336b62772fdec",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 443,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 16,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#1a1c1c": {
+      "count": 49,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#666666": {
+      "count": 16,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#bc001f": {
+      "count": 30,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#eb0029": {
+      "count": 7,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#192b3e": {
+      "count": 12,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#e6e8eb": {
+      "count": 17,
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 13,
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "#dddddd": {
+      "count": 15,
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "#767676": {
+      "count": 17,
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "#448a85": {
+      "count": 13,
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://thinkwarestore.com/us/"
+    ],
+    "sans-serif": [
+      "https://thinkwarestore.com/us/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ":root",
+      "declarations": "--tw-surface:#ffffff;--tw-surface-low:#f6f6f6;--tw-surface-lowest:#ffffff;--tw-on-surface:#1a1c1c;--tw-on-surface-muted:#666666;--tw-primary:#bc001f;--tw-primary-bright:#eb0029;--tw-outline-soft:rgba(26,28,28,0.11);--tw-shadow-ambient:0 10px 22px rgba(26,28,28,0.06);--tw-radius-sm:8px;--tw-radius-md:10px;--tw-container-gutter:2.5rem;--tw-container:1400px"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": "body",
+      "declarations": "margin:0;background:var(--tw-surface);color:var(--tw-on-surface);font-family:Inter,sans-serif;line-height:1.5;overflow-x:clip;max-width:100%"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-search input",
+      "declarations": "width:100%;min-height:36px;border-radius:4px;border:1px solid rgba(26,28,28,.15);background:#fff;font-size:.92rem;color:var(--tw-on-surface);padding:.5rem .72rem;outline:0"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-search input::placeholder",
+      "declarations": "color:#7b6f73"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-category-link",
+      "declarations": "display:flex;align-items:center;justify-content:space-between;gap:.75rem;min-height:46px;padding:.6rem .7rem;border-radius:8px;color:var(--tw-on-surface);font-weight:600;font-size:.95rem;letter-spacing:-.01em"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-category-link .tw-products-mega-category-arrow",
+      "declarations": "color:var(--tw-primary);font-size:1.15rem;line-height:1"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-category-link.is-active",
+      "declarations": "color:var(--tw-primary);background:#fff"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-all-products",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;min-height:48px;border-radius:999px;background:linear-gradient(135deg,#bc001f,#9f001a);color:#fff;font-weight:700;font-size:1rem;letter-spacing:-.01em"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-all-products:link",
+      "declarations": "color:#fff!important;-webkit-text-fill-color:#fff!important;opacity:1!important"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-left .tw-products-mega-all-products",
+      "declarations": "color:#fff!important;-webkit-text-fill-color:#fff!important"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-panel-title",
+      "declarations": "margin:0 0 .9rem;color:#2f2c2d;font-family:Inter,sans-serif;font-weight:700;font-size:1.05rem;letter-spacing:-.01em"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-series-label",
+      "declarations": "color:#2f2c2d;font-size:.72rem;font-weight:700;letter-spacing:.01em;line-height:1.2"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-product-name",
+      "declarations": "color:#3b3335;font-size:.88rem;font-weight:600;line-height:1.25"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-product-flag",
+      "declarations": "position:absolute;top:8px;right:8px;padding:.15rem .45rem;border-radius:999px;background:#ffe7ed;color:#ba0020;font-size:.65rem;font-weight:700;letter-spacing:.01em"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega--rail,.tw-products-mega--rail a,.tw-products-mega--rail button",
+      "declarations": "font-family:Inter,sans-serif"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-series-nav .tw-products-mega-model-filter",
+      "declarations": "appearance:none;border:0;background:0 0;text-align:left;font-family:Inter,sans-serif;font-size:.95rem;font-weight:600;color:var(--tw-heading,#192b3e);padding:.5rem .7rem;border-left:3px solid transparent;border-radius:0 6px 6px 0"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-series-nav .tw-products-mega-model-filter.is-active",
+      "declarations": "color:var(--tw-primary);border-left-color:var(--tw-primary);background:var(--tw-surface-low,rgba(25,43,62,.04))"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-series-nav .tw-products-mega-series-label",
+      "declarations": "display:block;font-family:Inter,sans-serif;font-size:.95rem;font-weight:600;letter-spacing:0;color:inherit"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-series-compare",
+      "declarations": "font-weight:600;color:var(--tw-heading,#192b3e);padding:.5rem .7rem;border-radius:6px"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-more-pill",
+      "declarations": "flex:0 0 auto;display:inline-flex;align-items:center;gap:.35rem;font-size:.85rem;font-weight:600;color:var(--tw-primary);border:1px solid var(--tw-primary);border-radius:999px;padding:.4rem .95rem"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-nav .tw-menu .thinkware-shop-menu a.tw-products-mega-more-pill",
+      "declarations": "color:var(--tw-primary)"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-products-mega-product-sub",
+      "declarations": "display:block;font-size:.78rem;color:var(--tw-muted,rgba(25,43,62,.6));margin-top:.15rem"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-product-card>a.woocommerce-LoopProduct-link",
+      "declarations": "display:flex;flex-direction:column;flex:1 1 auto;min-height:0;color:inherit"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-product-body .woocommerce-loop-product__title",
+      "declarations": "margin:0;padding:0;font-family:Inter,sans-serif;font-size:1.1rem;line-height:1.4;letter-spacing:-.01em;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;min-height:calc(1.4em*2);min-height:2lh;max-height:calc(1.4em*2);max-height:2lh"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-button-primary",
+      "declarations": "background:var(--tw-primary);border-color:var(--tw-primary);color:#fff"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-footer-cta-button",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;align-self:flex-start;min-height:44px;padding:.62rem 1.35rem;border:1px solid var(--tw-primary);border-radius:999px;font-size:.93rem;font-weight:700;letter-spacing:.01em;color:#fff!important;background:var(--tw-primary)"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-product-downloads",
+      "declarations": "background:#fff;color:#1d1d1f"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-dl-changes-body",
+      "declarations": "font-size:.9rem;color:#3a4149;white-space:pre-line"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": ".tw-footer-signup-pill .tw-footer-signup-button",
+      "declarations": "flex:0 0 auto;height:34px;min-height:0;margin:0;padding:0 1.3rem;border:0;border-radius:999px;background:#1a1c1c;color:#fff;font-family:Inter,sans-serif;font-size:.8rem;font-weight:600;line-height:1;letter-spacing:.01em;text-transform:lowercase"
+    },
+    {
+      "source": "https://thinkwarestore.com/us/",
+      "selector": "button.pswp__button,button.pswp__button--arrow--left::before,button.pswp__button--arrow--right::before",
+      "declarations": "background-color:transparent!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Home – The Official Dash Cam Store | Thinkware",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#bc001f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.primary-bright": {
+      "value": "#eb0029",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.body": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#767676",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.heading": {
+      "value": "#192b3e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.border-soft": {
+      "value": "#e6e8eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/us/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#448a85",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thinkwarestore.com/_jb_static/??d4740dfbcd"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16.8px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "-0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.2px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.5px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.16px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "-0.16px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "activeTextColor": "{colors.primary}",
+        "activeBackground": "{colors.surface-soft}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.border-soft}",
+        "titleTypography": "{typography.body-sm}",
+        "titleColor": "{colors.heading}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "headingTypography": "{typography.display-xl}",
+        "ctaComponent": "button-primary",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderTop": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search-panel": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.series-filter-nav": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "activeBackground": "{colors.surface-soft}",
+        "activeBorderColor": "{colors.primary}",
+        "textColor": "{colors.heading}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--tw-surface",
+        "declaration": "#ffffff",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#f6f6f6": {
+        "selector": ":root",
+        "property": "--tw-surface-low",
+        "declaration": "#f6f6f6",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#1a1c1c": {
+        "selector": ":root",
+        "property": "--tw-on-surface",
+        "declaration": "#1a1c1c",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#666666": {
+        "selector": ":root",
+        "property": "--tw-on-surface-muted",
+        "declaration": "#666666",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#bc001f": {
+        "selector": ":root",
+        "property": "--tw-primary",
+        "declaration": "#bc001f",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#eb0029": {
+        "selector": ":root",
+        "property": "--tw-primary-bright",
+        "declaration": "#eb0029",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#192b3e": {
+        "selector": ".tw-products-mega-series-nav .tw-products-mega-model-filter",
+        "property": "color",
+        "declaration": "var(--tw-heading,#192b3e)",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#e6e8eb": {
+        "selector": ".tw-pd-hero",
+        "property": "border-bottom",
+        "declaration": "1px solid #e6e8eb",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "#f9f9f9": {
+        "selector": ".jetpack-paypal-button__qr-link-input",
+        "property": "background",
+        "declaration": "#f9f9f9",
+        "url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e3a0e7ffcce9efdb9de6a36fb757a4f1d43fe91726a1798b0cb510eb9e619646"
+      },
+      "#dddddd": {
+        "selector": ".jetpack-paypal-button__qr-link-input",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e3a0e7ffcce9efdb9de6a36fb757a4f1d43fe91726a1798b0cb510eb9e619646"
+      },
+      "#767676": {
+        "selector": ".cr-all-reviews-shortcode ol li.review .comment_container .meta,#reviews.cr-reviews-ajax-reviews #comments.cr-reviews-ajax-comments .cr-ajax-reviews-list .comment_container .meta",
+        "property": "color",
+        "declaration": "#767676",
+        "url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e3a0e7ffcce9efdb9de6a36fb757a4f1d43fe91726a1798b0cb510eb9e619646"
+      },
+      "#448a85": {
+        "selector": ".yith-wcaf-modal .content::-webkit-scrollbar-thumb",
+        "property": "background-color",
+        "declaration": "var(--yith-wcaf-dashboard--accent-color,var(--proteo-main_color_shade,#448a85))",
+        "url": "https://thinkwarestore.com/_jb_static/??d4740dfbcd",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e3a0e7ffcce9efdb9de6a36fb757a4f1d43fe91726a1798b0cb510eb9e619646"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Inter,sans-serif",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Inter,sans-serif",
+        "url": "https://thinkwarestore.com/us/",
+        "snapshot": "homepage.html",
+        "sha256": "3429acf35944eee0a798a1a6f49a01f5394c186d38fe53602815b2e4cdb77d45"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

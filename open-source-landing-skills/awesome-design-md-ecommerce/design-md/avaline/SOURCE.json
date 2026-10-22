@@ -1,0 +1,875 @@
+{
+  "source_url": "https://drinkavaline.com",
+  "final_url": "https://drinkavaline.com/",
+  "captured_at": "2026-09-29T03:56:23.151591+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://drinkavaline.com",
+      "final_url": "https://drinkavaline.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "final_url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://drinkavaline.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://drinkavaline.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 72,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#70776b": {
+      "count": 3,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 33,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#4d4844": {
+      "count": 20,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#f5f4e9": {
+      "count": 12,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#d3262600": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#000000e6": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#f9f7f5": {
+      "count": 7,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "#a79a93": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#856056": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#528ea7": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#dda860": {
+      "count": 1,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#495363": {
+      "count": 6,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#d4cfc0": {
+      "count": 3,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#e73c3e": {
+      "count": 2,
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://drinkavaline.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Basis Grotesque Regular": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ],
+    "sans-serif": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ],
+    "Basis Grotesque Light": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ],
+    "Basis Grotesque Medium": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ],
+    "Marion Standard Regular": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ],
+    "serif": [
+      "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://drinkavaline.com/",
+      "selector": "--overlay: linear-gradient(224deg, rgba(211, 38, 38, 0) 60%, rgba(0, 0, 0, 0.9) 100%);\n    --text-color: #f9f7f5;\n  \n\n      .featured-products--template--220013",
+      "declarations": "--text-color: #4d4844;\n        --background-color: #f9f7f5;\n        --padding-top-desktop: 40px;\n        --padding-bottom-desktop: 60px;\n        --padding-top-mobile: 30px;\n        --padding-bottom-mobile: 32px;"
+    },
+    {
+      "source": "https://drinkavaline.com/",
+      "selector": "r:#f5f4e9;\ncolor:#4d4844; background-color:#f5f4e9;\n\n      --background-color: #ffffff;\n      --text-color: #4d4844;\n    \n\n      .featured-products--template--2",
+      "declarations": "--text-color: #4d4844;\n        --background-color: #f9f7f5;\n        --padding-top-desktop: 40px;\n        --padding-bottom-desktop: 60px;\n        --padding-top-mobile: 30px;\n        --padding-bottom-mobile: 32px;"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ":root,:host",
+      "declarations": "--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-mono:\"Fugue Mono\",ui-monospace,monospace;--color-blue-600:oklch(54.6% .245 262.881);--color-gray-400:oklch(70.7% .022 261.325);--color-black:#000;--color-white:#fff;--spacing:.25rem;--text-xs:.75rem;--text-xs--line-height:calc(1/.75);--text-sm:.875rem;--text-sm--line-height:calc(1.25/.875);--text-2xl:1.5rem;--text-2xl--line-height:calc(2/1.5);--font-weight-normal:400;--font-weight-medium:500;--font-weight-bold:700;--tracking-wide:.025em;--leading-snug:1.375;--leading-normal:1.5;--radius-lg:.5rem;--radius-2xl:1rem;--ease-in-out:cubic-bezier(.4,0,.2,1);--animate-spin:"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-play-pause",
+      "declarations": "right:calc(var(--spacing)*0);bottom:calc(var(--spacing)*4);z-index:1;height:calc(var(--spacing)*5.5);width:calc(var(--spacing)*5.5);cursor:pointer;color:inherit;position:absolute"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-dark",
+      "declarations": "cursor:pointer;border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-brand-green-bg);background-color:var(--color-brand-green-bg);font-family:var(--font-body);letter-spacing:2.38px;text-align:center;text-transform:uppercase;padding:14px 50px;font-size:14px;font-style:normal;font-weight:400;line-height:1.3;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;position:relative"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-dark",
+      "declarations": "--tw-font-weight:var(--font-weight-bold);font-weight:var(--font-weight-bold);color:var(--color-white)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-dark:hover:not(:disabled)",
+      "declarations": "border-color:var(--color-brand-green);background-color:var(--color-brand-green)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-light",
+      "declarations": "cursor:pointer;border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-off-white-bg);background-color:var(--color-off-white-bg);font-family:var(--font-body);letter-spacing:2.38px;text-align:center;text-transform:uppercase;padding:14px 50px;font-size:14px;font-style:normal;font-weight:400;line-height:1.3;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;position:relative"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-light",
+      "declarations": "color:var(--color-noir)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-filled-light:hover:not(:disabled)",
+      "declarations": "border-color:var(--color-off-white);background-color:var(--color-off-white)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-dark",
+      "declarations": "cursor:pointer;border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-noir);font-family:var(--font-body);letter-spacing:2.38px;text-align:center;text-transform:uppercase;background-color:#0000;padding:14px 50px;font-size:14px;font-style:normal;font-weight:400;line-height:1.3;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;position:relative"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-dark",
+      "declarations": "color:var(--color-noir)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-dark:hover",
+      "declarations": "border-color:var(--color-brand-green);color:var(--color-brand-green)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-dark:disabled",
+      "declarations": "cursor:not-allowed;color:var(--color-red-blend)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-light",
+      "declarations": "cursor:pointer;border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-white);font-family:var(--font-body);letter-spacing:2.38px;text-align:center;text-transform:uppercase;background-color:#0000;padding:14px 50px;font-size:14px;font-style:normal;font-weight:400;line-height:1.3;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;position:relative"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-light",
+      "declarations": "color:var(--color-white)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-light:hover",
+      "declarations": "border-color:var(--color-off-white-bg);color:var(--color-off-white-bg)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-outline-light:disabled",
+      "declarations": "cursor:not-allowed;color:var(--color-sparkling)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-product-card",
+      "declarations": "cursor:pointer;border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-noir);background-color:var(--color-white);font-family:var(--font-body);letter-spacing:2.38px;text-align:center;text-transform:uppercase;padding:14px 50px;font-size:14px;font-style:normal;font-weight:400;line-height:1.3;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-product-card",
+      "declarations": "padding-inline:calc(var(--spacing)*6);padding-block:calc(var(--spacing)*2);color:var(--color-noir)"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".btn-product-card:hover:not(:disabled)",
+      "declarations": "border-color:var(--color-noir);background-color:#0000"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-5",
+      "declarations": "font-family:var(--font-body-medium);letter-spacing:.6px;font-size:12px;font-style:normal;font-weight:500;line-height:1.5"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-8",
+      "declarations": "font-family:var(--font-mono);letter-spacing:-.24px;font-size:12px;font-style:normal;font-weight:500;line-height:1.3"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-1",
+      "declarations": "font-family:var(--font-mono);letter-spacing:-.32px;font-size:16px;font-style:normal;font-weight:500;line-height:1.3"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-4",
+      "declarations": "font-family:var(--font-mono);letter-spacing:-.24px;font-size:12px;font-style:normal;font-weight:500;line-height:1.3"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-7",
+      "declarations": "font-family:var(--font-body-medium);text-transform:capitalize;font-size:12px;font-style:normal;font-weight:500;line-height:1.3"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".\\!body-2",
+      "declarations": "font-family:var(--font-body)!important;font-size:14px!important;font-style:normal!important;font-weight:400!important;line-height:1.3!important"
+    },
+    {
+      "source": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+      "selector": ".body-2",
+      "declarations": "font-family:var(--font-body);font-size:14px;font-style:normal;font-weight:400;line-height:1.3"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Avaline Organic Wine",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#856056",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#4d4844",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#4d4844",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#70776b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f7f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f5f4e9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#e73c3e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#528ea7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#dda860",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.sand": {
+      "value": "#d4cfc0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.stone": {
+      "value": "#a79a93",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "colors.slate": {
+      "value": "#495363",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Marion Standard Regular, serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Marion Standard Regular, serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Basis Grotesque Medium, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 500,
+        "lineHeight": 1.333,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Basis Grotesque Regular, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Basis Grotesque Regular, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4286,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Basis Grotesque Light, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.333,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Basis Grotesque Medium, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "2.38px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "accent": "{colors.primary}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.surface-soft}",
+        "overlay": "linear-gradient(224deg, rgba(211,38,38,0) 60%, rgba(0,0,0,0.9) 100%)",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-red}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.add-to-box-control": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "accent": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": ".hero__overlay",
+        "property": "background",
+        "declaration": "var(--overlay, transparent)",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#70776b": {
+        "selector": "#PromoBar-sections--22001331142791__promo_bar",
+        "property": "--promo-bg",
+        "declaration": "#70776b",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#ffffff": {
+        "selector": "#PromoBar-sections--22001331142791__promo_bar",
+        "property": "--promo-text",
+        "declaration": "#ffffff",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#4d4844": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#4d4844",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#f5f4e9": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#f5f4e9",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#d3262600": {
+        "selector": "inline-style",
+        "property": "--overlay",
+        "declaration": "linear-gradient(224deg, rgba(211, 38, 38, 0) 60%, rgba(0, 0, 0, 0.9) 100%)",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#000000e6": {
+        "selector": "inline-style",
+        "property": "--overlay",
+        "declaration": "linear-gradient(224deg, rgba(211, 38, 38, 0) 60%, rgba(0, 0, 0, 0.9) 100%)",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#f9f7f5": {
+        "selector": "inline-style",
+        "property": "--text-color",
+        "declaration": "#f9f7f5",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "--bg-color",
+        "declaration": "#000000",
+        "url": "https://drinkavaline.com/",
+        "snapshot": "homepage.html",
+        "sha256": "9b412bdd9f08ce8d0ede5094a4f66b99970324c2ee877254b3faf9f1facfea2d"
+      },
+      "#a79a93": {
+        "selector": ":root,:host",
+        "property": "--color-red-blend",
+        "declaration": "#a79a93",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#856056": {
+        "selector": ":root,:host",
+        "property": "--color-cabernet",
+        "declaration": "#856056",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#528ea7": {
+        "selector": ":root,:host",
+        "property": "--color-prosecco",
+        "declaration": "#528ea7",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#dda860": {
+        "selector": ":root,:host",
+        "property": "--color-pinot-grigio",
+        "declaration": "#dda860",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#495363": {
+        "selector": ".digit",
+        "property": "color",
+        "declaration": "#495363",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#d4cfc0": {
+        "selector": "to",
+        "property": "background-color",
+        "declaration": "#d4cfc0",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#e73c3e": {
+        "selector": ".main-login__form .errors",
+        "property": "color",
+        "declaration": "#e73c3e",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://drinkavaline.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "Basis Grotesque Regular": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Basis Grotesque Regular,sans-serif",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "sans-serif": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Basis Grotesque Regular,sans-serif",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "Basis Grotesque Light": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Basis Grotesque Light",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "Basis Grotesque Medium": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Basis Grotesque Medium",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "Marion Standard Regular": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Marion Standard Regular",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      },
+      "serif": {
+        "selector": ".header-countdown__text,.header-countdown__timer",
+        "property": "font-family",
+        "declaration": "Seriously Nostalgic,serif",
+        "url": "https://drinkavaline.com/cdn/shop/t/388/assets/theme.DgxZ8IYv.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "6558e7a10b74939eae64ad99b4e380930de6c9c7a5476291f764d80c296bee98"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

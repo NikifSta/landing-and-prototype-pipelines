@@ -1,0 +1,844 @@
+{
+  "source_url": "https://wildearth.com",
+  "final_url": "https://wildearth.com/",
+  "captured_at": "2026-09-28T05:09:01.520521+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wildearth.com",
+      "final_url": "https://wildearth.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "final_url": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b6d5eaea1287fd88375a8d36699b961b58bf3dfe2c602b1912db38b18363b971",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445",
+      "final_url": "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7682913935e8fa417452edc1c85688c8066a0b5a29ab2c80ca982a233511c5c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+      "final_url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bd3e7839c23a682f8f9192ebfbc26d8270d5f16d6ba35ddc0c747302e01d5106",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e21aa5b0d3fd28cebed9e03c5544f4924e11b0c453792ed018720cf8c679b0b6",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "50ad448a8a5720bf8a5617db15af31ae60163de06331576f60c6244c012ffc72",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#000000": {
+      "count": 122,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 46,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#e3ecaa": {
+      "count": 7,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#ffd042": {
+      "count": 6,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#e6f85f": {
+      "count": 11,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#e95485": {
+      "count": 3,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#97b10d": {
+      "count": 3,
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "#374151": {
+      "count": 8,
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "#111827": {
+      "count": 12,
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 8,
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://wildearth.com/"
+    ],
+    "sans-serif": [
+      "https://wildearth.com/"
+    ],
+    "Labil Grotesk Regular": [
+      "https://wildearth.com/"
+    ],
+    "Labil Grotesk Bold": [
+      "https://wildearth.com/"
+    ],
+    "Hanken Grotesk": [
+      "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445"
+    ],
+    "Hanken Grotesk Light": [
+      "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://wildearth.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-58084d4c-a86e-4d0a-855e-a0966e5043f7",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper a.btn-h",
+      "declarations": "justify-self:end;\n          display:flex;\n          align-items:center;\n          gap:8px;\n          border-radius:10px;\n          padding:8px 13px;\n          color:#fff;\n          text-decoration:none;\n          font-size:15px;\n          border: 1px solid #E95485;\n          background:transparent;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper-bg.mo-ld-day .mo-announcement-wrapper a.btn-h",
+      "declarations": "border-color: #E6F85F;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper-bg.mo-ld-day .mo-announcement-wrapper a.btn-h b",
+      "declarations": "color: #FFD042;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper a.btn-h b",
+      "declarations": "color: #E6F85F;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper a.btn-h",
+      "declarations": "justify-self:end;\n          display:flex;\n          align-items:center;\n          gap:8px;\n          border-radius:10px;\n          padding:8px 13px;\n          color:#fff;\n          text-decoration:none;\n          font-size:15px;\n          border: 1px solid #E95485;\n          background:transparent;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper-bg.mo-ld-day .mo-announcement-wrapper a.btn-h",
+      "declarations": "border-color: #E6F85F;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper-bg.mo-ld-day .mo-announcement-wrapper a.btn-h b",
+      "declarations": "color: #FFD042;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-announcement-wrapper a.btn-h b",
+      "declarations": "color: #E6F85F;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".rdo-banner-template--27635552223275__rdo_banner_nGy4cA .button_below_text",
+      "declarations": "display: block;\n        font-size: 20px;\n        line-height: normal;\n        color: #fff;\n        margin-top: 15px;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".rdo-banner-template--27635552223275__rdo_banner_nGy4cA  .btn",
+      "declarations": "display: flex;\n    padding: 18px 30px;\n    background: rgba(255, 250, 235, 1);\n    color: rgba(0, 0, 0, 1);\n    border-radius: 10px;\n    transition: all .3s ease;\n    font-family: 'Labil Grotesk bold';\n    font-size: 24px;\n    text-decoration: none;\n    gap:10px;\n    line-height: 1;\n    border: 2px solid rgba(230, 248, 95, 1);\n    align-items: center;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".rdo-banner-template--27635552223275__rdo_banner_nGy4cA.mo-labor-day .btn",
+      "declarations": "background: #FFD042;\n        border-color: #FFD042;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".rdo-banner-template--27635552223275__rdo_banner_nGy4cA.mo-labor-day .btn:hover",
+      "declarations": "background: #E6F85F;\n        border-color: #E6F85F;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".rdo-banner-template--27635552223275__rdo_banner_nGy4cA  .btn",
+      "declarations": "display: flex;\n    padding: 16px 20px;\n    transition: all .3s ease;\n    font-family: 'Labil Grotesk bold';\n    font-size: 16px;\n    gap:6px;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".collection_page_shop-all_button a",
+      "declarations": "font-size: 22px;\n        text-decoration: none;\n        color: #000;\n        display: flex;\n        width: 180px;\n        gap: 10px;\n        line-height: normal;\n        align-items: center;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": "--padding-block-start: 10px;--padding-block-end: 0px;--padding-inline-start: 0px;--padding-inline-end: 0px;\n\n            .check-plans-button",
+      "declarations": "width:100%;\n            text-align:center;\n            background: #E3ECAA;\n                color: #000;\n                padding: 14px 35px;\n                display: inline-block;\n                font-size: 18px;\n                font-family: 'Labil Grotesk Bold';\n                line-height: normal;\n                border: 2px solid #000;\n                border-radius: 6px;\n                transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": "--padding-block-start: 10px;--padding-block-end: 0px;--padding-inline-start: 0px;--padding-inline-end: 0px;\n\n            .check-plans-button",
+      "declarations": "width:100%;\n            text-align:center;\n            background: #E3ECAA;\n                color: #000;\n                padding: 14px 35px;\n                display: inline-block;\n                font-size: 18px;\n                font-family: 'Labil Grotesk Bold';\n                line-height: normal;\n                border: 2px solid #000;\n                border-radius: 6px;\n                transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": "--padding-block-start: 10px;--padding-block-end: 0px;--padding-inline-start: 0px;--padding-inline-end: 0px;\n\n            .check-plans-button",
+      "declarations": "width:100%;\n            text-align:center;\n            background: #E3ECAA;\n                color: #000;\n                padding: 14px 35px;\n                display: inline-block;\n                font-size: 18px;\n                font-family: 'Labil Grotesk Bold';\n                line-height: normal;\n                border: 2px solid #000;\n                border-radius: 6px;\n                transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": "--padding-block-start: 10px;--padding-block-end: 0px;--padding-inline-start: 0px;--padding-inline-end: 0px;\n\n            .check-plans-button",
+      "declarations": "width:100%;\n            text-align:center;\n            background: #E3ECAA;\n                color: #000;\n                padding: 14px 35px;\n                display: inline-block;\n                font-size: 18px;\n                font-family: 'Labil Grotesk Bold';\n                line-height: normal;\n                border: 2px solid #000;\n                border-radius: 6px;\n                transition: all 0.3s ease;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-testimonials-section .mo-product-name",
+      "declarations": "color: #007AFF;\n              font-size: 14px;\n              font-family: 'Labil Grotesk Bold';\n              text-decoration: underline;"
+    },
+    {
+      "source": "https://wildearth.com/",
+      "selector": ".mo-home-reviews-slider .mo-product-name",
+      "declarations": "color: #007AFF;\n              font-size: 14px;\n              font-family: 'Labil Grotesk Bold';\n              text-decoration: underline;"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": ":is(.predictive-search-results__card--product,.recently-viewed-wrapper .predictive-search-results__card--product):hover",
+      "declarations": "background-color:transparent!important"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color))"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color))"
+    },
+    {
+      "source": "https://wildearth.com/cdn/shop/t/197/assets/base.css?v=45161419954840037141788187973",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Wild Earth Pet Food: Vegan Nutrition for Healthy Dogs & Cats",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#e6f85f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#97b10d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value": "#e95485",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value": "#ffd042",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.accent-soft": {
+      "value": "#e3ecaa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111827",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#374151",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b7280",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e7eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wildearth.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Labil Grotesk Bold', 'Hanken Grotesk', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Labil Grotesk Bold', 'Hanken Grotesk', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Labil Grotesk Regular', 'Hanken Grotesk', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', 'Inter', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk', 'Inter', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Hanken Grotesk Light', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Labil Grotesk Bold', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "2px solid {colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.accent-pink}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-soft}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.meal-plan-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}",
+        "border": "2px solid {colors.primary}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-white",
+        "declaration": "#FFFFFF",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-black",
+        "declaration": "#000000",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#00000000": {
+        "selector": ":root",
+        "property": "--gradient-image-overlay",
+        "declaration": "linear-gradient(to top, rgb(0 0 0 / 0.5), transparent)",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#fafafa": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-secondary-button-hover-background",
+        "declaration": "rgb(250 250 250 / 1.0)",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#e3ecaa": {
+        "selector": ".color-scheme-4",
+        "property": "--color-background",
+        "declaration": "rgb(227 236 170 / 1.0)",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#ffd042": {
+        "selector": ".mo-announcement-wrapper-bg.mo-ld-day .mo-announcement-wrapper-text span",
+        "property": "color",
+        "declaration": "#FFD042",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#e6f85f": {
+        "selector": ".mo-announcement-wrapper-text span",
+        "property": "color",
+        "declaration": "#E6F85F",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#e95485": {
+        "selector": ".mo-announcement-wrapper a.btn-h",
+        "property": "border",
+        "declaration": "1px solid #E95485",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#f9f9f9": {
+        "selector": ".mo-home-reviews-slider",
+        "property": "background",
+        "declaration": "#F9F9F9",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#97b10d": {
+        "selector": ".mo-info-card",
+        "property": "border",
+        "declaration": "2px solid #97b10d",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "#374151": {
+        "selector": ".prose",
+        "property": "--tw-prose-body",
+        "declaration": "#374151",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "bd3e7839c23a682f8f9192ebfbc26d8270d5f16d6ba35ddc0c747302e01d5106"
+      },
+      "#111827": {
+        "selector": ".prose",
+        "property": "--tw-prose-headings",
+        "declaration": "#111827",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "bd3e7839c23a682f8f9192ebfbc26d8270d5f16d6ba35ddc0c747302e01d5106"
+      },
+      "#6b7280": {
+        "selector": ".prose",
+        "property": "--tw-prose-counters",
+        "declaration": "#6b7280",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "bd3e7839c23a682f8f9192ebfbc26d8270d5f16d6ba35ddc0c747302e01d5106"
+      },
+      "#e5e7eb": {
+        "selector": ".prose",
+        "property": "--tw-prose-hr",
+        "declaration": "#e5e7eb",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/tailwind.css?v=171845937222752250691790253870",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "bd3e7839c23a682f8f9192ebfbc26d8270d5f16d6ba35ddc0c747302e01d5106"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Inter",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body--family",
+        "declaration": "Inter, sans-serif",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "Labil Grotesk Regular": {
+        "selector": ".mo-announcement-wrapper-text",
+        "property": "font-family",
+        "declaration": "\"Labil Grotesk Regular\"",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "Labil Grotesk Bold": {
+        "selector": ".mo-announcement-wrapper-text span",
+        "property": "font-family",
+        "declaration": "\"Labil Grotesk Bold\"",
+        "url": "https://wildearth.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6b8b2207014dfa5c49a055920873e32758df4e6c49ae6b90d03849277ac8057d"
+      },
+      "Hanken Grotesk": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Hanken Grotesk",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c7682913935e8fa417452edc1c85688c8066a0b5a29ab2c80ca982a233511c5c"
+      },
+      "Hanken Grotesk Light": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Hanken Grotesk Light",
+        "url": "https://wildearth.com/cdn/shop/t/197/assets/custom.css?v=158107563898023588081788805445",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c7682913935e8fa417452edc1c85688c8066a0b5a29ab2c80ca982a233511c5c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,715 @@
+{
+  "source_url": "https://backdrophome.com",
+  "final_url": "https://www.backdrophome.com/",
+  "captured_at": "2026-09-28T04:50:13.898798+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://backdrophome.com",
+      "final_url": "https://www.backdrophome.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67",
+      "snapshot": "homepage.html"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 31,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 67,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#1269cf": {
+      "count": 18,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#757575": {
+      "count": 17,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 19,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#1bb240": {
+      "count": 5,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#e32437": {
+      "count": 3,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#f6a623": {
+      "count": 2,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 6,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#fdeff1": {
+      "count": 1,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#dad3c9": {
+      "count": 1,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 4,
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.backdrophome.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.backdrophome.com/"
+    ],
+    "Roboto": [
+      "https://www.backdrophome.com/"
+    ],
+    "Helvetica": [
+      "https://www.backdrophome.com/"
+    ],
+    "Arial": [
+      "https://www.backdrophome.com/"
+    ],
+    "sans-serif": [
+      "https://www.backdrophome.com/"
+    ],
+    "akzidenz-grotesk": [
+      "https://www.backdrophome.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": "[data-uppy-theme=dark] .uppy-DashboardContent-panelBody",
+      "declarations": "background-color:#1f1f1f"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".uppy-Provider-breadcrumbs button:hover",
+      "declarations": "color:#0e51a0"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".uppy-Provider-breadcrumbs button:focus",
+      "declarations": "background-color:#dfe6f1"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": "[data-uppy-theme=dark] .uppy-Provider-breadcrumbs button:focus",
+      "declarations": "background-color:#333"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".uppy-Provider-breadcrumbs button:last-of-type",
+      "declarations": "color:#333;cursor:normal;font-weight:500;pointer-events:none"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": "[data-uppy-theme=dark] .uppy-Provider-breadcrumbs button",
+      "declarations": "color:#eaeaea"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".uppy-ProviderBrowser-headerBar",
+      "declarations": "background-color:#fafafa;color:#757575;font-size:12px;line-height:1.4;padding:7px 15px;z-index:1001"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": "[data-uppy-theme=dark] .uppy-ProviderBrowser-headerBar",
+      "declarations": "background-color:#1f1f1f"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "align-items:center;color:var(--swiper-navigation-color,var(--swiper-theme-color));cursor:pointer;display:flex;height:var(--swiper-navigation-size);justify-content:center;margin-top:calc(0px - var(--swiper-navigation-size)/2);position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/44*27);z-index:10"
+    },
+    {
+      "source": "https://www.backdrophome.com/",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);font-variant:normal;letter-spacing:0;line-height:1;text-transform:none!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Backdrop: Online Paint Store - The New Way to Paint  | Backdrop",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1269cf",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1f1f1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#757575",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dfdfdf",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f8f8f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#1bb240",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#e32437",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#f6a623",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.warm-neutral": {
+      "value": "#dad3c9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "colors.blush": {
+      "value": "#fdeff1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.backdrophome.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "akzidenz-grotesk, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "akzidenz-grotesk, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "akzidenz-grotesk, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "-apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "akzidenz-grotesk, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-green}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.swatch-sample-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "labelTypography": "{typography.caption}",
+        "padding": "{spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#333333": {
+        "selector": ".uppy-Root",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#ffffff": {
+        "selector": ".uppy-c-textInput",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#1269cf": {
+        "selector": ".uppy-c-btn-primary",
+        "property": "background-color",
+        "declaration": "#1269cf",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#757575": {
+        "selector": ".uppy-Informer p",
+        "property": "background-color",
+        "declaration": "#757575",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#1f1f1f": {
+        "selector": "[data-uppy-theme=dark] .uppy-StatusBar",
+        "property": "background-color",
+        "declaration": "#1f1f1f",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#1bb240": {
+        "selector": ".uppy-StatusBar.is-complete .uppy-StatusBar-progress",
+        "property": "background-color",
+        "declaration": "#1bb240",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#e32437": {
+        "selector": ".uppy-StatusBar.is-error .uppy-StatusBar-progress",
+        "property": "background-color",
+        "declaration": "#e32437",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#f6a623": {
+        "selector": ".uppy-StatusBar.is-postprocessing .uppy-StatusBar-progress,.uppy-StatusBar.is-preprocessing .uppy-StatusBar-progress",
+        "property": "background-color",
+        "declaration": "#f6a623",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#fafafa": {
+        "selector": ".uppy-StatusBar.is-waiting .uppy-StatusBar-actions",
+        "property": "background-color",
+        "declaration": "#fafafa",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#fdeff1": {
+        "selector": ".uppy-Dashboard-Item-errorMessage",
+        "property": "background-color",
+        "declaration": "#fdeff1",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#dfdfdf": {
+        "selector": "[data-uppy-drag-drop-supported=true] .uppy-Dashboard-AddFiles",
+        "property": "border",
+        "declaration": "1px dashed #dfdfdf",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#dad3c9": {
+        "selector": ".bVlFPH",
+        "property": "background-color",
+        "declaration": "rgba(218, 211, 201, 1)",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "#f8f8f8": {
+        "selector": ".dOMkP",
+        "property": "fill",
+        "declaration": "#f8f8f8",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      }
+    },
+    "font_families": {
+      "-apple-system": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "BlinkMacSystemFont": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "Roboto": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "Helvetica": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "Arial": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "sans-serif": {
+        "selector": ".uppy-Root",
+        "property": "font-family",
+        "declaration": "-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Segoe UI Symbol,Segoe UI Emoji,Apple Color Emoji,Roboto,Helvetica,Arial,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      },
+      "akzidenz-grotesk": {
+        "selector": ".uppy-StatusBar.is-waiting .uppy-StatusBar-actionBtn--upload:hover",
+        "property": "font-family",
+        "declaration": "akzidenz-grotesk,sans-serif",
+        "url": "https://www.backdrophome.com/",
+        "snapshot": "homepage.html",
+        "sha256": "67c8889e2f3013cfb28ab4f85d45076c1a47eb6fdaceb8c4cbd4a113fa2d1f67"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

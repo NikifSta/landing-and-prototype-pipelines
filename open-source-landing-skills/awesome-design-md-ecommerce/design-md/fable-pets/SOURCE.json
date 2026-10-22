@@ -1,0 +1,867 @@
+{
+  "source_url": "https://fablepets.com/",
+  "final_url": "https://fablepets.com/",
+  "captured_at": "2026-09-29T04:15:34.513798+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://fablepets.com/",
+      "final_url": "https://fablepets.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "final_url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e589-a9bd-7d36-b461-adf7d11649bc/dylans-functions-48/assets/recommendations.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e589-a9bd-7d36-b461-adf7d11649bc/dylans-functions-48/assets/recommendations.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ba0e461cf13eb98942a36d59762f837911f19e1a0685b26137c92074b919f56",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://fablepets.com/#computed-style-snapshot",
+      "final_url": "https://fablepets.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "af8d497f897e27ecd0998cf41a0addd7a805064d546710e463996787080e9c77",
+      "snapshot": "rendered-style-4.css"
+    }
+  ],
+  "colors": {
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#030e28": {
+      "count": 235,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 20,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 58,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#000000": {
+      "count": 24,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#b0c7fa": {
+      "count": 23,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#7c7f85": {
+      "count": 7,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#ffd303": {
+      "count": 1,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#cfecb2": {
+      "count": 9,
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#515357": {
+      "count": 71,
+      "sources": [
+        "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+      ]
+    },
+    "#000e28": {
+      "count": 3,
+      "sources": [
+        "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+      ]
+    },
+    "#2563ed": {
+      "count": 12,
+      "sources": [
+        "https://fablepets.com/#computed-style-snapshot"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://fablepets.com/#computed-style-snapshot"
+      ]
+    }
+  },
+  "font_families": {
+    "Moderat": [
+      "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+    ],
+    "sans-serif": [
+      "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+    ],
+    "Gelica": [
+      "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+    ],
+    "serif": [
+      "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://fablepets.com/",
+      "selector": "body.index .head_color, body.home-essentials .head_color, body.crate-landing-page .head_color",
+      "declarations": "color: #fafafa;"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "body.index .sub_color, body.home-essentials .sub_color, body.crate-landing-page .sub_color",
+      "declarations": "color: #fafafa;"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "body.index .head_color, body.home-essentials .head_color, body.crate-landing-page .head_color",
+      "declarations": "color: #030e28 !important;\n      text-align: center;\n      margin-left: auto;\n      margin-right: auto;\n      margin-bottom: 18px;"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "body.index .sub_color, body.home-essentials .sub_color, body.crate-landing-page .sub_color",
+      "declarations": "color: #030e28 !important;\n      text-align: center;\n      margin-left: auto;\n      margin-right: auto;"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:50px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#b0c7fa;--oke-button-backgroundColorHover:#b0c7fa;--oke-button-backgroundColorActive:#b0c7fa;--oke-button-textColor:#030e28;--oke-button-textColorHover:#030e28;--oke-button-textColorActive:#030e28;--oke-button-borderColor:#fff;--oke-button-borderColorHover:#fff;--oke-button-borderColorActive:#fff;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#f7f7f8;--oke-border-width:1px;--oke-text-primaryColor:#030e28;--o"
+    },
+    {
+      "source": "https://fablepets.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": ".cbProductCard:hover .cbProductCardMeta",
+      "declarations": "--tw-translate-y:-1rem"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": "header",
+      "declarations": "background-color:#00000080"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": "body",
+      "declarations": "font-feature-settings:\"tnum\" on, \"lnum\" on, \"case\" on, \"ss02\" on;--tw-text-opacity:1;color:rgb(3 14 40/var(--tw-text-opacity,1));letter-spacing:.01em;font-family:Moderat,sans-serif;font-size:1rem;font-weight:500"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": ".header-background",
+      "declarations": "z-index:9999;background-color:#000c"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": ".cbProductCard:hover .cbProductCardMeta",
+      "declarations": "--tw-translate-y:-2.5rem;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": ".site-header summary:after",
+      "declarations": "content:\"+\";text-align:center;margin-left:8px;font-family:Gelica,serif;font-size:1.5rem"
+    },
+    {
+      "source": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+      "selector": ".native-cart-header",
+      "declarations": "background-color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Fable |\n      Fable Pets | Innovative Pet Gear That Solves Real Problems",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "eb4ff75edab1a24e1df0b5fc3b87b4e6436f23c4efefa2c5c5a1fe9455fbca92"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#2563ed",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value": "#030e28",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#515357",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+      ]
+    },
+    "colors.muted": {
+      "value": "#7c7f85",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.accent-blue-soft": {
+      "value": "#b0c7fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.accent-mint": {
+      "value": "#b2f9e9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value": "#cfecb2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value": "#ffd303",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#000e28",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Gelica, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Gelica, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Moderat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "badge": "{components.badge}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.overlay-scrim}",
+        "titleTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.surface-soft}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "linkColor": "{colors.accent-blue-soft}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.bundle-card": {
+      "value": {
+        "backgroundColor": "{colors.accent-sage}",
+        "textColor": "{colors.ink}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.display-md}",
+        "ctaButton": "{components.button-primary}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#fafafa": {
+        "selector": "body.index .head_color, body.home-essentials .head_color, body.crate-landing-page .head_color",
+        "property": "color",
+        "declaration": "#fafafa",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#030e28": {
+        "selector": "body.index .head_color, body.home-essentials .head_color, body.crate-landing-page .head_color",
+        "property": "color",
+        "declaration": "#030e28",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#00000000": {
+        "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+        "property": "background-color",
+        "declaration": "transparent",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#ffffff": {
+        "selector": ".okeReviews[data-oke-container] .oke-modal-content,div.okeReviews .oke-modal-content",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#000000": {
+        "selector": ".oke-rs .oke-reviewsSummary.oke-is-preRender .oke-reviewsSummary-summary",
+        "property": "-webkit-mask",
+        "declaration": "linear-gradient(180deg,#000 0,#000 40%,transparent 95%,transparent 0) 100% 50%/100% 100% repeat-x",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#b0c7fa": {
+        "selector": ":root",
+        "property": "--oke-button-backgroundcolor",
+        "declaration": "#b0c7fa",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#7c7f85": {
+        "selector": ":root",
+        "property": "--oke-text-secondarycolor",
+        "declaration": "#7c7f85",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#b2f9e9": {
+        "selector": ":root",
+        "property": "--oke-filter-searchhighlightcolor",
+        "declaration": "#b2f9e9",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#ffd303": {
+        "selector": ":root",
+        "property": "--oke-stars-foregroundcolor",
+        "declaration": "#ffd303",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#e5e5e5": {
+        "selector": ":root",
+        "property": "--oke-stars-backgroundcolor",
+        "declaration": "#e5e5e5",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#cfecb2": {
+        "selector": "inline-style",
+        "property": "background",
+        "declaration": "rgb(207, 236, 178)",
+        "url": "https://fablepets.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d6397f0e9fb52ed38e16d98c3b7aae5dc274b14b89bc80e8d63dd153ac419a82"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://fablepets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#515357": {
+        "selector": "[data-product-size-swatches].disabled:after,[data-product-color-swatches].disabled:after,[data-product-other-swatches].disabled:after",
+        "property": "border-top",
+        "declaration": "1px solid #515357",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      },
+      "#000e28": {
+        "selector": ".hero-video-section",
+        "property": "--btn-color",
+        "declaration": "#000e28",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      },
+      "#2563ed": {
+        "selector": ".sample-7-a",
+        "property": "color",
+        "declaration": "rgb(37, 99, 237)",
+        "url": "https://fablepets.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "af8d497f897e27ecd0998cf41a0addd7a805064d546710e463996787080e9c77"
+      },
+      "#f7f7f7": {
+        "selector": ".sample-24-a",
+        "property": "background-color",
+        "declaration": "rgb(247, 247, 247)",
+        "url": "https://fablepets.com/#computed-style-snapshot",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "af8d497f897e27ecd0998cf41a0addd7a805064d546710e463996787080e9c77"
+      }
+    },
+    "font_families": {
+      "Moderat": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "Moderat,sans-serif",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "Moderat,sans-serif",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      },
+      "Gelica": {
+        "selector": ".font-serif",
+        "property": "font-family",
+        "declaration": "Gelica,serif",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      },
+      "serif": {
+        "selector": ".font-serif",
+        "property": "font-family",
+        "declaration": "Gelica,serif",
+        "url": "https://fablepets.com/cdn/shop/t/327/assets/bundle.css?v=73366008048549794461787151684",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "ac805e678e253c150031f024300620018683b147d275d46c934bfe8242c484bb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

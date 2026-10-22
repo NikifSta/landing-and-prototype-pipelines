@@ -1,0 +1,1260 @@
+{
+  "url": "https://www.granola.ai/",
+  "date": "2026-10-06T10:05:40.968Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://www.granola.ai/homepageAssets/call-videos/rob-call-512.mp4",
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "el": "div.relative.overflow-hidden"
+          }
+        ],
+        "canvases": 5,
+        "scrollHeight": 14310
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "8px",
+          "height": 56,
+          "parentHeight": 14310,
+          "el": "header.navbar-header «Features Notepad The AI notepad for people in back»"
+        },
+        {
+          "position": "fixed",
+          "top": "640px",
+          "height": 260,
+          "parentHeight": 14310,
+          "el": "div.footer-reveal-panel"
+        },
+        {
+          "position": "sticky",
+          "top": "48px",
+          "height": 900,
+          "parentHeight": 1800,
+          "el": "section.flex-col.mx-auto «Q3 GTM sync Today 4 confirm ICP alignment Deal sta»"
+        },
+        {
+          "position": "sticky",
+          "top": "96px",
+          "height": 203,
+          "parentHeight": 2452,
+          "el": "div.sticky.top-24 «Before the meeting In the meeting After the meetin»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": false
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": false
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": false
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": false
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": false
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": false
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": false
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": false
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": false
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": false
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": false
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": false
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": false
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": false
+        },
+        {
+          "frame": "017-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "018-y8100.png",
+          "y": 8100,
+          "moving": false
+        },
+        {
+          "frame": "019-y8550.png",
+          "y": 8550,
+          "moving": false
+        },
+        {
+          "frame": "020-y9000.png",
+          "y": 9000,
+          "moving": false
+        },
+        {
+          "frame": "021-y9450.png",
+          "y": 9450,
+          "moving": false
+        },
+        {
+          "frame": "022-y9900.png",
+          "y": 9900,
+          "moving": false
+        },
+        {
+          "frame": "023-y10350.png",
+          "y": 10350,
+          "moving": false
+        },
+        {
+          "frame": "024-y10800.png",
+          "y": 10800,
+          "moving": false
+        },
+        {
+          "frame": "025-y11250.png",
+          "y": 11250,
+          "moving": false
+        },
+        {
+          "frame": "026-y11700.png",
+          "y": 11700,
+          "moving": true
+        },
+        {
+          "frame": "027-y12150.png",
+          "y": 12150,
+          "moving": true
+        },
+        {
+          "frame": "028-y12600.png",
+          "y": 12600,
+          "moving": false
+        },
+        {
+          "frame": "029-y13050.png",
+          "y": 13050,
+          "moving": true
+        },
+        {
+          "frame": "030-y13410.png",
+          "y": 13410,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "shrink-to-sticky-lg",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.sticky-demo-preview.aspect-4/6 «Q3 GTM sync Today 4 confirm ICP alignment Deal sta»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-grey-lg",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "floating-fade-out",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-explosion-lg",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-green-lg",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spin",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.size-3.animate-spin",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-1",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-1",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-3",
+          "duration": 500,
+          "delay": 180,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-3",
+          "duration": 500,
+          "delay": 180,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-2",
+          "duration": 920,
+          "delay": 330,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-2",
+          "duration": 920,
+          "delay": 330,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "video-call-parallax",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.video-thumbs.flex-col",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "doers-slide-under",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "h2.doers-headline.whitespace-nowrap «For the doers»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "how-it-works-progress-fill",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.hiw-step-fill.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pulse",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.h-4.w-36",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pulse",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.inline-block.w-px",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Q3 roadmap check-in»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text «• Walked through priorities for the quarter»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Two initiatives pulled forward from Q4»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• One project deprioritized pending more research»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Design system rollout»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Phase 1 shipping next week»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Blocked on documentation site»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text «• Tanya offered to pair on the doc structure»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Onboarding improvements»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Brainstormed ways to improve new-user onboarding»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Three angles: in-app tour, intro video, sample d»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Jack to spec out the in-app tour direction»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Next steps»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Sam to draft doc outline by Friday»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Jess to set up the A/B test plan»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Sync again Friday»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "caret-blink",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.ml-[0.04em].inline-block",
+          "firstSeenAtY": 5400
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 6,
+        "scrollHeight": 12157
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 56,
+          "parentHeight": 12157,
+          "el": "header.navbar-header «Download»"
+        },
+        {
+          "position": "fixed",
+          "top": "584px",
+          "height": 260,
+          "parentHeight": 12157,
+          "el": "div.footer-reveal-panel"
+        },
+        {
+          "position": "sticky",
+          "top": "96px",
+          "height": 569,
+          "parentHeight": 1688,
+          "el": "section.flex-col.mx-auto «Q3 GTM sync Today 4 confirm ICP alignment Deal sta»"
+        },
+        {
+          "position": "sticky",
+          "top": "96px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.sticky.top-24 «Before the meetingIn the meetingAfter the meeting»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 12157,
+          "el": "div#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center «OK with Cookies? Not the granola kind. We use cook»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": false
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": false
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": false
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": false
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": false
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": false
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": false
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": false
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": false
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "021-y8862.png",
+          "y": 8862,
+          "moving": false
+        },
+        {
+          "frame": "022-y9284.png",
+          "y": 9284,
+          "moving": false
+        },
+        {
+          "frame": "023-y9706.png",
+          "y": 9706,
+          "moving": true
+        },
+        {
+          "frame": "024-y10128.png",
+          "y": 10128,
+          "moving": true
+        },
+        {
+          "frame": "025-y10550.png",
+          "y": 10550,
+          "moving": false
+        },
+        {
+          "frame": "026-y10972.png",
+          "y": 10972,
+          "moving": false
+        },
+        {
+          "frame": "027-y11313.png",
+          "y": 11313,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "shrink-to-sticky-sm",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.sticky-demo-preview.aspect-4/6 «Q3 GTM sync Today 4 confirm ICP alignment Deal sta»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-grey-sm",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "floating-fade-out",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-explosion-sm",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "float-green-sm",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.floating-item.grid-pile",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spin",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.size-3.animate-spin",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-1",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-1",
+          "duration": 600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-3",
+          "duration": 500,
+          "delay": 180,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-3",
+          "duration": 500,
+          "delay": 180,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-top-2",
+          "duration": 920,
+          "delay": 330,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dancing-bar-bottom-2",
+          "duration": 920,
+          "delay": 330,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.w-1.rounded-full",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "video-call-parallax",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.video-thumbs.flex-col",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "doers-slide-under",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "h2.doers-headline.whitespace-nowrap «For the doers»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pulse",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.h-4.w-36",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pulse",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.inline-block.w-px",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Q3 roadmap check-in»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text «• Walked through priorities for the quarter»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Two initiatives pulled forward from Q4»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• One project deprioritized pending more research»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Design system rollout»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Phase 1 shipping next week»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Blocked on documentation site»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text «• Tanya offered to pair on the doc structure»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Onboarding improvements»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Brainstormed ways to improve new-user onboarding»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Three angles: in-app tour, intro video, sample d»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Jack to spec out the in-app tour direction»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «Next steps»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Sam to draft doc outline by Friday»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Jess to set up the A/B test plan»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.hiw-grad.gradient-text-grey «• Sync again Friday»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div#iubenda-cs-banner.iubenda-cs-default-floating.iubenda-cs-center «OK with Cookies? Not the granola kind. We use cook»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.iubenda-cs-container «OK with Cookies? Not the granola kind. We use cook»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «ICP Alignment Confirmation»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text «• Agreed to narrow Q3 focus to mid-market finance »",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «– SMB deprioritised for the quarter»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «– Paid campaigns paused until ICP doc is confirmed»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «Deal Stalls: Sales Input»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text «• Jack flagged deals stalling at business case sta»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «– Marketing to build a business case template»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «– CS to share proof points from successful onboard»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «• Follow-up scheduled for Tuesday»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «Q3 Messaging Rollout»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text «• Sales and CS do not yet feel briefed on new mess»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «– Lunch and learn session agreed»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «Next Steps»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «• Tanya: Update ICP doc and pause paid campaigns»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «• Rob: Scope business case template by Tuesday»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bg-slide",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "p.dq-grad.gradient-text-grey «• Jack: Collate CS proof points by Tuesday»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "caret-blink",
+          "duration": 1100,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.ml-[0.04em].inline-block",
+          "firstSeenAtY": 5486
+        }
+      ]
+    }
+  }
+}

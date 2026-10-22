@@ -1,0 +1,840 @@
+{
+  "source_url": "https://www.rode.com",
+  "final_url": "https://rode.com/en-au/",
+  "captured_at": "2026-09-28T09:34:18.216500+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.rode.com",
+      "final_url": "https://rode.com/en-au/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "51372e801ee7d1b2a6c20bda778e1081a61bf2a3d2546536886f98a02ba7003a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d57dfa9957a8da048e831165819f7202eb390ff66f61fd6c8354c4a3974e3d5f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "final_url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+      "final_url": "https://rode.com/build/assets/app-CzibVIGv.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 78,
+      "sources": [
+        "https://rode.com/en-au/"
+      ]
+    },
+    "#eb9341": {
+      "count": 1,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#6ab5ed": {
+      "count": 1,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#fc63a3": {
+      "count": 1,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#e84751": {
+      "count": 1,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#14181a": {
+      "count": 23,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 7,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#59ae31": {
+      "count": 2,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#5b5e5f": {
+      "count": 11,
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "#262627": {
+      "count": 10,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "#3e34d3": {
+      "count": 9,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "#3e34d333": {
+      "count": 5,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    ],
+    "system-ui": [
+      "https://rode.com/build/assets/app-w_t-Fwjq.css"
+    ],
+    "sans-serif": [
+      "https://rode.com/build/assets/app-w_t-Fwjq.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "body",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1));font-size:1rem;line-height:1.5rem;font-weight:400;color:var(--text-default,#14181A)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button,.btn",
+      "declarations": "border-color:var(--action-primary);background-color:var(--action-primary);color:var(--action-on-primary);transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button:hover,button.active,.btn:hover,.btn.active",
+      "declarations": "background-color:var(--action-on-primary);color:var(--action-primary)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button.btn-dark,.btn.btn-dark",
+      "declarations": "cursor:pointer;border-color:var(--action-on-primary);background-color:var(--action-on-primary);--tw-text-opacity: 1;color:rgb(0 0 0 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "button.btn-dark:hover,button.btn-dark.active,.btn.btn-dark:hover,.btn.btn-dark.active",
+      "declarations": "background-color:var(--action-primary);color:var(--action-on-primary)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": ".card-header",
+      "declarations": "margin-bottom:0;border-bottom-width:1px;border-style:solid;border-bottom-color:rgb(0 0 0 / var(--tw-border-opacity, 1));--tw-border-opacity: .05;--tw-bg-opacity: .05;padding:.75rem 1.25rem"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": ".modal-header",
+      "declarations": "display:flex;flex-shrink:0;align-items:flex-start;justify-content:space-between;border-bottom-width:1px;border-style:solid;--tw-border-opacity: 1;border-bottom-color:rgb(221 221 221 / var(--tw-border-opacity, 1));padding:1rem"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "uctsshow .product-summary h1.product-name,#productsshow .product-summary-variants h1.product-name,#softwareshow .product-summary h1.product-name,#softwareshow .",
+      "declarations": "font-size:var(--h2);font-weight:var(--Weight-SemiBold);line-height:115%;letter-spacing:-1.5%;color:var(--text-default)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "oduct-summary h2.product-tagline,#productsshow .product-summary-variants h2.product-tagline,#softwareshow .product-summary h2.product-tagline,#softwareshow .pro",
+      "declarations": "font-size:var(--h6);font-weight:var(--Weight-SemiBold);line-height:1.5;color:var(--text-muted)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .btn-learnmore,#softwareshow .btn-learnmore",
+      "declarations": "border-width:0px;background-color:inherit;--tw-text-opacity: 1;color:rgb(156 156 156 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .btn-learnmore:hover,#softwareshow .btn-learnmore:hover",
+      "declarations": "background-color:inherit;--tw-text-opacity: 1;color:rgb(89 89 89 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .accordion .card .card-header .card-title,#softwareshow .accordion .card .card-header .card-title",
+      "declarations": "font-size:var(--h6);font-weight:var(--Weight-SemiBold);line-height:1.5;color:var(--text-default)"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "show .text-neon-blue-lime-green,#productsshow .text-neon-yellow-pink-cyan,#softwareshow .text-neon-pink-orange-yellow,#softwareshow .text-neon-blue-lime-green,#",
+      "declarations": "background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .hotspots .hotspot .textBox .headerText.text-light,#softwareshow .hotspots .hotspot .textBox .headerText.text-light",
+      "declarations": "--tw-text-opacity: 1;color:rgb(183 183 183 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .hotspots .hotspot .hotspotLineOut .bg-pink,#softwareshow .hotspots .hotspot .hotspotLineOut .bg-pink",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(244 114 182 / var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .hotspots .hotspot .hotspotLineOut .bg-green,#softwareshow .hotspots .hotspot .hotspotLineOut .bg-green",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(74 222 128 / var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .hotspots .hotspot .hotspotLineOut .bg-blue,#softwareshow .hotspots .hotspot .hotspotLineOut .bg-blue",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(96 165 250 / var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .hotspots .hotspot .hotspotLineOut .bg-orange,#softwareshow .hotspots .hotspot .hotspotLineOut .bg-orange",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(251 146 60 / var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-background-overlay,#softwareshow .multi-columns .column-container .column-background-overlay",
+      "declarations": "transition:all 1s cubic-bezier(.23,1,.32,1);background-color:#000;opacity:0"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "ow .multi-columns .column-container .column-content-container .column-content .column-header p,#softwareshow .multi-columns .column-container .column-content-co",
+      "declarations": "font-family:inherit;font-weight:inherit;color:#fff;margin-bottom:0;font-size:1.75rem;line-height:2.25rem"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup,#softwareshow .multi-columns .column-container .column-popup",
+      "declarations": "position:absolute;width:100%;height:100%;background-color:#000000b3"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup .popup,#softwareshow .multi-columns .column-container .column-popup .popup",
+      "declarations": "position:fixed;top:0;left:0;width:100%;height:100%;z-index:1030;background-color:#fff;overflow-y:auto"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup .popup .popup-handler,#softwareshow .multi-columns .column-container .column-popup .popup .popup-ha",
+      "declarations": "position:absolute;right:2.5rem;top:2.5rem;margin-right:.5rem;margin-top:.5rem;color:#fff;cursor:pointer"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup .popup .popup-handler svg,#softwareshow .multi-columns .column-container .column-popup .popup .popu",
+      "declarations": "width:50px;height:50px;color:#000"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup .popup.onDark,#softwareshow .multi-columns .column-container .column-popup .popup.onDark",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .column-popup .popup.onDark .popup-handler svg,#softwareshow .multi-columns .column-container .column-popup .popu",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": "#productsshow .multi-columns .column-container .popup-handler,#softwareshow .multi-columns .column-container .popup-handler",
+      "declarations": "position:absolute;right:1.5rem;top:1.5rem;color:#fff;cursor:pointer"
+    },
+    {
+      "source": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+      "selector": ".tab-content .product_tab_content .product_col .rode-image-holder",
+      "declarations": "display:grid;height:272px;align-items:center;border-radius:var(--Radius-md);background-color:var(--black-full-10);padding:1rem"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "RØDE (Australia)",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#3e34d3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.primary-soft": {
+      "value": "#3e34d333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#14181a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/en-au/"
+      ]
+    },
+    "colors.body": {
+      "value": "#14181a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#9c9c9c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/en-au/"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#262627",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-CzibVIGv.css"
+      ]
+    },
+    "colors.text-secondary": {
+      "value": "#5b5e5f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.accent-info": {
+      "value": "#6ab5ed",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value": "#59ae31",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.accent-warning": {
+      "value": "#eb9341",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.accent-danger": {
+      "value": "#e84751",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value": "#fc63a3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rode.com/build/assets/app-w_t-Fwjq.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.375px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.15px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter, system-ui, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "mutedTextColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "borderTop": "1px solid {colors.border-dark}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.text-secondary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "activeBorderColor": "{colors.primary}",
+        "inactiveBorderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "size": "{spacing.xl}",
+        "gap": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#ffffff",
+        "url": "https://rode.com/en-au/",
+        "snapshot": "homepage.html",
+        "sha256": "51372e801ee7d1b2a6c20bda778e1081a61bf2a3d2546536886f98a02ba7003a"
+      },
+      "#eb9341": {
+        "selector": ":root",
+        "property": "--var-colour-orange",
+        "declaration": "#EB9341",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#6ab5ed": {
+        "selector": ":root",
+        "property": "--var-colour-blue",
+        "declaration": "#6AB5ED",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#fc63a3": {
+        "selector": ":root",
+        "property": "--var-colour-pink",
+        "declaration": "#FC63A3",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#e84751": {
+        "selector": ":root",
+        "property": "--var-colour-red",
+        "declaration": "#E84751",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#14181a": {
+        "selector": ":root",
+        "property": "--colour-black-full-100",
+        "declaration": "#14181A",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#9c9c9c": {
+        "selector": ":root",
+        "property": "--colours-grey-suite-grey-60",
+        "declaration": "#9C9C9C",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#59ae31": {
+        "selector": ":root",
+        "property": "--color-success-green",
+        "declaration": "#59AE31",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#5b5e5f": {
+        "selector": ":root",
+        "property": "--text-muted",
+        "declaration": "#5B5E5F",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "#262627": {
+        "selector": ".aa-Autocomplete,.aa-DetachedFormContainer,.aa-Panel",
+        "property": "color",
+        "declaration": "#262627",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      },
+      "#3e34d3": {
+        "selector": ".aa-Form:focus-within",
+        "property": "border-color",
+        "declaration": "#3e34d3",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      },
+      "#3e34d333": {
+        "selector": ".aa-Form:focus-within",
+        "property": "box-shadow",
+        "declaration": "#3e34d333 0 0 0 2px,inset #3e34d333 0 0 0 2px",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      },
+      "#f9f9f9": {
+        "selector": ".signup-form",
+        "property": "background-color",
+        "declaration": "#f9f9f9",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      },
+      "#f2f2f2": {
+        "selector": ".popup input[data-v-1d24700b]",
+        "property": "background-color",
+        "declaration": "#f2f2f2",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      },
+      "#dddddd": {
+        "selector": ".popup .country-lists-dropdown[data-v-86f52995]",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://rode.com/build/assets/app-CzibVIGv.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b49b35ce724f6371ae63ed7cd73955b1f5bcd9faef5037ca1efc01e414b5cd6a"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Inter\"",
+        "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "d57dfa9957a8da048e831165819f7202eb390ff66f61fd6c8354c4a3974e3d5f"
+      },
+      "system-ui": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "Inter,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "Inter,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\"",
+        "url": "https://rode.com/build/assets/app-w_t-Fwjq.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19f47848055581bfde49dab1e97a6658c17f722b9ff23f7233c153c9cd8c4a01"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

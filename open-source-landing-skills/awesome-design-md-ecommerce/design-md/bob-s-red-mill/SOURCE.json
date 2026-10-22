@@ -1,0 +1,706 @@
+{
+  "source_url": "https://bobsredmill.com",
+  "final_url": "https://www.bobsredmill.com/",
+  "captured_at": "2026-09-28T09:48:09.613842+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bobsredmill.com",
+      "final_url": "https://www.bobsredmill.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b98bd0d55cb5f6692579126e322e5ef95a3deafbccf42b03ee4ed00705e91cbf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "final_url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#3e2b2e": {
+      "count": 4,
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "#e03c31": {
+      "count": 2,
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "#faf2e3": {
+      "count": 2,
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 25,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#e7e9ee": {
+      "count": 1,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#7e8594": {
+      "count": 1,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#fb4143": {
+      "count": 2,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "#5cb767": {
+      "count": 1,
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    }
+  },
+  "font_families": {
+    "Red Mill Sans": [
+      "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+    ],
+    "Red Mill Serif": [
+      "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+    ],
+    "Cabin": [
+      "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ":root",
+      "declarations": "--color-white:255,255,255;--color-mill-red:224,60,49;--color-autumn-wheat:250,242,227;--color-dark-base:62,43,46;--color-dark-base-20:62,43,46,.2;--color-dark-base-30:62,43,46,.3;--color-dark-base-50:62,43,46,.5;--color-dark-base-70:62,43,46,.7;--color-soft-grain:209,193,168;--color-buckwheat:126,105,79;--color-vista-100:211,222,232;--color-vista-400:143,172,216;--color-vista-500:103,135,183;--color-birds-egg-400:165,215,224;--color-birds-egg-500:136,196,201;--color-sunglow-400:246,228,173;--color-sunglow-500:255,204,104;--color-stone-400:212,204,201;--color-stone-500:191,179,174;--font-red-mill-sans:\"Red Mill Sans\",sans-serif;--font-red-mill-serif:\"Red Mill Serif\",serif;--font-cabin:\"Cabin\""
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ":root",
+      "declarations": "--hero-spacing:-177px"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": "body",
+      "declarations": "color:rgb(var(--color-dark-base))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": "body",
+      "declarations": "-webkit-print-color-adjust:exact;print-color-adjust:exact;color:#000!important;background:#fff!important;font-size:11pt!important;line-height:1.4!important"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".h1-display",
+      "declarations": "font-family:var(--font-red-mill-sans);text-transform:none;font-size:50px;font-style:normal;font-weight:700;font-stretch:75%;line-height:95%"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".h1-serif",
+      "declarations": "font-family:var(--font-red-mill-serif);letter-spacing:0;font-size:46px;font-weight:700;line-height:95%"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".h1-category",
+      "declarations": "font-family:var(--font-red-mill-sans);letter-spacing:0;text-transform:uppercase;font-size:3.125rem;font-style:normal;font-weight:700;font-stretch:75%;line-height:3.125rem"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".product-card-link",
+      "declarations": "text-align:center;font-family:var(--font-cabin);font-size:18px;font-weight:600;line-height:22px;transition:color .4s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".product-card-link:hover",
+      "declarations": "color:rgb(var(--color-mill-red))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".small-product-title",
+      "declarations": "font-family:var(--font-red-mill-sans);font-size:18px;font-style:normal;font-weight:500;font-stretch:85%;line-height:22px"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn",
+      "declarations": "font-size:18px;font-style:normal;font-family:var(--font-red-mill-sans);letter-spacing:.72px;text-transform:uppercase;white-space:nowrap;border-radius:5px;padding:16px 24px;font-weight:700;font-stretch:75%;line-height:23px;display:inline-block"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-red",
+      "declarations": "color:rgb(var(--color-autumn-wheat));background-color:rgb(var(--color-mill-red));border:2px solid rgb(var(--color-mill-red));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-red:hover",
+      "declarations": "color:rgb(var(--color-mill-red));background-color:#0000"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-red-subtle",
+      "declarations": "color:rgb(var(--color-mill-red));border:2px solid rgb(var(--color-mill-red));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-red-subtle:hover",
+      "declarations": "background-color:rgb(var(--color-mill-red));color:rgb(var(--color-autumn-wheat))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-primary",
+      "declarations": "color:rgb(var(--color-autumn-wheat));background-color:rgb(var(--color-dark-base));border:2px solid rgb(var(--color-dark-base));height:56px;transition:color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-primary:hover",
+      "declarations": "color:rgb(var(--color-soft-grain))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-primary-subtle",
+      "declarations": "color:rgb(var(--color-dark-base));border:2px solid rgb(var(--color-dark-base));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-primary-subtle:hover",
+      "declarations": "background:rgb(var(--color-dark-base));color:rgb(var(--color-autumn-wheat))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-secondary-subtle",
+      "declarations": "color:rgb(var(--color-dark-base));border:2px solid rgb(var(--color-dark-base));letter-spacing:.56px;height:41px;padding:8px 16px;font-size:14px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-onlight.btn-secondary-subtle:hover",
+      "declarations": "background:rgb(var(--color-dark-base));color:rgb(var(--color-autumn-wheat))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary",
+      "declarations": "color:rgb(var(--color-dark-base));background-color:rgb(var(--color-autumn-wheat));border:2px solid rgb(var(--color-autumn-wheat));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary:hover",
+      "declarations": "color:rgb(var(--color-autumn-wheat));background-color:#0000"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary-subtle-autumn-wheat",
+      "declarations": "color:rgb(var(--color-autumn-wheat));border:2px solid rgb(var(--color-autumn-wheat));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary-subtle-autumn-wheat:hover",
+      "declarations": "background:rgb(var(--color-autumn-wheat));color:rgb(var(--color-dark-base))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary-subtle",
+      "declarations": "color:rgb(var(--color-autumn-wheat));border:2px solid rgb(var(--color-autumn-wheat));height:56px;transition:color .25s linear,background-color .25s linear"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-primary-subtle:hover",
+      "declarations": "background:rgb(var(--color-autumn-wheat));border:2px solid rgb(var(--color-autumn-wheat));color:rgb(var(--color-dark-base))"
+    },
+    {
+      "source": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+      "selector": ".btn.btn-ondark.btn-secondary-subtle",
+      "declarations": "color:rgb(var(--color-autumn-wheat));border:2px solid rgb(var(--color-autumn-wheat));letter-spacing:.56px;height:41px;padding:8px 16px;font-size:14px;transition:color .25s linear,background-color .25s linear"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bob's Red Mill Natural Foods | Bob's Red Mill Natural Foods",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#e03c31",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "colors.primary-alt": {
+      "value": "#fb4143",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "colors.ink": {
+      "value": "#3e2b2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "colors.body": {
+      "value": "#3e2b2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#7e8594",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e7e9ee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#faf2e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#faf2e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#5cb767",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "\"Red Mill Sans\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": 700,
+        "lineHeight": 0.95,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "\"Red Mill Serif\", serif",
+        "fontSize": "46px",
+        "fontWeight": 700,
+        "lineHeight": 0.95,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "\"Red Mill Sans\", sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "\"Cabin\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "\"Cabin\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "\"Cabin\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "\"Red Mill Sans\", sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 700,
+        "lineHeight": 1.28,
+        "letterSpacing": "0.72px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "5px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "border": "2px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "hoverTextColor": "{colors.primary}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.surface-soft}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-green}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.recipe-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "metaTypography": "{typography.caption}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#3e2b2e": {
+        "selector": "pjsdiv#oframevideo-card-player-935435",
+        "property": "background-color",
+        "declaration": "#3e2b2e",
+        "url": "https://www.bobsredmill.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b98bd0d55cb5f6692579126e322e5ef95a3deafbccf42b03ee4ed00705e91cbf"
+      },
+      "#e03c31": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#e03c31",
+        "url": "https://www.bobsredmill.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b98bd0d55cb5f6692579126e322e5ef95a3deafbccf42b03ee4ed00705e91cbf"
+      },
+      "#faf2e3": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#faf2e3",
+        "url": "https://www.bobsredmill.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b98bd0d55cb5f6692579126e322e5ef95a3deafbccf42b03ee4ed00705e91cbf"
+      },
+      "#00000000": {
+        "selector": "html,:host",
+        "property": "-webkit-tap-highlight-color",
+        "declaration": "transparent",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#ffffff": {
+        "selector": "*,:before,:after,::backdrop",
+        "property": "--tw-ring-offset-color",
+        "declaration": "#fff",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#000000": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#e7e9ee": {
+        "selector": ".cc-w .cc-v-down:before",
+        "property": "border-left",
+        "declaration": "2px solid #e7e9ee",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#7e8594": {
+        "selector": ".cc-w .cc-f-label-i",
+        "property": "color",
+        "declaration": "#7e8594",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#fb4143": {
+        "selector": ".cc-w .cc-f-label-r",
+        "property": "color",
+        "declaration": "#fb4143",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "#5cb767": {
+        "selector": ".cc-w .cc-sub.is-subscribed,.cc-w .cc-sub.is-subscribed:hover,.cc-w .cc-sub.is-subscribed:active",
+        "property": "color",
+        "declaration": "#5cb767",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      }
+    },
+    "font_families": {
+      "Red Mill Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Red Mill Sans",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "Red Mill Serif": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Red Mill Serif",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      },
+      "Cabin": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Cabin",
+        "url": "https://www.bobsredmill.com/css/site.css?v=609fe2c5041160f1e281f38b37c4cc0a9251bdee",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3e9c13eedf5dcad2b937415251bd1c03252858c30d95649b617894bfdd171e10"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

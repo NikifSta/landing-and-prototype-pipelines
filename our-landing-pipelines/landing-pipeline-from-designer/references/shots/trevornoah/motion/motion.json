@@ -1,0 +1,1498 @@
+{
+  "url": "https://www.trevornoah.com/",
+  "date": "2026-10-06T13:52:58.192Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 1,
+        "scrollHeight": 10730
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 10730,
+          "el": "div.dev_styles"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 10730,
+          "el": "svg.peel_svg"
+        },
+        {
+          "position": "fixed",
+          "top": "230.4px",
+          "height": 58,
+          "parentHeight": 0,
+          "el": "header.header_wrap.is-home «Get Tickets»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "header.header_wrap.is-default «Get Tickets»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 10730,
+          "el": "div.menu_wrap.u-modal «Menu»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 58,
+          "parentHeight": 853,
+          "el": "div.header_wrap.is-menu"
+        },
+        {
+          "position": "fixed",
+          "top": "805.438px",
+          "height": 50,
+          "parentHeight": 1350,
+          "el": "div.hero_social_link_wrap"
+        },
+        {
+          "position": "fixed",
+          "top": "936px",
+          "height": 0,
+          "parentHeight": 900,
+          "el": "div.widget_cl.w-dyn-list «Latest Netflix Comedy Special Trevor Noah: Joy in »"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 74,
+          "parentHeight": 900,
+          "el": "div.gl_nav_wrap «Watch & Listen»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 10730,
+          "el": "div.webgl_wrap"
+        },
+        {
+          "position": "fixed",
+          "top": "622.469px",
+          "height": 249,
+          "parentHeight": 10730,
+          "el": "div.cookie_wrap.is-active «Select ‘Accept All’ to agree to our use of cookies»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": false
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": false
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "005-y2240.png",
+          "y": 2240,
+          "moving": true
+        },
+        {
+          "frame": "006-y2697.png",
+          "y": 2697,
+          "moving": true
+        },
+        {
+          "frame": "007-y3149.png",
+          "y": 3149,
+          "moving": false
+        },
+        {
+          "frame": "008-y3597.png",
+          "y": 3597,
+          "moving": true
+        },
+        {
+          "frame": "009-y4044.png",
+          "y": 4044,
+          "moving": true
+        },
+        {
+          "frame": "010-y4490.png",
+          "y": 4490,
+          "moving": false
+        },
+        {
+          "frame": "011-y4948.png",
+          "y": 4948,
+          "moving": false
+        },
+        {
+          "frame": "012-y5388.png",
+          "y": 5388,
+          "moving": false
+        },
+        {
+          "frame": "013-y5828.png",
+          "y": 5828,
+          "moving": false
+        },
+        {
+          "frame": "014-y6281.png",
+          "y": 6281,
+          "moving": false
+        },
+        {
+          "frame": "015-y6746.png",
+          "y": 6746,
+          "moving": true
+        },
+        {
+          "frame": "016-y7194.png",
+          "y": 7194,
+          "moving": false
+        },
+        {
+          "frame": "017-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "018-y8100.png",
+          "y": 8100,
+          "moving": true
+        },
+        {
+          "frame": "019-y8550.png",
+          "y": 8550,
+          "moving": true
+        },
+        {
+          "frame": "020-y9000.png",
+          "y": 9000,
+          "moving": true
+        },
+        {
+          "frame": "021-y9450.png",
+          "y": 9450,
+          "moving": true
+        },
+        {
+          "frame": "022-y9830.png",
+          "y": 9830,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "menu-sprite",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img.menu_face_01",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "menu-sprite",
+          "duration": 2000,
+          "delay": -1000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img.menu_face_02",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "widget-marquee",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.widget_marquee_track «Netflix Comedy Special Trevor Noah: Joy in the Tre»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutUp",
+          "duration": 8000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.steam",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Finding the extraordinary»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «in the ordinary -»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «often interesting, always»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «interested»",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-1",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Media»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «On The Screen»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 1.65, 0.3, 1)",
+          "target": "div.screen_wrap.is-inview",
+          "firstSeenAtY": 2240
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-4",
+          "firstSeenAtY": 2240
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-3",
+          "firstSeenAtY": 2240
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-2",
+          "firstSeenAtY": 2240
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.button_pill.w-variant-86ffadb7-9931-b304-d51a-b0781b742267",
+          "firstSeenAtY": 3149
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «About»",
+          "firstSeenAtY": 3149
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «This Guy»",
+          "firstSeenAtY": 3149
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pop-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.about_brain.is-inview",
+          "firstSeenAtY": 3597
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pop-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.about_cloud.is-inview",
+          "firstSeenAtY": 4044
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «A curious human»",
+          "firstSeenAtY": 4044
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «intrigued by the world»",
+          "firstSeenAtY": 4044
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «around him»",
+          "firstSeenAtY": 4044
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "about-what-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "svg.about_what_svg.is-inview",
+          "firstSeenAtY": 4044
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.separator.is-inview",
+          "firstSeenAtY": 4490
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Latest»",
+          "firstSeenAtY": 4948
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Where’s Trevor?»",
+          "firstSeenAtY": 4948
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.news_layout_line.is-inview",
+          "firstSeenAtY": 5388
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «In life only three things»",
+          "firstSeenAtY": 7194
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «are certain: death, Adobe»",
+          "firstSeenAtY": 7194
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «updates and taxes»",
+          "firstSeenAtY": 7194
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "img.quote_head.is-hover-float-target-active",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 1.65, 0.3, 1)",
+          "target": "img.quote_head.is-hover-float-target-active",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "cite.quote_author.u-text-accent «Trevor Noah»",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "img.quote_head",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 1.65, 0.3, 1)",
+          "target": "img.quote_head",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Books»",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «On The Page»",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Shows»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Shows»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.95, 0.05, 0.795, 0.035)",
+          "target": "div.menu_item_inner «Shows»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Watch & Listen»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Watch & Listen»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.95, 0.05, 0.795, 0.035)",
+          "target": "div.menu_item_inner «Watch & Listen»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.95, 0.05, 0.795, 0.035)",
+          "target": "div.menu_item_inner «Books»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.menu_item_bg.is-inview",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 1.65, 0.3, 1)",
+          "target": "div.menu_item_bg.is-inview",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "margin-top",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "img.menu_book",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 1.65, 0.3, 1)",
+          "target": "img.menu_book",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.menu_item_inner «Books»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.menu_item_inner «Books»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «About»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «About»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.menu_item_inner «About»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.95, 0.05, 0.795, 0.035)",
+          "target": "div.menu_item_inner «About»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Store»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Store»",
+          "firstSeenAtY": 9830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 900,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.95, 0.05, 0.795, 0.035)",
+          "target": "div.menu_item_inner «Store»",
+          "firstSeenAtY": 9830
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 1,
+        "scrollHeight": 7104
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 7104,
+          "el": "div.dev_styles"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 7104,
+          "el": "svg.peel_svg"
+        },
+        {
+          "position": "fixed",
+          "top": "62.4px",
+          "height": 54,
+          "parentHeight": 0,
+          "el": "header.header_wrap.is-home «Get Tickets»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "header.header_wrap.is-default «Get Tickets»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 7104,
+          "el": "div.menu_wrap.u-modal «Menu»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 54,
+          "parentHeight": 826,
+          "el": "div.header_wrap.is-menu"
+        },
+        {
+          "position": "fixed",
+          "top": "auto",
+          "height": 0,
+          "parentHeight": 844,
+          "el": "div.hero_social_link_wrap"
+        },
+        {
+          "position": "fixed",
+          "top": "0%",
+          "height": 0,
+          "parentHeight": 844,
+          "el": "div.gl_nav_wrap «link»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 7104,
+          "el": "div.webgl_wrap"
+        },
+        {
+          "position": "fixed",
+          "top": "590.047px",
+          "height": 232,
+          "parentHeight": 7104,
+          "el": "div.cookie_wrap.is-active «Select ‘Accept All’ to agree to our use of cookies»"
+        },
+        {
+          "position": "fixed",
+          "top": "844px",
+          "height": 8,
+          "parentHeight": 7104,
+          "el": "div.safari-toolbar-tint.is-base"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y415.png",
+          "y": 415,
+          "moving": true
+        },
+        {
+          "frame": "002-y830.png",
+          "y": 830,
+          "moving": true
+        },
+        {
+          "frame": "003-y1264.png",
+          "y": 1264,
+          "moving": true
+        },
+        {
+          "frame": "004-y1672.png",
+          "y": 1672,
+          "moving": true
+        },
+        {
+          "frame": "005-y2086.png",
+          "y": 2086,
+          "moving": true
+        },
+        {
+          "frame": "006-y2497.png",
+          "y": 2497,
+          "moving": false
+        },
+        {
+          "frame": "007-y2927.png",
+          "y": 2927,
+          "moving": false
+        },
+        {
+          "frame": "008-y3342.png",
+          "y": 3342,
+          "moving": false
+        },
+        {
+          "frame": "009-y3764.png",
+          "y": 3764,
+          "moving": false
+        },
+        {
+          "frame": "010-y4219.png",
+          "y": 4219,
+          "moving": false
+        },
+        {
+          "frame": "011-y4632.png",
+          "y": 4632,
+          "moving": true
+        },
+        {
+          "frame": "012-y5060.png",
+          "y": 5060,
+          "moving": true
+        },
+        {
+          "frame": "013-y5482.png",
+          "y": 5482,
+          "moving": true
+        },
+        {
+          "frame": "014-y5903.png",
+          "y": 5903,
+          "moving": false
+        },
+        {
+          "frame": "015-y6255.png",
+          "y": 6255,
+          "moving": false
+        },
+        {
+          "frame": "016-y6260.png",
+          "y": 6260,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "a.gl_nav_layout.w-inline-block «Shows»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "a.gl_nav_layout.w-inline-block «Watch & Listen»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "widget-marquee",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.widget_marquee_track «Netflix Comedy Special Trevor Noah: Joy in the Tre»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "bounce",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "svg.mobile_scroll_down",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fadeOutUp",
+          "duration": 8000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.steam",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "section#sectionHero.section.hero_wrap «Trevor Noah Latest Netflix Comedy Special Trevor N»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "clip-path",
+          "duration": 1200,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "a.button.w-inline-block «Get Tickets»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "clip-path",
+          "duration": 1200,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "a.button.w-inline-block",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1200,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "g.logo-part",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Finding the»",
+          "firstSeenAtY": 415
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «extraordinary»",
+          "firstSeenAtY": 415
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «in the ordinary -»",
+          "firstSeenAtY": 415
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «often interesting,»",
+          "firstSeenAtY": 415
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 320,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «always interested»",
+          "firstSeenAtY": 415
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Media»",
+          "firstSeenAtY": 830
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «On The Screen»",
+          "firstSeenAtY": 830
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-3",
+          "firstSeenAtY": 1264
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "div.card_peel.is-2",
+          "firstSeenAtY": 1264
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «About»",
+          "firstSeenAtY": 1672
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «This Guy»",
+          "firstSeenAtY": 1672
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pop-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.about_brain.is-inview",
+          "firstSeenAtY": 1672
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "a.gl_nav_layout.w-inline-block «Books»",
+          "firstSeenAtY": 1672
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "pop-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "img.about_cloud.is-inview",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «A curious human»",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «intrigued by the»",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «world around him»",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "about-what-in",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "svg.about_what_svg.is-inview",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.separator.is-inview",
+          "firstSeenAtY": 2086
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Latest»",
+          "firstSeenAtY": 2497
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Where’s Trevor?»",
+          "firstSeenAtY": 2497
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "div.news_layout_line.is-inview",
+          "firstSeenAtY": 2927
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «In life only three»",
+          "firstSeenAtY": 4219
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 80,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «things are certain:»",
+          "firstSeenAtY": 4219
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 160,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «death, Adobe»",
+          "firstSeenAtY": 4219
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «updates and taxes»",
+          "firstSeenAtY": 4219
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "cite.quote_author.u-text-accent «Trevor Noah»",
+          "firstSeenAtY": 4632
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «Books»",
+          "firstSeenAtY": 4632
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "split-clip-reveal",
+          "duration": 1200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span «On The Page»",
+          "firstSeenAtY": 4632
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Shows»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Shows»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Watch & Listen»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Watch & Listen»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Books»",
+          "firstSeenAtY": 5903
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «About»",
+          "firstSeenAtY": 6255
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «About»",
+          "firstSeenAtY": 6255
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.645, 0, 0, 1)",
+          "target": "li.menu_item.is-inview «Store»",
+          "firstSeenAtY": 6255
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.17, 0.67, 0.3, 1.33)",
+          "target": "li.menu_item.is-inview «Store»",
+          "firstSeenAtY": 6255
+        }
+      ]
+    }
+  }
+}

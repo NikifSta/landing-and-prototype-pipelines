@@ -1,0 +1,802 @@
+{
+  "source_url": "https://louisegoods.com",
+  "final_url": "https://www.louisegoods.com/",
+  "captured_at": "2026-09-28T04:38:33.340934+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://louisegoods.com",
+      "final_url": "https://www.louisegoods.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f6429dde70b857444ee09b9a35b6ae78781fdf93df0affb4dc47c29ed658750a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "final_url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.louisegoods.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    }
+  },
+  "font_families": {
+    "Instrument Sans": [
+      "https://www.louisegoods.com/"
+    ],
+    "sans-serif": [
+      "https://www.louisegoods.com/"
+    ],
+    "Menlo": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ],
+    "Monaco": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ],
+    "Consolas": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ],
+    "Liberation Mono": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ],
+    "Courier New": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ],
+    "monospace": [
+      "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.75rem;\n      --text-sm: 0.8125rem;\n      --text-base: 0.875rem;\n      --text-lg: 1.0rem;\n      --text-xl: 1.25rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-with-border-vertical-spacing: 4rem;\n      --section-with-border-vertical-spacing-tight: 4rem;\n      --section-without-border-vertical-spacing: 6rem;\n      --section-without-border-vertical-spacing-tight: 6rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": ":root",
+      "declarations": "--announcement-bar-is-sticky: 1;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "--background: 17 21 42 ; background-color: rgb(var(--background));--text-color: 255 255 255; color: rgb(var(--text-color));--border-color:53 56 74;\n\n  :root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "#shopify-section-sections--15092342652976__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: var(--border-color);\n\n    position: relative;\n    z-index: 5;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "#shopify-section-sections--15092342652976__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "#shopify-section-sections--15092342652976__header",
+      "declarations": "--header-logo-width: 90px;\n      --header-logo-height: 14px;"
+    },
+    {
+      "source": "https://www.louisegoods.com/",
+      "selector": "#shopify-section-sections--15092342652976__header",
+      "declarations": "--header-logo-width: 170px;\n        --header-logo-height: 26px;"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.65 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background, var(--button-background-primary))), rgb(var(--button-background, var(--button-background-primary))));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color, var(--button-text-primary)));border:1px solid rgb(var(--button-outline-color, var(--button-background, var(--button-bac"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background, var(--button-background-primary))), rgb(var(--button-background, var(--button-background-primary))));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);border-color:rgb(var(--button-outline-color, var(--border-color)));color:rgb(var(--button-background, var(--text-color)))"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "border-color:rgb(var(--border-color));color:rgb(var(--button-background, var(--button-background-primary)) / .65)"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "border-color:rgb(var(--button-background, var(--button-background-primary)));color:rgb(var(--button-background, var(--button-background-primary)));background-position:var(--hover-background-position);background-size:0 100%,100% 100%"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color, var(--button-text-primary)))"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".circle-button",
+      "declarations": "--circle-button-size: 2.75rem;--circle-button-background: var(--button-text-primary);--circle-button-text-color: var(--button-background-primary);width:var(--circle-button-size);height:var(--circle-button-size);background:rgb(var(--circle-button-background));color:rgb(var(--circle-button-text-color));border-radius:var(--rounded-full);box-shadow:0 .125rem .625rem rgb(var(--circle-button-text-color) / .15);place-items:center;display:grid"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".circle-button--sm",
+      "declarations": "--circle-button-size: 2.25rem"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".circle-button--lg,.circle-button--xl",
+      "declarations": "--circle-button-size: 3.125rem"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".circle-button--xl",
+      "declarations": "--circle-button-size: 3.5rem"
+    },
+    {
+      "source": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+      "selector": ".shopify-section:first-child:has([allow-transparent-header]) .content-over-media--fill",
+      "declarations": "--content-over-media-height: calc(100vh - (var(--announcement-bar-height, 0px)))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Louise Goods: In Leather We Trust - Handcrafted in New York",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#00000066",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#0000000d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "colors.overlay-strong": {
+      "value": "#3636364d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088"
+      ]
+    },
+    "colors.transparent": {
+      "value": "#00000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "1.25rem",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "0.875rem",
+        "fontWeight": 400,
+        "lineHeight": 1.65,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "0.8125rem",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Consolas, Menlo, Monaco, 'Liberation Mono', 'Courier New', monospace",
+        "fontSize": "0.75rem",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Instrument Sans, sans-serif",
+        "fontSize": "0.875rem",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "96px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hoverBackgroundColor": "{colors.primary-hover}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.transparent}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "focusBorderColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "overlayColor": "{colors.overlay}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "mutedTextColor": "{colors.muted}",
+        "borderColor": "{colors.overlay-strong}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.material-swatch-card": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "selectedBorderColor": "{colors.primary}",
+        "labelTypography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#0000000d": {
+        "selector": ":root",
+        "property": "--shadow-sm",
+        "declaration": "0 2px 8px rgb(0 0 0 / 0.05)",
+        "url": "https://www.louisegoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6429dde70b857444ee09b9a35b6ae78781fdf93df0affb4dc47c29ed658750a"
+      },
+      "#ffffff": {
+        "selector": ".shopify-payment-button__button",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000000": {
+        "selector": ".shopify-payment-button__button",
+        "property": "box-shadow",
+        "declaration": "0 0 #0000",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.louisegoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#000000": {
+        "selector": ":-webkit-autofill~.floating-label",
+        "property": "color",
+        "declaration": "#000",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "#00000033": {
+        "selector": ".switch:after",
+        "property": "box-shadow",
+        "declaration": "0 1px 1px #0003",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "#3636364d": {
+        "selector": ".image-with-text-block>:not(img,svg,picture)",
+        "property": "box-shadow",
+        "declaration": "0 1px 20px #3636364d",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "#00000066": {
+        "selector": ".timeline__carousel:after",
+        "property": "background",
+        "declaration": "#0006",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      }
+    },
+    "font_families": {
+      "Instrument Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Instrument Sans\"",
+        "url": "https://www.louisegoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6429dde70b857444ee09b9a35b6ae78781fdf93df0affb4dc47c29ed658750a"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"Instrument Sans\", sans-serif",
+        "url": "https://www.louisegoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f6429dde70b857444ee09b9a35b6ae78781fdf93df0affb4dc47c29ed658750a"
+      },
+      "Menlo": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "Monaco": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "Consolas": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "Liberation Mono": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "Courier New": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      },
+      "monospace": {
+        "selector": "code,kbd,samp,pre",
+        "property": "font-family",
+        "declaration": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+        "url": "https://www.louisegoods.com/cdn/shop/t/7/assets/theme.css?v=62420860264510945811689213088",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "9dd2d2c1c6454d4490d3d2f2bb11de435c6ea9d5472bbd977854e52f4ba37bba"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

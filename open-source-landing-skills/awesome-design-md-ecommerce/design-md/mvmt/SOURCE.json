@@ -1,0 +1,861 @@
+{
+  "source_url": "https://mvmt.com",
+  "final_url": "https://mvmt.com/",
+  "captured_at": "2026-09-28T04:16:24.396337+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mvmt.com",
+      "final_url": "https://mvmt.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/eop1oak.css",
+      "final_url": "https://use.typekit.net/eop1oak.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "f56bc2986d2586e97f569874399d638851b66d428a3b486a705eab99267fb2ae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "final_url": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1f79e129bfbb2e9c7668215786c03821d0893af105e6192381a3f6d84b022a25",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://mvmt.com/cdn/shop/t/55/assets/custom.css?v=160109159951135227611789738888",
+      "final_url": "https://mvmt.com/cdn/shop/t/55/assets/custom.css?v=160109159951135227611789738888",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ea74addd11ed63f6435e21dd0041430bf5174e2683f50fca773710acf43d3e79",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#6a6f75": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#b9b3a8": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    },
+    "#c8c8c833": {
+      "count": 4,
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    }
+  },
+  "font_families": {
+    "ivypresto-headline": [
+      "https://mvmt.com/"
+    ],
+    "IvyPresto Headline Fallback": [
+      "https://mvmt.com/"
+    ],
+    "serif": [
+      "https://mvmt.com/"
+    ],
+    "brandon-grotesque": [
+      "https://mvmt.com/"
+    ],
+    "Brandon Grotesque Fallback": [
+      "https://mvmt.com/"
+    ],
+    "sans-serif": [
+      "https://mvmt.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://mvmt.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": ":root",
+      "declarations": "--text-h1: 4.0rem;\n      --text-h2: 3.0rem;\n      --text-h3: 2.5rem;\n      --text-h4: 2.0rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --text-h1-accent: 3.0rem;\n      --text-h2-accent: 2.5rem;\n      --text-h3-accent: 2.0rem;\n      --text-h4-accent: 1.5rem;\n      --text-h5-accent: 1.25rem;\n      --text-h6-accent: 1.125rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.125rem;\n      --text-xl: 1.5rem;\n\n      --text-eyebrow: 0.875rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 4rem;\n      --section-vertical-spacing-tight: 4rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --promo-message-color: 183 7 0;\n    --on-sale-text: 183 7 0;\n    --on-sale-badge-background: 183 7 0;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 83 83 83;\n    --sold-out-badge-text: 255 255 255;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --badge-background: #FFFFFF;\n\n    --sold-out-badge-fill: #EFEFEF;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;\n\n    \n    --modal-"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "display:none;visibility:hidden\ndisplay: contents\ndisplay: contents\ndisplay: contents\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-track",
+      "declarations": "--announcement-bar-is-sticky: 0;--header-scroll-tracker-offset: var(--announcement-bar-height);"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "#shopify-section-sections--23699838992632__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 0 0 0 / 0;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "#shopify-section-sections--23699838992632__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "#shopify-section-sections--23699838992632__header",
+      "declarations": "--header-logo-width: 80px;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "#shopify-section-sections--23699838992632__header",
+      "declarations": "--header-logo-width: 130px;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "#shopify-section-template--23699843055864__mvmt_collage_N4Fd89 .collage-navigation button::after",
+      "declarations": "content: '';\n      position: absolute;\n      left: 0;\n      top: calc(100% + 4px);\n      width: 0%;\n      height: 1px;\n      background-color: rgb(var(--text-color));\n      transition: width 200ms ease;"
+    },
+    {
+      "source": "https://mvmt.com/",
+      "selector": "button-text-color: 26 24 24;\n--button-background: 255 255 255;--button-outline-color: 255 255 255;--button-text-color: 26 24 24;\n\n    #shopify-section-template-",
+      "declarations": "--product-list-items-per-row: 2;\n      --product-list-horizontal-spacing-factor: 1;\n      --product-list-vertical-spacing-factor: 1;"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "border:1px solid rgb(var(--button-outline-color, var(--button-background)))!important;border-radius:var(--button-border-radius)!important;background-color:#0000!important;transition:background-size .45s cubic-bezier(.785,.135,.15,.86),background-position .45s step-end,color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86)!important"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".shopify-payment-button__button--unbranded:not(:hover)",
+      "declarations": "color:rgb(var(--button-text-color))!important"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 101%,101% 101%"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "MVMT Watches, Eyewear & Accessories | 95K+ 5-Star Reviews",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#232323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6a6f75",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#efefef",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.deep-black": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.sand": {
+      "value": "#b9b3a8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.divider-soft": {
+      "value": "#0000000d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/"
+      ]
+    },
+    "colors.border-soft": {
+      "value": "#c8c8c833",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    },
+    "colors.scrim": {
+      "value": "#00000033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000066",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "ivypresto-headline, IvyPresto Headline Fallback, serif",
+        "fontSize": "64px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "ivypresto-headline, IvyPresto Headline Fallback, serif",
+        "fontSize": "40px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "brandon-grotesque, Brandon Grotesque Fallback, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "brandon-grotesque, Brandon Grotesque Fallback, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "brandon-grotesque, Brandon Grotesque Fallback, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "brandon-grotesque, Brandon Grotesque Fallback, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "brandon-grotesque, Brandon Grotesque Fallback, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineBottom": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.border-soft}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.deep-black}",
+        "overlay": "{colors.overlay}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "headingTypography": "{typography.title-md}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.review-rating": {
+      "value": {
+        "starColor": "{colors.ink}",
+        "countTypography": "{typography.caption}",
+        "textColor": "{colors.muted}",
+        "layout": "inline stars + review count, left-aligned"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#0000000d": {
+        "selector": ":root",
+        "property": "--shadow-sm",
+        "declaration": "0 2px 8px rgb(0 0 0 / 0.05)",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--badge-background",
+        "declaration": "#FFFFFF",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#efefef": {
+        "selector": ":root",
+        "property": "--sold-out-badge-fill",
+        "declaration": "#EFEFEF",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#6a6f75": {
+        "selector": ".color-scheme--scheme-b80727f4-12ba-4529-a32c-b62bcb8f1f2a",
+        "property": "--background-gradient",
+        "declaration": "linear-gradient(0deg, rgba(29, 35, 51, 1), rgba(106, 111, 117, 1) 100%)",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#b9b3a8": {
+        "selector": "inline-style",
+        "property": "--content-over-media-gradient-overlay",
+        "declaration": "linear-gradient(59deg, rgba(185, 179, 168, 1) 16%, rgba(185, 179, 168, 0) 57%, rgba(185, 182, 169, 0) 59.353%)",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "--swatch-background",
+        "declaration": "linear-gradient(to right, dynamo black, dynamo black)",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#232323": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#232323",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://mvmt.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000033": {
+        "selector": ".switch:after",
+        "property": "box-shadow",
+        "declaration": "0 1px 1px #0003",
+        "url": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "1f79e129bfbb2e9c7668215786c03821d0893af105e6192381a3f6d84b022a25"
+      },
+      "#c8c8c833": {
+        "selector": ".dynamic-grid.editor-is-selected:before",
+        "property": "background-image",
+        "declaration": "repeating-linear-gradient(#c8c8c833 0,#c8c8c833 var(--dynamic-grid-cell-size),transparent var(--dynamic-grid-cell-size),transparent calc(var(--dynamic-grid-cell-size) + max(1px,var(--dynamic-grid-gap)))),repeating-linear-gradient(90deg,#c8c8c833 0,#c8c8c833 var(--dynamic-grid-cell-size),transparent var(--dynamic-grid-cell-size),transparent calc(var(--dynamic-grid-cell-size) + max(1px,var(--dynamic-grid-gap))))",
+        "url": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "1f79e129bfbb2e9c7668215786c03821d0893af105e6192381a3f6d84b022a25"
+      },
+      "#00000066": {
+        "selector": ".timeline__carousel:after",
+        "property": "background",
+        "declaration": "#0006",
+        "url": "https://mvmt.com/cdn/shop/t/55/assets/theme.css?v=102440721477998494661789683729",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "1f79e129bfbb2e9c7668215786c03821d0893af105e6192381a3f6d84b022a25"
+      }
+    },
+    "font_families": {
+      "ivypresto-headline": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"ivypresto-headline\", \"IvyPresto Headline Fallback\", Georgia, serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "IvyPresto Headline Fallback": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"ivypresto-headline\", \"IvyPresto Headline Fallback\", Georgia, serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"ivypresto-headline\", \"IvyPresto Headline Fallback\", Georgia, serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "brandon-grotesque": {
+        "selector": ":root",
+        "property": "--heading-accent-font-family",
+        "declaration": "\"brandon-grotesque\", \"Brandon Grotesque Fallback\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "Brandon Grotesque Fallback": {
+        "selector": ":root",
+        "property": "--heading-accent-font-family",
+        "declaration": "\"brandon-grotesque\", \"Brandon Grotesque Fallback\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-accent-font-family",
+        "declaration": "\"brandon-grotesque\", \"Brandon Grotesque Fallback\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "url": "https://mvmt.com/",
+        "snapshot": "homepage.html",
+        "sha256": "30ecf4d94dc19751db5542c47da234602d00149c9df2affc413055203e7fe6ef"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

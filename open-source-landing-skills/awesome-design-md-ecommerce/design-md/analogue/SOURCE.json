@@ -1,0 +1,657 @@
+{
+  "source_url": "https://analogue.co",
+  "final_url": "https://www.analogue.co/",
+  "captured_at": "2026-09-28T09:08:53.594580+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://analogue.co",
+      "final_url": "https://www.analogue.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9d9911084552d4be3e1ccb780378a46140b3fdd9e9cfb869c223add1b00cc94b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "final_url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7176525059f246dc96923b51aad56877a7792fd98157a06614bf5df7f53d613e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "final_url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 15,
+      "sources": [
+        "https://www.analogue.co/"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://www.analogue.co/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 11,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#686868": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#94ff88": {
+      "count": 5,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#242424": {
+      "count": 8,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#0f0f12": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#615fc6": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#d42422": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#efefef": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f4cd01": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    }
+  },
+  "font_families": {
+    "circularXx": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "neueBit": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "unicaMono": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.analogue.co/",
+      "selector": ":root",
+      "declarations": "--background: #ffffff; --foreground: #000000; --header: transparent; footer: [object Object];"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ":root,:host",
+      "declarations": "--color-red-500:lab(55.4814% 75.0732 48.8528);--color-red-600:lab(48.4493% 77.4328 61.5452);--color-blue-500:lab(54.1736% 13.3369 -74.6839);--color-blue-600:lab(44.0605% 29.0279 -86.0352);--color-blue-800:lab(30.2514% 27.7853 -70.2699);--color-gray-200:lab(91.6229% -.159115 -2.26791);--color-gray-300:lab(85.1236% -.612259 -3.7138);--color-gray-600:lab(35.6337% -1.58697 -10.8425);--color-neutral-300:lab(84.92% 0 -.0000119209)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--color-gray-200,currentColor)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".release-notes-content h1,.release-notes-content h2,.release-notes-content h3,.release-notes-content h4,.release-notes-content h5,.release-notes-content h6",
+      "declarations": "margin-top:var(--spacing-fm16);margin-bottom:var(--spacing-fm4);--tw-leading:1;color:var(--color-black);font-size:clamp(12px,3.75vw,100px);line-height:1"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".-tracking-heading-h1-m",
+      "declarations": "--tw-tracking:calc(var(--tracking-heading-h1-m) * -1);letter-spacing:calc(var(--tracking-heading-h1-m) * -1)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".md\\:-tracking-body-md",
+      "declarations": "--tw-tracking:calc(var(--tracking-body-md) * -1);letter-spacing:calc(var(--tracking-body-md) * -1)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ":root",
+      "declarations": "--background:#fff;--foreground:#0f0e12;--menuForeground:var(--foreground);--accent-1:#aeaeae;--accent-2:#595959"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "body",
+      "declarations": "color:var(--foreground);background:var(--background);font-family:var(--font-circular), Arial, Helvetica, sans-serif;font-feature-settings:\"ss08\" on;text-rendering:optimizelegibility"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Analogue",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#0f0f12",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/"
+      ]
+    },
+    "colors.body": {
+      "value": "#242424",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.muted": {
+      "value": "#686868",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9d9d9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#efefef",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#94ff88",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-purple": {
+      "value": "#615fc6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#d42422",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value": "#f4cd01",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "neueBit, sans-serif",
+        "fontSize": "96px",
+        "fontWeight": 700,
+        "lineHeight": 1.0,
+        "letterSpacing": "-1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "neueBit, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 700,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "circularXx, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "circularXx, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "circularXx, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "unicaMono, monospace",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "circularXx, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-green}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-callout": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--background",
+        "declaration": "#ffffff",
+        "url": "https://www.analogue.co/",
+        "snapshot": "homepage.html",
+        "sha256": "9d9911084552d4be3e1ccb780378a46140b3fdd9e9cfb869c223add1b00cc94b"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--foreground",
+        "declaration": "#000000",
+        "url": "https://www.analogue.co/",
+        "snapshot": "homepage.html",
+        "sha256": "9d9911084552d4be3e1ccb780378a46140b3fdd9e9cfb869c223add1b00cc94b"
+      },
+      "#d9d9d9": {
+        "selector": ":root,:host",
+        "property": "--color-accent2",
+        "declaration": "#d9d9d9",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#686868": {
+        "selector": ".announcement-content ol",
+        "property": "color",
+        "declaration": "#686868",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#94ff88": {
+        "selector": ".docs-content p code,.docs-content li code",
+        "property": "color",
+        "declaration": "#94ff88",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#242424": {
+        "selector": ".border-\\[\\#242424\\]",
+        "property": "border-color",
+        "declaration": "#242424",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#0f0f12": {
+        "selector": ".bg-\\[\\#0F0F12\\]",
+        "property": "background-color",
+        "declaration": "#0f0f12",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#615fc6": {
+        "selector": ".bg-\\[\\#615FC6\\]",
+        "property": "background-color",
+        "declaration": "#615fc6",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#d42422": {
+        "selector": ".bg-\\[\\#D42422\\]",
+        "property": "background-color",
+        "declaration": "#d42422",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#efefef": {
+        "selector": ".bg-\\[\\#EFEFEF\\]",
+        "property": "background-color",
+        "declaration": "#efefef",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#f3f3f3": {
+        "selector": ".bg-\\[\\#F3F3F3\\]",
+        "property": "background-color",
+        "declaration": "#f3f3f3",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      },
+      "#f4cd01": {
+        "selector": ".bg-\\[\\#F4CD01\\]",
+        "property": "background-color",
+        "declaration": "#f4cd01",
+        "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5"
+      }
+    },
+    "font_families": {
+      "circularXx": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "circularXx",
+        "url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "7176525059f246dc96923b51aad56877a7792fd98157a06614bf5df7f53d613e"
+      },
+      "neueBit": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "neueBit",
+        "url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "7176525059f246dc96923b51aad56877a7792fd98157a06614bf5df7f53d613e"
+      },
+      "unicaMono": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "unicaMono",
+        "url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "7176525059f246dc96923b51aad56877a7792fd98157a06614bf5df7f53d613e"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

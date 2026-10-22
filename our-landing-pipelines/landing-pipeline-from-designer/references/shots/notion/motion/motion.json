@@ -1,0 +1,424 @@
+{
+  "url": "https://www.notion.com/",
+  "date": "2026-10-06T13:50:57.895Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://videos.ctfassets.net/spoqsaf9291f/1EL7UZIXfcqngxsNSbL8tR/291f61f56f29dd8e788deaec8561d882/web-homepage-hero-1920x1200_final.mp4",
+            "autoplay": true,
+            "loop": true,
+            "muted": true,
+            "el": "div.HeroMedia-module-scss-module__t-AqdW__productImage «Pause»"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 4507
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 64,
+          "parentHeight": 0,
+          "el": "div.globalNavigation-module-scss-module__HWB10a__globalNavigationWrapper.globalNavigation-module-scss-module__HWB10a__stickyWrapper «Product AI Resources Pricing Request a demo Log in»"
+        },
+        {
+          "position": "sticky",
+          "top": "auto",
+          "height": 96,
+          "parentHeight": 0,
+          "el": "div.stickyContainer-module-scss-module__fUPjXG__stickyContent"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 38,
+          "el": "div#_R_1rabm_.popover-module-scss-module__njy5Hq__popover «English (US)Bahasa IndonesiaDanskDeutschEnglish (U»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.popover-module-scss-module__njy5Hq__popoverShield"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": false
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": false
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": false
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": false
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": false
+        },
+        {
+          "frame": "009-y3607.png",
+          "y": 3607,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "globalNavigation-module-scss-module__HWB10a__navShadowScrolled",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "nav.globalNavigation-module-scss-module__HWB10a__globalNavigation «Product AI Resources Pricing Request a demo Log in»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "homepageLogoWall-module-scss-module__PDRQGa__revealStickyBar",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.homepageLogoWall-module-scss-module__PDRQGa__logoWallMarqueeWrapper",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "Marquee-module-scss-module__X75v-G__marqueeFrames",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.Marquee-module-scss-module__X75v-G__marquee «G2’s #1 knowledge base for 3 consecutive years 100»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+          "target": "span.homepageHeroTeamsAndAgents-module-scss-module__KlQGRG__productPillLabel «Create»",
+          "firstSeenAtY": 3150
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "",
+            "autoplay": false,
+            "loop": true,
+            "muted": true,
+            "el": "div.HeroMedia-module-scss-module__t-AqdW__productImage «Play»"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 4003
+      },
+      "pinned": [
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 64,
+          "parentHeight": 0,
+          "el": "div.globalNavigation-module-scss-module__HWB10a__globalNavigationWrapper.globalNavigation-module-scss-module__HWB10a__stickyWrapper «Get Notion free»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 38,
+          "el": "div#_R_1rabm_.popover-module-scss-module__njy5Hq__popover «English (US)Bahasa IndonesiaDanskDeutschEnglish (U»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "div.popover-module-scss-module__njy5Hq__popoverShield"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": false
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": false
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3159.png",
+          "y": 3159,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "globalNavigation-module-scss-module__HWB10a__navShadowScrolled",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "nav.globalNavigation-module-scss-module__HWB10a__globalNavigation «Get Notion free»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__detectOverflow",
+          "duration": "auto",
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.logoWallMarquee-module-scss-module__4H5qWW__logoWallMarquee.logoWallMarquee-module-scss-module__4H5qWW__variantMarquee",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «OpenAI»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -5000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -10000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Figma»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -20000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Ramp»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -25000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Cursor»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -40000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Toyota»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -45000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Clay»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -60000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Vercel»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -65000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Faire»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "logoWallMarquee-module-scss-module__4H5qWW__marqueePolygon",
+          "duration": 115000,
+          "delay": -105000,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Remote.com»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "Marquee-module-scss-module__X75v-G__marqueeFrames",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.Marquee-module-scss-module__X75v-G__marquee «G2’s #1 knowledge base for 3 consecutive years 100»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+          "target": "span.homepageHeroTeamsAndAgents-module-scss-module__KlQGRG__productPillLabel «Ship»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.58, 1)",
+          "target": "a.semanticTypography-module-scss-module__Db2fhq__semanticTypography.semanticTypography-module-scss-module__Db2fhq__variantInteractionButtonMedium «Get Notion free»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+          "target": "span.homepageHeroTeamsAndAgents-module-scss-module__KlQGRG__productPillLabel «Build»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+          "target": "span.homepageHeroTeamsAndAgents-module-scss-module__KlQGRG__productPillLabel «Jam»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.86, 0, 0.07, 1)",
+          "target": "span.homepageHeroTeamsAndAgents-module-scss-module__KlQGRG__productPillLabel «Scale»",
+          "firstSeenAtY": 3159
+        }
+      ]
+    }
+  }
+}

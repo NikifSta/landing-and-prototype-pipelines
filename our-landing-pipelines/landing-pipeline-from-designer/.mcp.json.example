@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "designmd": {
+      "command": "npx",
+      "args": ["-y", "designmd-mcp@0.2.1"],
+      "env": {
+        "DESIGNMD_API_KEY": "${DESIGNMD_API_KEY}"
+      }
+    }
+  }
+}

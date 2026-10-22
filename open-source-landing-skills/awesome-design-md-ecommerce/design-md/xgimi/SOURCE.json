@@ -1,0 +1,825 @@
+{
+  "source_url": "https://www.xgimi.com",
+  "final_url": "https://www.xgimi.com/",
+  "captured_at": "2026-09-29T04:17:27.363265+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.xgimi.com",
+      "final_url": "https://www.xgimi.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "6fac4cf29e19b721570b3f58d412271e883aa726290f545ae4aab5c6e856f4e7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "final_url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+      "final_url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20250626",
+      "final_url": "https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20250626",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0377bea38747669b6476443b7e4bef886bffd0c3ad6bef223b5357af55b4436c",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805",
+      "final_url": "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38bfd8f78d5263911a2f7638bf27c545506b0f2e02cab14a4dda9413207eb233",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://webchat.7moor.com/stylesheets/idangerous_swiper-9998bd2b30.css",
+      "final_url": "https://webchat.7moor.com/stylesheets/idangerous_swiper-9998bd2b30.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c5d2f1349ba110bae1d45f0c575b5aa9e7933b847d7cf5a8e1d92c3399b4cfb5",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://webchat.7moor.com/stylesheets/iconfont.css?2025928",
+      "final_url": "https://webchat.7moor.com/stylesheets/iconfont.css?2025928",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0d14114a6e13b2c28ff6605690284881fd663fe6f043d3a38ce4eeb71140740c",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://www.xgimi.com/#computed-style-snapshot",
+      "final_url": "https://www.xgimi.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "d6eb9700ea262eb658bfc8a16e9398a0bc5af51a680d2561ca3e53b08950a81f",
+      "snapshot": "rendered-style-7.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 537,
+      "sources": [
+        "https://www.xgimi.com/"
+      ]
+    },
+    "#333333": {
+      "count": 131,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "#2566e8": {
+      "count": 10,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "#191919": {
+      "count": 6,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "#ec6c00": {
+      "count": 128,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 23,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "#999999": {
+      "count": 28,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "#ff5644": {
+      "count": 8,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 6,
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "#19caa6": {
+      "count": 29,
+      "sources": [
+        "https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20250626"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 48,
+      "sources": [
+        "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805"
+      ]
+    }
+  },
+  "font_families": {
+    "Roboto": [
+      "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+    ],
+    "Helvetica": [
+      "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+    ],
+    "Arial": [
+      "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+    ],
+    "sans-serif": [
+      "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+    ],
+    "Microsoft Yahei": [
+      "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+    ],
+    "PingFang SC": [
+      "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": "button.XuiButton-outlined",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": "span.XuiAutoTab-closeButton",
+      "declarations": "margin-left:4px;cursor:pointer;font-size:16px;color:rgba(0,0,0,.6)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": "body",
+      "declarations": "font-size:14px;color:#333;background-color:#fafbfb;line-height:1.5"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": "body,input",
+      "declarations": "font-family:\"Roboto\",\"Helvetica\",\"Arial\",sans-serif;letter-spacing:.7px"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".official_header__29cf1",
+      "declarations": "position:absolute;z-index:1;width:100%;height:100%;padding:0 32px;justify-content:space-between;background-color:#fff;box-shadow:0 7px 30px 0 rgba(90,114,123,.11)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": "button.official_userCenterContainer__3iGkm:hover,button.official_userCenterContainer__3iGkm:hover .official_userName__38JZc",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:27px;width:calc(var(--swiper-navigation-size)/44*27);height:44px;height:var(--swiper-navigation-size);margin-top:-22px;margin-top:calc(0px - var(--swiper-navigation-size)/2);z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-theme-color);color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:44px;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:normal;line-height:1"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-attachment__item--hover-background-color:rgba(0,0,0,0.1);--rpv-attachment__item-color:#000"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-bookmark__item--hover-background-color:rgba(0,0,0,0.1);--rpv-bookmark__item-color:#000"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__button",
+      "declarations": "background-color:rgba(0,0,0,.3);background-color:var(--rpv-core__button-background-color);border:none;border-radius:.25rem;color:#000;color:var(--rpv-core__button-color);cursor:pointer;height:2rem;padding:0 1rem"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__minimal-button",
+      "declarations": "background-color:transparent;border:none;border-radius:.25rem;color:#000;color:var(--rpv-core__minimal-button-color);cursor:pointer;height:2rem;padding:0 .5rem"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__minimal-button:hover",
+      "declarations": "background-color:rgba(0,0,0,.1);background-color:var(--rpv-core__minimal-button--hover-background-color)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__minimal-button--disabled",
+      "declarations": "color:rgba(0,0,0,.3);color:var(--rpv-core__minimal-button--disabled-color)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__minimal-button--selected",
+      "declarations": "background-color:rgba(0,0,0,.1);background-color:var(--rpv-core__minimal-button--selected-background-color)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__modal-body",
+      "declarations": "background-color:#fff;background-color:var(--rpv-core__modal-body-background-color);border:1px solid rgba(0,0,0,.3);border:1px solid var(--rpv-core__modal-body-border-color);border-radius:.25rem;margin:1rem;max-width:32rem;overflow:auto"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__popover-body",
+      "declarations": "border:1px solid rgba(0,0,0,.3);border:1px solid var(--rpv-core__popover-body-border-color);border-radius:.25rem;color:#000;color:var(--rpv-core__popover-body-color);left:0;padding:.5rem 0;position:absolute;top:-9999px;z-index:9999"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__popover-body,.rpv-core__popover-body-arrow",
+      "declarations": "background-color:#fff;background-color:var(--rpv-core__popover-body-background-color)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__primary-button",
+      "declarations": "background-color:#2566e8;background-color:var(--rpv-core__primary-button-background-color);border:none;border-radius:.25rem;color:#fff;color:var(--rpv-core__primary-button-color);cursor:pointer;height:2rem;padding:0 1rem"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__tooltip-body",
+      "declarations": "background-color:#000;background-color:var(--rpv-core__tooltip-body-background-color);border-radius:.25rem;color:#fff;color:var(--rpv-core__tooltip-body-color);left:0;max-width:20rem;position:absolute;text-align:center;top:-9999px;z-index:9999"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-core__tooltip-body-arrow",
+      "declarations": "background-color:#000;background-color:var(--rpv-core__tooltip-body-background-color)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-thumbnail__container-background-color:#fff;--rpv-thumbnail__container-box-shadow:rgba(0,0,0,0.2) 2px 2px 8px 0px;--rpv-thumbnail__item--selected-background-color:rgba(0,0,0,0.3)"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-drop__area-background-color:#fff;--rpv-drop__area-body-border-color:rgba(0,0,0,0.3);--rpv-drop__area-body-color:#000"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-drop__area-body",
+      "declarations": "border:2px dashed rgba(0,0,0,.3);border:2px dashed var(--rpv-drop__area-body-border-color);color:#000;color:var(--rpv-drop__area-body-color);font-size:1.5rem;align-items:center;display:flex;justify-content:center;height:100%"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-full-screen__overlay-background-color:#fff"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-print__progress-body-background-color:#fff;--rpv-print__progress-body-border-color:rgba(0,0,0,0.3);--rpv-print__progress-body-color:#000"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ".rpv-print__progress-body",
+      "declarations": "background-color:#fff;background-color:var(--rpv-print__progress-body-background-color);border:1px solid rgba(0,0,0,.3);border:1px solid var(--rpv-print__progress-body-border-color);border-radius:.25rem;color:#000;color:var(--rpv-print__progress-body-color);padding:1.5rem;text-align:center;width:15rem"
+    },
+    {
+      "source": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+      "selector": ":root",
+      "declarations": "--rpv-search__highlight-background-color:rgba(255,255,0,0.4);--rpv-search__highlight--current-background-color:rgba(0,128,0,0.4)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "极米科技官方网站 极米官网",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "82a32b234e53b7db6f3fb329c829aa14f857a2aa3c727a26f38ab72d6e8e8871"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ec6c00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1f1f1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xgimi.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e5e5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xgimi.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xgimi.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#19caa6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20250626"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#ff5644",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#2566e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#191919",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "PingFang SC, Microsoft Yahei, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "PingFang SC, Microsoft Yahei, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "PingFang SC, Microsoft Yahei, Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.7px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.none} {spacing.xl}",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.hero-carousel": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}",
+        "rounded": "{rounded.none}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-red}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-compare-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "rgb(255, 255, 255)",
+        "url": "https://www.xgimi.com/",
+        "snapshot": "homepage.html",
+        "sha256": "6fac4cf29e19b721570b3f58d412271e883aa726290f545ae4aab5c6e856f4e7"
+      },
+      "#333333": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "#2566e8": {
+        "selector": ".rpv-core__viewer--dark",
+        "property": "--rpv-attachment__item--hover-background-color",
+        "declaration": "#2566e8",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "#191919": {
+        "selector": ".rpv-core__viewer--dark",
+        "property": "--rpv-core__asking-password-wrapper-border-color",
+        "declaration": "#191919",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "#ec6c00": {
+        "selector": ".official_header__2B4dG .official_cartItem__3610U .official_cartItemContent__5KtCo .official_skuTag__1gYhp",
+        "property": "color",
+        "declaration": "#ec6c00",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "#f7f7f7": {
+        "selector": ".official_header__2nchy .official_navMenuListItemPopoverItem__37gYO:hover",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "#999999": {
+        "selector": ".official_section03Title__2Zvvx .official_flowpathBtn__Fgc8k li",
+        "property": "border",
+        "declaration": "1px solid #999",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "#ff5644": {
+        "selector": ".official_couponTop__1FbQu",
+        "property": "background",
+        "declaration": "#ff5644",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "#e5e5e5": {
+        "selector": ".official_box__2OLyA .official_modalContent__Qkp2T .official_modalHeader__3ScfI",
+        "property": "border-bottom",
+        "declaration": "1px solid #e5e5e5",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "#19caa6": {
+        "selector": "#chatBtn",
+        "property": "background-color",
+        "declaration": "#19caa6",
+        "url": "https://webchat.7moor.com//stylesheets/chatStyle-e5ac22f12b.css?v=20250626",
+        "snapshot": "rendered-style-3.css",
+        "sha256": "0377bea38747669b6476443b7e4bef886bffd0c3ad6bef223b5357af55b4436c"
+      },
+      "#1f1f1f": {
+        "selector": ".style-msg",
+        "property": "color",
+        "declaration": "#1f1f1f",
+        "url": "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "38bfd8f78d5263911a2f7638bf27c545506b0f2e02cab14a4dda9413207eb233"
+      }
+    },
+    "font_families": {
+      "Roboto": {
+        "selector": "body,input",
+        "property": "font-family",
+        "declaration": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "Helvetica": {
+        "selector": "body,input",
+        "property": "font-family",
+        "declaration": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "Arial": {
+        "selector": "body,input",
+        "property": "font-family",
+        "declaration": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "sans-serif": {
+        "selector": "body,input",
+        "property": "font-family",
+        "declaration": "\"Roboto\",\"Helvetica\",\"Arial\",sans-serif",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/2.12511c10.chunk.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "ccef945b028274de6417ed516a5f056e6d7217c099c8294ae94324640e193944"
+      },
+      "Microsoft Yahei": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Arial,\"Microsoft Yahei\",\"Hiragino Sans GB\",\"Heiti SC\",\"WenQuanYi Micro Hei\",sans-serif",
+        "url": "https://frontend.static.xgimi.com/cdn/mall-frontend/official-fe/prod/k8s-prod/2.3.23/static/css/main.f5eb872e.chunk.css",
+        "snapshot": "rendered-style-2.css",
+        "sha256": "de8464887ba508a5d81c4b90d722e2e5ef71162a42cbc5e12501d69a8485e7f2"
+      },
+      "PingFang SC": {
+        "selector": ".style-msg",
+        "property": "font-family",
+        "declaration": "PingFang SC",
+        "url": "https://webchat.7moor.com/stylesheets/moor_style-637769bae9.css?20250805",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "38bfd8f78d5263911a2f7638bf27c545506b0f2e02cab14a4dda9413207eb233"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

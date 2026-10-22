@@ -1,0 +1,721 @@
+{
+  "recipes": [
+    {
+      "slug": "slack-2026-10-06",
+      "seed": 0,
+      "created": "2026-10-08",
+      "origin": "restored-from-built-page",
+      "language": {
+        "ref": "granola",
+        "palette_family": "earth",
+        "type_class": "serif-editorial"
+      },
+      "motion_signature": "autoplay-loop",
+      "imagery_primary": "ui-code",
+      "sections": [
+        {
+          "id": "s1",
+          "role": "hero",
+          "archetype": null,
+          "family": "product-window-hero",
+          "donors": []
+        },
+        {
+          "id": "s2",
+          "role": "block",
+          "archetype": null,
+          "family": "color-field-chat",
+          "donors": []
+        },
+        {
+          "id": "s3",
+          "role": "block",
+          "archetype": null,
+          "family": "list-plus-window",
+          "donors": []
+        },
+        {
+          "id": "s4",
+          "role": "block",
+          "archetype": null,
+          "family": "phone-row",
+          "donors": []
+        },
+        {
+          "id": "s5",
+          "role": "block",
+          "archetype": null,
+          "family": "card-grid",
+          "donors": []
+        },
+        {
+          "id": "s6",
+          "role": "block",
+          "archetype": null,
+          "family": "big-number-field",
+          "donors": []
+        }
+      ],
+      "hero_family": "product-window-hero",
+      "donors": []
+    },
+    {
+      "slug": "fireflies-2026-10-07",
+      "seed": 0,
+      "created": "2026-10-08",
+      "origin": "restored-from-built-page",
+      "language": {
+        "ref": "monologue",
+        "palette_family": "saturated-primary",
+        "type_class": "grotesk-geometric"
+      },
+      "motion_signature": "autoplay-loop",
+      "imagery_primary": "ui-code",
+      "sections": [
+        {
+          "id": "s1",
+          "role": "hero",
+          "archetype": null,
+          "family": "product-window-hero",
+          "donors": []
+        },
+        {
+          "id": "s2",
+          "role": "block",
+          "archetype": null,
+          "family": "card-grid",
+          "donors": []
+        },
+        {
+          "id": "s3",
+          "role": "block",
+          "archetype": null,
+          "family": "horizontal-timeline",
+          "donors": []
+        },
+        {
+          "id": "s4",
+          "role": "block",
+          "archetype": null,
+          "family": "list-plus-window",
+          "donors": []
+        },
+        {
+          "id": "s5",
+          "role": "block",
+          "archetype": null,
+          "family": "tabs-plus-panel",
+          "donors": []
+        },
+        {
+          "id": "s6",
+          "role": "block",
+          "archetype": null,
+          "family": "card-grid-three-tiers",
+          "donors": []
+        }
+      ],
+      "hero_family": "product-window-hero",
+      "donors": []
+    },
+    {
+      "slug": "pizza-aggregator-commission-2026-10-08",
+      "seed": 0,
+      "created": "2026-10-08",
+      "origin": "restored-from-built-page",
+      "language": {
+        "ref": "pitch",
+        "palette_family": "acid-contrast",
+        "type_class": "grotesk-geometric"
+      },
+      "motion_signature": "autoplay-loop",
+      "imagery_primary": "photo-objects",
+      "sections": [
+        {
+          "id": "s1",
+          "role": "hero",
+          "archetype": null,
+          "family": "split-screen",
+          "donors": []
+        },
+        {
+          "id": "s2",
+          "role": "block",
+          "archetype": null,
+          "family": "photo-with-overlay-ui",
+          "donors": []
+        },
+        {
+          "id": "s3",
+          "role": "block",
+          "archetype": null,
+          "family": "full-bleed-chart",
+          "donors": []
+        },
+        {
+          "id": "s4",
+          "role": "block",
+          "archetype": null,
+          "family": "phone-row",
+          "donors": []
+        },
+        {
+          "id": "s5",
+          "role": "block",
+          "archetype": null,
+          "family": "cropped-window-tile",
+          "donors": []
+        },
+        {
+          "id": "s6",
+          "role": "block",
+          "archetype": null,
+          "family": "sticky-visual-text",
+          "donors": []
+        },
+        {
+          "id": "s7",
+          "role": "block",
+          "archetype": null,
+          "family": "horizontal-timeline",
+          "donors": []
+        }
+      ],
+      "hero_family": "split-screen",
+      "donors": []
+    },
+    {
+      "slug": "profi-2026-10-08",
+      "seed": 818822089,
+      "created": "2026-10-08",
+      "capabilities": {
+        "image": true,
+        "video": true
+      },
+      "language": {
+        "ref": "linear",
+        "palette_family": "black-white",
+        "type_class": "grotesk-neutral",
+        "mood": [
+          "технологичный",
+          "премиальный",
+          "сдержанный"
+        ]
+      },
+      "motion_signature": "autoplay-loop",
+      "imagery_primary": "photo-objects",
+      "sections": [
+        {
+          "id": "s1-hero",
+          "role": "hero",
+          "archetype": "doodle-companions-around-window",
+          "name": "Рисованные человечки выглядывают из-за окна продукта",
+          "family": "window-with-doodle-companions",
+          "motion": "video-loop",
+          "imagery": "illustration",
+          "background": "light",
+          "donors": [
+            "notion"
+          ]
+        },
+        {
+          "id": "s2-problem",
+          "role": "problem",
+          "archetype": "studio-problem-loss-receipt",
+          "name": "Чек потерь",
+          "family": "receipt-tape",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "color-field",
+          "donors": []
+        },
+        {
+          "id": "s3-mechanism",
+          "role": "mechanism",
+          "archetype": "circuit-board-architecture",
+          "name": "Схема-плата: архитектура с дорожками и чипами",
+          "family": "circuit-diagram",
+          "motion": "autoplay-loop",
+          "imagery": "illustration",
+          "background": "dark",
+          "donors": [
+            "authkit"
+          ]
+        },
+        {
+          "id": "s4-proof-social",
+          "role": "proof-social",
+          "archetype": "arc-cards-split-credibility",
+          "name": "50/50: награды слева, дуга наклонённых карточек справа",
+          "family": "arc-cards-split",
+          "motion": "static",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": [
+            "pop"
+          ]
+        },
+        {
+          "id": "s5-process",
+          "role": "process",
+          "archetype": "vertical-panel-accordion",
+          "name": "Горизонтальный аккордеон из 4 вертикальных панелей",
+          "family": "accordion-panels",
+          "motion": "hover-reactive",
+          "imagery": "photo-objects",
+          "background": "dark",
+          "donors": [
+            "monologue"
+          ]
+        },
+        {
+          "id": "s6-data-viz",
+          "role": "data-viz",
+          "archetype": "text-left-chart-right",
+          "name": "Заголовок слева, вложенные полосы расходов справа",
+          "family": "text-left-chart-right",
+          "motion": "static",
+          "imagery": "chart",
+          "background": "paper",
+          "donors": [
+            "weaveos"
+          ]
+        },
+        {
+          "id": "s7-proof-numbers",
+          "role": "proof-numbers",
+          "archetype": "countdown-flip-plate",
+          "name": "Розовая плашка с обратным отсчётом",
+          "family": "countdown-plate",
+          "motion": "counter",
+          "imagery": "chart",
+          "background": "color-field",
+          "donors": [
+            "theplaya"
+          ]
+        },
+        {
+          "id": "s8-devices",
+          "role": "devices",
+          "archetype": "studio-devices-scale-shelf",
+          "name": "Полка устройств в одном масштабе",
+          "family": "device-shelf-scale",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": []
+        },
+        {
+          "id": "s9-pricing",
+          "role": "pricing",
+          "archetype": "studio-pricing-menu-board",
+          "name": "Прайс как меню",
+          "family": "menu-board-pricing",
+          "motion": "static",
+          "imagery": "type-only",
+          "background": "dark",
+          "donors": []
+        },
+        {
+          "id": "s10-cta",
+          "role": "cta",
+          "archetype": "panorama-illustration-cta",
+          "name": "Финал: фраза, кнопка и панорама-иллюстрация",
+          "family": "panorama-cta",
+          "motion": "static",
+          "imagery": "illustration",
+          "background": "color-field",
+          "donors": [
+            "gumroad"
+          ]
+        }
+      ],
+      "hero_family": "window-with-doodle-companions",
+      "donors": [
+        "notion",
+        "authkit",
+        "pop",
+        "monologue",
+        "weaveos",
+        "theplaya",
+        "gumroad"
+      ],
+      "chosen": "A"
+    },
+    {
+      "slug": "handoff-2026-10-08",
+      "seed": 1620188510,
+      "created": "2026-10-08",
+      "capabilities": {
+        "image": true,
+        "video": false
+      },
+      "language": {
+        "ref": "flite",
+        "palette_family": "monochrome",
+        "type_class": "grotesk-neutral",
+        "mood": [
+          "премиальный",
+          "спокойный",
+          "предметный"
+        ]
+      },
+      "motion_signature": "counter",
+      "imagery_primary": "3d",
+      "sections": [
+        {
+          "id": "s1-hero",
+          "role": "hero",
+          "archetype": "ggaide-type-mascot-hero",
+          "name": "Hero: логотип в три строки, факты и персонаж в центре",
+          "family": "type-hero",
+          "container": "object-on-field",
+          "motion": "hover-reactive",
+          "imagery": "3d",
+          "background": "color-field",
+          "donors": [
+            "ggaide"
+          ]
+        },
+        {
+          "id": "s2-problem",
+          "role": "problem",
+          "archetype": "alethia-trust-floating-collage",
+          "name": "Коллаж парящих карточек вокруг заголовка",
+          "family": "collage",
+          "container": "object-on-field",
+          "motion": "parallax-layers",
+          "imagery": "collage",
+          "background": "light",
+          "donors": [
+            "alethia"
+          ]
+        },
+        {
+          "id": "s3-mechanism",
+          "role": "mechanism",
+          "archetype": "holdi-focus-transcript-assembly",
+          "name": "Сборка расшифровки: реплики летят в строки (pin 5,2 экрана)",
+          "family": "pinned-scroll-story",
+          "container": "framed-window",
+          "motion": "scroll-pin",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": [
+            "holdi-focus"
+          ]
+        },
+        {
+          "id": "s4-process",
+          "role": "process",
+          "archetype": "split-headline-chat-field",
+          "name": "Яркая панель: гигантский заголовок и чат справа",
+          "family": "color-field-chat",
+          "container": "split-field",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "color-field",
+          "donors": [
+            "granola"
+          ],
+          "replaced": {
+            "from": "steps-trio-community-ui",
+            "reason": "кульминация: демонстрация должна играть сама (autoplay), steps-trio статичен"
+          }
+        },
+        {
+          "id": "s5-feature-grid",
+          "role": "feature-grid",
+          "archetype": "feature-trio-icon-row",
+          "name": "Три преимущества с иконками под героем",
+          "family": "icon-row-trio",
+          "container": "object-on-field",
+          "motion": "static",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": [
+            "granola"
+          ],
+          "tuned": {
+            "imagery": {
+              "from": "illustration",
+              "reason": "сценарий требует фрагменты интерфейса прайса вместо иконок; иконки-заглушки — риск архетипа"
+            }
+          }
+        },
+        {
+          "id": "s6-comparison",
+          "role": "comparison",
+          "archetype": "studio-comparison-drag-seam",
+          "name": "Шов до/после",
+          "family": "drag-seam-before-after",
+          "container": "split-field",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": []
+        },
+        {
+          "id": "s7-devices",
+          "role": "devices",
+          "archetype": "mobile-variants-grid",
+          "name": "Сетка мобильных вариантов, сгенерированных агентом",
+          "family": "device-variants-grid",
+          "container": "grid-cards",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "paper",
+          "donors": [
+            "paper"
+          ],
+          "replaced": {
+            "from": "studio-devices-tablet-in-situ",
+            "reason": "бригада работает с телефона, не с планшета; нужно 2-3 экрана телефона"
+          }
+        },
+        {
+          "id": "s8-pricing",
+          "role": "pricing",
+          "archetype": "flite-product-pair-cards",
+          "name": "Две карточки продуктов с ценами",
+          "family": "product-pair-cards",
+          "container": "grid-cards",
+          "motion": "static",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": [
+            "flite"
+          ],
+          "tuned": {
+            "imagery": {
+              "from": "photo-objects",
+              "reason": "лимит 5 изображений и цены не определены (вопрос 1): вместо рендеров — предметы кодом (угольник из знака)"
+            }
+          }
+        },
+        {
+          "id": "s9-cta",
+          "role": "cta",
+          "archetype": "panorama-illustration-cta",
+          "name": "Финал: фраза, кнопка и панорама-иллюстрация",
+          "family": "panorama-cta",
+          "container": "object-on-field",
+          "motion": "static",
+          "imagery": "illustration",
+          "background": "color-field",
+          "donors": [
+            "gumroad"
+          ]
+        }
+      ],
+      "hero_family": "type-hero",
+      "donors": [
+        "ggaide",
+        "alethia",
+        "holdi-focus",
+        "granola",
+        "paper",
+        "flite",
+        "gumroad"
+      ],
+      "chosen": "C"
+    },
+    {
+      "slug": "budget-pair-2026-10-09",
+      "seed": 310486555,
+      "created": "2026-10-09",
+      "capabilities": {
+        "image": true,
+        "video": true
+      },
+      "language": {
+        "ref": "cntrl",
+        "palette_family": "acid-contrast",
+        "type_class": "display-expressive",
+        "mood": [
+          "игривый",
+          "дизайнерский",
+          "самоироничный"
+        ]
+      },
+      "motion_signature": "parallax-layers",
+      "imagery_primary": "ui-code",
+      "sections": [
+        {
+          "id": "s1-hero",
+          "story_id": "s1-hero",
+          "role": "hero",
+          "archetype": "notched-frame-hero",
+          "name": "Заголовок в три строки и фото-рамка с фигурными вырезами",
+          "family": "notched-frame-hero",
+          "container": "full-bleed",
+          "motion": "autoplay-loop",
+          "imagery": "photo-objects",
+          "background": "photo",
+          "donors": [
+            "theplaya"
+          ],
+          "rules": [
+            "H1 прямо говорит, что делает продукт или какую пользу даёт (понятно за 5 секунд); подзаголовок ≤ 2 строк; продукт (интерфейс, предмет или сцена) виден на первом экране — даже если архетип «чистая типографика» или «логотип»"
+          ]
+        },
+        {
+          "id": "s2-problem",
+          "story_id": "s2-problem",
+          "role": "problem",
+          "archetype": "alethia-statement-ticker",
+          "name": "Бегущая строка-факт о проблеме",
+          "family": "marquee-strip",
+          "container": "ribbon",
+          "motion": "marquee",
+          "imagery": "type-only",
+          "background": "dark",
+          "donors": [
+            "alethia"
+          ],
+          "rules": [
+            "тёмный блок допустим, если пользователь не отказывался от тёмного (taste.json → avoidMood)"
+          ]
+        },
+        {
+          "id": "s3-mechanism",
+          "story_id": "s3-mechanism",
+          "role": "mechanism",
+          "archetype": "cropped-window-gradient-sweep",
+          "name": "Окно, дописывающее заметку цветной волной",
+          "family": "cropped-window-tile",
+          "container": "framed-window",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "color-field",
+          "donors": [
+            "granola"
+          ],
+          "rules": [],
+          "replaced": {
+            "from": "inline-agent-suggestion-window",
+            "reason": "inline-agent-suggestion-window — фрагмент hero про ИИ-подсказки, не отдельная секция; кульминации нужна лента трат, которая сама превращается в общий итог"
+          }
+        },
+        {
+          "id": "s4-comparison",
+          "story_id": "s4-comparison",
+          "role": "comparison",
+          "archetype": "studio-comparison-cutaway-stack",
+          "name": "Разрез двух стопок окон",
+          "family": "cutaway-window-stack",
+          "container": "grid-cards",
+          "motion": "autoplay-loop",
+          "imagery": "ui-code",
+          "background": "dark",
+          "donors": [],
+          "rules": [
+            "тёмный блок допустим, если пользователь не отказывался от тёмного (taste.json → avoidMood)"
+          ]
+        },
+        {
+          "id": "s5-data-viz",
+          "story_id": "s5-data-viz",
+          "role": "data-viz",
+          "archetype": "studio-dataviz-object-bars",
+          "name": "Столбики из предметов",
+          "family": "stacked-objects-bars",
+          "container": "grid-cards",
+          "motion": "static",
+          "imagery": "photo-objects",
+          "background": "light",
+          "donors": [],
+          "rules": []
+        },
+        {
+          "id": "s6-devices",
+          "story_id": "s6-devices",
+          "role": "devices",
+          "archetype": "device-on-desk-scene",
+          "name": "Планшет на блокноте с угольником",
+          "family": "object-scene-desk",
+          "container": "object-on-field",
+          "motion": "parallax-layers",
+          "imagery": "photo-objects",
+          "background": "color-field",
+          "donors": [
+            "structured-app"
+          ],
+          "rules": [
+            "2–3 экрана с РАЗНЫМИ сценариями (итог, канал, уведомление/задача); не серия одинаковых экранов"
+          ]
+        },
+        {
+          "id": "s7-feature-grid",
+          "story_id": "s7-feature-grid",
+          "role": "feature-grid",
+          "archetype": "themes-split-gallery",
+          "name": "50/50: текст и сетка готовых тем",
+          "family": "split-screen",
+          "container": "split-field",
+          "motion": "hover-reactive",
+          "imagery": "ui-code",
+          "background": "light",
+          "donors": [
+            "pop"
+          ],
+          "rules": [],
+          "tuned": {
+            "motion": {
+              "from": "static",
+              "reason": "правка заказчика 09.10: карточки переключают общая/личная, автопоказ один раз"
+            }
+          }
+        },
+        {
+          "id": "s8-pricing",
+          "story_id": "s8-pricing",
+          "role": "pricing",
+          "archetype": "studio-pricing-ticket-stub",
+          "name": "Билет с корешком",
+          "family": "ticket-stub",
+          "container": "object-on-field",
+          "motion": "hover-reactive",
+          "imagery": "illustration",
+          "background": "color-field",
+          "donors": [],
+          "rules": [],
+          "replaced": {
+            "from": "free-purple-band-badge",
+            "reason": "фиолетовый градиент — клише; у продукта один тариф на двоих, билет с корешком подходит"
+          }
+        },
+        {
+          "id": "s9-cta",
+          "story_id": "s9-cta",
+          "role": "cta",
+          "archetype": "streamtime-pink-cta-giant-button",
+          "name": "Розовая полоса: «Ready to work well?» и огромная кнопка",
+          "family": "cta-band-giant-button",
+          "container": "typographic",
+          "motion": "hover-reactive",
+          "imagery": "type-only",
+          "background": "color-field",
+          "donors": [
+            "streamtime"
+          ],
+          "rules": [],
+          "replaced": {
+            "from": "cntrl-try-now-slab",
+            "reason": "cntrl-try-now-slab — бежевая плита, пользователь против бежевого фона"
+          }
+        }
+      ],
+      "hero_family": "notched-frame-hero",
+      "donors": [
+        "theplaya",
+        "alethia",
+        "granola",
+        "structured-app",
+        "pop",
+        "streamtime"
+      ],
+      "chosen": "B"
+    }
+  ]
+}

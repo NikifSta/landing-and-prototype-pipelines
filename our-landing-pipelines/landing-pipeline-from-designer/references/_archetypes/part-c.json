@@ -1,0 +1,2389 @@
+[
+  {
+    "id": "flite-announce-marquee",
+    "role": "launch",
+    "name": "Бегущая строка-объявление",
+    "family": "marquee-strip",
+    "composition": "Узкая полоса над шапкой с повторяющимся объявлением о статусе (предзаказ закрыт, следите за новостями); бесконечная линейная прокрутка.",
+    "ascii": "┌──────────────────────────────┐\n│ ▸ объявление ▸ объявление ▸  │\n└──────────────────────────────┘",
+    "background": "dark",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "consumer",
+      "B2B-saas",
+      "devtools",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "верх страницы, строка «Pre Orders closed, stay tuned…»",
+        "note": "Идея: статус запуска как постоянная строка над шапкой. Не копировать текст и чёрную полосу один в один."
+      }
+    ],
+    "avoid_same_page_as": [
+      "ticker-yellow-benefits"
+    ],
+    "distinctive": "Работает как честный статус (предзаказ/лист ожидания) без отдельной секции; риск — шум, если текст не меняется."
+  },
+  {
+    "id": "flite-hero-split-video-card",
+    "role": "hero",
+    "name": "Hero: текст слева, видео-карточка справа",
+    "family": "split-text-media-card",
+    "composition": "Слева — теги-фичи, H1, кнопка с ценой, ряд логотипов СМИ; справа большая скруглённая карточка с зацикленным видео продукта на светло-сером поле. H1 появляется по словам с резким in-out.",
+    "ascii": "┌ теги            ┐┌───────────┐\n│ H1              ││  видео    │\n│ [кнопка] цена   ││  продукта │\n│ логотипы СМИ    │└───────────┘",
+    "background": "light",
+    "density": "medium",
+    "motion": "video-loop",
+    "imagery": "video",
+    "needs": [
+      "video"
+    ],
+    "fits": [
+      "consumer",
+      "B2B-saas",
+      "fintech",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "hero «The Smart Cockpit That Redefines Your Ride»",
+        "note": "Идея: объект-герой в большой карточке с зацикленным роликом и ценой рядом с кнопкой. Не копировать серо-синюю палитру и рендеры руля."
+      }
+    ],
+    "avoid_same_page_as": [
+      "video-hero",
+      "photo-hero",
+      "type-hero"
+    ],
+    "distinctive": "Цена и логотипы СМИ сразу в первом экране; риск — классический «текст слева, картинка справа»."
+  },
+  {
+    "id": "flite-product-pair-cards",
+    "role": "pricing",
+    "name": "Две карточки продуктов с ценами",
+    "family": "product-pair-cards",
+    "composition": "Заголовок «Explore products» и две равные карточки-рендера (Premium / Tailor Made), у каждой цена и кнопка предзаказа; на серых плитках со скруглением.",
+    "ascii": "┌ рендер ───┐┌ рендер ───┐\n│ Premium   ││ Tailor    │\n│ €2.249 [▸]││ €3.949 [▸]│\n└───────────┘└───────────┘",
+    "background": "light",
+    "density": "low",
+    "motion": "static",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo",
+      "numbers"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок «Explore products»",
+        "note": "Идея: выбор из двух вариантов продукта сразу после hero. Не копировать рендеры и цены."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid-three-tiers"
+    ],
+    "distinctive": "Выбор «стандарт/индивидуально» на нейтральных плитках; риск — типовая пара тарифов."
+  },
+  {
+    "id": "flite-photo-manifest-expand",
+    "role": "manifesto",
+    "name": "Фото-манифест, раскрывающийся на всю ширину",
+    "family": "photo-manifest-expand",
+    "composition": "Фото-карточка с вписанным текстом манифеста: в начале с полями и скруглением, по скроллу раскрывается на всю ширину; на переднем плане продукт, фон — сцена в жизни (два слоя).",
+    "ascii": "┌──────────────┐ → ┌────────────────┐\n│ фото+текст   │   │ фото на весь   │\n└──────────────┘   │ экран + текст  │",
+    "background": "photo",
+    "density": "low",
+    "motion": "scroll-scrub",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "фото-манифест «This is where the future of cycling begins…»",
+        "note": "Идея: единственный атмосферный кадр «продукт в жизни» среди студийных. Для нас по правилам пайплайна фото обязано объяснять продукт, не «для настроения». Не копировать серпантин с велосипедистом."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large",
+      "photo-hero"
+    ],
+    "distinctive": "Раскрытие карточки (по пассспорту — вероятный scrub, проверить вживую); риск — «фото для настроения»."
+  },
+  {
+    "id": "flite-label-heading-carousel",
+    "role": "feature-grid",
+    "name": "Ярлык слева, заголовок справа, карусель карточек фич",
+    "family": "horizontal-carousel",
+    "composition": "Мелкая подпись в левой колонке, заголовок со смещением вправо, ниже горизонтальная карусель карточек с нумерацией 01, 02… и стрелками; карточки — крупные цифры/рендеры.",
+    "ascii": "подпись     Заголовок крупно\n[←][→]\n┌01 ───┐┌02 ───┐┌03 ───┐\n│      ││      ││      │",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo",
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "fintech",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок «The World’s First Fully Integrated and Connected Cockpit» + карусель",
+        "note": "Идея: фичи как пронумерованные карточки с главным значением на каждой. Не копировать подписи и рендеры."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "bento"
+    ],
+    "distinctive": "Асимметрия «ярлык слева / заголовок со сдвигом»; риск — типовая карусель фич."
+  },
+  {
+    "id": "flite-big-number-widget-tiles",
+    "role": "data-viz",
+    "name": "Плитки-виджеты с крупными цифрами прибора",
+    "family": "big-number-tiles",
+    "composition": "Чёрные плитки внутри карточки фичи: «HR 140», «Ride time 23», скорость, мощность — интерфейс как набор крупных цифр с мелкими подписями.",
+    "ascii": "┌HR──┐┌Ride─┐\n│ 140││ 23  │\n└────┘└─────┘\n┌Pwr─┐┌Spd─┐\n│ 74 ││ 5.6│",
+    "background": "dark",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "ui-code",
+    "needs": [
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "devtools",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "карточка «Stats & Watts» в карусели",
+        "note": "Идея: UI продукта как 4–6 плиток с одной цифрой каждая — читается с первого взгляда. Не копировать велосипедные метрики."
+      }
+    ],
+    "avoid_same_page_as": [
+      "big-number-field"
+    ],
+    "distinctive": "Главная цифра на каждой плитке; риск — выглядит как «дашборд-шаблон»."
+  },
+  {
+    "id": "flite-numbered-index-dark",
+    "role": "feature-grid",
+    "name": "Нумерованный список возможностей на чёрном",
+    "family": "numbered-index-list",
+    "composition": "Чёрный фон: слева заголовок и кнопка, справа узкая колонка из 7 пунктов 01–07 (заголовок + описание), пункты проявляются по мере скролла.",
+    "ascii": "┌──────────────────────────┐\n│ Заголовок     01 пункт   │\n│ [кнопка]      02 пункт   │\n│               03 пункт   │",
+    "background": "dark",
+    "density": "medium",
+    "motion": "reveal-words",
+    "imagery": "type-only",
+    "needs": [
+      "long-text"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "devtools",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок «What FLITEDECK Truly Delivers»",
+        "note": "Идея: возможности — спокойный индекс без иконок. Не копировать тексты и чёрный фон с серым шрифтом."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "bento"
+    ],
+    "distinctive": "Тихий текстовый блок между визуальными; риск — слишком скучно без картинки."
+  },
+  {
+    "id": "flite-sticky-buy-gallery",
+    "role": "pricing",
+    "name": "Закреплённая карточка покупки рядом с галереей ракурсов",
+    "family": "sticky-visual-text",
+    "composition": "Слева столбик рендеров продукта (ракурсы), справа карточка с названием, ценой и кнопкой закреплена (sticky) на ≈2100 px, пока галерея проезжает; на мобильном — нижняя панель с ценой.",
+    "ascii": "┌ рендер 1 ┐ ┌ карточка ┐\n│ рендер 2 │ │ цена [▸] │ sticky\n│ рендер 3 │ └──────────┘",
+    "background": "light",
+    "density": "medium",
+    "motion": "scroll-pin",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo",
+      "numbers"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок покупки FLITEDECK Premium",
+        "note": "Идея: цена и действие всегда в поле зрения при просмотре продукта. Не копировать рендеры и €."
+      }
+    ],
+    "avoid_same_page_as": [
+      "sticky-visual-text-left"
+    ],
+    "distinctive": "Sticky-цена; риск — длинная прокрутка пустых плиток."
+  },
+  {
+    "id": "flite-roadmap-timeline",
+    "role": "story",
+    "name": "Роадмап-таймлайн по годам карточками",
+    "family": "horizontal-timeline",
+    "composition": "Подпись слева, заголовок «Tour de FLITE milestones»; крупные годы 2019…2026 в ряд, под каждым карточка вехи; горизонтальная прокрутка.",
+    "ascii": "2019   2021   2022   2024   2025\n┌────┐ ┌────┐ ┌────┐ ┌────┐ ┌────┐\n│веха│ │веха│ │веха│ │веха│ │веха│",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "type-only",
+    "needs": [
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок «Tour de FLITE milestones»",
+        "note": "Идея: история и планы как доказательство серьёзности. Не копировать годы и вехи."
+      }
+    ],
+    "avoid_same_page_as": [
+      "stacked-cards",
+      "horizontal-timeline-alt"
+    ],
+    "distinctive": "Крупные годы как графика; риск — пустые вехи без содержания."
+  },
+  {
+    "id": "flite-press-video-cards",
+    "role": "proof-social",
+    "name": "Видео с основателями и карточки прессы",
+    "family": "video-plus-quote-cards",
+    "composition": "На чёрном фоне слева большой видеоплеер с основателями, справа столбик карточек-цитат СМИ с логотипами; ниже сетка «Featured in» из иконок изданий.",
+    "ascii": "┌ видео ─────────┐┌ цитата ┐\n│   ▶            ││ СМИ    │\n└────────────────┘│ цитата │\n[лого][лого][лого]",
+    "background": "dark",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "video",
+    "needs": [
+      "video"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "fintech",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "блок «FLITEDECK in the spotlight»",
+        "note": "Идея: видео-обращение людей + внешние цитаты в одном блоке. Не копировать сетку логотипов СМИ."
+      }
+    ],
+    "avoid_same_page_as": [
+      "logo-wall",
+      "testimonial-cards"
+    ],
+    "distinctive": "Видео и пресса вместе; риск — шаблонный блок «as seen in»."
+  },
+  {
+    "id": "flite-final-split-cta",
+    "role": "cta",
+    "name": "Финал: движущееся видео и рендер с кнопкой",
+    "family": "split-screen",
+    "composition": "Экран делится на две части: слева зацикленное видео с размытием движения, справа рендер продукта на сером поле с кнопкой предзаказа; на мобильном закреплена нижняя панель.",
+    "ascii": "┌ видео ───┐┌ рендер ───┐\n│ в движении││  [Pre-    │\n│           ││   order]  │\n└───────────┘└───────────┘",
+    "background": "photo",
+    "density": "low",
+    "motion": "video-loop",
+    "imagery": "video",
+    "needs": [
+      "video",
+      "photo"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "flite",
+        "where": "финальный CTA",
+        "note": "Идея: ощущение движения + объект, финальное действие рядом. Не копировать видео езды."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-form",
+      "cta-band-giant-button"
+    ],
+    "distinctive": "Контраст «движение / покой»; риск — зависит от качества видео."
+  },
+  {
+    "id": "alethia-levitating-hero",
+    "role": "hero",
+    "name": "Hero: парящие образцы в темноте и плавающая карточка данных",
+    "family": "levitating-objects-hero",
+    "composition": "Тёмный фон после лоадера: H1 слева сверху, кнопка, абзац внизу слева, по центру 3–5 левитирующих 3D-объектов (камни со мхом) и плавающая карточка данных (число + подпись); «Scroll to discover».",
+    "ascii": "┌ H1 ─────  карточка ┐\n│ [кнопка]   ◯  ◯     │\n│          ◯   ◯     │\n│ абзац   scroll ▾    │",
+    "background": "dark",
+    "density": "low",
+    "motion": "parallax-layers",
+    "imagery": "3d",
+    "needs": [
+      "3d",
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "devtools",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "hero «Where Ecosystem Science and Enterprise Strategy Meet»",
+        "note": "Идея: образец мира продукта как парящий герой + карточка с измеренным числом. Не копировать камни, зелёно-салатовую палитру."
+      }
+    ],
+    "avoid_same_page_as": [
+      "photo-hero",
+      "video-hero"
+    ],
+    "distinctive": "Левитация объектов (±10 px) и мгновенная связь «объект → измеренное число»."
+  },
+  {
+    "id": "alethia-pinned-flythrough",
+    "role": "mechanism",
+    "name": "Закреплённая сцена-пролёт: наезд в объект, смена через фокус",
+    "family": "pinned-scroll-story",
+    "composition": "Первые ≈3 экрана — одна фиксированная сцена: камера наезжает в объект, текст уходит с размытием и сменяется, пролёт сквозь слой, перевод фокуса на новую сцену, туман, итоговая панель. Обратима (scrub).",
+    "ascii": "▒ pin 3–4 экрана ▒\n объект → наезд → текст\n фокус → сцена 2 → туман\n → сцена 3 + панель",
+    "background": "photo",
+    "density": "medium",
+    "motion": "scroll-pin",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo",
+      "3d"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "закреплённая сцена после hero",
+        "note": "Идея: показать путь «от хаоса данных к результату» движением камеры по слоям. Не копировать мох, мачты, тексты. Для нас — слоями из своих сцен, без полноэкранного параллакса фото (правило CLAUDE.md)."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pinned-scroll-story-text",
+      "hero-product-pin"
+    ],
+    "distinctive": "Перевод фокуса blur+fade как смена сцен; риск — тяжёлая генерация слоёв."
+  },
+  {
+    "id": "alethia-list-over-scene-panel",
+    "role": "process",
+    "name": "Нумерованный список 01–05 поверх сцены со стеклянной панелью данных",
+    "family": "list-over-pinned-scene",
+    "composition": "Финал закреплённой сцены: справа вертикальный список 01–05 (заголовок капсом + описание), слева стеклянная панель с графиком «Accumulated carbon balance»; подпись над сценой.",
+    "ascii": "┌ сцена ──────────────┐\n│ ┌панель┐  01 ─────   │\n│ │график│  02 ─────   │\n│ └──────┘  03 ─────   │",
+    "background": "photo",
+    "density": "high",
+    "motion": "scroll-pin",
+    "imagery": "ui-code",
+    "needs": [
+      "chart"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "финал сцены «Scientific Credibility to Corporate Climate Action»",
+        "note": "Идея: интерфейс-панель поверх сцены + пронумерованные доказательства. Не копировать графики и тексты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "list-plus-window",
+      "tabs-plus-panel"
+    ],
+    "distinctive": "Панель данных на «живом» фоне; риск — перегруз текстом поверх фото."
+  },
+  {
+    "id": "alethia-statement-ticker",
+    "role": "problem",
+    "name": "Бегущая строка-факт о проблеме",
+    "family": "marquee-strip",
+    "composition": "Широкая полоса с крупной фразой-фактом («CO₂ emissions reach record high…»), бесконечно ползёт; следует за блоком видения.",
+    "ascii": "┌──────────────────────────────┐\n│ ▸ крупный факт о проблеме ▸  │\n└──────────────────────────────┘",
+    "background": "dark",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «Our vision»",
+        "note": "Идея: проблема как бегущий заголовок-новость. Не копировать формулировку."
+      }
+    ],
+    "avoid_same_page_as": [
+      "ticker-yellow-benefits"
+    ],
+    "distinctive": "Шумная лента; риск — читается только в статике."
+  },
+  {
+    "id": "alethia-photo-card-pair",
+    "role": "feature-grid",
+    "name": "Два крупных фото-карточки решений с заголовком внутри",
+    "family": "photo-card-pair",
+    "composition": "Белая секция, ярлык-плашка, заголовок слева; ниже две равные карточки с фото (капли на листе, рисовые террасы), заголовок на нижней части карточки и круглая кнопка-стрелка.",
+    "ascii": "ЯРЛЫК\nЗаголовок\n┌ фото ───┐┌ фото ───┐\n│ заг. [→]││ заг. [→]│",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "marketplace",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «Our solutions»",
+        "note": "Идея: два направления продукта как фото-карточки с коротким названием. Не копировать капли и террасы; в нашем случае фото должно объяснять направление."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "split-screen"
+    ],
+    "distinctive": "Фото-карточки с текстом на фото; риск — «мудборд без смысла»."
+  },
+  {
+    "id": "alethia-rigor-centered-object",
+    "role": "manifesto",
+    "name": "Манифест по центру на фоне ч/б 3D-объекта",
+    "family": "object-behind-centered-text",
+    "composition": "Чёрный фон, крупный ч/б 3D-объект (сенсор) у края, поверх по центру заголовок «Rigor. Precision. Trust.» и короткий абзац; кнопка-стрелка вниз.",
+    "ascii": "┌ ▓▓▓ объект ──────────┐\n│   З А Г О Л О В О К  │\n│    абзац   (↓)       │\n└──────────────────────┘",
+    "background": "dark",
+    "density": "low",
+    "motion": "static",
+    "imagery": "3d",
+    "needs": [
+      "3d"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «Scientific Rigor. Commercial Precision. Unmatched Trust.»",
+        "note": "Идея: три слова-принципа на фоне технического объекта. Не копировать формулировки и сенсор."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large",
+      "photo-hero"
+    ],
+    "distinctive": "Монохромный объект и тихий центр; риск — типовой «dark hero»."
+  },
+  {
+    "id": "alethia-indigo-staggered-statements",
+    "role": "mechanism",
+    "name": "Два утверждения вразбежку на сплошном индиго",
+    "family": "staggered-diagonal-statements",
+    "composition": "Насыщенный индиго: первое утверждение слева сверху, второе справа ниже по диагонали; каждое с моно-ярлыком на салатовой плашке и стрелкой-ссылкой; много воздуха.",
+    "ascii": "┌ЯРЛЫК────────────────┐\n│ Утверждение 1       │\n│          ЯРЛЫК      │\n│       Утверждение 2 │",
+    "background": "color-field",
+    "density": "low",
+    "motion": "static",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блоки AMRV и blockchain на индиго",
+        "note": "Идея: два ключевых отличия продукта как два крупных высказывания по диагонали. Не копировать индиго+салатовый."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large",
+      "split-screen"
+    ],
+    "distinctive": "Диагональный ритм на цвете; риск — пусто без визуала."
+  },
+  {
+    "id": "alethia-sticky-line-drawing",
+    "role": "mechanism",
+    "name": "Закреплённая сцена с прорисовывающимся контуром объекта",
+    "family": "sticky-line-drawing",
+    "composition": "Чёрная sticky-секция ≈3600 px: ч/б рендер объекта (мачта) с моно-подписями; контур проявляется по скроллу, тексты «No spreadsheets / No guesswork» сменяются, финальный заголовок «Just Real, Measured Insight».",
+    "ascii": "┌ sticky ───────────┐\n│ подпись ─┐        │\n│     ┃ контур     │\n│ подпись ─┘ → текст│",
+    "background": "dark",
+    "density": "medium",
+    "motion": "scroll-scrub",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «Just Real, Measured Insight»",
+        "note": "Идея: схема продукта рисуется по скроллу с подписями у деталей. Не копировать мачту и тексты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pinned-scroll-story",
+      "sticky-visual-text-left"
+    ],
+    "distinctive": "Рисунок с моно-подписями; риск — нужна качественная схема."
+  },
+  {
+    "id": "alethia-trust-floating-collage",
+    "role": "problem",
+    "name": "Коллаж парящих карточек вокруг заголовка",
+    "family": "collage",
+    "composition": "Белая секция: по центру заголовок «The Biggest Problem in Climate Action: Trust», вокруг стопка/ веер карточек — данные, фото листа, сенсор, числа «-2.4 tCO₂e», «42.152».",
+    "ascii": "  ┌данные┐ ┌фото┐\n  ЗАГОЛОВОК\n┌сенсор┐ ┌числа┐",
+    "background": "light",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "fintech",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «ALETHIA SOLVES / Trust»",
+        "note": "Идея: проблема как «шум» разнородных артефактов, окружающих заголовок. Не копировать карточки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "collage-paper-photo",
+      "stacked-cards"
+    ],
+    "distinctive": "Смесь UI-плашек, фото и цифр в одной стопке."
+  },
+  {
+    "id": "alethia-redefine-four-cards",
+    "role": "feature-grid",
+    "name": "Заголовок и четыре небольшие карточки-тезиса 2×2",
+    "family": "card-grid",
+    "composition": "Центрированный заголовок «We’re Not Just Evolving the System. We’re Redefining It.», под ним 4 компактные карточки с цифрой в салатовой плашке и коротким тезисом.",
+    "ascii": "ЗАГОЛОВОК\n┌01 ───────┐┌02 ───────┐\n┌03 ───────┐┌04 ───────┐",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "service",
+      "fintech"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «We’re Redefining It»",
+        "note": "Идея: четыре обещания как компактная сетка с номерами. Не копировать формулировки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "bento",
+      "card-grid-three-tiers"
+    ],
+    "distinctive": "Спокойная сетка; риск — шаблонность."
+  },
+  {
+    "id": "alethia-case-carousel",
+    "role": "proof-social",
+    "name": "Карусель кейсов с моно-метками",
+    "family": "case-card-carousel",
+    "composition": "Ярлык «CASE STUDIES», заголовок слева, справа стрелки; ниже горизонтальная лента крупных фото-кейсов с чипом «SUCCESS STORY», названием и круглой стрелкой; соседний кейс выглядывает.",
+    "ascii": "ЯРЛЫК\nЗаголовок        [←][→]\n┌ кейс ────────┐┌ кейс…\n│ чип  название││",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "блок «Case Studies»",
+        "note": "Идея: кейсы как крупные карточки с метками и частично видимым следующим. Не копировать фото."
+      }
+    ],
+    "avoid_same_page_as": [
+      "horizontal-carousel",
+      "card-grid"
+    ],
+    "distinctive": "Показывает «ещё есть»; риск — привычная карусель."
+  },
+  {
+    "id": "alethia-final-wordmark-footer",
+    "role": "footer",
+    "name": "Финальный CTA и огромный вордмарк, обрезанный краем",
+    "family": "giant-wordmark-footer",
+    "composition": "Фото травы в расфокусе: заголовок «Turn Climate Data Into Business Results» с кнопкой, ниже вордмарк «alethia» на всю ширину салатовым въезжает снизу и обрезается краем; мелкий футер поверх.",
+    "ascii": "┌ заголовок + [кнопка] ┐\n│ a l e t h i a ▇▇▇▇▇▇ │\n│ мелкий футер         │",
+    "background": "photo",
+    "density": "low",
+    "motion": "parallax-layers",
+    "imagery": "type-only",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "alethia",
+        "where": "финальный CTA и футер",
+        "note": "Идея: имя бренда как финальный огромный жест. Не копировать салатовый и фото травы."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-band-giant-button"
+    ],
+    "distinctive": "Вордмарк-рамка; риск — частый приём студий."
+  },
+  {
+    "id": "ggaide-type-mascot-hero",
+    "role": "hero",
+    "name": "Hero: логотип в три строки, факты и персонаж в центре",
+    "family": "type-hero",
+    "composition": "Сплошной цветной фон: слева логотип-надпись «GG AIDE 23» в три строки гигантским капсом, сверху три колонки фактов (повод, дата, место), по центру 3D-персонаж, внизу логотипы партнёров.",
+    "ascii": "┌ГГ    факт факт факт┐\n│АИДЕ  ┌персонаж┐    │\n│23    └────────┘    │\n│партнёры            │",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "hover-reactive",
+    "imagery": "3d",
+    "needs": [
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "hero «GG AIDE 23»",
+        "note": "Идея: один цвет, один персонаж, гигантский шрифт, факты сверху мелко. Не копировать геймпад, зелёный фон, французские тексты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "photo-hero",
+      "video-hero",
+      "product-window-hero"
+    ],
+    "distinctive": "Радикально без фото и UI; риск — нужен свой смешной персонаж."
+  },
+  {
+    "id": "ggaide-about-fullwidth-facts",
+    "role": "story",
+    "name": "Заголовок на всю ширину, текст в правых колонках и таблица фактов",
+    "family": "headline-plus-fact-table",
+    "composition": "Гигантский заголовок «DONNER EST UN JEU MULTIJOUEUR» на всю ширину; под ним два столбца текста справа, потом таблица фактов (место, адрес, дата, часы) с тонкими линиями и чёрная кнопка «ВНЕСТИ ПОЖЕРТВОВАНИЕ».",
+    "ascii": "ГИГАНТСКИЙ ЗАГОЛОВОК\n        текст   текст\n        ─────────────\n        факт    факт\n        [кнопка]",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "reveal-words",
+    "imagery": "type-only",
+    "needs": [
+      "long-text"
+    ],
+    "fits": [
+      "service",
+      "marketplace",
+      "consumer",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "блок «О событии»",
+        "note": "Идея: смысл — одной фразой гигантским шрифтом, факты — в линейчатой таблице. Не копировать текст."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large",
+      "split-screen"
+    ],
+    "distinctive": "Таблица линий вместо карточек; риск — перегрузка капсом."
+  },
+  {
+    "id": "ggaide-schedule-table",
+    "role": "process",
+    "name": "Расписание: таблица время / тема / спикер / должность",
+    "family": "data-table-rows",
+    "composition": "Гигантский заголовок «HORAIRE DES CONFÉRENCES», ниже таблица на всю ширину из 10 строк с тонкими разделителями: время, тема, один или несколько спикеров и их должности; основная масса страницы.",
+    "ascii": "ЗАГОЛОВОК\n──────────────────────────\n09:00  тема   имя  должность\n10:00  тема   имя  должность\n──────────────────────────",
+    "background": "color-field",
+    "density": "high",
+    "motion": "scramble",
+    "imagery": "type-only",
+    "needs": [
+      "long-text"
+    ],
+    "fits": [
+      "service",
+      "marketplace",
+      "B2B-saas",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "блок «Horaire des conférences»",
+        "note": "Идея: программа/тарифы/версии как большая типографская таблица, которая сама — дизайн. Не копировать содержание."
+      }
+    ],
+    "avoid_same_page_as": [
+      "list-plus-window",
+      "comparison-table"
+    ],
+    "distinctive": "Таблица без карточек и иконок; риск — длинная прокрутка без визуала."
+  },
+  {
+    "id": "ggaide-words-flank-mascot",
+    "role": "cta",
+    "name": "Финал: слово слева, персонаж по центру, слово справа по диагонали",
+    "family": "words-flanking-object",
+    "composition": "Гигантское «JOUEURS» слева сверху, персонаж по центру, «UNISSEZ-VOUS» справа снизу; ниже заголовок «ACHETEZ VOS BILLETS» и кнопка.",
+    "ascii": "СЛОВО1 ┌персонаж┐\n        │        │\n        └────────┘ СЛОВО2\n   [купить билеты]",
+    "background": "color-field",
+    "density": "low",
+    "motion": "hover-reactive",
+    "imagery": "3d",
+    "needs": [
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "финал «JOUEURS / UNISSEZ-VOUS»",
+        "note": "Идея: объект «разрезает» призыв на две половины. Не копировать персонажа и фразы."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-form",
+      "cta-band-giant-button"
+    ],
+    "distinctive": "Диагональ слов вокруг персонажа; риск — пустота без сильного персонажа."
+  },
+  {
+    "id": "ggaide-floating-nav-pill",
+    "role": "cta",
+    "name": "Плавающая навигация-пилюля внизу экрана с главным CTA",
+    "family": "floating-pill-nav",
+    "composition": "Закреплённая внизу экрана пилюля: пункты меню (О нас, Расписание, Партнёры) и чёрная кнопка «БИЛЕТЫ»; рядом с футером меняет ширину.",
+    "ascii": "        ┌пункты · пункты [БИЛЕТЫ ↗]┐",
+    "background": "dark",
+    "density": "low",
+    "motion": "static",
+    "imagery": "ui-code",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "devtools",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "навигация внизу экрана",
+        "note": "Идея: меню + главное действие в одном компактном закреплённом элементе. Не копировать шрифты и положение один в один."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pill-nav-header"
+    ],
+    "distinctive": "Нижняя пилюля вместо шапки; риск — перекрывает контент на мобильном."
+  },
+  {
+    "id": "ggaide-partner-logo-scatter",
+    "role": "proof-social",
+    "name": "Партнёры: разбросанные логотипы на линейчатой сетке",
+    "family": "logo-wall",
+    "composition": "Две-три строки, разделённые линиями: рамки логотипов в разброс (разной ширины) с мелкими подписями; на скриншоте не догрузились.",
+    "ascii": "─────────────────────────\n[лого]  [лого]   [лого]\n─────────────────────────\n[лого] [лого] [лого]",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "service",
+      "marketplace",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "блок «Партнёры»",
+        "note": "Идея: партнёры строками по линиям, без карточек. Не копировать сам список."
+      }
+    ],
+    "avoid_same_page_as": [
+      "logo-marquee-dark",
+      "marquee-strip"
+    ],
+    "distinctive": "Нестрогая сетка; риск — по скриншоту не видно финального вида."
+  },
+  {
+    "id": "ggaide-black-gradient-footer",
+    "role": "footer",
+    "name": "Футер: чёрная полоса с градиентом из цвета темы",
+    "family": "dark-gradient-footer",
+    "composition": "Цвет фона плавно уходит в чёрную полосу; в ней соцсети слева, переключатель языка, правовая строка справа.",
+    "ascii": "░░░░░ градиент ░░░░░\n█ соцсети  EN   ©  █",
+    "background": "dark",
+    "density": "low",
+    "motion": "static",
+    "imagery": "none",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "ggaide",
+        "where": "футер",
+        "note": "Идея: футер как плавное затемнение цветного поля. Не копировать цвета."
+      }
+    ],
+    "avoid_same_page_as": [
+      "giant-wordmark-footer"
+    ],
+    "distinctive": "Минимализм; риск — пустой."
+  },
+  {
+    "id": "cntrl-mixed-voice-manifest-hero",
+    "role": "hero",
+    "name": "Hero: манифест капсом с антиквой и «Keep Control» двумя голосами",
+    "family": "type-hero",
+    "composition": "Центрированная колонка ≈900 px: манифест капсом (≈28 px), отдельные слова антиквой с ©, ниже крупное «Keep» серой антиквой + «Control» чёрным гротеском в одной строке; кнопки LOGIN / TRY FREE мелкими плашками в углу.",
+    "ascii": "МАНИФЕСТ КАПСОМ с АНТИКВОЙ©\n  Keep Control\n [плашка с видео]",
+    "background": "light",
+    "density": "low",
+    "motion": "hover-reactive",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "hero «Keep Control»",
+        "note": "Идея: два шрифтовых голоса в одной фразе = характер продукта. Не копировать © и «Keep Control», PT Serif — наш аналог, но не палитру."
+      }
+    ],
+    "avoid_same_page_as": [
+      "type-hero-giant",
+      "photo-hero"
+    ],
+    "distinctive": "Смесь антиквы и гротеска; риск — часто в «дизайнерских» лендингах."
+  },
+  {
+    "id": "cntrl-color-plate-video",
+    "role": "mechanism",
+    "name": "Яркая плашка с зацикленным видео-демо",
+    "family": "color-plate-video",
+    "composition": "Широкая плашка (бирюзовая, оранжево-красная, лавандовая) на белом фоне, внутри короткий зацикленный ролик с демо (пролистываются сайты пользователей); под ней подпись.",
+    "ascii": "┌████████████████████┐\n│  видео-демо в цвете │\n└████████████████████┘\n   подпись",
+    "background": "color-field",
+    "density": "low",
+    "motion": "video-loop",
+    "imagery": "video",
+    "needs": [
+      "video"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "видео-плашка под hero и секции-демо",
+        "note": "Идея: каждая фича — короткий ролик на своей цветной подложке. Не копировать цвета плашек. По правилам пайплайна UI — HTML-анимация, а не видео."
+      }
+    ],
+    "avoid_same_page_as": [
+      "product-window-hero",
+      "color-plate-twin"
+    ],
+    "distinctive": "Цвет подложки = маркер фичи; риск — монотонный повтор."
+  },
+  {
+    "id": "cntrl-orbit-features-tilted-frame",
+    "role": "feature-grid",
+    "name": "Двенадцать подписей-фич вокруг наклонной рамки-холста",
+    "family": "orbit-grid-frame",
+    "composition": "Сетка из 12 мелких фич капсом с жёлтыми иконками по периметру; в центре пустая наклонённая рамка-«холст»; внизу техническая строка (CONTROL / EST 2020 / BASED IN VIENNA / 2026).",
+    "ascii": "ф1 ф2      ф3 ф4\nф5   ┌╲наклон╲┐ ф6\nф7   └рамка──┘ ф8\nф9 ф10    ф11 ф12",
+    "background": "light",
+    "density": "high",
+    "motion": "hover-reactive",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «Freehand website builder for creatives by creatives»",
+        "note": "Идея: набор фич как расставленные по холсту подписи, а не карточки. Не копировать жёлтые иконки и состав."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "bento"
+    ],
+    "distinctive": "Пустая наклонная рамка; риск — без реального содержимого в рамке выглядит пустой."
+  },
+  {
+    "id": "cntrl-sine-text-circles",
+    "role": "manifesto",
+    "name": "Текст по синусоиде между цветными кругами",
+    "family": "text-on-path-marquee",
+    "composition": "Фраза «Unique set of tools, designed for your convenience as a creative» течёт волной по всей ширине, между словами цветные круги; бесконечная линейная прокрутка.",
+    "ascii": "   ╱╲   ╱╲   ╱╲\n ╱ текст по кривой ╲\n  ● ◯ ●",
+    "background": "light",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "devtools",
+      "consumer",
+      "service",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «Unique set of tools…»",
+        "note": "Идея: разделитель-манифест, который шевелится сам. Не копировать фразу и круги."
+      }
+    ],
+    "avoid_same_page_as": [
+      "marquee-strip"
+    ],
+    "distinctive": "Текст по кривой; риск — читаемость на мобильном."
+  },
+  {
+    "id": "cntrl-caption-wide-plate",
+    "role": "mechanism",
+    "name": "Короткая подпись слева, кнопки справа, под ними большая плашка с видео",
+    "family": "caption-plus-wide-plate",
+    "composition": "Тонкая строка: слева 2–3 строки пояснения мелким шрифтом, справа кнопки («watch tutorial» и др.), под ней крупная плашка на всю ширину колонки с видео.",
+    "ascii": "текст         [кнопка][кнопка]\n┌██████████████████████┐\n│ видео-демо           │\n└██████████████████████┘",
+    "background": "color-field",
+    "density": "low",
+    "motion": "video-loop",
+    "imagery": "video",
+    "needs": [
+      "video"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "секции «Animation / Typography / Shaders»",
+        "note": "Идея: подпись «как сделано» и сразу демонстрация. Не копировать тексты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "list-plus-window",
+      "color-plate-twin"
+    ],
+    "distinctive": "Подпись о приёме прямо над демо; риск — длинная серия одинаковых блоков."
+  },
+  {
+    "id": "cntrl-twin-plates",
+    "role": "mechanism",
+    "name": "Две плашки рядом, каждая со своим пояснением",
+    "family": "twin-plates",
+    "composition": "Два равных блока рядом: бирюзовая и лавандовая плашки с видео, над каждой своя строка пояснения и кнопка.",
+    "ascii": "┌██████████┐┌██████████┐\n│ видео 1  ││ видео 2  │\n└──────────┘└──────────┘\nподпись1   подпись2",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "video-loop",
+    "imagery": "video",
+    "needs": [
+      "video"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "секция «Grids / Layouts» с двумя видео",
+        "note": "Идея: две фичи в паре с контрастными цветами. Не копировать цвета."
+      }
+    ],
+    "avoid_same_page_as": [
+      "split-screen"
+    ],
+    "distinctive": "Контрастная пара; риск — слабая иерархия."
+  },
+  {
+    "id": "cntrl-components-tile-strip",
+    "role": "feature-grid",
+    "name": "Бежевая полоса с иконками-плитками компонентов",
+    "family": "tile-strip-carousel",
+    "composition": "Бежевая лента: ряд компонентных плиток (бургер, «Aa», </>, пиксели) на цветных квадратах, горизонтально прокручивается; пояснение сверху мелко.",
+    "ascii": "подпись\n┌▤┐ ┌Aa┐ ┌</>┐ ┌▦┐ →\n─── бежевая лента ───",
+    "background": "paper",
+    "density": "medium",
+    "motion": "marquee",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «Library of components»",
+        "note": "Идея: библиотека как лента иконок-образцов. Не копировать иконки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "horizontal-carousel",
+      "card-grid"
+    ],
+    "distinctive": "Лента-образцы; риск — условные иконки."
+  },
+  {
+    "id": "cntrl-templates-condensed-heading",
+    "role": "feature-grid",
+    "name": "Шаблоны: плотный сжатый заголовок и карточки скриншотов",
+    "family": "heading-plus-template-cards",
+    "composition": "Светлый блок с сжатым заголовком «Oh yes, we’ve got templates. A beautiful ones.» ≈40 px слева, рядом ряд карточек шаблонов с обрезкой по краю (имя автора в жирной подписи).",
+    "ascii": "Заголовок         ┌шаблон┐┌шабл…\nсжатый            │скрин ││скри…\n                  └──────┘└──",
+    "background": "paper",
+    "density": "medium",
+    "motion": "hover-reactive",
+    "imagery": "collage",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "devtools",
+      "marketplace",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «Oh yes, we’ve got templates»",
+        "note": "Идея: шаблоны как карточки скриншотов с обрезкой по краю. Не копировать скриншоты клиентов."
+      }
+    ],
+    "avoid_same_page_as": [
+      "horizontal-carousel",
+      "card-grid"
+    ],
+    "distinctive": "Обрезка по краю = «ещё есть»."
+  },
+  {
+    "id": "cntrl-try-now-slab",
+    "role": "cta",
+    "name": "Призыв «TRY NOW» на бежевой плите",
+    "family": "cta-slab",
+    "composition": "Крупная бежевая плита по ширине колонки с одной центральной надписью «TRY NOW» крупным светлым гротеском; без картинок.",
+    "ascii": "┌───────────────────┐\n│     TRY NOW       │\n└───────────────────┘",
+    "background": "paper",
+    "density": "low",
+    "motion": "hover-reactive",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «TRY NOW»",
+        "note": "Идея: один жест на плите. Не копировать надпись."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-form",
+      "cta-band-giant-button"
+    ],
+    "distinctive": "Минимализм; риск — слишком скромно."
+  },
+  {
+    "id": "cntrl-sticky-pricing-title",
+    "role": "pricing",
+    "name": "Тарифы с закреплённым заголовком секции",
+    "family": "sticky-heading-section",
+    "composition": "Секция тарифов, где заголовок «Pricing» закреплён сверху внутри секции, пока проезжают карточки.",
+    "ascii": "Pricing  (sticky)\n┌тариф┐┌тариф┐┌тариф┐",
+    "background": "light",
+    "density": "medium",
+    "motion": "scroll-pin",
+    "imagery": "none",
+    "needs": [
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "блок «Pricing» (по паспорту — pinned)",
+        "note": "Идея: заголовок секции закреплён внутри неё, пока идёт содержимое. Точное содержимое тарифов в паспорте не описано, не копировать."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pricing-tiers"
+    ],
+    "distinctive": "Закреплённый заголовок; риск — по паспорту мало данных."
+  },
+  {
+    "id": "cntrl-pixel-shader-footer",
+    "role": "footer",
+    "name": "Чёрный финал с пиксельными иконками-шейдером",
+    "family": "dark-shader-footer",
+    "composition": "Чёрный экран «Make Your Website Happen» с огромными дот-матричными иконками инструментов, слегка мерцающими (canvas-шейдер); над ним четыре колонки мелкого моно-текста.",
+    "ascii": "████████████████████\n▪▪▪ пиксели ▪▪▪ Make…\n колонка колонка колонка",
+    "background": "dark",
+    "density": "medium",
+    "motion": "autoplay-loop",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "devtools",
+      "B2B-saas",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "cntrl",
+        "where": "финальный блок «Make Your Website Happen»",
+        "note": "Идея: финал в стилистике шейдера/дот-матрицы по теме продукта. Не копировать иконки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "giant-wordmark-footer"
+    ],
+    "distinctive": "Дот-матрица; риск — только если тема про дизайн/код."
+  },
+  {
+    "id": "streamtime-cutout-wordmark-hero",
+    "role": "hero",
+    "name": "Hero: вордмарк из вырезанных букв и ряд бумажных фигур",
+    "family": "cutout-wordmark-hero",
+    "composition": "Белый фон: над вордмарком мелкий слоган, сам вордмарк собран из «вырезанных» букв разной высоты и наклона, под ним ряд фактурных фигур (круг, крест, звезда, треугольник…); по скроллу вордмарк превращается в чистый чёрный и остаётся сверху, снизу наезжает тёмный блок.",
+    "ascii": "слоган мелко\nS T R E A M T I M E (бумага)\n●  ✚  ✱  ▲  ◗  ⬤",
+    "background": "light",
+    "density": "low",
+    "motion": "scroll-scrub",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "illustration"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "hero STREAMTIME",
+        "note": "Идея: имя продукта — коллаж-вордмарк, превращающийся при скролле в чистый. Не копировать конкретные фигуры и ультражирный шрифт."
+      }
+    ],
+    "avoid_same_page_as": [
+      "type-hero",
+      "photo-hero"
+    ],
+    "distinctive": "Превращение при скролле; риск — вордмарк = логотип, нужна сильная лого-идея."
+  },
+  {
+    "id": "streamtime-collage-manifest-dark",
+    "role": "story",
+    "name": "Тёмный коллаж-манифест: фото людей и бумажные фигуры плывут с разной скоростью",
+    "family": "collage",
+    "composition": "Тёмно-коричневая секция: слева круглое и прямоугольные фото людей в студии, бумажные фигуры (квадрат ткани, звезда, восьмиугольник, крест); справа колонка манифеста «We get it, profit matters. But so do your people.»; всё слегка вращается и плывёт вверх.",
+    "ascii": "○фото ▨ткань    манифест\n  ▲   ▢фото    колонка\n ⬤  ✚  ✱        текста",
+    "background": "dark",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "illustration"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «We get it, profit matters…»",
+        "note": "Идея: человеческий манифест вместо списка фич, окружённый живыми кадрами. Не копировать фигуры и тексты. Параллакс полноэкранных фото запрещён, здесь — небольшие вырезы."
+      }
+    ],
+    "avoid_same_page_as": [
+      "collage-sticker-media",
+      "sticky-visual-text-left"
+    ],
+    "distinctive": "Фото людей без «улыбок в камеру»; риск — тяжёлая композиция."
+  },
+  {
+    "id": "streamtime-wide-screens-tabs-wave",
+    "role": "mechanism",
+    "name": "Широкие экраны продукта в ряд и пять вкладок с рукописной волной",
+    "family": "tabs-plus-panel",
+    "composition": "Бежевый фон: ряд широких скриншотов интерфейса (To Do, отчёты) обрезается краем; под ними 5 подписей-сценариев, у активной жёлтая рукописная «волна» над текстом.",
+    "ascii": "┌экран 1───┐┌экран 2───┐┌…\n└──────────┘└──────────┘\n▔~~ активная  ·  ·  ·  ·",
+    "background": "paper",
+    "density": "medium",
+    "motion": "autoplay-loop",
+    "imagery": "ui-code",
+    "needs": [
+      "device-frame"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «Streamtime every step of the way»",
+        "note": "Идея: вкладки-сценарии с ручным акцентом над активной. Не копировать жёлтую волну и скриншоты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "list-plus-window",
+      "steps-tabs-window"
+    ],
+    "distinctive": "Рукописная метка вместо подчёркивания; риск — обычный tabs-and-screens."
+  },
+  {
+    "id": "streamtime-pink-cta-giant-button",
+    "role": "cta",
+    "name": "Розовая полоса: «Ready to work well?» и огромная кнопка",
+    "family": "cta-band-giant-button",
+    "composition": "Яркая розовая полоса на всю ширину: слева заголовок ≈64 px, справа очень крупная чёрная овальная кнопка Sign up.",
+    "ascii": "┌ЯРКАЯ ПОЛОСА──────────┐\n│ Заголовок  (Sign up) │\n└──────────────────────┘",
+    "background": "color-field",
+    "density": "low",
+    "motion": "hover-reactive",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «Ready to work well?»",
+        "note": "Идея: единственный CTA как яркая полоса с гигантской кнопкой посреди страницы. Не копировать неоновый розовый."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-slab",
+      "cta-form"
+    ],
+    "distinctive": "Кнопка как вторая половина заголовка."
+  },
+  {
+    "id": "streamtime-audience-photo-trio",
+    "role": "feature-grid",
+    "name": "Три аудитории: три фото в ряд с подписями",
+    "family": "photo-trio-row",
+    "composition": "Слева заголовок и подзаголовок, справа три вертикальных фото (агентства, внутренние команды, архитекторы) с названиями под каждым.",
+    "ascii": "Заголовок   ┌фото┐┌фото┐┌фото┐\nподзаг.     │    ││    ││    │\n            Агенс. Внутр. Архит.",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "photo-people",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «Designed for creative businesses…»",
+        "note": "Идея: сегменты через живые кадры. Не копировать фото. Для нас — фото обязано объяснять сценарий."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "split-screen"
+    ],
+    "distinctive": "Документальные кадры; риск — сток-подобные."
+  },
+  {
+    "id": "streamtime-tilted-testimonials",
+    "role": "proof-social",
+    "name": "Наклонённые цветные карточки отзывов вразброс",
+    "family": "tilted-cards-scatter",
+    "composition": "Бежевый фон: 4 карточки цитат разных цветов (серо-бежевая, белая, жёлтая с наклоном ≈−15°, лаймовая) со смещением по горизонтали, у каждой кружок-аватар и имя.",
+    "ascii": "  ┌цитата────┐\n     ┌цитата───┐\n┌╲цитата жёлт╲┐\n   ┌цитата────┐",
+    "background": "paper",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок отзывов",
+        "note": "Идея: отзывы как разноцветные листочки с наклоном. Не копировать цвета."
+      }
+    ],
+    "avoid_same_page_as": [
+      "stacked-cards",
+      "testimonial-cards"
+    ],
+    "distinctive": "Статичный наклон, без анимации."
+  },
+  {
+    "id": "streamtime-logo-marquee-dark",
+    "role": "proof-social",
+    "name": "Тёмная полоса с логотипами клиентов бегущей строкой",
+    "family": "marquee-strip",
+    "composition": "Тёмная полоса с заголовком «Who’s already using…», ниже строка крупных белых логотипов клиентов, бесконечно ползёт (≈40 с).",
+    "ascii": "Who is already using…\n[лого] [лого] [лого] ▸",
+    "background": "dark",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "none",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «Who’s already using Streamtime?»",
+        "note": "Идея: доказательство через логотипы одной строкой. Не копировать клиентов."
+      }
+    ],
+    "avoid_same_page_as": [
+      "ticker-yellow-benefits"
+    ],
+    "distinctive": "Обычный приём."
+  },
+  {
+    "id": "streamtime-blog-cards-colored",
+    "role": "story",
+    "name": "Четыре цветные карточки блога с ч/б фото и наклейками",
+    "family": "card-grid-sticker-photos",
+    "composition": "Заголовок «Sharing is caring…», ниже 4 квадратные карточки на ярких фонах: ч/б фото с цветными наклейками-фигурами и подписью автора.",
+    "ascii": "Заголовок\n┌жёлт┐┌ч/б ┐┌синий┐┌сер.┐\n│ фото││фото││фото │фото│",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "hover-reactive",
+    "imagery": "collage",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "блок «Sharing is caring»",
+        "note": "Идея: блог как коллекция плиток в едином коллажном языке. Не копировать цвета и наклейки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "bento"
+    ],
+    "distinctive": "Ч/б фото + цветная наклейка."
+  },
+  {
+    "id": "streamtime-office-clocks-footer",
+    "role": "footer",
+    "name": "Футер с живыми часами офисов по городам и вордмарком",
+    "family": "giant-wordmark-footer",
+    "composition": "Футер с колонками ссылок и блоком «время в городах» (Нью-Йорк, Оттава, Лондон, Париж, Сидней…) со строками «город — часы:минуты»; внизу вордмарк.",
+    "ascii": "колонки ссылок  | Город 04:21\n                 | Город 09:21\n STREAMTIME (вордмарк)",
+    "background": "light",
+    "density": "medium",
+    "motion": "counter",
+    "imagery": "type-only",
+    "needs": [
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "футер",
+        "note": "Идея: «мы живые, распределённые» через часы офисов. Не копировать города."
+      }
+    ],
+    "avoid_same_page_as": [
+      "dark-gradient-footer"
+    ],
+    "distinctive": "Живые часы; риск — только если есть реальные офисы."
+  },
+  {
+    "id": "streamtime-pill-nav-header",
+    "role": "cta",
+    "name": "Шапка-пилюли: меню слева и три плашки справа",
+    "family": "pill-nav-header",
+    "composition": "Sticky-шапка из плашек: слева «Menu» (чёрная плашка), справа Log in, жёлтая Book a demo, Sign up.",
+    "ascii": "[Menu]           [Log in][Book a demo][Sign up]",
+    "background": "light",
+    "density": "low",
+    "motion": "static",
+    "imagery": "ui-code",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "consumer",
+      "service",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "streamtime",
+        "where": "шапка",
+        "note": "Идея: навигация как набор «леденцов». Не копировать цвета."
+      }
+    ],
+    "avoid_same_page_as": [
+      "floating-pill-nav"
+    ],
+    "distinctive": "Плашки-пилюли; риск — слабый акцент."
+  },
+  {
+    "id": "mainstays-photo-hero-heading",
+    "role": "hero",
+    "name": "Hero: фото накрытого стола на весь экран и заголовок поверх",
+    "family": "photo-hero",
+    "composition": "Полноэкранное насыщенное фото стола с продуктом, заголовок крупным ретро-сериф белым слева, шапка прозрачная.",
+    "ascii": "┌▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┐\n│▓ Заголовок  ▓▓▓▓│\n│▓▓▓▓▓фото▓▓▓▓▓▓▓│\n└▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓┘",
+    "background": "photo",
+    "density": "low",
+    "motion": "static",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "hero «Your pantry’s new main character»",
+        "note": "Идея: продукт среди живого застолья. Не копировать банки и ретро-сериф. Для нашего пайплайна фото должно объяснять продукт."
+      }
+    ],
+    "avoid_same_page_as": [
+      "video-hero",
+      "type-hero"
+    ],
+    "distinctive": "Фуд-фото; риск — в SaaS нет предметного героя."
+  },
+  {
+    "id": "mainstays-benefits-ticker",
+    "role": "launch",
+    "name": "Жёлтая бегущая строка преимуществ со звёздочками",
+    "family": "marquee-strip",
+    "composition": "Горчично-жёлтая полоса сразу под hero: моно-капс «Crafted with care ★ Jam-packed with flavour ★ …», бесконечно ползёт (≈47 с).",
+    "ascii": "▸ плюс ★ плюс ★ плюс ★ плюс ▸",
+    "background": "color-field",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "consumer",
+      "B2B-saas",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "полоса под hero",
+        "note": "Идея: преимущества одной строкой-разделителем. Не копировать формулировки."
+      }
+    ],
+    "avoid_same_page_as": [
+      "announce-marquee"
+    ],
+    "distinctive": "Шумный разделитель."
+  },
+  {
+    "id": "mainstays-jar-center-carousel",
+    "role": "feature-grid",
+    "name": "Карусель продукта: центральный крупный, соседние меньше",
+    "family": "center-focus-carousel",
+    "composition": "Центральная банка крупнее, соседние — меньше и обрезаны краем; вокруг центральной рисованные ингредиенты; под ней название, слоган, кнопка и стрелки; цвет подписи меняется под продукт.",
+    "ascii": "┌малый┐┌ КРУПНЫЙ ┐┌малый┐\n└─────┘└──────────┘└─────┘\n  название  [кнопка] ◀ ▶",
+    "background": "paper",
+    "density": "medium",
+    "motion": "autoplay-loop",
+    "imagery": "photo-objects",
+    "needs": [
+      "photo",
+      "illustration"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Not so average pantry staples…»",
+        "note": "Идея: линейка продукта с одним героем в фокусе. Не копировать банки. Для SaaS — карусель режимов/тарифов."
+      }
+    ],
+    "avoid_same_page_as": [
+      "horizontal-carousel",
+      "card-grid"
+    ],
+    "distinctive": "Масштаб активного слайда + рисованные акценты."
+  },
+  {
+    "id": "mainstays-red-wave-collage",
+    "role": "story",
+    "name": "Красная секция с волнистыми краями и наклонным коллажом фото",
+    "family": "split-screen",
+    "composition": "Красная секция с волной сверху и снизу: слева заголовок и кнопка, справа два наклонных фото-карточки; из-за фото выглядывает рисованная рука-иллюстрация.",
+    "ascii": "≈≈≈≈≈≈≈≈ красный ≈≈≈≈≈≈≈≈\n Заголовок   ┌фото╲┐\n [кнопка]  ┌фото┐ ✋\n≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "illustration"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Everyone’s welcome at our table»",
+        "note": "Идея: рисованный жест выходит за край фото, говоря «угощаем». Не копировать красно-кремовое и руки в полосатых рукавах."
+      }
+    ],
+    "avoid_same_page_as": [
+      "collage-paper-photo",
+      "split-screen-text-image"
+    ],
+    "distinctive": "Иллюстрация и фото в одном кадре; риск — легко скатиться в «детскость»."
+  },
+  {
+    "id": "mainstays-recipe-circles-orbit",
+    "role": "feature-grid",
+    "name": "Круглые фото вокруг центрального заголовка с подписями по дуге",
+    "family": "orbit-circles",
+    "composition": "Центральный заголовок и кнопка, вокруг круглые фото блюд с названиями по дуге, у краёв рисованные руки с бокалом и подносом; фото слегка смещаются при скролле.",
+    "ascii": "  ◯фото   ЗАГОЛОВОК\n          [кнопка]   ◯\n   ◯ подпись по дуге",
+    "background": "paper",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "illustration"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Meals that’ll make you look good»",
+        "note": "Идея: примеры результата — круглые «блюда» вокруг центрального призыва. Не копировать рецепты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "collage",
+      "bento"
+    ],
+    "distinctive": "Круги + текст по дуге; риск — декоративность."
+  },
+  {
+    "id": "mainstays-review-carousel-active",
+    "role": "proof-social",
+    "name": "Карусель цветных отзывов с банкой-стикером на активной карточке",
+    "family": "card-carousel-active",
+    "composition": "Горизонтальная лента карточек отзывов (красные и одна синяя активная, увеличенная); на активную «прыгает» банка-стикер; цвета карточек сменяются.",
+    "ascii": "┌крас┐ ┌ СИНЯЯ ──┐ ┌крас┐\n│ …  │ │ цитата ★ │ │ …  │\n└────┘ └──────────┘ └────┘",
+    "background": "color-field",
+    "density": "medium",
+    "motion": "autoplay-loop",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Spread the word»",
+        "note": "Идея: отзывы с сильной сменой активной карточки. Не копировать цвета."
+      }
+    ],
+    "avoid_same_page_as": [
+      "tilted-cards-scatter",
+      "testimonial-cards"
+    ],
+    "distinctive": "Увеличенная активная карточка."
+  },
+  {
+    "id": "mainstays-store-logos-marquee",
+    "role": "proof-social",
+    "name": "Бегущая строка логотипов магазинов",
+    "family": "marquee-strip",
+    "composition": "Светлая полоса с цветными логотипами сетей, ползущая бесконечно (≈27 с).",
+    "ascii": "[лого] [лого] [лого] [лого] ▸",
+    "background": "light",
+    "density": "low",
+    "motion": "marquee",
+    "imagery": "none",
+    "needs": [],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок логотипов магазинов",
+        "note": "Идея: где купить. Не копировать логотипы."
+      }
+    ],
+    "avoid_same_page_as": [
+      "logo-marquee-dark"
+    ],
+    "distinctive": "Обычный приём."
+  },
+  {
+    "id": "mainstays-map-dots-brown",
+    "role": "data-viz",
+    "name": "Карта страны с красными точками на коричневом",
+    "family": "map-split",
+    "composition": "Тёмно-коричневый фон, слева заголовок и кнопка «найти магазин», справа большая карта страны белым с красными метками-точками.",
+    "ascii": "┌ Заголовок   ▓▓карта▓▓ ┐\n│ [кнопка]   ▓ ● ● ▓▓▓  │\n└─────────────────────┘",
+    "background": "dark",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "chart",
+    "needs": [
+      "chart"
+    ],
+    "fits": [
+      "marketplace",
+      "service",
+      "consumer",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Find the Mainstays near you»",
+        "note": "Идея: география присутствия как карта с точками. Не копировать форму страны."
+      }
+    ],
+    "avoid_same_page_as": [
+      "full-bleed-chart"
+    ],
+    "distinctive": "Карта как графика."
+  },
+  {
+    "id": "mainstays-sticky-photo-ribbon",
+    "role": "story",
+    "name": "Закреплённая лента наклонённых фото из соцсети",
+    "family": "horizontal-pin-ribbon",
+    "composition": "Секция закреплена (sticky), пока при вертикальной прокрутке лента наклонённых Instagram-фото едет горизонтально; сверху заголовок и ярлык аккаунта.",
+    "ascii": "Заголовок [@аккаунт]\n╱фото╲ ╱фото╲ ╱фото╲ ───►\n  (pin по Y, лента по X)",
+    "background": "light",
+    "density": "medium",
+    "motion": "scroll-pin",
+    "imagery": "photo-people",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "блок «Mainstays in the wild»",
+        "note": "Идея: пользовательский контент лентой, которая едет сама. Не копировать фото. Прокрутку привязывать только к простому (правило CLAUDE.md)."
+      }
+    ],
+    "avoid_same_page_as": [
+      "marquee-strip",
+      "collage"
+    ],
+    "distinctive": "Горизонтальная лента на вертикальном скролле."
+  },
+  {
+    "id": "mainstays-lettering-pattern-finale",
+    "role": "cta",
+    "name": "Финал: огромный леттеринг и интерактивные рисованные обои под курсором",
+    "family": "interactive-pattern-footer",
+    "composition": "Внизу гигантский леттеринг «Main course materials» с обводкой; ниже весь экран заполнен рисованными предметами застолья; за курсором тянется рисованная рука, предметы при касании наполняются цветом.",
+    "ascii": "Леттеринг гигант\n🍷 ⚱ 🍴 ◯ 🕯 🧀\n(рука за курсором)",
+    "background": "paper",
+    "density": "high",
+    "motion": "hover-reactive",
+    "imagery": "illustration",
+    "needs": [
+      "illustration"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "mainstays",
+        "where": "финал «Main course materials»",
+        "note": "Идея: финал-игра на основе рисованных предметов мира продукта. Не копировать рисунки и ретро-леттеринг."
+      }
+    ],
+    "avoid_same_page_as": [
+      "giant-wordmark-footer",
+      "dark-shader-footer"
+    ],
+    "distinctive": "Интерактивные обои; риск — только если есть иллюстратор."
+  },
+  {
+    "id": "trevornoah-opened-head-sticker-hero",
+    "role": "hero",
+    "name": "Hero: огромное имя и голова-стикер с вылетающими предметами",
+    "family": "sticker-cutout-hero",
+    "composition": "Тёмно-синий фон: имя розовым на всю ширину, поверх лицо-стикер с «открытой» головой, из которой вылетают 3D-предметы (микрофон, книга, экран); у курсора появляется плашка раздела; кнопки справа, плашка «Latest» слева.",
+    "ascii": "┌ Т Р Е В О Р  Н О А ┐\n│    ◉лицо◉ + предметы │\n│[Latest]     [≡][билеты]│",
+    "background": "dark",
+    "density": "medium",
+    "motion": "hover-reactive",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "hero «Trevor Noah»",
+        "note": "Идея: содержимое жизни/продукта вылетает из «источника» и работает как навигация. Не копировать лицо, голову-банку и палитру; персонажа генерируем свой."
+      }
+    ],
+    "avoid_same_page_as": [
+      "type-hero",
+      "photo-hero"
+    ],
+    "distinctive": "Глаза за курсором, предметы-навигация; риск — нужен персонаж."
+  },
+  {
+    "id": "trevornoah-peel-reveal-manifest",
+    "role": "manifesto",
+    "name": "Манифест, открывающийся «отклеиванием» стикера",
+    "family": "text-manifesto",
+    "composition": "При скролле лицо-стикер поднимается, меняет выражение, его край загибается как наклейка (WebGL peel) и открывает центрированный манифест; ключевое слово в строке розовое.",
+    "ascii": "┌ стикер-лицо ╮\n└──╯ отклеивается\n   Манифест с  *ключевым*",
+    "background": "dark",
+    "density": "low",
+    "motion": "scroll-scrub",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "манифест «Finding the extraordinary in the ordinary»",
+        "note": "Идея: переход «обложка → смысл» через физический жест (peel). Не копировать лицо и фразу."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large",
+      "photo-manifest-expand"
+    ],
+    "distinctive": "Peel-эффект; риск — WebGL."
+  },
+  {
+    "id": "trevornoah-media-scatter-cards",
+    "role": "feature-grid",
+    "name": "Двухстрочный ярлык и разбросанные наклонные карточки с загнутым уголком",
+    "family": "collage",
+    "composition": "Центрированный ярлык «Media / On The Screen» (белое + розовое), вокруг объекта-экрана с Play разлетаются наклонные фото-карточки с загнутым уголком, микрофон и кружка; всё «пружинит» при входе.",
+    "ascii": "  Media\n  On The Screen\n ◇карт  ▶экран  ◇карт\n   ◇карт   ◇карт",
+    "background": "dark",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "блок «Media»",
+        "note": "Идея: контент-превью как разлетающиеся карточки вокруг центрального объекта. Не копировать фото выступлений."
+      }
+    ],
+    "avoid_same_page_as": [
+      "collage-paper-photo",
+      "collage"
+    ],
+    "distinctive": "Пружинные появления с overshoot."
+  },
+  {
+    "id": "trevornoah-sticker-hand-holds-heading",
+    "role": "story",
+    "name": "Портрет-стикер и рука-стикер, «держащая» заголовок",
+    "family": "sticker-portrait-statement",
+    "composition": "Тёмно-графитовый фон: над заголовком голова-стикер с речевым пузырём «What now?», вокруг выскакивают мозг и облако; крупный заголовок «A curious human…», под ним рука-стикер «держит» строку и уезжает с ней; ниже абзац и кнопка.",
+    "ascii": "   ◉лицо [пузырь]\n ЗАГОЛОВОК (рука держит)\n  Имя   абзац  [Read More]",
+    "background": "dark",
+    "density": "medium",
+    "motion": "parallax-layers",
+    "imagery": "collage",
+    "needs": [
+      "photo",
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "блок «About / This Guy»",
+        "note": "Идея: персонаж и его «жест» взаимодействуют с текстом, а не просто рядом. Не копировать лицо и руку."
+      }
+    ],
+    "avoid_same_page_as": [
+      "sticker-cutout-hero",
+      "sticky-visual-text-left"
+    ],
+    "distinctive": "Рука-стикер как часть композиции."
+  },
+  {
+    "id": "trevornoah-latest-feed-table",
+    "role": "story",
+    "name": "Лента новостей-таблица: дата, событие, описание",
+    "family": "data-table-rows",
+    "composition": "Тёмно-серый фон, двухстрочный ярлык «Latest / Where’s Trevor?», ниже линейчатая таблица: розовая дата, название события, пояснение; строки разделены линиями.",
+    "ascii": "Latest\nWhere’s ...\n11 Jun | Событие | Описание\n14 Apr | Событие | Описание\n01 Feb | Событие | Описание",
+    "background": "dark",
+    "density": "medium",
+    "motion": "reveal-words",
+    "imagery": "type-only",
+    "needs": [
+      "long-text"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "блок «Latest»",
+        "note": "Идея: хроника как строгий список с цветными датами. Не копировать содержание."
+      }
+    ],
+    "avoid_same_page_as": [
+      "list-plus-window",
+      "comparison-table"
+    ],
+    "distinctive": "Спокойный текстовый блок между яркими."
+  },
+  {
+    "id": "trevornoah-rotating-quote",
+    "role": "manifesto",
+    "name": "Центральная цитата с прыгающими кавычками и сменой цитат",
+    "family": "centered-quote",
+    "composition": "Синий фон: большая цитата по центру построчно из-под маски, розовые кавычки «прыгают», ключевые слова розовым; ниже подпись источника; цитаты сменяются; рядом реагирующий на курсор стикер.",
+    "ascii": "  “ ” \n Цитата в три строки\n с *ключом*\n  подпись источника",
+    "background": "color-field",
+    "density": "low",
+    "motion": "reveal-words",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "consumer",
+      "service",
+      "B2B-saas"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "блок цитаты «In life only three things are certain…»",
+        "note": "Идея: цитата как манифест со сменой. Не копировать цитату."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large"
+    ],
+    "distinctive": "Построчное раскрытие из-под маски."
+  },
+  {
+    "id": "trevornoah-books-fan",
+    "role": "feature-grid",
+    "name": "Книги веером с вылетающими предметами",
+    "family": "object-fan",
+    "composition": "Ярлык «Books / On The Page», по центру веер книг, вокруг облако, лист, кубик, всё покачивается; кнопка «Explore More» розовеет при наведении.",
+    "ascii": "Books\nOn The Page\n  ╱книга╲ ╱книга╲\n   ☁   ◇   [Explore More]",
+    "background": "dark",
+    "density": "low",
+    "motion": "hover-reactive",
+    "imagery": "3d",
+    "needs": [
+      "3d"
+    ],
+    "fits": [
+      "consumer",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "блок «Books»",
+        "note": "Идея: линейка продуктов веером, слегка парящая. Не копировать книги."
+      }
+    ],
+    "avoid_same_page_as": [
+      "card-grid",
+      "center-focus-carousel"
+    ],
+    "distinctive": "Веер объектов."
+  },
+  {
+    "id": "trevornoah-menu-list-sticker",
+    "role": "cta",
+    "name": "Финальное меню-список 01–05 с обложкой при наведении и стикером-лицом снизу",
+    "family": "index-menu-list",
+    "composition": "Крупные пункты меню 01 Shows … 05 Store въезжают справа; слева снизу выглядывает голова-стикер со взглядом и репликой «Leaving so soon?»; при наведении на пункт он розовеет, рядом выпрыгивает обложка.",
+    "ascii": "◉лицо            01 Shows\n(пузырь)         02 Watch\n                 03 Books ◇\n                 04 About / 05 Store",
+    "background": "dark",
+    "density": "medium",
+    "motion": "hover-reactive",
+    "imagery": "collage",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "consumer",
+      "service",
+      "marketplace"
+    ],
+    "donors": [
+      {
+        "ref": "trevornoah",
+        "where": "финальное меню",
+        "note": "Идея: финал-навигация как крупный индекс с живой реакцией. Не копировать пункты."
+      }
+    ],
+    "avoid_same_page_as": [
+      "footer-columns",
+      "cta-form"
+    ],
+    "distinctive": "Стикер-персонаж «подглядывает»."
+  },
+  {
+    "id": "holdi-focus-hero-scene-pull",
+    "role": "hero",
+    "name": "Hero-сцена: документальное фото слоями с переводом фокуса",
+    "family": "photo-hero",
+    "composition": "Секция закреплена на 0,45 экрана: фото из слоёв (фон, человек, ноутбук); при скролле резкость уходит с ноутбука (blur до 7 px) на руки (из 6 px в резкость), коралловые уголки «фокус пойман» переезжают.",
+    "ascii": "┌ фото слоями ───────┐\n│ ◜руки◝  [ноут blur] │\n│ заголовок           │",
+    "background": "photo",
+    "density": "low",
+    "motion": "scroll-pin",
+    "imagery": "photo-people",
+    "needs": [
+      "photo"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "hero-scene",
+        "note": "Идея: оптика (фокус) как метафора продукта. Не копировать свечу/воск и сцену мастерской."
+      }
+    ],
+    "avoid_same_page_as": [
+      "type-hero",
+      "video-hero"
+    ],
+    "distinctive": "Перевод фокуса; опора на паспорт (скриншотов нет)."
+  },
+  {
+    "id": "holdi-focus-statement",
+    "role": "manifesto",
+    "name": "Утверждение-манифест после hero",
+    "family": "text-manifesto",
+    "composition": "Короткое крупное утверждение с левой опорой (Onest 800, трекинг −0,045 em) между hero и продуктом; детали вёрстки в паспорте не расписаны.",
+    "ascii": "Крупное утверждение\nв 2–3 строки",
+    "background": "light",
+    "density": "low",
+    "motion": "reveal-words",
+    "imagery": "type-only",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "statement",
+        "note": "Идея: смысловая пауза текстом. Не копировать шрифт и формулировки; детали вёрстки в паспорте неизвестны."
+      }
+    ],
+    "avoid_same_page_as": [
+      "text-manifesto-large"
+    ],
+    "distinctive": "Тихая типографика."
+  },
+  {
+    "id": "holdi-focus-transcript-assembly",
+    "role": "mechanism",
+    "name": "Сборка расшифровки: реплики летят в строки (pin 5,2 экрана)",
+    "family": "pinned-scroll-story",
+    "composition": "Закреплённая сцена: реплики из хаоса летят и встают в строки расшифровки; кульминация страницы.",
+    "ascii": "┌ pin 5,2 экрана ┐\n реплики ⇒ строки\n расшифровка собирается",
+    "background": "light",
+    "density": "high",
+    "motion": "scroll-pin",
+    "imagery": "ui-code",
+    "needs": [
+      "chart"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "service"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "transcript-assembly (КУЛЬМИНАЦИЯ)",
+        "note": "Идея: хаос → порядок в закреплённой сцене. Не копировать диалог и тематику встреч; детали по паспорту."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pinned-scroll-story-text"
+    ],
+    "distinctive": "Реплики «летят в строки»."
+  },
+  {
+    "id": "holdi-focus-product-tour-pin",
+    "role": "process",
+    "name": "Тур по продукту: 7 состояний в одной закреплённой сцене (pin 10,5 экрана)",
+    "family": "pinned-scroll-story",
+    "composition": "Одна закреплённая сцена на 10,5 экрана, внутри которой интерфейс продукта меняет семь состояний; крупный план без устройств.",
+    "ascii": "┌ pin 10,5 экрана ┐\n состояние 1…7\n интерфейс крупно",
+    "background": "light",
+    "density": "high",
+    "motion": "scroll-pin",
+    "imagery": "ui-code",
+    "needs": [
+      "device-frame"
+    ],
+    "fits": [
+      "B2B-saas",
+      "devtools"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "тур по продукту",
+        "note": "Идея: демонстрация как длинная сцена с номерами состояний. Не копировать состав шагов; по CLAUDE.md автоанимации лучше, чем привязка к скроллу."
+      }
+    ],
+    "avoid_same_page_as": [
+      "steps-rail-window",
+      "tabs-plus-panel"
+    ],
+    "distinctive": "Длинная прокрутка; риск — усталость."
+  },
+  {
+    "id": "holdi-focus-pricing-faq",
+    "role": "pricing",
+    "name": "Цены и FAQ в одном блоке",
+    "family": "card-grid",
+    "composition": "Секция тарифов и вопросов; детали вёрстки в паспорте не описаны.",
+    "ascii": "[тариф][тариф][тариф]\nвопросы",
+    "background": "light",
+    "density": "medium",
+    "motion": "static",
+    "imagery": "none",
+    "needs": [
+      "numbers"
+    ],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "цены + FAQ",
+        "note": "Идея: тарифы рядом с ответами на возражения. По CLAUDE.md FAQ-аккордеон не используем. Деталей композиции в паспорте нет."
+      }
+    ],
+    "avoid_same_page_as": [
+      "pricing-tiers"
+    ],
+    "distinctive": "Не описан подробно.",
+    "risky": true
+  },
+  {
+    "id": "holdi-focus-form-cta",
+    "role": "cta",
+    "name": "Форма и финал",
+    "family": "cta-form",
+    "composition": "Форма заявки и финальный экран; детали вёрстки в паспорте не описаны.",
+    "ascii": "[имя][почта]\n[отправить]",
+    "background": "light",
+    "density": "low",
+    "motion": "static",
+    "imagery": "none",
+    "needs": [],
+    "fits": [
+      "B2B-saas",
+      "service",
+      "consumer"
+    ],
+    "donors": [
+      {
+        "ref": "holdi-focus",
+        "where": "форма + финал",
+        "note": "Идея: заявка вместо кнопки-заглушки. Деталей композиции в паспорте нет."
+      }
+    ],
+    "avoid_same_page_as": [
+      "cta-band-giant-button"
+    ],
+    "distinctive": "Не описан подробно."
+  }
+]

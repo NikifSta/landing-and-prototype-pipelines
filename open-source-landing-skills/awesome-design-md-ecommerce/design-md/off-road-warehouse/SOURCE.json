@@ -1,0 +1,788 @@
+{
+  "source_url": "https://offroadwarehouse.com",
+  "final_url": "https://www.offroadwarehouse.com/",
+  "captured_at": "2026-09-28T10:19:38.129615+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://offroadwarehouse.com",
+      "final_url": "https://www.offroadwarehouse.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "final_url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css",
+      "final_url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "627cce21b5ab47f8b2e99b32cf847bafc7b11a4931a85183f118727ee445e788",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 53,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 130,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#ed1c24": {
+      "count": 1,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 1,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 235,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#fae703": {
+      "count": 1,
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "#2563eb": {
+      "count": 18,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 39,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 15,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "#111827": {
+      "count": 7,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "#374151": {
+      "count": 4,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Roboto": [
+      "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+    ],
+    "Barlow": [
+      "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+    ],
+    "sans-serif": [
+      "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+    ],
+    "Arial": [
+      "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": ".btn.btn-tocart",
+      "declarations": "background: var(--primary);\r\n        border-color: var(--primary);\r\n        color: #fff;"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": "body",
+      "declarations": "--primary: #ed1c24;\n                --secondary: #e7e7e7;\n                --tertiary: #000;"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": "#html-body [data-pb-style=FJHIRGA]",
+      "declarations": "justify-content:flex-start;display:flex;flex-direction:column;background-color:#000"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": "#html-body [data-pb-style=E361GLT]",
+      "declarations": "justify-content:center;display:flex;flex-direction:column;background-color:#000"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": ":root",
+      "declarations": "--ambar-sidebar-group-title-text: #3D3839;\n        --ambar-sidebar-group-description-text: #000000;\n        --ambar-sidebar-toggle-active-color: #F50028;\n        --ambar-sidebar-toggle-inactive-color: #D2D2D2;"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/",
+      "selector": ":root",
+      "declarations": "--amlabel-margin-between: 10px;"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color: var(--tw-prose-headings); font-weight: 800; font-size: 2.25em; margin-top: 0; margin-bottom: .8888889em; line-height: 1.1111111"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "font-weight: 900; color: inherit"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color: inherit"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width: 1px; border-bottom-color: var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".btn",
+      "declarations": "--btn-stroke: #0000; --btn-bg: #6b7280; --btn-color: #fff; --btn-border: #6b7280; display: flex; -webkit-user-select: none; user-select: none; align-items: center; justify-content: center; text-transform: uppercase"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "d:hover,div.pagebuilder-button-primary:disabled,div.pagebuilder-button-primary:disabled:hover,div.pagebuilder-button-secondary:disabled,div.pagebuilder-button-s",
+      "declarations": "--tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".action.secondary,.btn-secondary",
+      "declarations": "--btn-bg: #0000; --btn-color: var(--primary); --btn-border: var(--primary); --btn-hover-color: #fff; --btn-active-color: #fff; --btn-active-stroke: #fff; --btn-hover-border: var(--primary); --btn-hover-bg: var(--primary); --btn-active-bg: var(--primary)"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".btn-tocart",
+      "declarations": "--btn-bg: var(--secondary); --btn-color: #000; --btn-border: var(--secondary); --btn-hover-color: #fff; --btn-active-stroke: #fff; --btn-active-color: #fff; --btn-hover-border: #000; --btn-hover-bg: #000; --btn-active-bg: #000; padding-top: .375rem; padding-bottom: .375rem"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".group:hover .group-hover\\:scale-125,.group:hover .product-item .product-image-photo",
+      "declarations": "--tw-scale-x: 1.25; --tw-scale-y: 1.25"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".product-item:hover .btn-tocart",
+      "declarations": "--tw-border-opacity: 1; border-color: rgb(0 0 0/var(--tw-border-opacity, 1)); --tw-bg-opacity: 1; background-color: rgb(0 0 0/var(--tw-bg-opacity, 1)); --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".h1,h1",
+      "declarations": "margin-bottom: 1.25rem; font-family: Barlow, sans-serif; font-size: 1.75rem; font-weight: 700; line-height: 1.75rem"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "a.pagebuilder-button-primary,button.pagebuilder-button-primary,div.pagebuilder-button-primary",
+      "declarations": "--btn-stroke: #0000; --btn-bg: #6b7280; --btn-border: #6b7280; display: flex; min-width: 7rem; cursor: pointer; -webkit-user-select: none; user-select: none; align-items: center; justify-content: center; gap: .375rem; border-width: 1px; padding: .75rem; vertical-align: middle; font-weight: 500; text-transform: uppercase; line-height: 1; transition-property: all; transition-timing-function: cubic-bezier(.4, 0, .2, 1); transition-duration: .3s; border-color: var(--btn-border); background-color: var(--btn-bg); color: var(--btn-color); --btn-bg: var(--primary); --btn-color: #fff; --btn-border: var(--primary); --btn-hover-color: #fff; --btn-active-stroke: #fff; --btn-active-color: #fff; --btn-hov"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "over,a.pagebuilder-button-secondary:hover,button.pagebuilder-button-primary:hover,button.pagebuilder-button-secondary:hover,div.pagebuilder-button-primary:hover",
+      "declarations": "border-color: var(--btn-hover-border, var(--btn-stroke)); background-color: var(--btn-hover-bg, var(--btn-bg)); color: var(--btn-hover-color, var(--btn-color))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "ive,button.pagebuilder-button-secondary:focus,div.pagebuilder-button-primary:active,div.pagebuilder-button-primary:focus,div.pagebuilder-button-secondary:active",
+      "declarations": "border-color: var(--btn-active-border, var(--btn-stroke)); background-color: var(--btn-active-bg, var(--btn-bg)); color: var(--btn-active-color, var(--btn-color))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "der-button-secondary:disabled,button.pagebuilder-button-primary:disabled,button.pagebuilder-button-secondary:disabled,div.pagebuilder-button-primary:disabled,di",
+      "declarations": "cursor: not-allowed; opacity: .7; border-color: var(--btn-disabled-stroke, #e5e7eb); background-color: var(--btn-disabled-bg, #fff); color: var(--btn-disabled-color, #4b5563)"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".pagebuilder-button-primary:focus,a.btn-primary:focus,a.hero-banner .banner-content a:focus,a.hero-banner .pagebuilder-slide-wrapper [data-element=content] a:fo",
+      "declarations": "color: var(--btn-active-color, var(--btn-color))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "a.pagebuilder-button-secondary,button.pagebuilder-button-secondary,div.pagebuilder-button-secondary",
+      "declarations": "--btn-stroke: #0000; --btn-bg: #6b7280; --btn-color: #fff; --btn-border: #6b7280; display: flex; min-width: 7rem; cursor: pointer; -webkit-user-select: none; user-select: none; align-items: center; justify-content: center; gap: .375rem; border-width: 1px; padding: .75rem; vertical-align: middle; font-weight: 500; text-transform: uppercase; line-height: 1; transition-property: all; transition-timing-function: cubic-bezier(.4, 0, .2, 1); transition-duration: .3s; border-color: var(--btn-border); background-color: var(--btn-bg); color: var(--btn-color); --btn-bg: #0000; --btn-color: var(--primary); --btn-border: var(--primary); --btn-hover-color: #fff; --btn-active-color: #fff; --btn-active-str"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "[data-content-type=slider] a.button",
+      "declarations": "color: initial; padding: 10px; -webkit-text-decoration: none; text-decoration: none"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "eader:last-child,.menucms .shop-brands .tab-header:last-child>.tab-title,.menucms [data-content-type=tabs] .tabs-navigation .tab-header>.tab-title:hover,.text-b",
+      "declarations": "--tw-text-opacity: 1; color: rgb(0 0 0/var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".two-row-slider [data-content-type=products] .product-item",
+      "declarations": "margin: .5rem 0; border-width: 0; padding: 0; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".two-row-slider [data-content-type=products] .product-item:first-child",
+      "declarations": "border-bottom-width: 1px; --tw-border-opacity: 1; border-color: rgb(210 210 210/var(--tw-border-opacity, 1)); padding-bottom: .75rem"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".two-row-slider [data-content-type=products] .product-item-photo",
+      "declarations": "margin-bottom: 0; height: -webkit-max-content; height: max-content; width: 33.333333%; max-width: 9rem; border-width: 1px; --tw-border-opacity: 1; border-color: rgb(210 210 210/var(--tw-border-opacity, 1)); padding: .25rem"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": ".livesearch-plp .ds-sdk-product-list__list-view-default .grid-container",
+      "declarations": "column-gap: 1rem; border-style: none; --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 100%; font-weight: inherit; line-height: inherit; letter-spacing: inherit; color: inherit; margin: 0; padding: 0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Off Road Warehouse - Off Road & 4X4 Parts & Accessories | ORW",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ed1c24",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111827",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#374151",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b7280",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e7eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f4f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#e7e7e7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.tertiary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.link": {
+      "value": "#2563eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value": "#fae703",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.offroadwarehouse.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Barlow, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.0,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.35,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Roboto, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.0,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.title-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.tertiary}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.border-strong}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.tertiary}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.secondary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ".menucms .services-build a:hover",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#ffffff": {
+        "selector": ".menucms .services-build a:hover",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#ed1c24": {
+        "selector": "body",
+        "property": "--primary",
+        "declaration": "#ed1c24",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#e7e7e7": {
+        "selector": "body",
+        "property": "--secondary",
+        "declaration": "#e7e7e7",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#00000000": {
+        "selector": "[data-bv-submenu-panel]:not([data-bv-submenu-loaded=\"true\"])\n    [data-bv-submenu-mount]::before",
+        "property": "border-right-color",
+        "declaration": "transparent",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#fae703": {
+        "selector": ":root",
+        "property": "--ambar-links-color",
+        "declaration": "#FAE703",
+        "url": "https://www.offroadwarehouse.com/",
+        "snapshot": "homepage.html",
+        "sha256": "bbee651c2ad0d10f63d0ed49e621e2437fa9aa8eb29151273e61e7ff06c45957"
+      },
+      "#2563eb": {
+        "selector": "[multiple]:focus,[type=date]:focus,[type=datetime-local]:focus,[type=email]:focus,[type=month]:focus,[type=number]:focus,[type=password]:focus,[type=search]:focus,[type=tel]:focus,[type=text]:focus,[type=time]:focus,[type=url]:focus,[type=week]:focus,input:where(:not([type])):focus,select:focus,text",
+        "property": "--tw-ring-color",
+        "declaration": "#2563eb",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "#6b7280": {
+        "selector": ".form-input,.form-multiselect,.form-select,.form-textarea",
+        "property": "border-color",
+        "declaration": "#6b7280",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "#e5e7eb": {
+        "selector": "*,:after,:before",
+        "property": "border",
+        "declaration": "0 solid #e5e7eb",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "#111827": {
+        "selector": ".am-cookie-bar-inline-settings .ambar-inline-group-card .ambar-group-title",
+        "property": "color",
+        "declaration": "#111827",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "#374151": {
+        "selector": ".prose",
+        "property": "--tw-prose-body",
+        "declaration": "#374151",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "627cce21b5ab47f8b2e99b32cf847bafc7b11a4931a85183f118727ee445e788"
+      },
+      "#f3f4f6": {
+        "selector": ".prose",
+        "property": "--tw-prose-invert-quotes",
+        "declaration": "#f3f4f6",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/styles-home.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "627cce21b5ab47f8b2e99b32cf847bafc7b11a4931a85183f118727ee445e788"
+      }
+    },
+    "font_families": {
+      "Roboto": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Roboto",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "Barlow": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Barlow",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "sans-serif": {
+        "selector": ".h1,h1",
+        "property": "font-family",
+        "declaration": "Barlow, sans-serif",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+        "url": "https://www.offroadwarehouse.com/static/version1790360268/frontend/Brainvire/offroadwarehouse/en_US/css/home-firstfold.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9ce192c8a4855a8a0aef3f8a34c33856455d1cfe9af198ba5d4b53455ad42a4e"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

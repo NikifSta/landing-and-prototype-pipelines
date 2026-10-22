@@ -1,0 +1,741 @@
+{
+  "source_url": "https://sarapatinojewelry.com",
+  "final_url": "https://sarapatinojewelry.com/",
+  "captured_at": "2026-09-28T09:31:42.925597+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sarapatinojewelry.com",
+      "final_url": "https://sarapatinojewelry.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "final_url": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19abb9105b930034804077c40318e7c477395f1da1a1b2800e05af613efea83b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    }
+  },
+  "font_families": {
+    "Tenor Sans": [
+      "https://sarapatinojewelry.com/"
+    ],
+    "sans-serif": [
+      "https://sarapatinojewelry.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.6875rem;\n      --text-sm: 0.75rem;\n      --text-base: 0.8125rem;\n      --text-lg: 0.9375rem;\n      --text-xl: 1.1875rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-with-border-vertical-spacing: 4rem;\n      --section-with-border-vertical-spacing-tight: 4rem;\n      --section-without-border-vertical-spacing: 6rem;\n      --section-without-border-vertical-spacing-tight: 6rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": ":root",
+      "declarations": "--announcement-bar-is-sticky: 1;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "--background: 132 70 79 ; background-color: rgb(var(--background));--text-color: 255 255 255; color: rgb(var(--text-color));--border-color:150 98 105;\n\n  :root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-sections--16858138509536__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: var(--border-color);\n\n    position: relative;\n    z-index: 5;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-sections--16858138509536__header",
+      "declarations": "--header-padding-block: 1.2rem;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-sections--16858138509536__header",
+      "declarations": "--header-grid: \". logo secondary-nav\" \"primary-nav primary-nav primary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-sections--16858138509536__header",
+      "declarations": "--header-logo-width: 200px;\n      --header-logo-height: 26px;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-sections--16858138509536__header",
+      "declarations": "--header-logo-width: 300px;\n        --header-logo-height: 40px;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "ct-position:70.7626% 49.3369%;\n--text-color: 255 255 255; color: rgb(var(--text-color));--border-color: var(--text-color) / 0.15;\n\n  #shopify-section-template--",
+      "declarations": "--product-grid: \"product-gallery\" \"product-info\" / minmax(0, 1fr);"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-template--16858137919712__featured_product_aBB6h9",
+      "declarations": "--product-grid: \"product-gallery product-info\" / minmax(0, 0.66fr) minmax(0, 0.34fr);"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/",
+      "selector": "#shopify-section-template--16858137919712__featured_product_aBB6h9",
+      "declarations": "--product-gallery-carousel-grid: auto-flow dense / repeat(2, minmax(0, 1fr));\n        --product-gallery-carousel-scroll-snap-type: none;\n        --product-gallery-carousel-gap: 30px;"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.65 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background, var(--button-background-primary))), rgb(var(--button-background, var(--button-background-primary))));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color, var(--button-text-primary)));border:1px solid rgb(var(--button-outline-color, var(--button-background, var(--button-bac"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background, var(--button-background-primary))), rgb(var(--button-background, var(--button-background-primary))));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);border-color:rgb(var(--button-outline-color, var(--border-color)));color:rgb(var(--button-background, var(--text-color)))"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "border-color:rgb(var(--border-color));color:rgb(var(--button-background, var(--button-background-primary)) / .65)"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "border-color:rgb(var(--button-background, var(--button-background-primary)));color:rgb(var(--button-background, var(--button-background-primary)));background-position:var(--hover-background-position);background-size:0 100%,100% 100%"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color, var(--button-text-primary)))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Simple, Minimal, Modern Jewelry for Everyday | Sara Patino Jewelry",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#232323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#00000066",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#0000000d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/"
+      ]
+    },
+    "colors.accent-checkout": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-checkout-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#00000033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    },
+    "colors.overlay-heavy": {
+      "value": "#3636364d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "19px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderBottom": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "imageAspectRatio": "4:5",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "gap": "{spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.overlay-scrim}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "borderTop": "1px solid {colors.overlay-heavy}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.muted}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.materials-tag": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "description": "Small inline label proposed for callouts like 'Recycled Gold' or 'Responsible Gemstones', matching the brand's mission copy."
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#0000000d": {
+        "selector": ":root",
+        "property": "--shadow-sm",
+        "declaration": "0 2px 8px rgb(0 0 0 / 0.05)",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--shopify-chat-bg-color",
+        "declaration": "#FFFFFF",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--shopify-chat-text-color",
+        "declaration": "#000000",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "#232323": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#232323",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://sarapatinojewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#00000033": {
+        "selector": ".switch:after",
+        "property": "box-shadow",
+        "declaration": "0 1px 1px #0003",
+        "url": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19abb9105b930034804077c40318e7c477395f1da1a1b2800e05af613efea83b"
+      },
+      "#3636364d": {
+        "selector": ".image-with-text-block>:not(img,svg,picture)",
+        "property": "box-shadow",
+        "declaration": "0 1px 20px #3636364d",
+        "url": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19abb9105b930034804077c40318e7c477395f1da1a1b2800e05af613efea83b"
+      },
+      "#00000066": {
+        "selector": ".timeline__carousel:after",
+        "property": "background",
+        "declaration": "#0006",
+        "url": "https://sarapatinojewelry.com/cdn/shop/t/17/assets/theme.css?v=62420860264510945811690762488",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "19abb9105b930034804077c40318e7c477395f1da1a1b2800e05af613efea83b"
+      }
+    },
+    "font_families": {
+      "Tenor Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Tenor Sans\"",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"Tenor Sans\", sans-serif",
+        "url": "https://sarapatinojewelry.com/",
+        "snapshot": "homepage.html",
+        "sha256": "4b1df0230bc88fa941a11087762606b99ab95431d3d0b945b1c608129681c9fd"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

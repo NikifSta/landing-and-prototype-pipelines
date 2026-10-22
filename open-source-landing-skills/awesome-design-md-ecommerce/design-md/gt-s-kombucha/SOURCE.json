@@ -1,0 +1,941 @@
+{
+  "source_url": "https://gtslivingfoods.com",
+  "final_url": "https://gtslivingfoods.com/",
+  "captured_at": "2026-09-29T04:13:14.152127+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gtslivingfoods.com",
+      "final_url": "https://gtslivingfoods.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "final_url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7711c0066b05cf0a9eee772f877fe3560c33987192e071fa232e334e407ac83a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+      "final_url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://unpkg.com/aos@2.3.1/dist/aos.css",
+      "final_url": "https://unpkg.com/aos@2.3.1/dist/aos.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1aa8845fd06e475aefe733d4e55b36a92fcd487975049c8172341827ac9cc03e",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#4b868f": {
+      "count": 4,
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 17,
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "#3e2952": {
+      "count": 2,
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173"
+      ]
+    },
+    "#3f3a33": {
+      "count": 2,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#f9f8f0": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#f06e69": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#f9d0a3": {
+      "count": 2,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#e2d5c5": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#d6edf5": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#f3deb0": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "#e4ccdb": {
+      "count": 1,
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://gtslivingfoods.com/"
+    ],
+    "serif": [
+      "https://gtslivingfoods.com/"
+    ],
+    "sans-serif": [
+      "https://gtslivingfoods.com/"
+    ],
+    "Baskerville No 2": [
+      "https://gtslivingfoods.com/"
+    ],
+    "Usherwood": [
+      "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173"
+    ],
+    "Atrament": [
+      "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 2rem;\n      --text-h4: 1.625rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.8125rem;\n      --text-sm: 0.9375rem;\n      --text-base: 1.0625rem;\n      --text-lg: 1.3125rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --inp"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-18);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 5rem;\n      --text-h1: 3.75rem;\n      --text-h2: 3rem;\n      --text-h3: 2.25rem;\n      --text-h4: 2rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-20);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ":root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": "#shopify-section-sections--28671990268272__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-4-5);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 55px;\n      --header-logo-height: 69px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": "#shopify-section-sections--28671990268272__header",
+      "declarations": "--header-logo-width: 65px;\n        --header-logo-height: 81px;--header-padding-block: var(--spacing-8-5);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": "#shopify-section-sections--28671990268272__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://gtslivingfoods.com/",
+      "selector": ".template-index .header:not(.is-filled) .tmenu_nav .tmenu_item_link",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio],[type=submit]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".button,.btn",
+      "declarations": "--button-background: var(--button-background-primary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-primary);--button-outline-color: var(--button-background-primary);-webkit-appearance:none;appearance:none;border-radius:var(--rounded-button);background-color:rgb(var(--button-background));color:rgb(var(--button-text-color));text-align:center;font-size:var(--text-sm);letter-spacing:var(--text-letter-spacing);padding-block-start:var(--spacing-2-5);padding-block-end:var(--spacing-2-5);padding-inline-start:var(--spacing-5);padding-inline-end:var(--spacing-5);font-weight:700;line-height:1.6;transition:background-color .15s ease-in-out,color .15s ease-in-out,box-shado"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--button-background-secondary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-secondary);--button-outline-color: var(--button-background-secondary)"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".button--subdued",
+      "declarations": "--button-background: var(--text-color) / .1 !important;--button-text-color: var(--text-color) !important;--button-outline-color: var(--text-color) !important"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".button--outline",
+      "declarations": "color:rgb(var(--button-outline-color) / var(--button-background-opacity, 1));background:none;box-shadow:inset 0 0 0 2px"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".circle-button--fill",
+      "declarations": "background:rgb(var(--background-primary));color:rgb(var(--text-primary))"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".shopify-section:first-child [allow-transparent-header] .content-over-media--fill",
+      "declarations": "--content-over-media-height: calc(100vh - var(--announcement-bar-height, 0px))"
+    },
+    {
+      "source": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+      "selector": ".shopify-section:first-child [allow-transparent-header] .content-over-media--fill",
+      "declarations": "--content-over-media-height: calc(100svh - var(--announcement-bar-height, 0px))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kombucha, Kefir, Coconut Yogurt, Adaptogenic Tea",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#3f3a33",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#9ca3af",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f8f0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#4b868f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "colors.accent-plum": {
+      "value": "#3e2952",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value": "#f06e69",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.accent-tan": {
+      "value": "#f9d0a3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.accent-cream": {
+      "value": "#f3deb0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.accent-blush": {
+      "value": "#e4ccdb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.accent-sky": {
+      "value": "#d6edf5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "colors.accent-sand": {
+      "value": "#e2d5c5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Atrament, 'Baskerville No 2', serif",
+        "fontSize": "80px",
+        "fontWeight": 400,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Usherwood, 'Baskerville No 2', serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.55,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.4px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.accent-plum}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-coral}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.flavor-swatch": {
+      "value": {
+        "backgroundColor": "{colors.accent-tan}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "size": "{spacing.xl}",
+        "selectedBorderColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#4b868f": {
+        "selector": "#shopify-section-template--28671993545072__slideshow",
+        "property": "--slideshow-background",
+        "declaration": "linear-gradient(180deg, rgba(75, 134, 143, 1), rgba(242, 242, 242, 1) 98%)",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "#f2f2f2": {
+        "selector": "#shopify-section-template--28671993545072__slideshow",
+        "property": "--slideshow-background",
+        "declaration": "linear-gradient(180deg, rgba(75, 134, 143, 1), rgba(242, 242, 242, 1) 98%)",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "#ffffff": {
+        "selector": "#shopify-section-template--28671993545072__before-after-image",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "#000000": {
+        "selector": "#shopify-section-template--28671993545072__before-after-image a[title~=\"gtsbtn\"]",
+        "property": "border",
+        "declaration": "1px solid #000",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "#3e2952": {
+        "selector": "#shopify-section-template--28671993545072__1714001830f93cfeba",
+        "property": "background-color",
+        "declaration": "#3e2952",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "#00000000": {
+        "selector": ".shopify-payment-button__button",
+        "property": "box-shadow",
+        "declaration": "0 0 #0000",
+        "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://gtslivingfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#9ca3af": {
+        "selector": "input::placeholder,textarea::placeholder",
+        "property": "color",
+        "declaration": "#9ca3af",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7711c0066b05cf0a9eee772f877fe3560c33987192e071fa232e334e407ac83a"
+      },
+      "#3f3a33": {
+        "selector": "#shopify-section-template--23556916838768__image_link_blocks_gn3M9B .h2",
+        "property": "text-shadow",
+        "declaration": "2px 2px 4px #3f3a33",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#f9f8f0": {
+        "selector": "#shopify-section-template--23556917002608__multi_column_iDfnXe .multi-column__item",
+        "property": "background-color",
+        "declaration": "#f9f8f0",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#f06e69": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(1)",
+        "property": "background",
+        "declaration": "linear-gradient(300deg,#f06e69,#f9d0a3)",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#f9d0a3": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(1)",
+        "property": "background",
+        "declaration": "linear-gradient(300deg,#f06e69,#f9d0a3)",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#e2d5c5": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(2)",
+        "property": "background-color",
+        "declaration": "#e2d5c5",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#d6edf5": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(3)",
+        "property": "background-color",
+        "declaration": "#d6edf5",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#f3deb0": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(4)",
+        "property": "background-color",
+        "declaration": "#f3deb0",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      },
+      "#e4ccdb": {
+        "selector": ".template-list-collections #shopify-section-template--23556916642160__images_with_text_scrolling_FbgAjd div.images-scrolling-desktop__content-list>div:nth-child(5)",
+        "property": "background-color",
+        "declaration": "#e4ccdb",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      }
+    },
+    "font_families": {
+      "Montserrat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Montserrat",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "\"Libre Baskerville\", serif",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--text-font-family",
+        "declaration": "Montserrat, sans-serif",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "Baskerville No 2": {
+        "selector": "#shopify-section-template--28671993545072__collection_list_awb8VV .content-over-media",
+        "property": "font-family",
+        "declaration": "\"Baskerville No 2\", serif",
+        "url": "https://gtslivingfoods.com/",
+        "snapshot": "homepage.html",
+        "sha256": "03cf0eb2996acf063b270e0d70e8036d47fc6e2a9acd4377aa1f18d9a79fcd08"
+      },
+      "Usherwood": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Usherwood",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/theme.css?v=59488212036812613581790026173",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "7711c0066b05cf0a9eee772f877fe3560c33987192e071fa232e334e407ac83a"
+      },
+      "Atrament": {
+        "selector": "#shopify-section-template--23556916838768__image_link_blocks_gn3M9B .h2",
+        "property": "font-family",
+        "declaration": "Atrament",
+        "url": "https://gtslivingfoods.com/cdn/shop/t/228/assets/gts-custom.css?v=72664517501208246011790026168",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5d9e45b339ad00aa83485561ff6099d4cc937876788beb8257fafe053f9e0519"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

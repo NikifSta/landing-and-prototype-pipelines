@@ -1,0 +1,857 @@
+{
+  "source_url": "https://joiebaby.com",
+  "final_url": "https://joiebaby.com/us",
+  "captured_at": "2026-09-29T04:21:28.886281+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://joiebaby.com",
+      "final_url": "https://joiebaby.com/us",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "final_url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://joiebaby.com/us#computed-style-snapshot",
+      "final_url": "https://joiebaby.com/us#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "1f210017e608b77f760e1db239451894efa2143ae8f14abc7b9a536fe4c87741",
+      "snapshot": "rendered-style-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 105,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#ffffff": {
+      "count": 69,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#407ec9": {
+      "count": 5,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#434446": {
+      "count": 109,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#37cd8f": {
+      "count": 2,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#058a5e": {
+      "count": 2,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#ebebeb": {
+      "count": 9,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#737578": {
+      "count": 3,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#ffcd58": {
+      "count": 7,
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "#f7f4f0": {
+      "count": 7,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "#3777c4": {
+      "count": 9,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "#295891": {
+      "count": 33,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "#3a3533": {
+      "count": 4,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "#ec0927": {
+      "count": 4,
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://joiebaby.com/us"
+    ],
+    "sans-serif": [
+      "https://joiebaby.com/us"
+    ],
+    "Mikado": [
+      "https://joiebaby.com/us"
+    ],
+    "Colfax": [
+      "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button",
+      "declarations": "background-color:var(--osano-button-background-color);border-color:var(--osano-button-border-color);border-radius:.25em;border-style:solid;border-width:thin;color:var(--osano-button-foreground-color);cursor:pointer;flex:1 1 auto;font-size:1em;font-weight:700;line-height:1;margin:.125em;min-width:6em;padding:.5em .75em;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button:hover",
+      "declarations": "--osano-button-background-color:var(--osano-button-background-color-hover)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button:focus-visible",
+      "declarations": "--osano-button-background-color:var(--osano-button-background-color-hover);outline:var(--osano-focus-outline);outline-offset:var(--osano-focus-outline-offset)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_accept,.osano-cm-button--type_accept-all",
+      "declarations": "--osano-button-background-color:var(--osano-button-accept-background-color);--osano-button-border-color:var(--osano-button-accept-border-color);--osano-button-foreground-color:var(--osano-button-accept-foreground-color)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_accept-all:focus-visible,.osano-cm-button--type_accept-all:hover,.osano-cm-button--type_accept:focus-visible,.osano-cm-button--type_accep",
+      "declarations": "--osano-button-background-color:var(--osano-button-accept-background-color-hover)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_deny",
+      "declarations": "--osano-button-background-color:var(--osano-button-deny-background-color);--osano-button-border-color:var(--osano-button-deny-border-color);--osano-button-foreground-color:var(--osano-button-deny-foreground-color)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_deny:focus-visible,.osano-cm-button--type_deny:hover",
+      "declarations": "--osano-button-background-color:var(--osano-button-deny-background-color-hover)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_denyAll",
+      "declarations": "--osano-button-background-color:var(--osano-button-reject-all-background-color);--osano-button-border-color:var(--osano-button-reject-all-border-color);--osano-button-foreground-color:var(--osano-button-reject-all-foreground-color)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_denyAll:focus-visible,.osano-cm-button--type_denyAll:hover",
+      "declarations": "--osano-button-background-color:var(\n      --osano-button-reject-all-background-color-hover\n  )"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_manage",
+      "declarations": "--osano-button-background-color:var(--osano-button-manage-background-color);--osano-button-border-color:var(--osano-button-manage-border-color);--osano-button-foreground-color:var(--osano-button-manage-foreground-color)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-button--type_manage:focus-visible,.osano-cm-button--type_manage:hover",
+      "declarations": "--osano-button-background-color:var(--osano-button-manage-background-color-hover)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-consent-id-box__button--copied",
+      "declarations": "--osano-button-background-color:var(--osano-button-accept-background-color-hover);--osano-button-border-color:var(--osano-button-accept-background-color-hover);--osano-button-foreground-color:var(--osano-button-accept-foreground-color-hover)"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".osano-cm-expansion-panel__body",
+      "declarations": "background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;max-height:0;overflow:hidden;padding:0 1.5em;transition-delay:0s,0s,0s,.3s;transition-duration:.3s,.3s,.3s,0s;transition-property:max-height,padding-top,padding-bottom,visibility;transition-timing-function:ease-out;visibility:hidden"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".home__category-title h1",
+      "declarations": "font-family:Mikado;font-size:50px;font-weight:700;line-height:60px;letter-spacing:.5px;text-align:left"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".home__category-title h1",
+      "declarations": "font-family:Mikado;font-size:40px;font-weight:700;line-height:48px;letter-spacing:.5px;text-align:center"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".home__promise .joie-button-secondary i",
+      "declarations": "width:16px;height:16px;margin-right:8px;color:#3771b7"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".home__video-title h1",
+      "declarations": "font-family:Mikado;font-size:50px;font-weight:700;line-height:60px;letter-spacing:.5px;text-align:center"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".home__video-title h1",
+      "declarations": "font-family:Mikado;font-size:40px;font-weight:700;line-height:48px;letter-spacing:.5px;text-align:center"
+    },
+    {
+      "source": "https://joiebaby.com/us",
+      "selector": ".product-item:has(a.product-item-photo[href*=\"signature\"]) .product-labels::before",
+      "declarations": "content: \"Joie Signature\";\n    display: inline-block;\n    padding: 2px 8px;\n    font-size: 12px;\n    margin-bottom: 4px;\n    background-color: #645c59;\n    color: #fff;\n    border-top-right-radius: 1.5rem;\n    border-bottom-right-radius: 1.5rem;"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ":root",
+      "declarations": "scrollbar-color:var(--scrollthumb-color,var(--color-primary))var(--scrolltrack-color,#0000);accent-color:var(--color-primary);caret-color:var(--color-primary);interpolate-size:allow-keywords"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": "body",
+      "declarations": "background:var(--color-bg);color:var(--color-slate-700);font-family:var(--font-sans);font-family:var(--font-text);font-size:1rem;line-height:1.5"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": "h1",
+      "declarations": "font-family:var(--font-headline);font-size:2.5rem;line-height:1.2"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Mikado,sans-serif"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ":where(input:not([type=checkbox]):not([type=radio]):not([role=switch]):not([type=hidden]):not([type=submit]):not([type=button]):not([type=reset]),select,textare",
+      "declarations": "font-family:var(--font-text);color:var(--color-slate-700);border:1px solid var(--color-slate-500);background-color:var(--color-white);border-radius:4px;padding:12px;font-size:1rem;font-style:normal;font-weight:400;line-height:1.5"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ":where(input.mage-error:not([type=checkbox]):not([type=radio]):not([role=switch]):not([type=hidden]):not([type=submit]):not([type=button]):not([type=reset]),sel",
+      "declarations": "border:3px solid var(--color-cherry-700);background-color:var(--color-white);border-radius:4px"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ".catalog-product-view .product-new-about .product-new-about__text",
+      "declarations": "font-family:var(--font-text);margin-top:5.88235%;font-size:1.125rem;line-height:1.5"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ".catalog-product-view .signature-sprint__title",
+      "declarations": "font-family:var(--font-display);text-align:center;margin-bottom:60px;font-size:3.125rem;font-weight:300;line-height:1.2"
+    },
+    {
+      "source": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+      "selector": ".catalog-product-view .signature-sprint__card-title",
+      "declarations": "font-family:var(--font-display);margin-bottom:16px;font-size:1.875rem;font-style:italic;line-height:1.2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Joie Baby | Globally Trusted Car Seats & Strollers",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "186526295147fff27c3f904452b43c6881a95da56231c5714d255c7e10280752"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#3777c4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value": "#295891",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "colors.primary-light": {
+      "value": "#407ec9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.ink": {
+      "value": "#3a3533",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.body": {
+      "value": "#434446",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.muted": {
+      "value": "#737578",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#ebebeb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f4f0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.accent-red": {
+      "value": "#ec0927",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value": "#ffcd58",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.accent-mint": {
+      "value": "#37cd8f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.accent-mint-dark": {
+      "value": "#058a5e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joiebaby.com/us"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Mikado, sans-serif",
+        "fontSize": "50px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Mikado, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Mikado, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Colfax, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Colfax, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Colfax, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Colfax, Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-yellow}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.car-seat-safety-callout": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "accentColor": "{colors.accent-mint}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": ".osano-cm-close",
+        "property": "--osano-button-close-background-color",
+        "declaration": "transparent",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#cccccc": {
+        "selector": ".osano-cm-info",
+        "property": "box-shadow",
+        "declaration": "0 0 2px 2px #ccc",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#ffffff": {
+        "selector": ".osano-cm-opt-out-honored-wrapper__tooltip",
+        "property": "background",
+        "declaration": "#fff",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#407ec9": {
+        "selector": ":root",
+        "property": "--osano-button-background-color",
+        "declaration": "#407ec9",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#434446": {
+        "selector": ":root",
+        "property": "--osano-dialog-foreground-color",
+        "declaration": "#434446",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#37cd8f": {
+        "selector": ":root",
+        "property": "--osano-widget-color",
+        "declaration": "#37cd8f",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#058a5e": {
+        "selector": ":root",
+        "property": "--osano-gpc-border-color",
+        "declaration": "#058a5e",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#ebebeb": {
+        "selector": ":root",
+        "property": "--osano-button-foreground-color-contrast",
+        "declaration": "#ebebeb",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#737578": {
+        "selector": ":root",
+        "property": "--osano-toggle-off-thumb-color-contrast",
+        "declaration": "#737578",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#ffcd58": {
+        "selector": ".home__category-subtitle",
+        "property": "background-color",
+        "declaration": "#ffcd58",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "#000000": {
+        "selector": ":root,:host",
+        "property": "--color-black",
+        "declaration": "#000",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      },
+      "#f7f4f0": {
+        "selector": ":root,:host",
+        "property": "--color-ivory-500",
+        "declaration": "#f7f4f0",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      },
+      "#3777c4": {
+        "selector": ":root,:host",
+        "property": "--color-periwinkle-500",
+        "declaration": "#3777c4",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      },
+      "#295891": {
+        "selector": ":root,:host",
+        "property": "--color-periwinkle-600",
+        "declaration": "#295891",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      },
+      "#3a3533": {
+        "selector": ".joie-button-tertiary,a.joie-button-tertiary",
+        "property": "--btn-hover-bg",
+        "declaration": "#3a3533",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      },
+      "#ec0927": {
+        "selector": ".text-\\[\\#ec0927\\]",
+        "property": "color",
+        "declaration": "#ec0927",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": ".osano-cm-window",
+        "property": "font-family",
+        "declaration": "Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "sans-serif": {
+        "selector": ".osano-cm-window",
+        "property": "font-family",
+        "declaration": "Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "Mikado": {
+        "selector": ".home__category-title h1",
+        "property": "font-family",
+        "declaration": "Mikado",
+        "url": "https://joiebaby.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "58adeacb8605954879934f388f088d1da65e4c9108752fe05c39ea62bbb5bb8c"
+      },
+      "Colfax": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Colfax",
+        "url": "https://joiebaby.com/static/version1790132977/_cache/merged/241be4fac135351a26f9bf1e1b7826d4.min.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "6e58a40e28b6610c89a5d56b19d2cdea3be7a8cac85ee9a6214c5b6e73f7d3d2"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

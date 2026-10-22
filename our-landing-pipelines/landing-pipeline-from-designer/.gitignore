@@ -1,0 +1,10 @@
+node_modules/
+.env
+env.txt
+projects/
+dist/
+*.log
+.DS_Store
+# Тяжёлые материалы референсов — только локально, в релиз и Git не входят (scripts/add-reference.mjs): полностраничные снимки и тексты страниц
+references/shots/*/shots/
+references/shots/*/pages.json

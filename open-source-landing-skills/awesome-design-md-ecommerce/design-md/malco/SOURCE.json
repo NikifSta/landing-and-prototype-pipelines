@@ -1,0 +1,953 @@
+{
+  "source_url": "https://malcoproducts.com",
+  "final_url": "https://www.malcotools.com/",
+  "captured_at": "2026-09-29T04:19:04.035129+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://malcoproducts.com",
+      "final_url": "https://www.malcotools.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/xsb2jfz.css",
+      "final_url": "https://use.typekit.net/xsb2jfz.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "1e60746e3a2807afa1e9c6667d1305ce13583e74acbe8374fd3afe5caa4aaed3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.malcotools.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-vertical/style.min.css?ver=1",
+      "final_url": "https://www.malcotools.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-vertical/style.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6db448a15b4382997efe9df1de934b99939c1ae8751a8ec05c5b71e77567576a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.malcotools.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1",
+      "final_url": "https://www.malcotools.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4b9257e3e9c959214ddfab833a69a021ae6557403efe76afcbee259621175274",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "final_url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 38,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#aa112c": {
+      "count": 100,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#333333": {
+      "count": 51,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 9,
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "#fefefe": {
+      "count": 139,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#222222": {
+      "count": 108,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 11,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#630012": {
+      "count": 15,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#ffae00": {
+      "count": 24,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#46000d": {
+      "count": 3,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 5,
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    }
+  },
+  "font_families": {
+    "futura-pt-bold": [
+      "https://www.malcotools.com/"
+    ],
+    "sans-serif": [
+      "https://www.malcotools.com/"
+    ],
+    "futura-pt": [
+      "https://use.typekit.net/xsb2jfz.css"
+    ],
+    "-apple-system": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Segoe UI": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Roboto": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Oxygen": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Ubuntu": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Cantarell": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Fira Sans": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Droid Sans": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ],
+    "Helvetica Neue": [
+      "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": "#gform_20 #gform_submit_button_20:hover",
+      "declarations": "border: solid 2px #333 !important;\n\tbackground: #fff !important;\n\tcolor: #333;"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ".page-id-46553 .content-row.bknd-red h1,\n.page-id-46553 .content-row.bknd-red h5",
+      "declarations": "text-align: center;\n\tcolor: #fff;"
+    },
+    {
+      "source": "https://www.malcotools.com/",
+      "selector": ".page-id-46553 .product-list .col-md-6 > .inner .img-container:after",
+      "declarations": "content: 'Add to Toolbox';\n\tposition: absolute;\n\tborder: solid 1px #fff;\n\tcolor: #fff;\n\tfont-family: futura-pt-bold,sans-serif;\n\ttext-transform: uppercase;\n\ttop: 50%;\n\ttransform: translateY(-50%);\n\tleft: 0;\n\tright: 0;\n\ttext-align: center;\n\twidth: max-content;\n\tmargin: 0 auto;\n\tpadding: 15px 40px;\n\tdisplay: block !important;\n\tz-index: 0;\n\topacity: 0;\n\t-moz-transition: all 0.3s ease;\n\t-o-transition: all 0.3s ease;\n\t-ms-transition: all 0.3s ease;\n\t-webkit-transition: all 0.3s"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".footer-top h3,\n.title-h1,\nbody",
+      "declarations": "font-family: futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": "body",
+      "declarations": "background: #fefefe;\n    font-weight: 400;\n    line-height: 1.5;\n    color: #222;\n    -webkit-font-smoothing: antialiased"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: inherit"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".h1,\n.h2,\n.h3,\n.h4,\n.h5,\n.h6,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6",
+      "declarations": "font-family: futura-pt-bold, sans-serif;\n    font-style: normal;\n    font-weight: 400;\n    color: inherit;\n    text-rendering: optimizeLegibility"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": "h1 small,\nh2 small,\nh3 small,\nh4 small,\nh5 small,\nh6 small",
+      "declarations": "line-height: 0;\n    color: #333"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".breadcrumbs,\n.button,\n.main-nav .header-tagline",
+      "declarations": "font-family: futura-pt-bold, sans-serif"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".subheader",
+      "declarations": "margin-top: .2rem;\n    margin-bottom: .5rem;\n    font-weight: 400;\n    line-height: 1.4;\n    color: #8a8a8a"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button",
+      "declarations": "display: inline-block;\n    vertical-align: middle;\n    margin: 0 0 1rem;\n    -webkit-appearance: none;\n    border: 1px solid transparent;\n    border-radius: 0;\n    -webkit-transition: background-color .25s ease-out, color .25s ease-out;\n    transition: background-color .25s ease-out, color .25s ease-out;\n    font-size: .9rem;\n    text-align: center;\n    background-color: #aa112c;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button:focus,\n.button:hover",
+      "declarations": "background-color: #910e25;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.primary",
+      "declarations": "background-color: #aa112c;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.primary:focus,\n.button.primary:hover",
+      "declarations": "background-color: #880e23;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.red-dark",
+      "declarations": "background-color: #8b0019;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.red-dark:focus,\n.button.red-dark:hover",
+      "declarations": "background-color: #6f0014;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.red-darker",
+      "declarations": "background-color: #630012;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.red-darker:focus,\n.button.red-darker:hover",
+      "declarations": "background-color: #4f000e;\n    color: #fefefe"
+    },
+    {
+      "source": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+      "selector": ".button.secondary",
+      "declarations": "background-color: #222;\n    color: #fefefe"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Malco Tools | Innovative Tools for Professionals",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#aa112c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#fefefe",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#8a8a8a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.primary-dark": {
+      "value": "#630012",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.primary-deep": {
+      "value": "#46000d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.ink-soft": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f1f1f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "colors.accent-warn": {
+      "value": "#ffae00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "futura-pt-bold, sans-serif",
+        "fontSize": "42px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "futura-pt-bold, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "futura-pt-bold, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "futura-pt, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "futura-pt, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "futura-pt, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "futura-pt-bold, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink-soft}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink-soft}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-download-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.body-sm}",
+        "iconColor": "{colors.primary}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#dddddd": {
+        "selector": ":root",
+        "property": "--wp-editor-canvas-background",
+        "declaration": "#ddd",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#313131": {
+        "selector": ":root .has-very-dark-gray-background-color",
+        "property": "background-color",
+        "declaration": "#313131",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#ffffff": {
+        "selector": ".wp-block-button__link",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#aa112c": {
+        "selector": ".single-post .row-column-2 .custom-btn",
+        "property": "background",
+        "declaration": "#aa112c",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#00000000": {
+        "selector": ".timeline-container .timeline-callout:before",
+        "property": "border-top",
+        "declaration": "22px solid transparent",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#333333": {
+        "selector": "#gform_20 #gform_submit_button_20",
+        "property": "background",
+        "declaration": "#333",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#f9f9f9": {
+        "selector": "section",
+        "property": "background",
+        "declaration": "#f9f9f9",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "#fefefe": {
+        "selector": "body",
+        "property": "background",
+        "declaration": "#fefefe",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#222222": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#222",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#8a8a8a": {
+        "selector": "blockquote,\nblockquote p",
+        "property": "color",
+        "declaration": "#8a8a8a",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#630012": {
+        "selector": ".button.red-darker",
+        "property": "background-color",
+        "declaration": "#630012",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#ffae00": {
+        "selector": ".button.warning",
+        "property": "background-color",
+        "declaration": "#ffae00",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#46000d": {
+        "selector": ".button.hollow.red-dark:focus,\n.button.hollow.red-dark:hover",
+        "property": "border-color",
+        "declaration": "#46000d",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "#f1f1f1": {
+        "selector": "table tbody,\ntable tfoot,\ntable thead",
+        "property": "border",
+        "declaration": "1px solid #f1f1f1",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      }
+    },
+    "font_families": {
+      "futura-pt-bold": {
+        "selector": ".timeline-container .timeline-headline",
+        "property": "font-family",
+        "declaration": "futura-pt-bold,sans-serif",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "sans-serif": {
+        "selector": ".timeline-container .timeline-headline",
+        "property": "font-family",
+        "declaration": "futura-pt-bold,sans-serif",
+        "url": "https://www.malcotools.com/",
+        "snapshot": "homepage.html",
+        "sha256": "e88874fe2bf5284b4b69569e6a8ad597dbdd37b6330465a9fc4d3c040c935138"
+      },
+      "futura-pt": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"futura-pt\"",
+        "url": "https://use.typekit.net/xsb2jfz.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1e60746e3a2807afa1e9c6667d1305ce13583e74acbe8374fd3afe5caa4aaed3"
+      },
+      "-apple-system": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "BlinkMacSystemFont": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Segoe UI": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Roboto": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Oxygen": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Ubuntu": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Cantarell": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Fira Sans": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Droid Sans": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      },
+      "Helvetica Neue": {
+        "selector": ".footer-top h3,\n.title-h1,\nbody",
+        "property": "font-family",
+        "declaration": "futura-pt, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+        "url": "https://www.malcotools.com/wp-content/themes/malcoproducts2018/dist/new/main.css?ver=1778848946",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "bad2360f9b9cd902389571db673b2c1bec7bc4a4d18b6e0ce28092d2f55f40d0"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

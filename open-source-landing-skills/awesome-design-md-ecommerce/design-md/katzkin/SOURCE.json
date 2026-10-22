@@ -1,0 +1,732 @@
+{
+  "source_url": "https://katzkin.com",
+  "final_url": "https://katzkin.com/",
+  "captured_at": "2026-09-28T09:42:44.102349+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://katzkin.com",
+      "final_url": "https://katzkin.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "final_url": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c069eb8f0148f8b2f146a273b369927c5cd001f2f488a5252faadd9772c3eb9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://katzkin.com/choose-your-design/css/themes-uniform/aristo/css/uniform.aristo.css",
+      "final_url": "https://katzkin.com/choose-your-design/css/themes-uniform/aristo/css/uniform.aristo.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4ab79cbbcca1c2c4cab1de24c7f36f2407a3afa7bdab4614745ce1c573c3a0d0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://katzkin.com/wp-content/themes/Katzkin/css/jquery.fancybox.min.css",
+      "final_url": "https://katzkin.com/wp-content/themes/Katzkin/css/jquery.fancybox.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5736e3eec0c34bfc288854b7b8d2a8f1e22e9e2e7dae3c8d1ad5dfb2d4734ad0",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 38,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#d63637": {
+      "count": 1,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#066aab": {
+      "count": 3,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#f47a21": {
+      "count": 2,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#332e2b": {
+      "count": 8,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#575757": {
+      "count": 3,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 4,
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://katzkin.com/choose-your-design/css/themes-uniform/aristo/css/uniform.aristo.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://katzkin.com/"
+    ],
+    "Clash Display": [
+      "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111"
+    ],
+    "Inter": [
+      "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111"
+    ],
+    "Figtree": [
+      "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".wp-block-navigation a:where(:not(.wp-element-button))",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ":root",
+      "declarations": "--wpforms-field-border-radius: 3px;\n--wpforms-field-border-style: solid;\n--wpforms-field-border-size: 1px;\n--wpforms-field-background-color: #ffffff;\n--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );\n--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );\n--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );\n--wpforms-field-menu-color: #ffffff;\n--wpforms-label-color: rgba( 0, 0, 0, 0.85 );\n--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );\n--wpforms-label-error-color: #d63637;\n--wpforms-button-border-radius: 3px;\n--wpforms-button-border-style: none;\n--wpforms-button-border-size: 1px;\n--wpforms-button-background-color: #066aab;\n--wpforms-button-border-color: #066aab;\n--wpforms-button-te"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": "body",
+      "declarations": "font-family: var(--primary-font) !important;\n    line-height: 1.5;\n    color: rgb(var(--color-1)) !important;\n    background-color: rgb(var(--color-3)) !important;\n    margin: auto !important;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".before-after-intro h1,\n      .before-after-intro h2,\n      .before-after-intro h3,\n      .before-after-intro h4",
+      "declarations": "margin: 0;\n        font-family: var(--secondary-font) !important;\n        font-weight: 600;\n        font-size: 32px;\n        line-height: 150%;\n        letter-spacing: 2%;\n        text-transform: uppercase;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": "#post-review-cta-newhp .post-review-cta-button",
+      "declarations": "width: 100%;\n      max-width: 100%;\n      min-height: 48px;\n      border-radius: 12px;\n      background: #332e2b;\n      text-decoration: none;\n      border-bottom: 0 !important;\n      display: inline-flex;\n      align-items: center;\n      justify-content: center;\n      padding: 12px 20px;\n      font-family: var(--primary-font) !important;\n      font-size: 16px;\n      font-weight: 600;\n      line-height: 1.5;\n      text-align: center;\n      -webkit-transition: all 0.3s ease;\n      -moz-transition: all 0.3s ease;\n      -o-transition: all 0.3s ease;\n      transition: all 0.3s ease;\n      will-change: transform;\n      box-sizing: border-box;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".row-type #post-review-cta-newhp.post-review-cta-section a.post-review-cta-button",
+      "declarations": "color: #ffffff !important;\n      -webkit-text-fill-color: #ffffff;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": "#post-review-cta-newhp .post-review-cta-button-text",
+      "declarations": "color: #ffffff !important;\n      -webkit-text-fill-color: #ffffff;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": "#post-review-cta-newhp .post-review-cta-call-us-button",
+      "declarations": "text-decoration: none;\n      color: inherit;\n      border-bottom: 0 !important;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": "#homepage-ymmt-widget a#Submit.btn1.btn1next",
+      "declarations": "display: inline-flex;\r\n  align-items: center;\r\n  justify-content: center;\r\n  width: 135px;\r\n  height: 34px;\r\n  box-sizing: border-box;\r\n  border-bottom: 0 !important;\r\n  border-radius: 12px;\r\n  background: #332e2b;\r\n  color: #ffffff !important;\r\n  font-family: var(--primary-font) !important;\r\n  font-size: 18px;\r\n  font-weight: 700;\r\n  line-height: 1;\r\n  padding: 0;\r\n  text-align: center;\r\n  text-decoration: none;\r\n  transition: transform 0.3s ease;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".ymmt-section-wrapper .post-review-cta-button",
+      "declarations": "width: 100%;\r\n      max-width: 100%;\r\n      min-height: 48px;\r\n      border-radius: 12px;\r\n      background: #332e2b;\r\n      text-decoration: none;\r\n      border-bottom: 0 !important;\r\n      display: inline-flex;\r\n      align-items: center;\r\n      justify-content: center;\r\n      padding: 12px 20px;\r\n      font-family: var(--primary-font) !important;\r\n      font-size: 16px;\r\n      font-weight: 600;\r\n      line-height: 1.5;\r\n      text-align: center;\r\n      -webkit-transition: all 0.3s ease;\r\n      -moz-transition: all 0.3s ease;\r\n      -o-transition: all 0.3s ease;\r\n      transition: all 0.3s ease;\r\n      will-change: transform;\r\n      box-sizing: border-box;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".row-type .ymmt-section-wrapper .post-review-cta-section a.post-review-cta-button",
+      "declarations": "color: #ffffff !important;\r\n      -webkit-text-fill-color: #ffffff;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".ymmt-section-wrapper .post-review-cta-button-text",
+      "declarations": "color: #ffffff !important;\r\n      -webkit-text-fill-color: #ffffff;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".ymmt-section-wrapper .post-review-cta-call-us-button",
+      "declarations": "text-decoration: none;\r\n      color: inherit;\r\n      border-bottom: 0 !important;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".call-us-button",
+      "declarations": "text-decoration: none;\n      color: inherit;"
+    },
+    {
+      "source": "https://katzkin.com/",
+      "selector": ".btn-find-me",
+      "declarations": "font-size: 14px;\r\n      color: inherit;\r\n      width: 83px;\r\n      height: 41px;\r\n      cursor: pointer;\r\n      background-color: rgb(var(--color-3) / 0.04);\r\n      border: 1px solid rgb(var(--color-2));\r\n      border-radius: 8px;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ":root",
+      "declarations": "--primary-font: \"Figtree\", sans-serif;\r\n  --secondary-font: \"Clash Display\", sans-serif;\r\n  --tertiary-font: \"Inter\", sans-serif;\r\n\r\n  --white: 255 255 255;\r\n  --black: 0 0 0;\r\n  --color-1: 51 46 43;\r\n  --color-2: 87 87 87;\r\n  --color-3: 255 255 255;\r\n  --color-4: 255 255 255;\r\n  --color-5: 255 255 255;\r\n  --color-6: 0 0 0;\r\n  --color-7: 51 46 43;\r\n  --color-8: 87 87 87;\r\n  --color-9: 246 246 246;\r\n\r\n  --page-width: 1440px;\r\n  --width-1: 1180px;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": "h1,\r\nh2,\r\nh3",
+      "declarations": "font-family: var(--secondary-font) !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": "h1 *,\r\nh2 *,\r\nh3 *",
+      "declarations": "font-family: inherit !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".row-type .half,\r\n.row-type #standard-page-content,\r\n.row-type #breadcrumbs,\r\n.row-type p,\r\n.row-type strong,\r\n.row-type span,\r\n.row-type h1,\r\n.row-type h2,\r\n.r",
+      "declarations": "color: inherit !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": "ype-1 input[type=\"submit\"],\r\n.row-type-1 .btn1,\r\n.row-type-1 .designChooseThisDesign,\r\n.row-type-1 #backbutton,\r\n.row-type-1 #dyoctabutton,\r\n.row-type-1 .step4-",
+      "declarations": "background-color: rgb(var(--color-1)) !important;\r\n  color: rgb(var(--color-3)) !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": "ype-2 input[type=\"submit\"],\r\n.row-type-2 .btn1,\r\n.row-type-2 .designChooseThisDesign,\r\n.row-type-2 #backbutton,\r\n.row-type-2 #dyoctabutton,\r\n.row-type-2 .step4-",
+      "declarations": "background-color: rgb(var(--color-4)) !important;\r\n  color: rgb(var(--color-6)) !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": "ype-3 input[type=\"submit\"],\r\n.row-type-3 .btn1,\r\n.row-type-3 .designChooseThisDesign,\r\n.row-type-3 #backbutton,\r\n.row-type-3 #dyoctabutton,\r\n.row-type-3 .step4-",
+      "declarations": "background-color: rgb(var(--color-1)) !important;\r\n  color: rgb(var(--color-3)) !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".white-button",
+      "declarations": "background-color: rgb(var(--color-3)) !important;\r\n  color: rgb(var(--color-1));\r\n  border: 1px solid #dbdbdb;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".black-button",
+      "declarations": "background-color: rgb(var(--color-1)) !important;\r\n  color: rgb(var(--color-3)) !important;\r\n  border: 1px solid rgb(var(--color-1));"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".trans-button",
+      "declarations": "background-color: #ffffff0a !important;\r\n  color: rgb(var(--color-1));\r\n  border: 1px solid #dbdbdb;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".row-type.row-type-2 .white-button",
+      "declarations": "color: black !important;"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".row-type.row-type-2 .trans-button",
+      "declarations": "border: 1px solid #ffffff14 !important;\r\n  color: rgb(var(--color-3));"
+    },
+    {
+      "source": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+      "selector": ".row-type a.black-button",
+      "declarations": "border-bottom: 1px solid rgb(var(--color-1)) !important;\r\n  color: rgb(var(--color-3)) !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Custom Leather Seat Covers, Leather Seats, & Interiors | Katzkin",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#332e2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#066aab",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.highlight": {
+      "value": "#f47a21",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#d63637",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#332e2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.ink-alt": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#575757",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/choose-your-design/css/themes-uniform/aristo/css/uniform.aristo.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dbdbdb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katzkin.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Clash Display', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.4px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Clash Display', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.6px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Figtree', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Figtree', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Figtree', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Inter', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Figtree', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "3px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink-alt}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.vehicle-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.highlight}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".wp-block-button__link",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#eeeeee": {
+        "selector": "body",
+        "property": "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray",
+        "declaration": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#d63637": {
+        "selector": ":root",
+        "property": "--wpforms-label-error-color",
+        "declaration": "#d63637",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#066aab": {
+        "selector": ":root",
+        "property": "--wpforms-button-background-color",
+        "declaration": "#066aab",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#f47a21": {
+        "selector": ".before-after-content .cd-handle.draggable",
+        "property": "background-color",
+        "declaration": "#f47a21",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#332e2b": {
+        "selector": "a.materials-cta",
+        "property": "color",
+        "declaration": "#332e2b",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#575757": {
+        "selector": ".payment-katzkin-label",
+        "property": "color",
+        "declaration": "#575757",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#dbdbdb": {
+        "selector": ".social-section hr",
+        "property": "border-top",
+        "declaration": "1px solid #DBDBDB",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "#777777": {
+        "selector": "input.uniform-input,\nselect.uniform-multiselect,\ntextarea.uniform",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://katzkin.com/choose-your-design/css/themes-uniform/aristo/css/uniform.aristo.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "4ab79cbbcca1c2c4cab1de24c7f36f2407a3afa7bdab4614745ce1c573c3a0d0"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ".social-grid",
+        "property": "font-family",
+        "declaration": "Roboto, sans-serif",
+        "url": "https://katzkin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8ffe62b0ad41497693be4df3e5351d90503cc0a151ef3f2275107e924fff9696"
+      },
+      "Clash Display": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Clash Display\"",
+        "url": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9c069eb8f0148f8b2f146a273b369927c5cd001f2f488a5252faadd9772c3eb9"
+      },
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Inter\"",
+        "url": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9c069eb8f0148f8b2f146a273b369927c5cd001f2f488a5252faadd9772c3eb9"
+      },
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Figtree\"",
+        "url": "https://katzkin.com/wp-content/themes/Katzkin/css/header.css?v=111",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "9c069eb8f0148f8b2f146a273b369927c5cd001f2f488a5252faadd9772c3eb9"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "test-photo",
+    "type": "image",
+    "prompt": "Documentary photo, natural window light. A small coffee roastery in the morning: a woman in her thirties weighs green coffee beans on a scale at a wooden counter, laptop closed at the edge of the counter. Face three-quarters, not looking at the camera. Shallow depth of field, 35mm lens, muted warm palette, real textures.",
+    "negative": "people in suits, office, handshake, smiling at camera, stock photo look, blue tech gradients, text, logos",
+    "aspect_ratio": "3:2",
+    "quality": "high"
+  },
+  {
+    "id": "test-illustration",
+    "type": "image",
+    "prompt": "Flat editorial illustration for a SaaS landing page: a team chat turning into a neat list of decisions, abstract shapes of message bubbles flowing into checkmarks. Limited palette: off-white background, deep ink blue, one coral accent. Clean geometric style, generous white space, no text.",
+    "aspect_ratio": "3:2",
+    "quality": "medium"
+  },
+  {
+    "id": "test-video",
+    "type": "video",
+    "prompt": "Slow dolly-in, documentary style. A small coffee roastery in the morning, a woman pours freshly roasted beans from a cooling tray into a jar, steam and warm window light, closed laptop on the counter in the foreground out of focus. Calm, realistic motion, no text.",
+    "aspect_ratio": "16:9",
+    "duration": 5
+  }
+]

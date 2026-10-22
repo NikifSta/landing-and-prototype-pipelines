@@ -1,0 +1,874 @@
+{
+  "source_url": "https://firstleaf.com",
+  "final_url": "https://www.firstleaf.com/",
+  "captured_at": "2026-09-28T09:11:51.065304+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://firstleaf.com",
+      "final_url": "https://www.firstleaf.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "final_url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/home.css?v=153301783171374047831776882997",
+      "final_url": "https://www.firstleaf.com/cdn/shop/t/9/assets/home.css?v=153301783171374047831776882997",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "154719284209cc724c5ebbba28a8b1fef1f8c8169485b9a6208e2e162be16746",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/toastify.min.css?v=150820634804621995151776882998",
+      "final_url": "https://www.firstleaf.com/cdn/shop/t/9/assets/toastify.min.css?v=150820634804621995151776882998",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a687ba7729744a40d94157557fbc442928ccd3f503c65e9c91d15dda180ce885",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#37024b": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 38,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#212121": {
+      "count": 6,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 12,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#f7f5f8": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#d5440b": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "#ed654b": {
+      "count": 1,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#007180": {
+      "count": 1,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#342c38": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#f2eff3": {
+      "count": 1,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#00444d": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#e6f1f2": {
+      "count": 2,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    }
+  },
+  "font_families": {
+    "Gotham A": [
+      "https://www.firstleaf.com/"
+    ],
+    "Gotham B": [
+      "https://www.firstleaf.com/"
+    ],
+    "Calibri": [
+      "https://www.firstleaf.com/"
+    ],
+    "Roboto": [
+      "https://www.firstleaf.com/"
+    ],
+    "sans-serif": [
+      "https://www.firstleaf.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.firstleaf.com/",
+      "selector": ":root",
+      "declarations": "--page-width: 132rem;\n      --page-width-margin: 0rem;\n\n    --spacing-sections-desktop: 0px;\n    --spacing-sections-mobile: 0\n  px;\n\n  --grid-desktop-vertical-spacing: 8px;\n  --grid-desktop-horizontal-spacing: 8px;\n  --grid-mobile-vertical-spacing: 4px;\n  --grid-mobile-horizontal-spacing: 4px;"
+    },
+    {
+      "source": "https://www.firstleaf.com/",
+      "selector": ".gps-618362376688763667 .gp-group\\/button:active .group-active\\/button\\:\\!gp-text-inherit",
+      "declarations": "color:inherit!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/",
+      "selector": "lock;--d-tablet:block;--op:100%;--bblr:0px;--bbrr:0px;--btlr:0px;--btrr:0px;--mb:0px;--ta:left\n[data-id=\"gPT42gIwMG\"].gp-button-base::before, [data-id=\"gPT42gIw",
+      "declarations": "content: \"\";\n    height: 100%;\n    width: 100%;\n    position: absolute;\n    pointer-events: none;\n    top: 0;\n    left: 0;\n    border-style: solid;\n  border-width: 0px 0px 0px 0px;\n  border-color: var(--g-c-brand, brand);\n  \n    \n      border-bottom-left-radius: 8px;\n      border-bottom-right-radius: 8px;\n      border-top-left-radius: 8px;\n      border-top-right-radius: 8px;"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ":root",
+      "declarations": "--c-orange: #d5440b;--c-orange-hover: #ed654b;--c-purple: #37024b;--c-blue: #007180;--c-purple-darker: #342c38;--c-purple-dark: #413746;--c-purple-light: #76647f;--c-purple-lighter: #a89aaf;--c-purple-white: #f2eff3;--c-gray-light: #e0e0e0;--c-purple-lightest: #f7f5f8;--c-sub-heading: #a0a0a0;--bundle-savings-badge-color: #00444d;--bundle-savings-badge-background: #e6f1f2;--focus-ring: 2px solid var(--color-foreground);--focus-ring-offset: 2px"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ":root",
+      "declarations": "--focus-ring: 3px solid #000;--focus-ring-offset: 2px"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": "body",
+      "declarations": "line-height:2.8rem;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:Gotham A,Gotham B,Calibri,Roboto,sans-serif;color:#212121"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": "input,textarea,select,button",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.primary",
+      "declarations": "background-color:var(--c-orange);color:#fff;border:1px solid var(--c-orange)"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.primary:hover,.btn.primary:active,.btn.primary:focus",
+      "declarations": "background-color:var(--c-orange-hover);text-decoration:none!important;color:#fff!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.primary:disabled",
+      "declarations": "background-color:var(--c-sub-heading);color:#fff;border:1px solid var(--c-sub-heading);cursor:not-allowed"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.primary:disabled:hover,.btn.primary:disabled:active,.btn.primary:disabled:focus",
+      "declarations": "background-color:var(--c-sub-heading);color:#fff;border:1px solid var(--c-sub-heading)"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.secondary",
+      "declarations": "background-color:transparent;color:var(--c-orange);border:1px solid var(--c-orange)"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.secondary:hover,.btn.secondary:active,.btn.secondary:focus",
+      "declarations": "background-color:#d5440b1a;text-decoration:none!important;color:var(--c-orange)!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.purple",
+      "declarations": "background-color:var(--c-purple);color:#fff;border:1px solid var(--c-purple)"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.purple:hover,.btn.purple:active,.btn.purple:focus",
+      "declarations": "text-decoration:none!important;color:#fff!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.btn--loading",
+      "declarations": "position:relative;color:transparent!important;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".btn.btn--loading .loading__spinner .loading__spinner-icon",
+      "declarations": "color:currentColor;animation:spin 1s linear infinite"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .top-nav .header-left .link,.section-header .top-nav .header-left a",
+      "declarations": "font-size:1.4rem;color:#212121;cursor:pointer"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .top-nav .header-right #cart-icon-bubble .cart-count-bubble",
+      "declarations": "background:var(--c-orange);-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;bottom:1.1rem;color:#fff;font-weight:700;left:-webkit-calc(100% - .5rem);left:-moz-calc(100% - .5rem);left:calc(100% - .5rem);font-size:1.6rem;height:2.6rem;width:2.6rem;line-height:2.6rem;position:absolute;text-align:center"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .top-nav .header__submenu[open]>ul a:hover,.section-header .top-nav .header__submenu[open]>ul a:active,.section-header .top-nav .header__submenu",
+      "declarations": "text-decoration:none;color:var(--c-orange-hover)!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .top-nav .header__submenu[open]>.header__menu-parent-link span",
+      "declarations": "color:var(--c-orange-hover)!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .top-nav .header__submenu[open] summary span",
+      "declarations": "color:var(--c-orange-hover)!important"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .sub-nav nav>ul .link--text,.section-header .sub-nav nav>ul .header__submenu",
+      "declarations": "color:#fff;font-size:1.4rem;display:block;position:relative"
+    },
+    {
+      "source": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+      "selector": ".section-header .sub-nav nav>ul .header__submenu li a",
+      "declarations": "color:#000;padding:.8rem 1rem;margin:0;font-weight:400;letter-spacing:.04rem;line-height:2.4rem;text-decoration:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "America's #1 Awarded Wine Club Subscription - Firstleaf",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#d5440b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212121",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.muted": {
+      "value": "#a0a0a0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f5f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value": "#37024b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/"
+      ]
+    },
+    "colors.accent-purple-dark": {
+      "value": "#342c38",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#007180",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.accent-orange-hover": {
+      "value": "#ed654b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.surface-purple-white": {
+      "value": "#f2eff3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.badge-bg": {
+      "value": "#e6f1f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "colors.badge-text": {
+      "value": "#00444d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.75,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Gotham A, Gotham B, Calibri, Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "ctaBackground": "{colors.primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.accent-purple-dark}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.surface-purple-white}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.badge-bg}",
+        "textColor": "{colors.badge-text}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.quiz-flow-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.accent-blue}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#37024b": {
+        "selector": ".custom-section__wrapper-template--26991355855138__custom_section_hqY6A4",
+        "property": "background-color",
+        "declaration": "#37024b",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#ffffff": {
+        "selector": ".sales-hero-section-v2",
+        "property": "background-color",
+        "declaration": "#ffffff",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#212121": {
+        "selector": ".get-started-box-v2",
+        "property": "color",
+        "declaration": "#212121",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#00000000": {
+        "selector": "#AVXZvcWRXdmJqb3lwZ__container_mKEr9j",
+        "property": "border-color",
+        "declaration": "rgba(0,0,0,0)",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#000000": {
+        "selector": "#shopify-block-AeFNJU1c0MFNqdXJwc__text_HLPyq7 .rich-text__text,\n  #shopify-block-AeFNJU1c0MFNqdXJwc__text_HLPyq7 .rich-text__text ul,\n  #shopify-block-AeFNJU1c0MFNqdXJwc__text_HLPyq7 .rich-text__text ol",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#e0e0e0": {
+        "selector": "#AaGxZQjhCZSsyVW9jO__container_hTA9ba",
+        "property": "border-color",
+        "declaration": "#e0e0e0",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#f7f5f8": {
+        "selector": "inline-style",
+        "property": "--bgc",
+        "declaration": "#F7F5F8",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#d5440b": {
+        "selector": "inline-style",
+        "property": "--bg",
+        "declaration": "#D5440B",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "#ed654b": {
+        "selector": ":root",
+        "property": "--c-orange-hover",
+        "declaration": "#ed654b",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#007180": {
+        "selector": ":root",
+        "property": "--c-blue",
+        "declaration": "#007180",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#342c38": {
+        "selector": ":root",
+        "property": "--c-purple-darker",
+        "declaration": "#342c38",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#f2eff3": {
+        "selector": ":root",
+        "property": "--c-purple-white",
+        "declaration": "#f2eff3",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#a0a0a0": {
+        "selector": ":root",
+        "property": "--c-sub-heading",
+        "declaration": "#a0a0a0",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#00444d": {
+        "selector": ":root",
+        "property": "--bundle-savings-badge-color",
+        "declaration": "#00444d",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#e6f1f2": {
+        "selector": ":root",
+        "property": "--bundle-savings-badge-background",
+        "declaration": "#e6f1f2",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      },
+      "#333333": {
+        "selector": ".section-header .sub-nav .header__search .search-icon",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.firstleaf.com/cdn/shop/t/9/assets/base.css?v=96881908734369768341788971040",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "5172c0ecf960b4b53939f2bda77a75a485c4f28009151a11731f8362b442b43e"
+      }
+    },
+    "font_families": {
+      "Gotham A": {
+        "selector": ".sales-hero-title-v2",
+        "property": "font-family",
+        "declaration": "\"Gotham A\", \"Gotham B\", Calibri, Roboto, sans-serif",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "Gotham B": {
+        "selector": ".sales-hero-title-v2",
+        "property": "font-family",
+        "declaration": "\"Gotham A\", \"Gotham B\", Calibri, Roboto, sans-serif",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "Calibri": {
+        "selector": ".sales-hero-title-v2",
+        "property": "font-family",
+        "declaration": "\"Gotham A\", \"Gotham B\", Calibri, Roboto, sans-serif",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "Roboto": {
+        "selector": ".sales-hero-title-v2",
+        "property": "font-family",
+        "declaration": "\"Gotham A\", \"Gotham B\", Calibri, Roboto, sans-serif",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      },
+      "sans-serif": {
+        "selector": ".sales-hero-title-v2",
+        "property": "font-family",
+        "declaration": "\"Gotham A\", \"Gotham B\", Calibri, Roboto, sans-serif",
+        "url": "https://www.firstleaf.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d68dbfec86323cfbaccb732b469e351d5fd0f70f0ec6f3c1647646141019f831"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,800 @@
+{
+  "source_url": "https://helenlevi.com",
+  "final_url": "https://helenlevi.com/",
+  "captured_at": "2026-09-29T04:10:20.973774+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://helenlevi.com",
+      "final_url": "https://helenlevi.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "90c6c89f37b1b43220a8625f78310144d1c3e85ff9746a5bc32e50639e99e2f8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "final_url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#2f3490": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#2f349099": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#f5f2e3": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#ffffff": {
+      "count": 3,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#dedee2": {
+      "count": 2,
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "HL-T": [
+      "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+    ],
+    "Everson Mono": [
+      "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+    ],
+    "sans-serif": [
+      "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+    ],
+    "monospace": [
+      "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ":root",
+      "declarations": "--color__blue:#2F3490;--color__blue--tint:rgba(47, 52, 144,.6);--color__cream:#F5F2E3;--color__cream--tint:rgba(245, 242, 227,.5);--margin__page:48px;--margin__page:clamp(48px, 4.5vw, 96px);--gutter__grid:48px;--gutter__grid:clamp(48px, 4.5vw, 96px);--vert__gap--05:36px;--vert__gap--1:48px;--vert__gap--2:64px;--gap--small:12px;--gap--links:24px;--page__start:140px;--page__start:clamp(160px, 11.44vw, 180px);--figure-space:24px;--grid__col-count:12"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ":root",
+      "declarations": "--margin__page:20px;--gutter__grid:20px;--page__start:144px"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".product-info h1",
+      "declarations": "font-family:HL-T,sans-serif;text-transform:uppercase;font-size:24px;letter-spacing:.08em;font-weight:400;text-align:center;text-wrap:balance"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".product-card__thumbnails button.active",
+      "declarations": "border-color:#2f349099"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".related-products__header h3",
+      "declarations": "font-family:HL-T,sans-serif;text-transform:uppercase;font-size:24px;letter-spacing:.08em;font-weight:400;text-align:center;margin-block:0 var(--vert__gap--2)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".related-products__grid",
+      "declarations": "font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:22px;font-size:clamp(17px,1.6vw,22px);font-weight:700;line-height:1.28"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "div.product-form .shipping-info__button",
+      "declarations": "-webkit-animation:none;animation:none;position:fixed;bottom:8px;top:auto;left:50%;width:300px;margin-left:-150px;border-radius:2px;white-space:nowrap;width:auto;height:auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;z-index:12;gap:1em;background:var(--color__cream);color:var(--color__blue);padding:.5em 1em .2em"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".product__additional,.variant-description",
+      "declarations": "font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:22px;font-size:clamp(17px,1.6vw,22px);font-weight:700;line-height:1.28"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".product__additional h2,.variant-description h2",
+      "declarations": "margin-block:.5em;font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:16px;font-weight:700;letter-spacing:.08em;text-transform:uppercase"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "body",
+      "declarations": "color:var(--color__blue);font-family:Everson Mono,monospace;font-weight:700;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:16px"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "h1.page__title,.card-as-title",
+      "declarations": "text-align:center;font-family:HL-T,sans-serif;text-transform:uppercase;font-size:24px;letter-spacing:.08em;font-weight:400;text-decoration:none"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:22px;font-size:clamp(17px,1.6vw,22px);font-weight:700;line-height:1.28"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "input,button,select,textarea",
+      "declarations": "color:inherit;-webkit-appearance:none;-moz-appearance:none;appearance:none;border:1px solid var(--color__cream--tint);background:var(--color__cream);padding:.425em 12px;border-radius:2px"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".menu--open header.page__header",
+      "declarations": "color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "body:has(.media__fixed-full .fg-invert.active)",
+      "declarations": "color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": "body:has(.media__fixed-full .fg-invert.active) .header__cart .cart__icon",
+      "declarations": "border-color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu",
+      "declarations": "-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;gap:40px;background:var(--color__blue);color:var(--color__cream);display:none"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu ul a",
+      "declarations": "font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:22px;font-size:clamp(17px,1.6vw,22px);font-weight:700;line-height:1.28"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu .header__menu-item--parent",
+      "declarations": "font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:16px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;display:block;margin-bottom:1.125em"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu-group--other a.header__menu-item.header__menu-item--everything",
+      "declarations": "font-family:HL-T,sans-serif;text-transform:uppercase;font-size:24px;letter-spacing:.08em;font-weight:400;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;width:100%;text-align:center;padding:24px 32px;line-height:1.75;border:solid 1px var(--color__cream--tint);border-radius:4px;text-decoration-thickness:2px;text-underline-offset:.25em;text-decoration-color:var(--color__cream--tint)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu-group--other a.header__menu-item.header__menu-item--everything:hover",
+      "declarations": "border-color:var(--color__cream);text-decoration-color:var(--color__cream);border-width:2px"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu-item--less-than-perfect",
+      "declarations": "-ms-flex-item-align:end;align-self:flex-end;font-family:Everson Mono,monospace;font-style:normal;font-smoothing:antialiased;-webkit-font-smoothing:antialiased;font-size:20px;font-weight:700;line-height:1.28"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__menu-item--less-than-perfect:hover",
+      "declarations": "border-color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-field:focus-within",
+      "declarations": "border-color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input",
+      "declarations": "font-family:HL-T,sans-serif;text-transform:uppercase;font-size:24px;letter-spacing:.08em;font-weight:400;display:block;width:100%;padding:0 0 .25em;background:none;border:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;color:var(--color__cream)"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input::-webkit-input-placeholder",
+      "declarations": "color:var(--color__cream);opacity:1"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input::-moz-placeholder",
+      "declarations": "color:var(--color__cream);opacity:1"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input:-ms-input-placeholder",
+      "declarations": "color:var(--color__cream);opacity:1"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input::-ms-input-placeholder",
+      "declarations": "color:var(--color__cream);opacity:1"
+    },
+    {
+      "source": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+      "selector": ".header__search-input::placeholder",
+      "declarations": "color:var(--color__cream);opacity:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Helen Levi Ceramics",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#2f3490",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.ink": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#f5f2e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.body": {
+      "value": "#2f3490",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.muted": {
+      "value": "#2f349099",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedee2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#f5f2e3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.link": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#0000004d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#00000033",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.border-faint": {
+      "value": "#0000001a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "colors.true-black": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "HL-T, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0.08em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "HL-T, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.08em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Everson Mono, monospace",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.28,
+        "letterSpacing": "0.08em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Everson Mono, monospace",
+        "fontSize": "22px",
+        "fontWeight": 700,
+        "lineHeight": 1.28,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Everson Mono, monospace",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.28,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Everson Mono, monospace",
+        "fontSize": "13px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.04em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Everson Mono, monospace",
+        "fontSize": "17px",
+        "fontWeight": 700,
+        "lineHeight": 1.28,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "border": "1px solid {colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "border": "1px solid {colors.border-subtle}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.lg} {spacing.xxl}",
+        "gap": "{spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.display-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "thumbnailBorderActive": "{colors.muted}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "headingTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "borderTop": "1px solid {colors.hairline}",
+        "padding": "{spacing.xl} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}",
+        "border": "1px solid {colors.border-subtle}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "placeholderColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.shape-filter-chip": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.title-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}",
+        "activeBorder": "{colors.muted}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#2f3490": {
+        "selector": ":root",
+        "property": "--color__blue",
+        "declaration": "#2F3490",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#2f349099": {
+        "selector": ":root",
+        "property": "--color__blue--tint",
+        "declaration": "rgba(47, 52, 144,.6)",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#f5f2e3": {
+        "selector": ":root",
+        "property": "--color__cream",
+        "declaration": "#F5F2E3",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#0000001a": {
+        "selector": ".sticky-note",
+        "property": "-webkit-box-shadow",
+        "declaration": "0 2px 4px rgba(0,0,0,.1)",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#0000004d": {
+        "selector": ":focus-visible",
+        "property": "outline",
+        "declaration": "3px rgba(0,0,0,.3) solid",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#000000": {
+        "selector": "::-webkit-scrollbar-thumb",
+        "property": "background-color",
+        "declaration": "#000",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#ffffff": {
+        "selector": ".header__search-submit:hover",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#00000033": {
+        "selector": "section.media__fixed-full:AFTER",
+        "property": "background",
+        "declaration": "-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.2)),to(rgba(0,0,0,0)))",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#dedee2": {
+        "selector": ".variant-option:hover",
+        "property": "background-color",
+        "declaration": "#dedee2",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://helenlevi.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "HL-T": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "HL-T",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "Everson Mono": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Everson Mono",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "sans-serif": {
+        "selector": ".product-info h1",
+        "property": "font-family",
+        "declaration": "HL-T,sans-serif",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      },
+      "monospace": {
+        "selector": ".pdp__intro",
+        "property": "font-family",
+        "declaration": "Everson Mono,monospace",
+        "url": "https://helenlevi.com/cdn/shop/t/14/assets/helenlevi__css.css?v=129666602631429524301790369419",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8b7f1f92a8223941dd3fd27329c206ce4fd9810e935ab256adb38adaf2465fdc"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

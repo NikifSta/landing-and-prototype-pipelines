@@ -1,0 +1,818 @@
+{
+  "source_url": "https://humangear.com",
+  "final_url": "https://www.humangear.com/",
+  "captured_at": "2026-09-28T10:08:24.680125+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://humangear.com",
+      "final_url": "https://www.humangear.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "c3a96110da6063de92f7d8ccfd2b91e4524791ab6c9ca6d1eafc4bb49d35ff48",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "09c0bfc44bf3a27d6b3a08c2b3ea09ded67a36860b9b095b6295a398aef87307",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/cfd3d1e7-62c0-46c2-9802-ba86767fc9b2_986/website.components.code.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/cfd3d1e7-62c0-46c2-9802-ba86767fc9b2_986/website.components.code.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "82ec99aa241ab44565cd0cd2c7b0c7529f501b0fad9cbe303279d6f1722178b2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "62851efff91ee5fe72cea604fca72bbd29cfe282a517f1cbca5ba647285a1b65",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "final_url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 125,
+      "sources": [
+        "https://www.humangear.com/"
+      ]
+    },
+    "#000000": {
+      "count": 44,
+      "sources": [
+        "https://www.humangear.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 13,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f0523d": {
+      "count": 11,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#272727": {
+      "count": 25,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#dddddd": {
+      "count": 10,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "#00b2ff": {
+      "count": 9,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    }
+  },
+  "font_families": {
+    "aktiv-grotesk": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "sans-serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "Helvetica Neue": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "Helvetica": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "Clarkson": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ],
+    "Arial": [
+      "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ":root",
+      "declarations": "--accent-hsl:0,0%,100%;--darkAccent-hsl:114.54545455,10.47619048%,20.58823529%;--lightAccent-hsl:0,8.60215054%,63.52941176%;--safeLightAccent-hsl:0,0%,100%;--safeDarkAccent-hsl:0,0%,0%;--safeInverseAccent-hsl:0,0%,0%;--safeInverseLightAccent-hsl:0,0%,0%;--safeInverseDarkAccent-hsl:0,0%,100%;--black-hsl:0,0%,14.90196078%;--white-hsl:38.18181818,40.74074074%,94.70588235%"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;margin:0"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+      "declarations": "font-family:'Helvetica Neue',Helvetica,Sans-serif;font-size:12px;line-height:1.5em;font-weight:normal;font-style:normal;letter-spacing:.05em;margin:10px !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.DARK p,.sqs-cookie-banner-v2.DARK button,.sqs-cookie-banner-v2.DARK a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject),.sqsp-tooltip .buttons a:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):focus,.sqsp-tooltip .buttons a:not(.reject)>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject,.sqsp-tooltip .buttons a.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:focus,.sqsp-tooltip .buttons a.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover,.sqsp-tooltip .buttons a.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject),.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):focus,.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:focus,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation.danger-zone .sqs-widgets-confirmation-content .buttons .confirmation-button",
+      "declarations": "background-color:#f0523d;color:#fff !important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Obsessively designed outdoor & travel products for life",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f0523d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.humangear.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#272727",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.humangear.com/"
+      ]
+    },
+    "colors.deep-ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.humangear.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#00b2ff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.alert": {
+      "value": "#cc0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.highlight": {
+      "value": "#ffff00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Clarkson, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Clarkson, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "aktiv-grotesk, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "aktiv-grotesk, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "1.5em",
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "aktiv-grotesk, 'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 500,
+        "lineHeight": "22px",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.deep-ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.highlight}",
+        "textColor": "{colors.deep-ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "selectedBackgroundColor": "{colors.primary}",
+        "selectedTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "border": "1px solid {colors.hairline}",
+        "padding": "{spacing.xs} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--solidheaderbackgroundcolor",
+        "declaration": "hsla(0, 0%, 100%, 1)",
+        "url": "https://www.humangear.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c3a96110da6063de92f7d8ccfd2b91e4524791ab6c9ca6d1eafc4bb49d35ff48"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "--solidheadernavigationcolor",
+        "declaration": "hsla(0, 0%, 0%, 1)",
+        "url": "https://www.humangear.com/",
+        "snapshot": "homepage.html",
+        "sha256": "c3a96110da6063de92f7d8ccfd2b91e4524791ab6c9ca6d1eafc4bb49d35ff48"
+      },
+      "#fafafa": {
+        "selector": ":root",
+        "property": "--tweak-form-block-field-fill-color",
+        "declaration": "hsla(0,0%,98%,1)",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#ffff00": {
+        "selector": "mark",
+        "property": "background",
+        "declaration": "#ff0",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#111111": {
+        "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+        "property": "color",
+        "declaration": "#111",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#f6f6f6": {
+        "selector": ".sqsp-tooltip",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#f0523d": {
+        "selector": ".sqsp-tooltip .buttons a.reject:hover",
+        "property": "background-color",
+        "declaration": "#f0523d",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#272727": {
+        "selector": ".sqs-block-opentable .OT_wrapper",
+        "property": "color",
+        "declaration": "#272727",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#666666": {
+        "selector": ".sqs-search-ui-button-wrapper.color-dark::-webkit-input-placeholder",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#dddddd": {
+        "selector": ".sqs-search-ui-button-wrapper.color-light::-webkit-input-placeholder",
+        "property": "color",
+        "declaration": "#ddd",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#cc0000": {
+        "selector": ".product-block .productDetails .product-variants .variant-out-of-stock",
+        "property": "color",
+        "declaration": "#c00",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "#00b2ff": {
+        "selector": ".video-player .plyr__control:focus-visible",
+        "property": "outline",
+        "declaration": "2px dashed #00b2ff",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      }
+    },
+    "font_families": {
+      "aktiv-grotesk": {
+        "selector": ":root",
+        "property": "--heading-font-font-family",
+        "declaration": "\"aktiv-grotesk\"",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "serif": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "monospace,serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "Helvetica Neue": {
+        "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Sans-serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "Helvetica": {
+        "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Sans-serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "Clarkson": {
+        "selector": ".sqs-blockStatus-box",
+        "property": "font-family",
+        "declaration": "\"Clarkson\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      },
+      "Arial": {
+        "selector": ".sqs-blockStatus-box",
+        "property": "font-family",
+        "declaration": "\"Clarkson\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://static1.squarespace.com/static/versioned-site-css/62c7639ce611ae39f0b28820/76/5c5a519771c10ba3470d8101/62c7639ce611ae39f0b2883a/1831/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "d7454d8c73913c1fbe50a8e9398ea948ac34cc7cd2d59597db11adeaa1f96089"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

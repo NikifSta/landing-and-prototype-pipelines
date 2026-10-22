@@ -1,0 +1,11 @@
+{
+  "name": "landing-pipeline-from-designer",
+  "owner": { "name": "landing-pipeline-from-designer" },
+  "plugins": [
+    {
+      "name": "landing",
+      "source": "./",
+      "description": "Пайплайн лендингов для гипотез SaaS-продуктов"
+    }
+  ]
+}

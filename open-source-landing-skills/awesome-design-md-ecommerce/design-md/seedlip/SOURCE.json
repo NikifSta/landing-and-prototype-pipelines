@@ -1,0 +1,929 @@
+{
+  "source_url": "https://seedlipdrinks.com",
+  "final_url": "https://www.seedlipdrinks.com/en-us",
+  "captured_at": "2026-09-28T04:33:11.253546+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://seedlipdrinks.com",
+      "final_url": "https://www.seedlipdrinks.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "43fdee3a1693fbfe8f1c0a63d03c12769c09072411a4905d7ae251865dd8822f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+      "final_url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "final_url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c8a8634f58db4d5737daf8614c78b2a35727bf7acc5be1bf7cbd7b2a053316eb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:wght@300&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:wght@300&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5fc70c9ffbcea0f3a72260f65d7798324434d67c768255f3d4390772f9f3d4c9",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 61,
+      "sources": [
+        "https://www.seedlipdrinks.com/en-us"
+      ]
+    },
+    "#ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#154734": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#fff1e4": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#042b1a": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#091c14": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#e8edeb": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#617c71": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#2189d4": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#ffcd00": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#e3e48d": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#fdd086": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#f0bf9b": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#b9d3dc": {
+      "count": 2,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    }
+  },
+  "font_families": {
+    "mollieGlaston": [
+      "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+    ],
+    "brCandor": [
+      "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+    ],
+    "fsNeruda": [
+      "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+    ],
+    "sans-serif": [
+      "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+      "selector": ":root",
+      "declarations": "--space-2xlarge:3rem;--margin-space:2.75rem"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+      "selector": ":root",
+      "declarations": "--space-3xlarge:4.25rem;--space-2xlarge:3.75rem;--space-xlarge:3rem;--space-large:2.5rem;--space-medium:2rem;--space-small:1.5rem;--space-xsmall:1rem;--space-2xsmall:.75rem;--space-3xsmall:.5rem;--margin-space:4.25rem;--gutter-space:1.5rem;--button-space-topbottom:1rem;--button-space-sides:2rem;--radii-large:100px;--fontSize-4xlrg:3.75rem;--fontSize-3xlrg:3.25rem;--fontSize-2xlrg:2.75rem;--fontSize-xlrg:2rem;--fontSize-lrg:1.75rem;--fontSize-med:1.375rem;--fontSize-sml:1.25rem;--fontSize-xsml:1.125rem;--fontSize-2xsml:1rem;--fontSize-3xsml:.8125rem;--fontSize-4xsml:.75rem;--fixed-space-sides-medium:2rem"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+      "selector": ":root",
+      "declarations": "--space-3xlarge:5.5rem;--space-2xlarge:4.5rem;--space-xlarge:3.5rem;--space-large:3rem;--space-medium:2.25rem;--space-small:1.75rem;--space-xsmall:1.25rem;--space-2xsmall:.75rem;--space-3xsmall:.5rem;--margin-space:5rem;--gutter-space:1.75rem;--fontSize-4xlrg:5.5rem;--fontSize-3xlrg:4.25rem;--fontSize-2xlrg:3.5rem;--fontSize-xlrg:2.75rem;--fontSize-lrg:1.875rem;--fontSize-med:1.625rem;--fontSize-sml:1.375rem;--fontSize-xsml:1.25rem;--fontSize-2xsml:1.125rem;--fontSize-3xsml:.875rem;--button-fontSize-med:1rem;--button-fontSize-sml:.875rem"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "a:focus-visible,button:focus-visible",
+      "declarations": "border-radius:var(--radii-small)!important;outline-offset:3px!important;outline-width:2px!important;outline-style:solid!important;outline-color:var(--blue-600)!important"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-primary",
+      "declarations": "background-color:hsl(var(--component-button-color-primary-rest-background));border-color:hsl(var(--component-button-color-primary-rest-border));color:hsl(var(--component-button-color-primary-rest-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-primary:hover",
+      "declarations": "background-color:hsl(var(--component-button-color-primary-hover-background));border-color:hsl(var(--component-button-color-primary-hover-border));color:hsl(var(--component-button-color-primary-hover-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-primary:active",
+      "declarations": "background-color:hsl(var(--component-button-color-primary-press-background));border-color:hsl(var(--component-button-color-primary-press-border));color:hsl(var(--component-button-color-primary-press-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-secondary",
+      "declarations": "background-color:hsl(var(--component-button-color-secondary-rest-background));border-color:hsl(var(--component-button-color-secondary-rest-border));color:hsl(var(--component-button-color-secondary-rest-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-secondary:hover",
+      "declarations": "background-color:hsl(var(--component-button-color-secondary-hover-background));border-color:hsl(var(--component-button-color-secondary-hover-border));color:hsl(var(--component-button-color-secondary-hover-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-secondary:active",
+      "declarations": "background-color:hsl(var(--component-button-color-secondary-press-background));border-color:hsl(var(--component-button-color-secondary-press-border));color:hsl(var(--component-button-color-secondary-press-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-light",
+      "declarations": "background-color:hsl(var(--component-button-color-light-rest-background));border-color:hsl(var(--component-button-color-light-rest-border));color:hsl(var(--component-button-color-light-rest-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-light:hover",
+      "declarations": "background-color:hsl(var(--component-button-color-light-hover-background));border-color:hsl(var(--component-button-color-light-hover-border));color:hsl(var(--component-button-color-light-hover-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-light:active",
+      "declarations": "background-color:hsl(var(--component-button-color-light-press-background));border-color:hsl(var(--component-button-color-light-press-border));color:hsl(var(--component-button-color-light-press-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-outline",
+      "declarations": "border-color:hsl(var(--component-button-color-outline-rest-border));color:hsl(var(--component-button-color-outline-rest-foreground));background-color:#0000"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-outline:hover",
+      "declarations": "background-color:hsl(var(--component-button-color-outline-hover-background));border-color:hsl(var(--component-button-color-outline-hover-border));color:hsl(var(--component-button-color-outline-hover-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-outline:active",
+      "declarations": "background-color:hsl(var(--component-button-color-outline-press-background));border-color:hsl(var(--component-button-color-outline-press-border));color:hsl(var(--component-button-color-outline-press-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-ghost:hover",
+      "declarations": "background-color:hsl(var(--component-button-color-ghost-hover-background));border-color:hsl(var(--component-button-color-ghost-hover-border));color:hsl(var(--component-button-color-ghost-hover-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".br-button-ghost:active",
+      "declarations": "background-color:hsl(var(--component-button-color-ghost-press-background));border-color:hsl(var(--component-button-color-ghost-press-border));color:hsl(var(--component-button-color-ghost-press-foreground))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "body:has(.hero--transparent.hero--with-overlay) .headerLink",
+      "declarations": "--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "body .header",
+      "declarations": "background-color:var(--white)"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "body:has(.hero--transparent) .header",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ":is(body .headerLink,body:has(.hero--transparent.hero--transparent-dark) .headerLink)",
+      "declarations": "color:var(--emerald-800)"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ":is(body .headerLink:hover,body:has(.hero--transparent.hero--transparent-dark) .headerLink:hover)",
+      "declarations": "color:var(--emerald-900);text-decoration-line:underline"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "body:has(.hero--transparent.hero--transparent-light) .headerLink",
+      "declarations": "color:var(--white)"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": "body:has(.hero--transparent.hero--transparent-light) .headerLink:hover",
+      "declarations": "color:var(--white);text-decoration-line:underline"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".general-prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);margin-top:0;margin-bottom:.888889em;font-size:2.25em;font-weight:800;line-height:1.11111"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".general-prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit;font-weight:900"
+    },
+    {
+      "source": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+      "selector": ".general-prose :where(a code):not(:where([class~=not-prose],[class~=not-prose] *)),.general-prose :where(h1 code):not(:where([class~=not-prose],[class~=not-pros",
+      "declarations": "color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Non Alcoholic Drinks |  Distilled Non Alcoholic Spirits | Seedlip | Seedlip",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#154734",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#091c14",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#091c14",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#eaeaea",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#fff1e4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#ffcd00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.accent-soft": {
+      "value": "#e3e48d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.tan": {
+      "value": "#f0bf9b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.peach": {
+      "value": "#fdd086",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.pale-blue": {
+      "value": "#b9d3dc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.sage": {
+      "value": "#e8edeb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.sage-dark": {
+      "value": "#617c71",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.forest-deep": {
+      "value": "#042b1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.focus-blue": {
+      "value": "#2189d4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value": "#0000004d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "colors.overlay-light": {
+      "value": "#ffffff66",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "mollieGlaston, serif",
+        "fontSize": "88px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "mollieGlaston, serif",
+        "fontSize": "56px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "brCandor, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "fsNeruda, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "fsNeruda, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "fsNeruda, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "fsNeruda, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "borderColor": "{colors.primary}",
+        "textColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "focusRing": "{colors.focus-blue}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "borderBottom": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.forest-deep}",
+        "overlay": "{colors.overlay-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.flavor-tag": {
+      "value": {
+        "backgroundColor": "{colors.accent-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.full}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.sage}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://www.seedlipdrinks.com/en-us",
+        "snapshot": "homepage.html",
+        "sha256": "43fdee3a1693fbfe8f1c0a63d03c12769c09072411a4905d7ae251865dd8822f"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--white",
+        "declaration": "#fff",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#154734": {
+        "selector": ":root",
+        "property": "--emerald-800",
+        "declaration": "#154734",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#fff1e4": {
+        "selector": ":root",
+        "property": "--orange-50",
+        "declaration": "#fff1e4",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#042b1a": {
+        "selector": ":root",
+        "property": "--gradient-brand",
+        "declaration": "linear-gradient(180deg, #154734 0%, #042b1a 100%)",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#0000004d": {
+        "selector": ":root",
+        "property": "--gradiend-dark-green",
+        "declaration": "linear-gradient(142.62deg, #e3e48eb3 21.85%, #7fb111b3 100%), linear-gradient(0deg, #0000004d, #0000004d)",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#091c14": {
+        "selector": ":root",
+        "property": "--gradient-inverse",
+        "declaration": "linear-gradient(0deg, #091c14 0%, #091c1480 37.93%, #091c1400 59.71%, #091c1400 73.22%, #091c14 100%)",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#eaeaea": {
+        "selector": ":root",
+        "property": "--grey-200",
+        "declaration": "#eaeaea",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#666666": {
+        "selector": ":root",
+        "property": "--grey-600",
+        "declaration": "#666",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#e8edeb": {
+        "selector": ":root",
+        "property": "--grey-green-100",
+        "declaration": "#e8edeb",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#617c71": {
+        "selector": ":root",
+        "property": "--grey-green-600",
+        "declaration": "#617c71",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#2189d4": {
+        "selector": ":root",
+        "property": "--blue-600",
+        "declaration": "#2189d4",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#ffcd00": {
+        "selector": ":root",
+        "property": "--yellow-600",
+        "declaration": "#ffcd00",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--black-alpha-0",
+        "declaration": "#000",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#e3e48d": {
+        "selector": ":root",
+        "property": "--green-200",
+        "declaration": "#e3e48d",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#fdd086": {
+        "selector": ":root",
+        "property": "--orange-300",
+        "declaration": "#fdd086",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#f0bf9b": {
+        "selector": ":root",
+        "property": "--brown-300",
+        "declaration": "#f0bf9b",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#b9d3dc": {
+        "selector": ":root",
+        "property": "--blue-300",
+        "declaration": "#b9d3dc",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "#ffffff66": {
+        "selector": ":root",
+        "property": "--white-alpha-40",
+        "declaration": "#fff6",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      }
+    },
+    "font_families": {
+      "mollieGlaston": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "mollieGlaston",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "brCandor": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "brCandor",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "fsNeruda": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "fsNeruda",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2d3_cfrbuhkbt.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "f980a556ad377325d6cc13655318ef9c440b52b7a4c6391b4fd6edd4cd2108a0"
+      },
+      "sans-serif": {
+        "selector": "html,:host",
+        "property": "font-family",
+        "declaration": "ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji",
+        "url": "https://www.seedlipdrinks.com/_next/static/immutable/chunks/2bjhq_85nzaia.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "c8a8634f58db4d5737daf8614c78b2a35727bf7acc5be1bf7cbd7b2a053316eb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

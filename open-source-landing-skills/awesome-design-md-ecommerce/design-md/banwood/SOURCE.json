@@ -1,0 +1,814 @@
+{
+  "source_url": "https://banwood.com",
+  "final_url": "https://banwood.eu/",
+  "captured_at": "2026-09-28T09:58:35.633203+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://banwood.com",
+      "final_url": "https://banwood.eu/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "final_url": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1c9301fa81c152c67ea9f90143d844b502142f4227f8746c6eec9600885a630b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a020a8-d8f8-7ae1-a69a-abea87603085/apex-cart-progress-upsell-259/assets/apex-app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a020a8-d8f8-7ae1-a69a-abea87603085/apex-cart-progress-upsell-259/assets/apex-app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7dda75d89a83efb7ef494c8ba3c88c7b5669bc2396fe4986a7b5c9c4974497c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0da9e-3e9e-7f1a-a2a6-6b1032d2c723/bacon-menu-39/assets/meteor-menu.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0da9e-3e9e-7f1a-a2a6-6b1032d2c723/bacon-menu-39/assets/meteor-menu.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "76f67244da0b72cd7048d15e8854797c0f922d811d242106276bcc0fd2d19c88",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+      "final_url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#8f887c": {
+      "count": 1,
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "#686767": {
+      "count": 2,
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "#ffffff": {
+      "count": 29,
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "#5a4e46": {
+      "count": 1,
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#41d38b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a020a8-d8f8-7ae1-a69a-abea87603085/apex-cart-progress-upsell-259/assets/apex-app.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "#74c587": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "#e8e9eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "#df3b3b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Figtree": [
+      "https://banwood.eu/"
+    ],
+    "Nunito": [
+      "https://banwood.eu/"
+    ],
+    "sans-serif": [
+      "https://banwood.eu/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://banwood.eu/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.75rem;\n      --text-sm: 0.8125rem;\n      --text-base: 0.875rem;\n      --text-lg: 1.0rem;\n      --text-xl: 1.25rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 3rem;\n      --section-vertical-spacing-tight: 3rem;\n\n      --section-stack-gap:2.25rem;\n      --section-stack-gap-tight:2.25rem;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 227 44 43;\n    --on-sale-badge-background: 227 44 43;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "display:none;visibility:hidden\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n    :root",
+      "declarations": "--announcement-bar-is-sticky: 1;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-sections--29044934082886__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 28 28 28;\n    --header-separation-border-color: 28 28 28 / 0.15;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-sections--29044934082886__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-sections--29044934082886__header",
+      "declarations": "--header-grid: \". logo secondary-nav\" \"primary-nav primary-nav primary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-sections--29044934082886__header",
+      "declarations": "--header-logo-width: 100px;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-sections--29044934082886__header",
+      "declarations": "--header-logo-width: 195px;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": "#shopify-section-template--29044938998086__slideshow_AJPeMb .button--outline",
+      "declarations": "background-color: transparent !important; color: white; font-weight: bold;"
+    },
+    {
+      "source": "https://banwood.eu/",
+      "selector": ".button--outline",
+      "declarations": "background-color: black !important; color: white; font-weight: bold;"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:white"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 100%,100% 100%"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color))"
+    },
+    {
+      "source": "https://banwood.eu/cdn/shop/t/9/assets/theme.css?v=20159629965024951181789124355",
+      "selector": ".circle-button",
+      "declarations": "--circle-button-size: 2.75rem;width:var(--circle-button-size);height:var(--circle-button-size);background:rgb(var(--circle-button-background));color:rgb(var(--circle-button-text-color));border-radius:var(--rounded-full);box-shadow:0 .125rem .625rem rgb(var(--circle-button-text-color) / .15);place-items:center;display:grid"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kids Balance Bikes & Bicycles | Scandinavian Design | Banwood",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#686767",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#e8e9eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fefefe",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.accent-clay": {
+      "value": "#8f887c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.accent-earth": {
+      "value": "#5a4e46",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://banwood.eu/"
+      ]
+    },
+    "colors.success": {
+      "value": "#41d38b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a020a8-d8f8-7ae1-a69a-abea87603085/apex-cart-progress-upsell-259/assets/apex-app.css"
+      ]
+    },
+    "colors.success-soft": {
+      "value": "#74c587",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "colors.error": {
+      "value": "#dc3545",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "colors.sale": {
+      "value": "#df3b3b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Nunito, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.0,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "priceColor": "{colors.ink}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlayColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "linkColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "saleBackground": "{colors.sale}",
+        "saleText": "{colors.on-primary}",
+        "soldOutBackground": "{colors.surface-soft}",
+        "soldOutText": "{colors.muted}",
+        "customBackground": "{colors.primary}",
+        "customText": "{colors.on-primary}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "iconColor": "{colors.muted}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.age-fit-guide": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "accentColor": "{colors.accent-earth}",
+        "successColor": "{colors.success}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#8f887c": {
+        "selector": "#shopify-section-template--29044938998086__slideshow_3hLdVN .button",
+        "property": "background",
+        "declaration": "#8f887c",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "#686767": {
+        "selector": ".zify-slider-item-2830 .zify-nav .a",
+        "property": "stroke",
+        "declaration": "#686767",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--play-button-background",
+        "declaration": "#ffffff",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "#5a4e46": {
+        "selector": ".kl-banner-title",
+        "property": "color",
+        "declaration": "#5a4e46",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://banwood.eu/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#41d38b": {
+        "selector": ".apex-progress-branding-link",
+        "property": "color",
+        "declaration": "#41d38b",
+        "url": "https://cdn.shopify.com/extensions/01a020a8-d8f8-7ae1-a69a-abea87603085/apex-cart-progress-upsell-259/assets/apex-app.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "b7dda75d89a83efb7ef494c8ba3c88c7b5669bc2396fe4986a7b5c9c4974497c"
+      },
+      "#fefefe": {
+        "selector": ".zify-popup-products .zify-notifications-alert",
+        "property": "background-color",
+        "declaration": "#fefefe",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      },
+      "#74c587": {
+        "selector": ".zify-popup-products .zify-notifications-alert span.zify-success",
+        "property": "background-color",
+        "declaration": "#74c587",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      },
+      "#dc3545": {
+        "selector": ".zify-popup-products .zify-notifications-alert span.zify-error",
+        "property": "background-color",
+        "declaration": "#dc3545",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      },
+      "#e8e9eb": {
+        "selector": ".zify-item-product .zify-addtocart-form .zify-product-select select",
+        "property": "border",
+        "declaration": "1px solid rgb(232, 233, 235)",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      },
+      "#df3b3b": {
+        "selector": ".zify-item-product .item_discount",
+        "property": "background",
+        "declaration": "#df3b3b",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      },
+      "#333333": {
+        "selector": ".zify-item-product a,\n.zify-item-product .product-title",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://cdn.shopify.com/extensions/019e69da-2152-7f89-9254-6fb642ca7132/pavo-product-slider-30/assets/zify-products-slider.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "65bbbaee0a377131bd8951f098f758460c0046414d7bce84027eb9e0eb53f0d8"
+      }
+    },
+    "font_families": {
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Figtree",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "Nunito": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Nunito",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Figtree, sans-serif",
+        "url": "https://banwood.eu/",
+        "snapshot": "homepage.html",
+        "sha256": "cee6e467f8c9ad1d06d24bcc0d52f4c75e53166bfec7d480b04f888f27a65c9d"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

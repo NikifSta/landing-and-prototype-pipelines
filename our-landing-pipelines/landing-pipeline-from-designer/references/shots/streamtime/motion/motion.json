@@ -1,0 +1,337 @@
+{
+  "url": "https://streamtime.net/",
+  "date": "2026-10-06T10:22:18.488Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": true,
+        "scrollTrigger": true,
+        "lenis": false,
+        "lottie": true,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 4,
+        "scrollHeight": 9811
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 9811,
+          "el": "div.global-styles.w-embed"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 80,
+          "parentHeight": 9280,
+          "el": "div.nav-wrapper «Menu What does it do? Why does it matter? How much»"
+        },
+        {
+          "position": "fixed",
+          "top": "687.234px",
+          "height": 193,
+          "parentHeight": 0,
+          "el": "div#cookie-banner.cookie_banner «Cookie Settings We use cookies to provide you with»"
+        },
+        {
+          "position": "fixed",
+          "top": "840px",
+          "height": 40,
+          "parentHeight": 0,
+          "el": "div#cookie-icon.cookie_icon"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y432.png",
+          "y": 432,
+          "moving": true
+        },
+        {
+          "frame": "002-y1086.png",
+          "y": 1086,
+          "moving": true
+        },
+        {
+          "frame": "003-y1536.png",
+          "y": 1536,
+          "moving": true
+        },
+        {
+          "frame": "004-y1986.png",
+          "y": 1986,
+          "moving": true
+        },
+        {
+          "frame": "005-y2436.png",
+          "y": 2436,
+          "moving": true
+        },
+        {
+          "frame": "006-y2886.png",
+          "y": 2886,
+          "moving": true
+        },
+        {
+          "frame": "007-y3336.png",
+          "y": 3336,
+          "moving": true
+        },
+        {
+          "frame": "008-y3786.png",
+          "y": 3786,
+          "moving": true
+        },
+        {
+          "frame": "009-y4236.png",
+          "y": 4236,
+          "moving": true
+        },
+        {
+          "frame": "010-y4686.png",
+          "y": 4686,
+          "moving": true
+        },
+        {
+          "frame": "011-y5136.png",
+          "y": 5136,
+          "moving": true
+        },
+        {
+          "frame": "012-y5586.png",
+          "y": 5586,
+          "moving": true
+        },
+        {
+          "frame": "013-y6036.png",
+          "y": 6036,
+          "moving": false
+        },
+        {
+          "frame": "014-y6486.png",
+          "y": 6486,
+          "moving": false
+        },
+        {
+          "frame": "015-y6936.png",
+          "y": 6936,
+          "moving": false
+        },
+        {
+          "frame": "016-y7386.png",
+          "y": 7386,
+          "moving": false
+        },
+        {
+          "frame": "017-y7836.png",
+          "y": 7836,
+          "moving": true
+        },
+        {
+          "frame": "018-y8286.png",
+          "y": 8286,
+          "moving": true
+        },
+        {
+          "frame": "019-y8736.png",
+          "y": 8736,
+          "moving": true
+        },
+        {
+          "frame": "020-y8911.png",
+          "y": 8911,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee-horizontal",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.banner-row",
+          "firstSeenAtY": 0
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": true,
+        "scrollTrigger": true,
+        "lenis": false,
+        "lottie": true,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 4,
+        "scrollHeight": 7554
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 7554,
+          "el": "div.global-styles.w-embed"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 80,
+          "parentHeight": 6909,
+          "el": "div.nav-wrapper «Menu What does it do? Why does it matter? How much»"
+        },
+        {
+          "position": "sticky",
+          "top": "80px",
+          "height": 764,
+          "parentHeight": 1688,
+          "el": "div.content-group «A way better way of working. Balance your workflow»"
+        },
+        {
+          "position": "fixed",
+          "top": "569.234px",
+          "height": 265,
+          "parentHeight": 0,
+          "el": "div#cookie-banner.cookie_banner «Cookie Settings We use cookies to provide you with»"
+        },
+        {
+          "position": "fixed",
+          "top": "784px",
+          "height": 40,
+          "parentHeight": 0,
+          "el": "div#cookie-icon.cookie_icon"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": true
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": false
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": false
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": false
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": true
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": false
+        },
+        {
+          "frame": "016-y6710.png",
+          "y": 6710,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+          "target": "div.big-tabs_link-wrapper",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+          "target": "div.big-tabs_stage",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.165, 0.84, 0.44, 1)",
+          "target": "div.big-tabs_stage.cc-last",
+          "firstSeenAtY": 6330
+        }
+      ]
+    }
+  }
+}

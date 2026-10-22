@@ -1,0 +1,810 @@
+{
+  "source_url": "https://www.stentor-music.com",
+  "final_url": "https://www.stentor-music.com/",
+  "captured_at": "2026-09-28T04:09:23.294049+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.stentor-music.com",
+      "final_url": "https://www.stentor-music.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "788fd1de491fc4c2dedc6c753fea2b60e2f47bebab406a671cd0d5484821b6e7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "final_url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.stentor-music.com/sites/layout-one/css/font-awesome-allv6.min.css",
+      "final_url": "https://www.stentor-music.com/sites/layout-one/css/font-awesome-allv6.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "98159503f1c35839efe59b9f30c46ddc52e008e292ac9202d856283a4bfa5802",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.stentor-music.com/sites/layout-one/css/font-awesome.min.css?v=2",
+      "final_url": "https://www.stentor-music.com/sites/layout-one/css/font-awesome.min.css?v=2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fe04392df7a777c03062dc887d4937ffa2d8f439efd6bc125e7584cbd292ab9c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.stentor-music.com/common/css/slimbox2.css?v=2",
+      "final_url": "https://www.stentor-music.com/common/css/slimbox2.css?v=2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c50f3c766d9b26fdeb67b09df6a421fabcb1c047dc9673315c8b80e36bbdaf4",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.stentor-music.com/sites/layout-one/css/smoothness/jquery-ui-1.8.22.custom.css",
+      "final_url": "https://www.stentor-music.com/sites/layout-one/css/smoothness/jquery-ui-1.8.22.custom.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a36eef6031f73b6d3aee939a6193818386ade397cb86f91f92bdef6f6396f41b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://www.stentor-music.com/"
+      ]
+    },
+    "#333333": {
+      "count": 18,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#999999": {
+      "count": 35,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#0088cc": {
+      "count": 22,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#cccccc": {
+      "count": 21,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 15,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#ee5f5b": {
+      "count": 12,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#dddddd": {
+      "count": 29,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 6,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#f89406": {
+      "count": 16,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#62c462": {
+      "count": 11,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#5bc0de": {
+      "count": 11,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "#222222": {
+      "count": 21,
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://www.stentor-music.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+    ],
+    "Helvetica": [
+      "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+    ],
+    "Arial": [
+      "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": "body",
+      "declarations": "margin:0;font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;font-size:14px;line-height:20px;color:#333;background-color:#fff"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "margin:10px 0;font-family:inherit;font-weight:bold;line-height:20px;color:inherit;text-rendering:optimizelegibility"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "font-weight:normal;line-height:1;color:#999"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-striped tbody>tr:nth-child(odd)>td,.table-striped tbody>tr:nth-child(odd)>th",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-hover tbody tr:hover>td,.table-hover tbody tr:hover>th",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table tbody tr.success>td",
+      "declarations": "background-color:#dff0d8"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table tbody tr.error>td",
+      "declarations": "background-color:#f2dede"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table tbody tr.warning>td",
+      "declarations": "background-color:#fcf8e3"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table tbody tr.info>td",
+      "declarations": "background-color:#d9edf7"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-hover tbody tr.success:hover>td",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-hover tbody tr.error:hover>td",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-hover tbody tr.warning:hover>td",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".table-hover tbody tr.info:hover>td",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn",
+      "declarations": "display:inline-block;*display:inline;padding:4px 12px;margin-bottom:0;*margin-left:.3em;font-size:14px;line-height:20px;color:#333;text-align:center;text-shadow:0 1px 1px rgba(255,255,255,0.75);vertical-align:middle;cursor:pointer;background-color:#f5f5f5;*background-color:#e6e6e6;background-image:-moz-linear-gradient(top,#fff,#e6e6e6);background-image:-webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));background-image:-webkit-linear-gradient(top,#fff,#e6e6e6);background-image:-o-linear-gradient(top,#fff,#e6e6e6);background-image:linear-gradient(to bottom,#fff,#e6e6e6);background-repeat:repeat-x;border:1px solid #ccc;*border:0;border-color:#e6e6e6 #e6e6e6 #bfbfbf;border-color:rgba(0,"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn:hover,.btn:focus,.btn:active,.btn.active,.btn.disabled,.btn[disabled]",
+      "declarations": "color:#333;background-color:#e6e6e6;*background-color:#d9d9d9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn:active,.btn.active",
+      "declarations": "background-color:#ccc \\9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn:hover,.btn:focus",
+      "declarations": "color:#333;text-decoration:none;background-position:0 -15px;-webkit-transition:background-position .1s linear;-moz-transition:background-position .1s linear;-o-transition:background-position .1s linear;transition:background-position .1s linear"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-primary.active,.btn-warning.active,.btn-danger.active,.btn-success.active,.btn-info.active,.btn-inverse.active",
+      "declarations": "color:rgba(255,255,255,0.75)"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);background-color:#006dcc;*background-color:#04c;background-image:-moz-linear-gradient(top,#08c,#04c);background-image:-webkit-gradient(linear,0 0,0 100%,from(#08c),to(#04c));background-image:-webkit-linear-gradient(top,#08c,#04c);background-image:-o-linear-gradient(top,#08c,#04c);background-image:linear-gradient(to bottom,#08c,#04c);background-repeat:repeat-x;border-color:#04c #04c #002a80;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc',endColorstr='#ff0044cc',GradientType=0);filter:progid:DXImageTransform.Microsoft.gradient(enabled=false)"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.btn-primary.disabled,.btn-primary[disabled]",
+      "declarations": "color:#fff;background-color:#04c;*background-color:#003bb3"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-primary:active,.btn-primary.active",
+      "declarations": "background-color:#039 \\9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-warning",
+      "declarations": "color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);background-color:#faa732;*background-color:#f89406;background-image:-moz-linear-gradient(top,#fbb450,#f89406);background-image:-webkit-gradient(linear,0 0,0 100%,from(#fbb450),to(#f89406));background-image:-webkit-linear-gradient(top,#fbb450,#f89406);background-image:-o-linear-gradient(top,#fbb450,#f89406);background-image:linear-gradient(to bottom,#fbb450,#f89406);background-repeat:repeat-x;border-color:#f89406 #f89406 #ad6704;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450',endColorstr='#fff89406',GradientType=0);filter:progid:DXImageTransform.Microsoft."
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-warning:hover,.btn-warning:focus,.btn-warning:active,.btn-warning.active,.btn-warning.disabled,.btn-warning[disabled]",
+      "declarations": "color:#fff;background-color:#f89406;*background-color:#df8505"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-warning:active,.btn-warning.active",
+      "declarations": "background-color:#c67605 \\9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-danger",
+      "declarations": "color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);background-color:#da4f49;*background-color:#bd362f;background-image:-moz-linear-gradient(top,#ee5f5b,#bd362f);background-image:-webkit-gradient(linear,0 0,0 100%,from(#ee5f5b),to(#bd362f));background-image:-webkit-linear-gradient(top,#ee5f5b,#bd362f);background-image:-o-linear-gradient(top,#ee5f5b,#bd362f);background-image:linear-gradient(to bottom,#ee5f5b,#bd362f);background-repeat:repeat-x;border-color:#bd362f #bd362f #802420;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffee5f5b',endColorstr='#ffbd362f',GradientType=0);filter:progid:DXImageTransform.Microsoft."
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-danger:hover,.btn-danger:focus,.btn-danger:active,.btn-danger.active,.btn-danger.disabled,.btn-danger[disabled]",
+      "declarations": "color:#fff;background-color:#bd362f;*background-color:#a9302a"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-danger:active,.btn-danger.active",
+      "declarations": "background-color:#942a25 \\9"
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);background-color:#5bb75b;*background-color:#51a351;background-image:-moz-linear-gradient(top,#62c462,#51a351);background-image:-webkit-gradient(linear,0 0,0 100%,from(#62c462),to(#51a351));background-image:-webkit-linear-gradient(top,#62c462,#51a351);background-image:-o-linear-gradient(top,#62c462,#51a351);background-image:linear-gradient(to bottom,#62c462,#51a351);background-repeat:repeat-x;border-color:#51a351 #51a351 #387038;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462',endColorstr='#ff51a351',GradientType=0);filter:progid:DXImageTransform.Microsoft."
+    },
+    {
+      "source": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+      "selector": ".btn-success:hover,.btn-success:focus,.btn-success:active,.btn-success.active,.btn-success.disabled,.btn-success[disabled]",
+      "declarations": "color:#fff;background-color:#51a351;*background-color:#499249"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Stentor Music Co Ltd Stentor violins, violas,cellos and basses - Stentor Music",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0088cc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.ink": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f9f9f9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value": "#f89406",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.success": {
+      "value": "#62c462",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.danger": {
+      "value": "#ee5f5b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.info": {
+      "value": "#5bc0de",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "colors.border-light": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 700,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": "20px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": "20px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.border-light}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.family-nav": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.border-light}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.info}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#FFFFFF",
+        "url": "https://www.stentor-music.com/",
+        "snapshot": "homepage.html",
+        "sha256": "788fd1de491fc4c2dedc6c753fea2b60e2f47bebab406a671cd0d5484821b6e7"
+      },
+      "#333333": {
+        "selector": "a:focus",
+        "property": "outline",
+        "declaration": "thin dotted #333",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#999999": {
+        "selector": "pre,blockquote",
+        "property": "border",
+        "declaration": "1px solid #999",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#0088cc": {
+        "selector": "a",
+        "property": "color",
+        "declaration": "#08c",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#cccccc": {
+        "selector": ".img-polaroid",
+        "property": "border",
+        "declaration": "1px solid #ccc",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#f5f5f5": {
+        "selector": "pre",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#ee5f5b": {
+        "selector": "input:focus:invalid,textarea:focus:invalid,select:focus:invalid",
+        "property": "border-color",
+        "declaration": "#ee5f5b",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#dddddd": {
+        "selector": ".table th,.table td",
+        "property": "border-top",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#f9f9f9": {
+        "selector": ".table-striped tbody>tr:nth-child(odd)>td,.table-striped tbody>tr:nth-child(odd)>th",
+        "property": "background-color",
+        "declaration": "#f9f9f9",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#f89406": {
+        "selector": ".btn-warning",
+        "property": "background-image",
+        "declaration": "-moz-linear-gradient(top,#fbb450,#f89406)",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#62c462": {
+        "selector": ".btn-success",
+        "property": "background-image",
+        "declaration": "-moz-linear-gradient(top,#62c462,#51a351)",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#5bc0de": {
+        "selector": ".btn-info",
+        "property": "background-image",
+        "declaration": "-moz-linear-gradient(top,#5bc0de,#2f96b4)",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "#222222": {
+        "selector": ".btn-inverse",
+        "property": "background-image",
+        "declaration": "-moz-linear-gradient(top,#444,#222)",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "inline-style",
+        "property": "font-family",
+        "declaration": "tahoma, sans-serif",
+        "url": "https://www.stentor-music.com/",
+        "snapshot": "homepage.html",
+        "sha256": "788fd1de491fc4c2dedc6c753fea2b60e2f47bebab406a671cd0d5484821b6e7"
+      },
+      "Helvetica Neue": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "Helvetica": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://www.stentor-music.com/sites/layout-one/css/bootstrap.min.css?v=2",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3fc7cabf778f0cd8ec25217876ef8d54b182ef90021b6216acc701ebba92ab88"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

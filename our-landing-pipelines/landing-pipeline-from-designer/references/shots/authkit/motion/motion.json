@@ -1,0 +1,1568 @@
+{
+  "url": "https://www.authkit.com/",
+  "date": "2026-10-06T10:02:43.944Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://www.authkit.com/video/authkit.webm",
+            "autoplay": true,
+            "loop": false,
+            "muted": true,
+            "el": "div.outline-box-module__xQataW__box.outline-box-module__xQataW__box-dots"
+          }
+        ],
+        "canvases": 4,
+        "scrollHeight": 8317
+      },
+      "pinned": [],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": true
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": true
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": true
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": true
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": true
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": true
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": true
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": false
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": true
+        },
+        {
+          "frame": "017-y7417.png",
+          "y": 7417,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 500,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.hero__spotlights",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.hero__lines",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 300.00000000000006,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "header.hero__header «WorkOS Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 300.00000000000006,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "header.hero__header «WorkOS Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 300.00000000000006,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.between-lines-module__MGH8kW__wrapper.between-lines-module__MGH8kW__wrapper-gradient «Introducing»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 300.00000000000006,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.between-lines-module__MGH8kW__wrapper.between-lines-module__MGH8kW__wrapper-gradient «Introducing»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 2000,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "img",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.outline-box-module__xQataW__box.outline-box-module__xQataW__box-dots «The world’s best login box, powered by WorkOS + Ra»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.outline-box-module__xQataW__box.outline-box-module__xQataW__box-dots «The world’s best login box, powered by WorkOS + Ra»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "h2.text-module__fCa7uq__text.text-module__fCa7uq__text-normal «The world’s best login box, powered by WorkOS + Ra»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "h2.text-module__fCa7uq__text.text-module__fCa7uq__text-normal «The world’s best login box, powered by WorkOS + Ra»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.text-module__fCa7uq__text.text-module__fCa7uq__text-gradient «The world’s best login box,»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.text-module__fCa7uq__text.text-module__fCa7uq__text-gradient «The world’s best login box,»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "br",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "br",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.text-module__fCa7uq__text.text-module__fCa7uq__text-gradient «powered by WorkOS + Radix.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.text-module__fCa7uq__text.text-module__fCa7uq__text-gradient «powered by WorkOS + Radix.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 2100,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.hero__light-switch «Light and dark modes supported.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 2100,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.hero__light-switch «Light and dark modes supported.»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1500,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.hero__cross",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1500,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.hero__cross",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spotlight-module__jnxCBG__opacity",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.spotlight-module__jnxCBG__spotlight",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spotlight-module__jnxCBG__scale",
+          "duration": 8500,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.spotlight-module__jnxCBG__spotlight",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.glowing-button-module__G7fw6a__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "card-module__0fl7Ca__line-anim",
+          "duration": 12000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.card-module__0fl7Ca__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "card-module__0fl7Ca__line-opacity-loop",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.card-module__0fl7Ca__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Single Sign-On»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-separator-mask",
+          "duration": 1500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.features-slider__separator",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 1200,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Password»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 2400,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Multi-Factor Auth»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 3599.9999999999995,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Social Login»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 4800,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Role-Based Access Control»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 6000,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container «Magic Auth»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dashboard-events-spinner",
+          "duration": 4000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "security-leaked-line",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "security-automatic-radar",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img.security-automatic-radar",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-1",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-2",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-3",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-4",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-5",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 2500,
+          "delay": 1800,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.33, 1, 0.68, 1)",
+          "target": "div «Sign in to SuperApp Email Continue OR Continue wit»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 2500,
+          "delay": 1850,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.65, 0, 0.35, 1)",
+          "target": "div «Welcome to the Blamer Log in to continue. Email Co»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 2500,
+          "delay": 1850,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.65, 0, 0.35, 1)",
+          "target": "div «Sign in to Clamer Enter the temporary passcode fro»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.security-rbac__dots",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "p.security-rbac__display",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "button.button-module__aLF8Ya__button.button-module__aLF8Ya__button-outline «Continue with Microsoft»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "button.button-module__aLF8Ya__button.button-module__aLF8Ya__button-outline «Continue with Microsoft»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "button.button-module__aLF8Ya__button.button-module__aLF8Ya__button-outline «Continue with Microsoft»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "button.button-module__aLF8Ya__button.button-module__aLF8Ya__button-outline «Continue with Microsoft»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.dashboard-application.dashboard-application-active",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 0,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dashboard-lines-spin",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dashboard-application-button-press",
+          "duration": 300,
+          "delay": 1500,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.dashboard-application-button",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dashboard-work-lights-rotate",
+          "duration": 4000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.dashboard-work-lights",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 200,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "img.security-rbac__card-light",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "height",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spin",
+          "duration": 4000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "radix-logo-lines",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about Radix»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about Radix»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 100,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "button.button-module__aLF8Ya__button.button-module__aLF8Ya__button-solid «Continue»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-line",
+          "duration": 30000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-social-breath",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-multi-border",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-multi-line",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-single-line",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-single-line",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-directory",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-directory",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about WorkOS User Management»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about WorkOS User Management»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "p.security-rbac__display «ADMIN»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "height",
+          "duration": 439.68457065436866,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.complete-user-progress",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about Radix»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "p.security-rbac__display «-I-W•×»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-leaked-radar-item.security-leaked-radar-item-active",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-leaked-border.security-leaked-border-active",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "img",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "p.security-rbac__display «EDITOR»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-multi-box-inputs-item.security-multi-box-inputs-item-filled",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-multi-box-inputs-item.security-multi-box-inputs-item-filled",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-multi-box-inputs-item.security-multi-box-inputs-item-active",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-multi-box-inputs-item.security-multi-box-inputs-item-active",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "div.security-password-border.security-password-border-active",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "cta-line-anim",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.cta-box «Use hosted AuthKit The fastest way to launch.»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "cta-line-anim",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.cta-box «View code on GitHub Host your own frontend.»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Follow @AuthKit on»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Follow @AuthKit on»",
+          "firstSeenAtY": 5400
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://www.authkit.com/video/authkit.webm",
+            "autoplay": true,
+            "loop": false,
+            "muted": true,
+            "el": "div.outline-box-module__xQataW__box.outline-box-module__xQataW__box-dots"
+          }
+        ],
+        "canvases": 4,
+        "scrollHeight": 9609
+      },
+      "pinned": [],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": false
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": false
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": true
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": true
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": true
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": true
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": true
+        },
+        {
+          "frame": "015-y6330.png",
+          "y": 6330,
+          "moving": true
+        },
+        {
+          "frame": "016-y6752.png",
+          "y": 6752,
+          "moving": true
+        },
+        {
+          "frame": "017-y7174.png",
+          "y": 7174,
+          "moving": true
+        },
+        {
+          "frame": "018-y7596.png",
+          "y": 7596,
+          "moving": false
+        },
+        {
+          "frame": "019-y8018.png",
+          "y": 8018,
+          "moving": true
+        },
+        {
+          "frame": "020-y8440.png",
+          "y": 8440,
+          "moving": true
+        },
+        {
+          "frame": "021-y8765.png",
+          "y": 8765,
+          "moving": true
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "spotlight-module__jnxCBG__opacity",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.spotlight-module__jnxCBG__spotlight",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "spotlight-module__jnxCBG__scale",
+          "duration": 8500,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.spotlight-module__jnxCBG__spotlight",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Get started»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.glowing-button-module__G7fw6a__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "card-module__0fl7Ca__line-anim",
+          "duration": 12000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.card-module__0fl7Ca__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "card-module__0fl7Ca__line-opacity-loop",
+          "duration": 3000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.card-module__0fl7Ca__effect",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-icon-shine",
+          "duration": 1500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "div.features-slider__icon-container",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "feature-separator-mask",
+          "duration": 1500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.features-slider__separator",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dashboard-events-spinner",
+          "duration": 4000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "radix-logo-lines",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about Radix»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about Radix»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "security-leaked-line",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "security-automatic-radar",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img.security-automatic-radar",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-1",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-2",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-3",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-4",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "dot-animation-5",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-line",
+          "duration": 30000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-social-breath",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "img",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-multi-border",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-multi-line",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-single-line",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-single-line",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "complete-directory",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.complete-directory",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about WorkOS User Management»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Learn more about WorkOS User Management»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "cta-line-anim",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.cta-box «Use hosted AuthKit The fastest way to launch.»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "cta-line-anim",
+          "duration": 6000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.cta-box «View code on GitHub Host your own frontend.»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__line-anim",
+          "duration": 16000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Follow @AuthKit on»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "glowing-button-module__G7fw6a__sky-anim",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "a.glowing-button-module__G7fw6a__button.glowing-button-module__G7fw6a__button-size-medium «Follow @AuthKit on»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "a.cta-box «Use hosted AuthKit The fastest way to launch.»",
+          "firstSeenAtY": 8765
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "a.cta-box «Use hosted AuthKit The fastest way to launch.»",
+          "firstSeenAtY": 8765
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "text-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "h6.section-header-title.section-header-title-h6 «Use hosted AuthKit»",
+          "firstSeenAtY": 8765
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "a.cta-box «View code on GitHub Host your own frontend.»",
+          "firstSeenAtY": 8765
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "a.cta-box «View code on GitHub Host your own frontend.»",
+          "firstSeenAtY": 8765
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "text-shadow",
+          "duration": 450,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.6, 0.6, 0, 1)",
+          "target": "h6.section-header-title.section-header-title-h6 «View code on GitHub»",
+          "firstSeenAtY": 8765
+        }
+      ]
+    }
+  }
+}

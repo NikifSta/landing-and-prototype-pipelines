@@ -1,0 +1,849 @@
+{
+  "source_url": "https://stubbleandco.com",
+  "final_url": "https://www.stubbleandco.com/",
+  "captured_at": "2026-09-28T05:04:02.933245+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stubbleandco.com",
+      "final_url": "https://www.stubbleandco.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "final_url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.stubbleandco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.stubbleandco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ff4800": {
+      "count": 69,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#000000": {
+      "count": 89,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 114,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#eaff36": {
+      "count": 1,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#dbcbb9": {
+      "count": 1,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#ffd800": {
+      "count": 1,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#cd1719": {
+      "count": 1,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 26,
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "#818181": {
+      "count": 31,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#e41843": {
+      "count": 8,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 3,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#213037": {
+      "count": 6,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 11,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#d7dadd": {
+      "count": 10,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 5,
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    }
+  },
+  "font_families": {
+    "Stubble Mono": [
+      "https://www.stubbleandco.com/"
+    ],
+    "Stubble Sans": [
+      "https://www.stubbleandco.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stubbleandco.com/",
+      "selector": ":root",
+      "declarations": "--background-brand-logo: url(//www.stubbleandco.com/cdn/shop/t/166/assets/logo_grey.svg?v=160913724555129480201695834720);\n\n        --theme-accent-color: #FF4800;\n        --cta-accent-color: #000000;\n\n        --sale-badge-foreground-color: #FF4800;\n        --sale-badge-background-color: ;\n        --discount-badge-foreground-color: #FF4800;\n        --discount-badge-background-color: ;\n        --low-stock-badge-foreground-color: #ff4800;"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": "body",
+      "declarations": "font:400 12px/150% Stubble Sans,sans-serif;position:relative;margin:0;padding:0;background:#fff;color:#000;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": "body.inverted-colors",
+      "declarations": "background:#000;color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": "button",
+      "declarations": "padding:0;border:0;border-radius:0;background:transparent;text-underline-offset:2px;cursor:pointer;font:inherit;color:inherit;text-align:inherit;text-transform:inherit;-webkit-appearance:none;-moz-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": "challenge__container input[type=submit]:focus-visible,.shopify-challenge__container input[aria-selected=true][type=submit],.button:hover,.button:focus,.button:f",
+      "declarations": "background:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-black,.button--style-black-small",
+      "declarations": "background:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-black:hover,.button--style-black:focus,.button--style-black:focus-visible,.button--style-black-small:hover,.button--style-black-small:focus,.butt",
+      "declarations": "background:#fff;color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-white",
+      "declarations": "background:#0000004d;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-white:hover,.button--style-white:focus,.button--style-white:focus-visible",
+      "declarations": "background:#ffffff4d;border-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-white-alt",
+      "declarations": "background:#fff;border-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-white-alt:hover,.button--style-white-alt:focus,.button--style-white-alt:focus-visible",
+      "declarations": "background:#fffc;border-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-accent",
+      "declarations": "background-color:#ff4800;background-color:var(--cta-accent-color, #ff4800);border-color:#ff4800;border-color:var(--cta-accent-color, #ff4800);color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-accent:hover,.button--style-accent:focus,.button--style-accent:focus-visible",
+      "declarations": "background:#000;border-color:#ff4800;border-color:var(--cta-accent-color, #ff4800);color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-accent.button--dark-text",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-accent.button--dark-text:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-option",
+      "declarations": "font:400 10px/140% Stubble Mono,sans-serif;text-transform:uppercase;padding:4px 10px;border:1px solid;border-radius:100vw;-webkit-text-decoration:none;text-decoration:none;color:color-mix(in srgb,currentColor 30%,transparent)"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-option:hover",
+      "declarations": "background:transparent;border-color:color-mix(in srgb,currentColor 30%,transparent);color:currentColor"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-option:focus,.button--style-option:focus-visible,.button--style-option[aria-current=true],input:checked+.button--style-option",
+      "declarations": "background:transparent;border-color:currentColor;color:color-mix(in srgb,currentColor 30%,transparent)"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-option[aria-current=true],input:checked+.button--style-option",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-minimal",
+      "declarations": "padding:0;gap:12px;background:transparent;border-color:transparent"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-minimal:hover,.button--style-minimal:focus,.button--style-minimal:focus-visible",
+      "declarations": "background:transparent;border-color:transparent;color:inherit"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".button--style-custom",
+      "declarations": "background:transparent;background:var(--button-background-color, transparent);border-color:currentColor;border-color:var(--button-background-color, currentColor);color:currentColor;color:var(--button-foreground-color, currentColor)"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".subscriber-gate,.product-media-modal,.instagram-feed-modal,.modal",
+      "declarations": "display:flex;align-items:center;justify-content:center;position:fixed;top:0;right:0;bottom:auto;left:0;height:100vh;padding:16px;z-index:40;background:#0009;transition:opacity .25s ease-in,display .25s ease-out;transition-behavior:allow-discrete;opacity:1;color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".cart__summary__table tbody th,.cart__summary__table tbody td",
+      "declarations": "padding-bottom:8px;color:#e41843"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".cart-button__count",
+      "declarations": "font:400 10px/150% Stubble Sans,sans-serif;display:flex;align-items:center;justify-content:center;width:16px;aspect-ratio:1;overflow:hidden;position:absolute;top:100%;right:auto;bottom:auto;left:100%;background:#000;border-radius:100vw;transform:translate(-50%,-50%) translate(-2px,-2px);color:#fff;font-feature-settings:\"tnum\";font-variant-numeric:tabular-nums;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".compare-summary__button--primary",
+      "declarations": "min-height:36px;width:100%;background:#000;border-radius:100vw;transition:background-color .2s,color .2s,opacity .2s;color:#fff"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".compare-summary__button--primary:not([href])",
+      "declarations": "background:#f3f3f3;color:#818181;cursor:not-allowed"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".compare-summary__button--secondary",
+      "declarations": "min-height:32px;color:#818181"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".compare-summary-product-card:hover,.compare-summary-product-card:focus-within",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+      "selector": ".compare-summary-product-card__price",
+      "declarations": "display:flex;gap:8px;color:#656565"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Stubble & Co | Bags Designed To Do.More.",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ff4800",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#1f1f1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.muted": {
+      "value": "#818181",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d7dadd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.sale": {
+      "value": "#e41843",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.navy": {
+      "value": "#213037",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.accent-volt": {
+      "value": "#eaff36",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.swatch-yellow": {
+      "value": "#ffd800",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.swatch-sand": {
+      "value": "#dbcbb9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.swatch-garnet": {
+      "value": "#cd1719",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value": "#0000004d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "colors.overlay-light": {
+      "value": "#ffffff4d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Stubble Sans', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Stubble Sans', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Stubble Sans', sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Stubble Sans', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Stubble Sans', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Stubble Mono', monospace",
+        "fontSize": "10px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Stubble Mono', monospace",
+        "fontSize": "10px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderRadius": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "ratingTypography": "{typography.caption}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.overlay-dark}",
+        "headlineTypography": "{typography.display-xl}",
+        "ctaButton": "button-primary",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkTypography": "{typography.body-sm}",
+        "borderColor": "{colors.navy}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "saleBackgroundColor": "transparent",
+        "saleTextColor": "{colors.sale}",
+        "lowStockTextColor": "{colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "value": {
+        "optionBorderColor": "{colors.hairline}",
+        "optionSelectedBorderColor": "{colors.ink}",
+        "swatchColorsSource": "product variant palette (e.g. {colors.navy}, {colors.sale}, {colors.accent-volt}, {colors.swatch-yellow}, {colors.swatch-sand}, {colors.swatch-garnet})",
+        "size": "20px",
+        "rounded": "{rounded.full}",
+        "gap": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ff4800": {
+        "selector": ":root",
+        "property": "--theme-accent-color",
+        "declaration": "#FF4800",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--cta-accent-color",
+        "declaration": "#000000",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#00000000": {
+        "selector": "inline-style",
+        "property": "--background-overlay-mobile",
+        "declaration": "linear-gradient(61.56deg, rgba(0, 0, 0, 0.5) 18.41%, rgba(0, 0, 0, 0) 74.72%)",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--foreground-color",
+        "declaration": "#ffffff",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#eaff36": {
+        "selector": "inline-style",
+        "property": "--primary-color",
+        "declaration": "#eaff36",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#dbcbb9": {
+        "selector": "inline-style",
+        "property": "--primary-color",
+        "declaration": "#dbcbb9",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#ffd800": {
+        "selector": "inline-style",
+        "property": "--primary-color",
+        "declaration": "#ffd800",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#cd1719": {
+        "selector": "inline-style",
+        "property": "--primary-color",
+        "declaration": "#cd1719",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#f5f5f5": {
+        "selector": "inline-style",
+        "property": "--primary-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "#818181": {
+        "selector": ".u-price del",
+        "property": "color",
+        "declaration": "#818181",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#e41843": {
+        "selector": ".checkbox:user-invalid",
+        "property": "border-color",
+        "declaration": "#e41843",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#0000004d": {
+        "selector": ".button--style-white",
+        "property": "background",
+        "declaration": "#0000004d",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#ffffff4d": {
+        "selector": ".button--style-white:hover,.button--style-white:focus,.button--style-white:focus-visible",
+        "property": "background",
+        "declaration": "#ffffff4d",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#213037": {
+        "selector": ".article-card__tags",
+        "property": "color",
+        "declaration": "#213037",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#f3f3f3": {
+        "selector": ".cart__options__label",
+        "property": "background",
+        "declaration": "#f3f3f3",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#d7dadd": {
+        "selector": ".collection-lock__copy__trigger",
+        "property": "color",
+        "declaration": "#d7dadd",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      },
+      "#1f1f1f": {
+        "selector": ".gift-card-details__code__code",
+        "property": "color",
+        "declaration": "#1f1f1f",
+        "url": "https://www.stubbleandco.com/cdn/shop/t/166/assets/theme.css?v=37680496618914400801790178006",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "dc4b6445076319a411a18ba42bd257a0d805d5f74dd818978b56a37a8694b69f"
+      }
+    },
+    "font_families": {
+      "Stubble Mono": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Stubble Mono\"",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      },
+      "Stubble Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Stubble Sans\"",
+        "url": "https://www.stubbleandco.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2f34c8ce6a3e839db42e1b6c0aa3a8cf4deebc40ac425357ce837881ec5d26cd"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

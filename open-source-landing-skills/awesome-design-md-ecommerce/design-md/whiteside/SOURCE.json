@@ -1,0 +1,766 @@
+{
+  "source_url": "https://whitesiderouterbits.com",
+  "final_url": "https://www.whitesiderouterbits.com/",
+  "captured_at": "2026-09-28T09:55:18.125697+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://whitesiderouterbits.com",
+      "final_url": "https://www.whitesiderouterbits.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "eaeca5f0655cb3560321002fef0eac6c268983ed80dbdb2114fd4f4821281185",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold",
+      "final_url": "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "4a75928ef3f799f312c493d4342fcb6344bd1fcdb0c3b4525d92df05405b42fd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "final_url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/custom.scss.css?v=10171078879618087141757079435",
+      "final_url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/custom.scss.css?v=10171078879618087141757079435",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ede111545ce8a8084737fb746b9377344a11078bf36f6bb4541dcf6e84ed352a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/owl.theme.css?v=41451916961411670301756938429",
+      "final_url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/owl.theme.css?v=41451916961411670301756938429",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "63b6aadeb81d96fd8d7838530f5c6084ee01873d21b2f8e564d9470decfff093",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/owl.carousel.css?v=91526097235323007231756938429",
+      "final_url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/owl.carousel.css?v=91526097235323007231756938429",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c32ff8e3e2416bc79ef863dd65df0a11212dd41ad3a3d50a4feac0447e420fbc",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 110,
+      "sources": [
+        "https://www.whitesiderouterbits.com/"
+      ]
+    },
+    "#111111": {
+      "count": 28,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 11,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#ab112c": {
+      "count": 44,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#8f051d": {
+      "count": 3,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 6,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "#ffffff33": {
+      "count": 4,
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold"
+    ],
+    "Oswald": [
+      "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold"
+    ],
+    "sans-serif": [
+      "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "body",
+      "declarations": "background-color:#111;font-family:Open Sans;font-weight:400;font-size:14px;text-transform:none;color:#111;line-height:1.8em"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "h1,h2,h3,h4,h5,h6,.collection_title,.headline,p.subtitle,.footer_menu a,.empty_cart,.promo_banner",
+      "declarations": "font-family:Oswald;font-weight:400;font-style:normal;text-transform:uppercase;color:#111;display:block;letter-spacing:0px;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "h1 a,h1 a:visited,.collection_title a,.collection_title a:visited",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "h1 a:hover,h1 a:active,.collection_title a:hover,.collection_title a:active",
+      "declarations": "color:#ab112c"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "h1,.h1,h1.home,h2.title,h2.title a,.collection_title,h3.title",
+      "declarations": "font-size:20px;line-height:1.25em;margin:0 auto 15px;clear:both;font-weight:400;padding-top:4px;color:#111"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "h2.product_name a",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".subheader",
+      "declarations": "color:#777"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".header_bar a,.header_bar a:visited,.header_bar a span,.header_bar select.currencies",
+      "declarations": "color:#fff!important;text-shadow:none!important"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "#header",
+      "declarations": "display:none;background:#ab112c;border-bottom:1px solid #e8e8e8;color:#fff;font-size:16px;font-weight:700;text-align:center;line-height:40px;height:40px;padding:0 50px;z-index:5001;width:100%;opacity:.95;top:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "#header a",
+      "declarations": "color:#fff;font-size:32px;display:block;height:40px;position:absolute;top:0;left:15px;font-size:25px;padding-top:5px"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".nav a,.nav a:visited,.nav a:active,#header a span,.nav a.cart-button span,select.currencies",
+      "declarations": "font-family:Oswald;font-weight:400;font-size:18px;text-transform:uppercase;color:#fff;position:relative;display:block;letter-spacing:0px;padding:10px 4px;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".feature_image .header .nav a,.feature_image .header .nav a.icon-cart,.feature_image .header .nav a.cart-button span,.feature_image .header select.currencies",
+      "declarations": "color:#fff;text-shadow:0 1px 1px rgba(0,0,0,.4)"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".feature_image .header .nav a:hover,.nav a.active,.header_bar a.active,.feature_image .header .nav a:focus",
+      "declarations": "color:#f7f7f7!important"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "input.guest_button,input[type=button].guest_button",
+      "declarations": "font-size:16px;background-color:#666;padding:8px 18px;-webkit-border-radius:35px;-khtml-border-radius:35px;-moz-border-radius:35px;-ms-border-radius:35px;-o-border-radius:35px;border-radius:35px"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "input[type=submit].guest_button,input[type=button].guest_button",
+      "declarations": "color:#fff;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "input[type=submit].guest_button,input[type=submit].guest_button:hover",
+      "declarations": "background-color:#666"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "input[type=submit].guest_button:hover",
+      "declarations": "color:#ab112c"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".menu ul a,.menu li:hover>ul a,.header .nav ul.menu ul li a",
+      "declarations": "padding:8px 0 8px 15px;background:none;text-align:left;color:#fff;line-height:16px"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "a.button,button,input[type=submit],input[type=reset],input[type=button],.action_button,a.action_button,input.action_button[type=submit],input.action_button[type",
+      "declarations": "background:#8f051d;color:#fff;border:0;padding:10px 20px;text-align:center;cursor:pointer;font-family:Oswald;font-weight:700;font-size:18px;text-transform:uppercase;display:inline-block;-webkit-transition:all .2s ease 0s;-moz-transition:all .2s ease 0s;-ms-transition:all .2s ease 0s;-o-transition:all .2s ease 0s;transition:all .2s ease 0s;-webkit-appearance:none;-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "#cart a.action_button.edit_cart",
+      "declarations": "width:180px;margin-left:20px;margin-top:20px;background-color:#444;color:#fff;text-align:center;text-indent:0"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "#cart .action_button",
+      "declarations": "width:180px;margin-right:20px;margin-top:20px;background-color:#8f051d;color:#fff;text-align:center;text-indent:0;padding:10px;line-height:1"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "share-button:hover",
+      "declarations": "color:#333c;background:#a29baacc"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "share-button,share-button:hover",
+      "declarations": "background-color:#0000;color:#000;padding:5px 0;-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;text-transform:none;font-family:Open Sans;font-size:16px"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": "share-button:before",
+      "declarations": "color:#000;top:10px;display:none"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".header div.logo a",
+      "declarations": "margin:0 auto;padding-top:10px;padding-bottom:10px;display:block;text-align:center;color:#fff!important"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".featured_content,.featured_content h1,.featured_content h2,.featured_content h3,.featured_content h4,.featured_content h5,.featured_content h6",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".mm-menu .mm-header",
+      "declarations": "border-color:#00000026;color:#ffffff4d"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".mm-menu .mm-header a:before",
+      "declarations": "border-color:#ffffff4d"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".mm-menu.mm-light .mm-header",
+      "declarations": "border-color:#0000001a;color:#0000004d"
+    },
+    {
+      "source": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+      "selector": ".mm-menu.mm-light .mm-header a:before",
+      "declarations": "border-color:#0000004d"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Whiteside Machine Company",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ab112c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.primary-deep": {
+      "value": "#8f051d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.muted": {
+      "value": "#777777",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e8e8e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/"
+      ]
+    },
+    "colors.neutral-600": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.border": {
+      "value": "#dcdcdc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "colors.divider-on-dark": {
+      "value": "#ffffff33",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Oswald, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.8,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Open Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.neutral-600}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "overlayColor": "{colors.divider-on-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "dividerColor": "{colors.divider-on-dark}",
+        "typography": "{typography.button-md}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.border}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "altRowColor": "{colors.surface-card}",
+        "dividerColor": "{colors.hairline}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://www.whitesiderouterbits.com/",
+        "snapshot": "homepage.html",
+        "sha256": "eaeca5f0655cb3560321002fef0eac6c268983ed80dbdb2114fd4f4821281185"
+      },
+      "#111111": {
+        "selector": "body",
+        "property": "background-color",
+        "declaration": "#111",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#e8e8e8": {
+        "selector": "abbr",
+        "property": "border-bottom",
+        "declaration": "1px dotted #e8e8e8",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#ab112c": {
+        "selector": "h1 a:hover,h1 a:active,.collection_title a:hover,.collection_title a:active",
+        "property": "color",
+        "declaration": "#ab112c",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#777777": {
+        "selector": ".subheader",
+        "property": "color",
+        "declaration": "#777",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#f7f7f7": {
+        "selector": ".feature_image .header .nav a:hover,.nav a.active,.header_bar a.active,.feature_image .header .nav a:focus",
+        "property": "color",
+        "declaration": "#f7f7f7",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#666666": {
+        "selector": "input.guest_button,input[type=button].guest_button",
+        "property": "background-color",
+        "declaration": "#666",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#8f051d": {
+        "selector": "a.button,button,input[type=submit],input[type=reset],input[type=button],.action_button,a.action_button,input.action_button[type=submit],input.action_button[type=button],share-button",
+        "property": "background",
+        "declaration": "#8f051d",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#dcdcdc": {
+        "selector": "table tr",
+        "property": "border-bottom",
+        "declaration": "1px solid #DCDCDC",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#f3f3f3": {
+        "selector": ".mm-ismenu.mm-light",
+        "property": "background-color",
+        "declaration": "#f3f3f3",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      },
+      "#ffffff33": {
+        "selector": ".mm-menu.mm-black .mm-list>li:after",
+        "property": "border-color",
+        "declaration": "#fff3",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Open Sans\"",
+        "url": "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4a75928ef3f799f312c493d4342fcb6344bd1fcdb0c3b4525d92df05405b42fd"
+      },
+      "Oswald": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Oswald\"",
+        "url": "https://fonts.googleapis.com/css?family=.|Open+Sans+Condensed:light,normal,bold|Oswald:light,normal,bold|Oswald:light,normal,bold|Open+Sans+Condensed:light,normal,bold|Open+Sans:light,normal,bold",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "4a75928ef3f799f312c493d4342fcb6344bd1fcdb0c3b4525d92df05405b42fd"
+      },
+      "sans-serif": {
+        "selector": ".toggle span",
+        "property": "font-family",
+        "declaration": "Helvetica Neue,Helvetica,Arial,sans-serif",
+        "url": "https://www.whitesiderouterbits.com/cdn/shop/t/18/assets/styles.scss.css?v=137868302979575381581771878577",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "be0edb29943f087f68686607aab6b9b5783afe71308c1289265af3aa0b28cb73"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

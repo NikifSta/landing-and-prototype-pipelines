@@ -1,0 +1,1550 @@
+{
+  "url": "https://structured.app/",
+  "date": "2026-10-06T09:59:43.912Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://video.gumlet.io/6763f643a080a6ad16eb83f8/6763f6705c9461e1db7c154e/6763f6705c9461e1db7c154e_0_720p.m3u8",
+            "autoplay": false,
+            "loop": true,
+            "muted": true,
+            "el": "div.fixed.top-0"
+          },
+          {
+            "src": "https://structured.app/assets/anim-scribble.webm",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.absolute.mix-blend-screen"
+          },
+          {
+            "src": "https://structured.app/assets/anim-arrow.webm",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.absolute.mix-blend-screen"
+          },
+          {
+            "src": "https://video.gumlet.io/68f610cb6b5c1015ac240a48/68f61cca558b40463619c0ea/main.mp4",
+            "autoplay": false,
+            "loop": true,
+            "muted": true,
+            "el": "div.absolute.z-[1]"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 18567
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 102,
+          "parentHeight": 18567,
+          "el": "nav.fixed.top-0 «Structured features reviews team support blog rese»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 18567,
+          "el": "div.fixed.top-0"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 5400,
+          "el": "div.flex.items-center «split your day into tasks and visualize them in a »"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 900,
+          "parentHeight": 2700,
+          "el": "div.lowercase «visualize your day split it into tasks, set deadli»"
+        },
+        {
+          "position": "fixed",
+          "top": "265.594px",
+          "height": 634,
+          "parentHeight": 18567,
+          "el": "div «read our Blog and follow us on Instagram , X and L»"
+        },
+        {
+          "position": "fixed",
+          "top": "18566.6px",
+          "height": 0,
+          "parentHeight": 18567,
+          "el": "iframe#front-chat-iframe"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": true
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": true
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": true
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": true
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": true
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": true
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": true
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": true
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": true
+        },
+        {
+          "frame": "017-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "018-y8100.png",
+          "y": 8100,
+          "moving": false
+        },
+        {
+          "frame": "019-y8550.png",
+          "y": 8550,
+          "moving": false
+        },
+        {
+          "frame": "020-y9000.png",
+          "y": 9000,
+          "moving": false
+        },
+        {
+          "frame": "021-y9450.png",
+          "y": 9450,
+          "moving": true
+        },
+        {
+          "frame": "022-y9900.png",
+          "y": 9900,
+          "moving": false
+        },
+        {
+          "frame": "023-y10350.png",
+          "y": 10350,
+          "moving": false
+        },
+        {
+          "frame": "024-y10800.png",
+          "y": 10800,
+          "moving": false
+        },
+        {
+          "frame": "025-y11250.png",
+          "y": 11250,
+          "moving": false
+        },
+        {
+          "frame": "026-y11700.png",
+          "y": 11700,
+          "moving": true
+        },
+        {
+          "frame": "027-y12150.png",
+          "y": 12150,
+          "moving": false
+        },
+        {
+          "frame": "028-y12600.png",
+          "y": 12600,
+          "moving": false
+        },
+        {
+          "frame": "029-y13050.png",
+          "y": 13050,
+          "moving": false
+        },
+        {
+          "frame": "030-y13500.png",
+          "y": 13500,
+          "moving": true
+        },
+        {
+          "frame": "031-y13950.png",
+          "y": 13950,
+          "moving": true
+        },
+        {
+          "frame": "032-y14400.png",
+          "y": 14400,
+          "moving": false
+        },
+        {
+          "frame": "033-y14850.png",
+          "y": 14850,
+          "moving": false
+        },
+        {
+          "frame": "034-y15300.png",
+          "y": 15300,
+          "moving": false
+        },
+        {
+          "frame": "035-y15750.png",
+          "y": 15750,
+          "moving": false
+        },
+        {
+          "frame": "036-y16200.png",
+          "y": 16200,
+          "moving": false
+        },
+        {
+          "frame": "037-y16650.png",
+          "y": 16650,
+          "moving": false
+        },
+        {
+          "frame": "038-y17100.png",
+          "y": 17100,
+          "moving": true
+        },
+        {
+          "frame": "039-y17550.png",
+          "y": 17550,
+          "moving": false
+        },
+        {
+          "frame": "040-y17667.png",
+          "y": 17667,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.marquee-track.flex «600K+ tasks daily 15M+ downloads 500K+ pro users 3»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee-left",
+          "duration": 55000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.items-center «“Just downloaded this app & setup my week. As some»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee-right",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.items-center «“Life changing app. Helped me so much. Can’t imagi»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «day planner»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «to do list»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "scale",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0, 0, 0.2, 1)",
+          "target": "span.absolute.inset-0",
+          "firstSeenAtY": 900
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «habit tracker»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «focus timer»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «calendar»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one day planner Structured combines al»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one to do list Structured combines all»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «split your day into tasks and visualize them in a »",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «split your day into tasks and visualize them in a »",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «create tasks in seconds or import your existing ca»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «create tasks in seconds or import your existing ca»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «stay on top with weekly and monthly view»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «stay on top with weekly and monthly view»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «start planning on your phone»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «start planning on your phone»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «finish on your computer»",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «finish on your computer»",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.absolute.will-change-transform",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.absolute.will-change-transform",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «and view it on your smart watch»",
+          "firstSeenAtY": 8550
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.lowercase «and view it on your smart watch»",
+          "firstSeenAtY": 8550
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «visual planning»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «visual planning»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 120,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «import calendars»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 120,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «import calendars»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «plan with ai»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «plan with ai»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 360,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «access everywhere»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 360,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «access everywhere»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 480,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «align your rhythm»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 480,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «align your rhythm»",
+          "firstSeenAtY": 9450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.absolute",
+          "firstSeenAtY": 10350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "top",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.absolute",
+          "firstSeenAtY": 10350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one day planner to do list Structured »",
+          "firstSeenAtY": 10800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «visualize»",
+          "firstSeenAtY": 11250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «your»",
+          "firstSeenAtY": 11250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «day»",
+          "firstSeenAtY": 11250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "img.inline-block.align-middle",
+          "firstSeenAtY": 11250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «split»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «it»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «into»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «tasks,»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «set»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «deadlines,»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «get»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «an»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «overview»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «store»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «thoughts»",
+          "firstSeenAtY": 11700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «build»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «habits,»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «reduce»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «overwhelm»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «plan»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «mobile»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «or»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «at»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «home»",
+          "firstSeenAtY": 12150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «integrate»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «meetings»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «notifications,»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «add»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «widgets,»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «focus»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «on»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «tasks»",
+          "firstSeenAtY": 12600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «become»",
+          "firstSeenAtY": 13050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span «structured»",
+          "firstSeenAtY": 13050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 250,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "img.team-card-hover",
+          "firstSeenAtY": 14400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 250,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "img.team-card-default",
+          "firstSeenAtY": 14400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one habit tracker day planner Structur»",
+          "firstSeenAtY": 17100
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div «read our Blog and follow us on Instagram , X and L»",
+          "firstSeenAtY": 17550
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div «read our Blog and follow us on Instagram , X and L»",
+          "firstSeenAtY": 17550
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [
+          {
+            "src": "https://video.gumlet.io/6763f643a080a6ad16eb83f8/676474b38f5e80dcc09d985d/676474b38f5e80dcc09d985d_0_480p.m3u8",
+            "autoplay": false,
+            "loop": true,
+            "muted": true,
+            "el": "div.fixed.top-0"
+          },
+          {
+            "src": "https://structured.app/assets/anim-scribble.webm",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.absolute.mix-blend-screen"
+          },
+          {
+            "src": "https://structured.app/assets/anim-arrow.webm",
+            "autoplay": false,
+            "loop": false,
+            "muted": true,
+            "el": "div.absolute.mix-blend-screen"
+          }
+        ],
+        "canvases": 0,
+        "scrollHeight": 6948
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 92,
+          "parentHeight": 6948,
+          "el": "nav.fixed.top-0 «Structured»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 844,
+          "parentHeight": 6948,
+          "el": "div.fixed.top-0"
+        },
+        {
+          "position": "fixed",
+          "top": "428.75px",
+          "height": 415,
+          "parentHeight": 6948,
+          "el": "div «read our Blog and follow us on Instagram , X and L»"
+        },
+        {
+          "position": "fixed",
+          "top": "754px",
+          "height": 86,
+          "parentHeight": 6948,
+          "el": "iframe#front-chat-iframe"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": true
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": true
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": false
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": true
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": true
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5064.png",
+          "y": 5064,
+          "moving": true
+        },
+        {
+          "frame": "013-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "014-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "015-y6104.png",
+          "y": 6104,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "top",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.absolute",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee",
+          "duration": 40000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.marquee-track.flex «600K+ tasks daily 15M+ downloads 500K+ pro users 3»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee-left",
+          "duration": 55000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.items-center «“Just downloaded this app & setup my week. As some»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "marquee-right",
+          "duration": 60000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.flex.items-center «“Life changing app. Helped me so much. Can’t imagi»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «day planner»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «to do list»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «focus timer»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "z-index",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «habit tracker»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one to do list focus timer Structured »",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 400,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "span.block.text-white «calendar»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one habit tracker Structured combines »",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.rounded-full.transition-all",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "span.rounded-full.transition-all",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «visual planning»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «visual planning»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 120,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «import calendars»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 120,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «import calendars»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «plan with ai»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 240,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «plan with ai»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 360,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «access everywhere»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 360,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «access everywhere»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 480,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «align your rhythm»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 480,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "a.flex-shrink-0.flex «align your rhythm»",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one calendar Structured combines all y»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one day planner Structured combines al»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "main «your all in one habit tracker day planner Structur»",
+          "firstSeenAtY": 5908
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "source_url": "https://chiccousa.com",
+  "final_url": "https://www.chiccousa.com/",
+  "captured_at": "2026-09-28T09:57:31.132552+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://chiccousa.com",
+      "final_url": "https://www.chiccousa.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "final_url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/storePage.css",
+      "final_url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/storePage.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c76f113ade2bbf5db4d87f23aac77ab2cd0faba63d62efc49dd7995a0080e242",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/contentMigration.css",
+      "final_url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/contentMigration.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5363397323f8b4b94c8f37cb5d0c417fe60aaa01a142cfec03b769d8f4b5bd77",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/components/commerceLayouts/layout.css",
+      "final_url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/components/commerceLayouts/layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "debd4b697fc92c261926b95223a4e9d660b51c7570158be382d3a01e9a15f7e2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/components/commerceAssets/productTile.css",
+      "final_url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/experience/components/commerceAssets/productTile.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8dd257a53816460cd04a694ee0838dc6c4b306b9cf78c80e9658c6060a5f00c3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#2f333a": {
+      "count": 188,
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 420,
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "#47596b": {
+      "count": 51,
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "#008827": {
+      "count": 25,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 31,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#c7c7cb": {
+      "count": 24,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 32,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#db3b1f": {
+      "count": 68,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#54545c": {
+      "count": 19,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 19,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 19,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 137,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#212529": {
+      "count": 49,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 11,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#f5c8c0": {
+      "count": 6,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 36,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#ae2f19": {
+      "count": 16,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "#69849b": {
+      "count": 50,
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Open Sans": [
+      "https://www.chiccousa.com/"
+    ],
+    "Arial": [
+      "https://www.chiccousa.com/"
+    ],
+    "sans-serif": [
+      "https://www.chiccousa.com/"
+    ],
+    "Montserrat": [
+      "https://www.chiccousa.com/"
+    ],
+    "Satoshi": [
+      "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+    ],
+    "Playfair Display": [
+      "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".home-slides .home-slide.slide-one .button",
+      "declarations": "background-color: #fff; border-color: #fff; color: #333333;"
+    },
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".home-slides .home-slide.slide-one .button:hover",
+      "declarations": "background-color: #333333; border-color: #fff; color: #fff;"
+    },
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".home-slides .home-slide.slide-two .button",
+      "declarations": "background-color: #fff; border-color: #fff; color: #47596b;"
+    },
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".home-slides .home-slide.slide-two .button:hover",
+      "declarations": "background-color: #333; border-color: #fff; color: #fff;"
+    },
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".js-einstein-carousel .product-tile .tile-body .pdp-link a",
+      "declarations": "font-size: 1rem;\r\nfont-weight: 600;\r\nfont-family: 'Open Sans', Arial, sans-serif;\r\nline-height: 1.3;\r\ncolor:#67696d;\r\n-webkit-line-clamp: none;\r\nline-clamp: none;"
+    },
+    {
+      "source": "https://www.chiccousa.com/",
+      "selector": ".button.attentive-subscribe-email",
+      "declarations": "background: #fff;\r\n    border: solid 2px #fff;\r\n    border-radius: 100px;\r\n    font-family: Montserrat, Arial, sans-serif;\r\n    font-size: .875rem;\r\ncolor: #67696d;\r\n    font-weight: 700;\r\n    line-height: 1;\r\n    letter-spacing: .2px;\r\n    padding: .65625rem 2.375rem;\r\n    text-align: center;\r\n    text-decoration: none;\r\n    text-transform: uppercase;\r\n-webkit-transition: all 0.2s ease-in-out;\r\ntransition: all 0.2s ease-in-out;"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ":root",
+      "declarations": "--up-com-cart-checkout-padding:var(--up-sem-padding-layout-xs) 0 var(--up-sem-padding-layout-lg);--up-com-footer-anchor-bar-padding:var(--up-sem-padding-layout-sm) var(--up-gen-dimension-0);--up-com-page-designer-hero-banner-content-max-width:25rem;--up-sem-gap-grid-x:var(--up-gen-dimension-100);--up-sem-gap-grid-y:var(--up-gen-dimension-100);--up-sem-gap-pattern-default-x:var(--up-sem-gap-pattern-md);--up-sem-gap-pattern-default-y:var(--up-sem-gap-pattern-md);--up-sem-padding-grid-y:var(--up-gen-dimension-150);--up-sem-padding-pattern-default-x:var(--up-sem-padding-pattern-lg);--up-sem-padding-pattern-default-y:var(--up-sem-padding-pattern-lg);--up-com-plp-search-padding-nobreadcrumb:30px v"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ":root",
+      "declarations": "--up-com-breadcrumb-bar-padding:var(--up-sem-padding-layout-sm) 0 var(--up-sem-padding-layout-xs);--up-com-footer-action-bar-navigation-divider-t-border-width:var(--up-gen-dimension-0);--up-com-footer-action-bar-subscription-divider-color:var(--up-gen-color-neutral-transparent);--up-com-footer-action-bar-subscription-padding:var(--up-sem-padding-layout-md) var(--up-sem-gap-layout-default-x) var(--up-gen-dimension-0) var(--up-gen-dimension-0);--up-com-mini-signup-form-heading-gap:var(--up-sem-gap-pattern-lg);--up-com-page-designer-category-banner-padding:var(--up-sem-padding-layout-2xl);--up-com-page-designer-hero-banner-content-max-width:28.125rem;--up-com-page-designer-hero-banner-padding:v"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#2f333a;--secondary:#db3b1f;--success:#008827;--info:#17a2b8;--warning:#ffc107;--danger:#db3b1f;--light:#f7f7f8;--dark:#333339;--tertiary:#c7c7cb;--general:#54545c;--error:#db3b1f;--pill:#d5d5d5;--breakpoint-xs:0;--breakpoint-sm:34rem;--breakpoint-md:48rem;--breakpoint-lg:64rem;--breakpoint-xl:80rem;--breakpoint-xxl:90rem;--font-family-sans-serif:\"Satoshi\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": "body",
+      "declarations": "font-family:var(--up-sem-font-family-body);font-size:var(--up-sem-typography-global-body-override-font-size);font-weight:var(--up-sem-font-weight-body);letter-spacing:var(--up-sem-letter-spacing-body);line-height:var(--up-sem-line-height-body);-webkit-font-feature-settings:var(--up-sem-font-feature-settings-body);font-feature-settings:var(--up-sem-font-feature-settings-body);margin:0;color:#2f333a;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-bottom:.5rem;color:var(--up-sem-color-global-heading,#212529)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".h1,h1",
+      "declarations": "font-family:var(--up-sem-typography-global-h1-override-font-family);font-size:var(--up-sem-typography-global-h1-override-font-size);font-weight:var(--up-sem-typography-global-h1-override-font-weight);letter-spacing:var(--up-sem-typography-global-h1-override-letter-spacing);line-height:var(--up-sem-typography-global-h1-override-line-height);-webkit-font-feature-settings:var(--up-sem-typography-global-h1-override-font-feature-settings);font-feature-settings:var(--up-sem-typography-global-h1-override-font-feature-settings)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#939599"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#ec998b"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#7ac18f"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#ffdf7e"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#ec998b"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-light tbody+tbody,.table-light td,.table-light th,.table-light thead th",
+      "declarations": "border-color:#fbfbfb"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#959598"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-tertiary tbody+tbody,.table-tertiary td,.table-tertiary th,.table-tertiary thead th",
+      "declarations": "border-color:#e2e2e4"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-general tbody+tbody,.table-general td,.table-general th,.table-general thead th",
+      "declarations": "border-color:#a6a6aa"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-error tbody+tbody,.table-error td,.table-error th,.table-error thead th",
+      "declarations": "border-color:#ec998b"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-pill tbody+tbody,.table-pill td,.table-pill th,.table-pill thead th",
+      "declarations": "border-color:#e9e9e9"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:hsla(0,0%,100%,.05)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:hsla(0,0%,100%,.075)"
+    },
+    {
+      "source": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+      "selector": ".btn:where(:not(.btn-sm):not(.btn-lg))",
+      "declarations": "font-family:var(--up-sem-font-family-label);font-size:var(--up-sem-font-size-label-md);font-weight:var(--up-sem-font-weight-label-strong);letter-spacing:var(--up-sem-letter-spacing-label);line-height:var(--up-sem-line-height-label);-webkit-font-feature-settings:var(--up-sem-font-feature-settings-label);font-feature-settings:var(--up-sem-font-feature-settings-label);--icon-stroke-width:var(--up-com-button-md-icon-stroke-width,1.67px);text-decoration-thickness:var(--up-com-button-md-underline-thickness,.0625rem);text-underline-offset:var(--up-com-button-md-underline-offset,.125rem)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Chicco Baby Products | Car Seats, Strollers, Highchairs & More",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#2f333a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212529",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#2f333a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6c757d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dee2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#db3b1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.accent-strong": {
+      "value": "#ae2f19",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.accent-soft": {
+      "value": "#f5c8c0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.secondary-cool": {
+      "value": "#47596b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/"
+      ]
+    },
+    "colors.secondary-cool-soft": {
+      "value": "#69849b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#008827",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffc107",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#17a2b8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.border-input": {
+      "value": "#ced4da",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.tertiary": {
+      "value": "#c7c7cb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "colors.general-text": {
+      "value": "#54545c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Playfair Display', serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Playfair Display', serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Satoshi, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Open Sans', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.35,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-input}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.general-text}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.title-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.success}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.border-input}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.car-seat-safety-callout": {
+      "value": {
+        "backgroundColor": "{colors.secondary-cool}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#2f333a": {
+        "selector": ".pt_checkout .checkout-billing .billing-coupon-code::after, .pt_checkout .checkout-shipping .billing-coupon-code::after",
+        "property": "color",
+        "declaration": "#2f333a",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "#ffffff": {
+        "selector": ".home-slides .home-slide.slide-one .button",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "#47596b": {
+        "selector": ".home-slides .home-slide.slide-two .button",
+        "property": "color",
+        "declaration": "#47596b",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "#008827": {
+        "selector": ":root",
+        "property": "--color-green",
+        "declaration": "#008827",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#f7f7f8": {
+        "selector": ":root",
+        "property": "--color-grey1",
+        "declaration": "#f7f7f8",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#c7c7cb": {
+        "selector": ":root",
+        "property": "--color-grey4",
+        "declaration": "#c7c7cb",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#f2f2f2": {
+        "selector": ":root",
+        "property": "--up-com-header-promo-bar-bg-color",
+        "declaration": "#f2f2f2",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#db3b1f": {
+        "selector": ":root",
+        "property": "--up-gen-color-burnt-orange-60",
+        "declaration": "#db3b1f",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#54545c": {
+        "selector": ":root",
+        "property": "--up-gen-color-gray-70",
+        "declaration": "#54545c",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#ffc107": {
+        "selector": ":root",
+        "property": "--yellow",
+        "declaration": "#ffc107",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#17a2b8": {
+        "selector": ":root",
+        "property": "--cyan",
+        "declaration": "#17a2b8",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#6c757d": {
+        "selector": ":root",
+        "property": "--gray",
+        "declaration": "#6c757d",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#212529": {
+        "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+        "property": "color",
+        "declaration": "var(--up-sem-color-global-heading,#212529)",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#dee2e6": {
+        "selector": ".img-thumbnail",
+        "property": "border",
+        "declaration": "1px solid #dee2e6",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#f5c8c0": {
+        "selector": ".table-secondary,.table-secondary>td,.table-secondary>th",
+        "property": "background-color",
+        "declaration": "#f5c8c0",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#ced4da": {
+        "selector": ".form-control",
+        "property": "border",
+        "declaration": "var(--up-com-input-text-field-border-width,1px) solid var(--up-com-input-text-field-enabled-border-color,var(--up-com-input-text-field-enabled-border-color,#ced4da))",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#ae2f19": {
+        "selector": ".btn-danger.focus,.btn-danger:focus-visible,.btn-danger:hover",
+        "property": "border-color",
+        "declaration": "#ae2f19",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "#69849b": {
+        "selector": ".c-footer__support-links .content-asset ul li svg",
+        "property": "fill",
+        "declaration": "#69849b",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      }
+    },
+    "font_families": {
+      "Open Sans": {
+        "selector": ".js-einstein-carousel .product-tile .tile-body .pdp-link a",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", Arial, sans-serif",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "Arial": {
+        "selector": ".js-einstein-carousel .product-tile .tile-body .pdp-link a",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", Arial, sans-serif",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "sans-serif": {
+        "selector": ".js-einstein-carousel .product-tile .tile-body .pdp-link a",
+        "property": "font-family",
+        "declaration": "\"Open Sans\", Arial, sans-serif",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "Montserrat": {
+        "selector": ".button.attentive-subscribe-email",
+        "property": "font-family",
+        "declaration": "Montserrat, Arial, sans-serif",
+        "url": "https://www.chiccousa.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a68236f4f47782360436d58b539bb34a8b1bc674bed2f0974377886407faff8c"
+      },
+      "Satoshi": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Satoshi",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      },
+      "Playfair Display": {
+        "selector": ".modal-title",
+        "property": "font-family",
+        "declaration": "Playfair Display,Arial,sans-serif",
+        "url": "https://www.chiccousa.com/on/demandware.static/Sites-Chicco-Site/-/default/v1790584010080/css/global.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "abd321a1c597154d96c23ee045856c5eef2fb798e02bf62e5283417a4c76609c"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

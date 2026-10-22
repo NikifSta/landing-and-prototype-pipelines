@@ -1,0 +1,179 @@
+[
+  {
+    "ref": "pitch",
+    "mood": [
+      "деловой",
+      "дружелюбный",
+      "энергичный"
+    ],
+    "palette_family": "saturated-primary",
+    "type_class": "grotesk-geometric",
+    "imagery_modes": [
+      "ui-code",
+      "illustration",
+      "photo-people"
+    ],
+    "density": "medium",
+    "motion_signature": "одна фирменная кривая easing, проявление по словам, стопка карточек и счётчики-барабаны",
+    "fits": [
+      "B2B-saas",
+      "consumer"
+    ],
+    "avoid": "насыщенный фиолетовый + лайм, круглый геометрический гротеск, коллаж слайдов"
+  },
+  {
+    "ref": "linear",
+    "mood": [
+      "технологичный",
+      "премиальный",
+      "сдержанный"
+    ],
+    "palette_family": "black-white",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "ui-code",
+      "illustration"
+    ],
+    "density": "high",
+    "motion_signature": "проявление из размытия при загрузке и живые мини-сценарии внутри макетов; без pin/scrub",
+    "fits": [
+      "B2B-saas",
+      "devtools"
+    ],
+    "avoid": "почти чёрный фон + сжатый Inter, растворяющиеся края макетов, единственная лаймовая карточка"
+  },
+  {
+    "ref": "paper",
+    "mood": [
+      "тихий",
+      "редакционный",
+      "ремесленный"
+    ],
+    "palette_family": "warm-neutral",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "ui-code",
+      "illustration"
+    ],
+    "density": "low",
+    "motion_signature": "терминал печатает команды, сцены на входе в экран, арки между главами",
+    "fits": [
+      "B2B-saas",
+      "devtools"
+    ],
+    "avoid": "бежево-оливковый «бумажный» фон + строчные + пиксельные марки; связка «бежевый + светлая нейтраль» близка к ИИ-клише"
+  },
+  {
+    "ref": "monologue",
+    "mood": [
+      "тихий",
+      "редакционный",
+      "тёмный"
+    ],
+    "palette_family": "graphite-teal",
+    "type_class": "mono-accent",
+    "imagery_modes": [
+      "ui-code",
+      "photo-people",
+      "photo-objects"
+    ],
+    "density": "high",
+    "motion_signature": "автосцены по таймеру, закреплённое меню, подсветка манифеста CSS, рассинхрон плавающих иконок",
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "consumer"
+    ],
+    "avoid": "графит + бирюзовое стекло, моно + сериф, силуэт в hero"
+  },
+  {
+    "ref": "authkit",
+    "mood": [
+      "технологичный",
+      "премиальный",
+      "сценический"
+    ],
+    "palette_family": "graphite-teal",
+    "type_class": "grotesk-geometric",
+    "imagery_modes": [
+      "ui-code",
+      "3d",
+      "illustration"
+    ],
+    "density": "medium",
+    "motion_signature": "прожектор «дышит», бегущий свет по обводкам, мини-сценки при входе в экран, фирменный рывок easing",
+    "fits": [
+      "devtools",
+      "B2B-saas"
+    ],
+    "avoid": "тёмно-синий космос с голубыми прожекторами и градиентом в заголовках (запрещён проектом), сетка с крестиками"
+  },
+  {
+    "ref": "superhuman",
+    "mood": [
+      "премиальный",
+      "дружелюбный",
+      "человечный"
+    ],
+    "palette_family": "pastel",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "photo-people",
+      "ui-code",
+      "collage"
+    ],
+    "density": "medium",
+    "motion_signature": "parallax слоёв окон вокруг портрета, sticky-вкладки suite, смена цветных фонов секций",
+    "fits": [
+      "B2B-saas",
+      "consumer"
+    ],
+    "avoid": "сиренево-синее небо и фиолетовые градиенты (запрещены), портрет в профиль, гигантский вордмарк"
+  },
+  {
+    "ref": "mercury",
+    "mood": [
+      "премиальный",
+      "деловой",
+      "кинематографичный"
+    ],
+    "palette_family": "graphite-teal",
+    "type_class": "grotesk-geometric",
+    "imagery_modes": [
+      "photo-objects",
+      "video",
+      "ui-code",
+      "3d"
+    ],
+    "density": "low",
+    "motion_signature": "pin и видео-scrub «влёт в экран», шапка меняет фон по цвету секций, размывание при смене вкладок",
+    "fits": [
+      "fintech",
+      "B2B-saas"
+    ],
+    "avoid": "стол на горе, фиолетово-графитовый + сине-фиолетовая кнопка, видео-scrub наезд буквально"
+  },
+  {
+    "ref": "clutch",
+    "mood": [
+      "строгий",
+      "деловой",
+      "осязаемый"
+    ],
+    "palette_family": "black-white",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": [
+      "3d",
+      "illustration",
+      "ui-code"
+    ],
+    "density": "low",
+    "motion_signature": "смена подсветки фраз заголовка по кругу, sticky-схема, появление триады слева направо",
+    "fits": [
+      "B2B-saas",
+      "devtools",
+      "fintech"
+    ],
+    "avoid": "чёрные глянцевые 3D-фишки и диск, электрический синий на белом, страница-лист в рамке тонких линий"
+  }
+]

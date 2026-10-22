@@ -1,0 +1,2755 @@
+{
+  "url": "https://www.theplaya.solutions/",
+  "date": "2026-10-06T10:22:01.215Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 2,
+        "scrollHeight": 12073
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 48,
+          "parentHeight": 12026,
+          "el": "nav.text-body-2 «Solutions Solutions Lobby Personalization VIP Inte»"
+        },
+        {
+          "position": "fixed",
+          "top": "782.594px",
+          "height": 107,
+          "parentHeight": 12026,
+          "el": "div.cookies.visible «We use cookies to personalize content, and analyze»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 12073,
+          "el": "div.dg.ac"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": false
+        },
+        {
+          "frame": "002-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "003-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "004-y2250.png",
+          "y": 2250,
+          "moving": true
+        },
+        {
+          "frame": "005-y2700.png",
+          "y": 2700,
+          "moving": true
+        },
+        {
+          "frame": "006-y3150.png",
+          "y": 3150,
+          "moving": true
+        },
+        {
+          "frame": "007-y3600.png",
+          "y": 3600,
+          "moving": false
+        },
+        {
+          "frame": "008-y4050.png",
+          "y": 4050,
+          "moving": false
+        },
+        {
+          "frame": "009-y4500.png",
+          "y": 4500,
+          "moving": false
+        },
+        {
+          "frame": "010-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "011-y5400.png",
+          "y": 5400,
+          "moving": false
+        },
+        {
+          "frame": "012-y5850.png",
+          "y": 5850,
+          "moving": false
+        },
+        {
+          "frame": "013-y6300.png",
+          "y": 6300,
+          "moving": false
+        },
+        {
+          "frame": "014-y6750.png",
+          "y": 6750,
+          "moving": false
+        },
+        {
+          "frame": "015-y7200.png",
+          "y": 7200,
+          "moving": false
+        },
+        {
+          "frame": "016-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "017-y8100.png",
+          "y": 8100,
+          "moving": false
+        },
+        {
+          "frame": "018-y8550.png",
+          "y": 8550,
+          "moving": false
+        },
+        {
+          "frame": "019-y9000.png",
+          "y": 9000,
+          "moving": false
+        },
+        {
+          "frame": "020-y9450.png",
+          "y": 9450,
+          "moving": false
+        },
+        {
+          "frame": "021-y9900.png",
+          "y": 9900,
+          "moving": false
+        },
+        {
+          "frame": "022-y10350.png",
+          "y": 10350,
+          "moving": true
+        },
+        {
+          "frame": "023-y10800.png",
+          "y": 10800,
+          "moving": true
+        },
+        {
+          "frame": "024-y11173.png",
+          "y": 11173,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «56»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «55»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «45»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «41»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «35»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «30»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «13»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «47»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «42»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «36»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «19»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Understand Identify naturally-formed player groups»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Detect Behavior Spot both positive and negative pl»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Personalize Get presets and action recommendations»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 1350
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «15»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «14»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «1: Understand Identify unique player segments and »",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «14»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «13»",
+          "firstSeenAtY": 1800
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-charts.aos-init «Segment 1: Green Segment 2: Orange Segment 3: Red »",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «11»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «10»",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "g.path.active",
+          "firstSeenAtY": 2250
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «09»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «08»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "g.path",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «2: Detect Behavior Discover opportunities and risk»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «High-Value Players Detection»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Detect & Prevent Churn»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Marketing Abuse Detection»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label.active «Segment 1: Green»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label «Segment 3: Red»",
+          "firstSeenAtY": 3150
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «04»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «03»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-left",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-left",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-right",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-right",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.image",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "img",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.wrapper «Detect & Prevent Churn Spot players at risk of lea»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "margin-top",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.description-wrapper «Spot players at risk of leaving and take action be»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "height",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.collapse «Spot players at risk of leaving and take action be»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «3: Personalize Deliver personalized experiences us»",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.description «Spot players at risk of leaving and take action be»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-2.is-2-mobile «Game Recommendations Boost engagement with persona»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «01»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «00»",
+          "firstSeenAtY": 4050
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "img.image",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-4.is-2-mobile «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-2.is-2-mobile «Next Best Offer Drive player activity and loyalty »",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «55»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «54»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «53»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «52»",
+          "firstSeenAtY": 5400
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "a.inner «Lobby Personalization Daily game recommendations f»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-left-radius",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.button.text-body-2 «LEARN MORE»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-right-radius",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.button.text-body-2 «LEARN MORE»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-left-radius",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.button.text-body-2 «LEARN MORE»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-right-radius",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.button.text-body-2 «LEARN MORE»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «50»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «49»",
+          "firstSeenAtY": 5850
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «48»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «47»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "a.inner «VIP Intelligence Know your VIP players better than»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «47»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «46»",
+          "firstSeenAtY": 6300
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "a.inner «Acquisition Intelligence Understand traffic qualit»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "a.inner «Retention Boost Player profiling, churn risk detec»",
+          "firstSeenAtY": 7200
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-custom-solutions.mounted «Custom Solution Mix and match services depending o»",
+          "firstSeenAtY": 7650
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-arrows.aos-init «We handle the integration in as little as 20 busin»",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «35»",
+          "firstSeenAtY": 8100
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «34»",
+          "firstSeenAtY": 8550
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «33»",
+          "firstSeenAtY": 8550
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «31»",
+          "firstSeenAtY": 9000
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «30»",
+          "firstSeenAtY": 9000
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «27»",
+          "firstSeenAtY": 9900
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «26»",
+          "firstSeenAtY": 9900
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «17»",
+          "firstSeenAtY": 11173
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «16»",
+          "firstSeenAtY": 11173
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «16»",
+          "firstSeenAtY": 11173
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «15»",
+          "firstSeenAtY": 11173
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 2,
+        "scrollHeight": 13716
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 52,
+          "parentHeight": 13664,
+          "el": "nav.text-body-2 «Solutions Lobby Personalization VIP Intelligence A»"
+        },
+        {
+          "position": "fixed",
+          "top": "72.813px",
+          "height": 740,
+          "parentHeight": 52,
+          "el": "div.menu «Solutions Lobby Personalization VIP Intelligence A»"
+        },
+        {
+          "position": "fixed",
+          "top": "779.516px",
+          "height": 54,
+          "parentHeight": 13664,
+          "el": "div.action.larger «BOOK A DEMO»"
+        },
+        {
+          "position": "fixed",
+          "top": "710.906px",
+          "height": 123,
+          "parentHeight": 13664,
+          "el": "div.cookies.visible «We use cookies to personalize content, and analyze»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 13716,
+          "el": "div.dg.ac"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "002-y1688.png",
+          "y": 1688,
+          "moving": true
+        },
+        {
+          "frame": "003-y2110.png",
+          "y": 2110,
+          "moving": true
+        },
+        {
+          "frame": "004-y2532.png",
+          "y": 2532,
+          "moving": true
+        },
+        {
+          "frame": "005-y2954.png",
+          "y": 2954,
+          "moving": true
+        },
+        {
+          "frame": "006-y3376.png",
+          "y": 3376,
+          "moving": true
+        },
+        {
+          "frame": "007-y3798.png",
+          "y": 3798,
+          "moving": false
+        },
+        {
+          "frame": "008-y4220.png",
+          "y": 4220,
+          "moving": false
+        },
+        {
+          "frame": "009-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "010-y5064.png",
+          "y": 5064,
+          "moving": false
+        },
+        {
+          "frame": "011-y5486.png",
+          "y": 5486,
+          "moving": false
+        },
+        {
+          "frame": "012-y5908.png",
+          "y": 5908,
+          "moving": false
+        },
+        {
+          "frame": "013-y6330.png",
+          "y": 6330,
+          "moving": false
+        },
+        {
+          "frame": "014-y6752.png",
+          "y": 6752,
+          "moving": true
+        },
+        {
+          "frame": "015-y7174.png",
+          "y": 7174,
+          "moving": false
+        },
+        {
+          "frame": "016-y7596.png",
+          "y": 7596,
+          "moving": false
+        },
+        {
+          "frame": "017-y8018.png",
+          "y": 8018,
+          "moving": false
+        },
+        {
+          "frame": "018-y8440.png",
+          "y": 8440,
+          "moving": false
+        },
+        {
+          "frame": "019-y8862.png",
+          "y": 8862,
+          "moving": false
+        },
+        {
+          "frame": "020-y9284.png",
+          "y": 9284,
+          "moving": false
+        },
+        {
+          "frame": "021-y9706.png",
+          "y": 9706,
+          "moving": false
+        },
+        {
+          "frame": "022-y10128.png",
+          "y": 10128,
+          "moving": false
+        },
+        {
+          "frame": "023-y10550.png",
+          "y": 10550,
+          "moving": false
+        },
+        {
+          "frame": "024-y10972.png",
+          "y": 10972,
+          "moving": false
+        },
+        {
+          "frame": "025-y11394.png",
+          "y": 11394,
+          "moving": false
+        },
+        {
+          "frame": "026-y11816.png",
+          "y": 11816,
+          "moving": false
+        },
+        {
+          "frame": "027-y12238.png",
+          "y": 12238,
+          "moving": false
+        },
+        {
+          "frame": "028-y12660.png",
+          "y": 12660,
+          "moving": true
+        },
+        {
+          "frame": "029-y12872.png",
+          "y": 12872,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «37»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «34»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «20»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «59»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «56»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-from «58»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 844
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «49»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «26»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Detect Behavior Spot both positive and negative pl»",
+          "firstSeenAtY": 1688
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «10»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «09»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Personalize Get presets and action recommendations»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «09»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «08»",
+          "firstSeenAtY": 2110
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «1: Understand Identify unique player segments and »",
+          "firstSeenAtY": 2532
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-charts.aos-init «Segment 1: Green Segment 2: Orange Segment 3: Red »",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "g.path.active",
+          "firstSeenAtY": 2954
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «03»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «02»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "g.path",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label «Segment 1: Green»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label.active «Segment 2: Orange»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «02»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «01»",
+          "firstSeenAtY": 3376
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-left",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "svg.chart.is-left",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label «Segment 2: Orange»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.label.active «Segment 3: Red»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «2: Detect Behavior Discover opportunities and risk»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «29»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «28»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «00»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «59»",
+          "firstSeenAtY": 3798
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «High-Value Players Detection Recognize potential h»",
+          "firstSeenAtY": 4220
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «56»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «55»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 100,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Detect & Prevent Churn Spot players at risk of lea»",
+          "firstSeenAtY": 4642
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «54»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «53»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.card.aos-init «Marketing Abuse Detection Identification of suspic»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «53»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «52»",
+          "firstSeenAtY": 5064
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-counter.aos-init «3: Personalize Deliver personalized experiences us»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «51»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «50»",
+          "firstSeenAtY": 5486
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "left",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "img.image",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-2.is-2-mobile «Game Recommendations Boost engagement with persona»",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 5908
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «47»",
+          "firstSeenAtY": 6330
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «46»",
+          "firstSeenAtY": 6330
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-4.is-2-mobile «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 6330
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "div.is-2.is-2-mobile «Next Best Offer Drive player activity and loyalty »",
+          "firstSeenAtY": 6330
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «45»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «44»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «44»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «42»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Double your deposit up to 1,500 on R»",
+          "firstSeenAtY": 6752
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «41»",
+          "firstSeenAtY": 7174
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «40»",
+          "firstSeenAtY": 7174
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «39»",
+          "firstSeenAtY": 7596
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «38»",
+          "firstSeenAtY": 7596
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 7596
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «CASHBACK BONUS 10% cashback on Legacy of Dead this»",
+          "firstSeenAtY": 7596
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «37»",
+          "firstSeenAtY": 8018
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «36»",
+          "firstSeenAtY": 8018
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «36»",
+          "firstSeenAtY": 8018
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «35»",
+          "firstSeenAtY": 8018
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-custom-solutions.mounted «Custom Solution Mix and match services depending o»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «34»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «33»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.leave «DEPOSIT BONUS Up to 1,000 deposit match + 50 FS on»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.current «FREE SPINS BONUS Deposit 25 and get 50 FS on Gates»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.card.next «FREE SPINS BONUS 150 FS on Sweet Bonanza — no depo»",
+          "firstSeenAtY": 8440
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.215, 0.61, 0.355, 1)",
+          "target": "section.block-arrows.aos-init «We handle the integration in as little as 20 busin»",
+          "firstSeenAtY": 8862
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «30»",
+          "firstSeenAtY": 9284
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «29»",
+          "firstSeenAtY": 9284
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «28»",
+          "firstSeenAtY": 9706
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «27»",
+          "firstSeenAtY": 9706
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «27»",
+          "firstSeenAtY": 9706
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «25»",
+          "firstSeenAtY": 10128
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «24»",
+          "firstSeenAtY": 10128
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «21»",
+          "firstSeenAtY": 10972
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «20»",
+          "firstSeenAtY": 10972
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «19»",
+          "firstSeenAtY": 11394
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «18»",
+          "firstSeenAtY": 11394
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-in-out",
+          "target": "div.action.larger «BOOK A DEMO»",
+          "firstSeenAtY": 11394
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «18»",
+          "firstSeenAtY": 11394
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «17»",
+          "firstSeenAtY": 11394
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-leave-active «16»",
+          "firstSeenAtY": 11816
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "span.num.count-slide-enter-active «15»",
+          "firstSeenAtY": 11816
+        }
+      ]
+    }
+  }
+}

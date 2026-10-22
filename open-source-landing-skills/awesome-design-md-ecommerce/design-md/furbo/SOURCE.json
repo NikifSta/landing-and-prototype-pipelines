@@ -1,0 +1,736 @@
+{
+  "source_url": "https://furbo.com",
+  "final_url": "https://furbo.com/us",
+  "captured_at": "2026-09-28T04:18:19.982676+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://furbo.com",
+      "final_url": "https://furbo.com/us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "final_url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#f7cd3d": {
+      "count": 11,
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "#434343": {
+      "count": 14,
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "#1e7bac": {
+      "count": 6,
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#ececec": {
+      "count": 4,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 4,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#f0836a": {
+      "count": 2,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#faf8f5": {
+      "count": 6,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#fcebb1": {
+      "count": 4,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#fefaf6": {
+      "count": 7,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 3,
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://furbo.com/us"
+    ],
+    "sans-serif": [
+      "https://furbo.com/us"
+    ],
+    "DM Sans": [
+      "https://furbo.com/us"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://furbo.com/us",
+      "selector": ":root",
+      "declarations": "--font-dm-sans:'DM Sans', 'DM Sans Fallback', system-ui, sans-serif;--font-poppins:'Poppins', 'Poppins Fallback', system-ui, sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": "body",
+      "declarations": "background-color:var(--background);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:var(--font-dm-sans),sans-serif;scroll-behavior:smooth"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".\\!text-body-3",
+      "declarations": "font-size:20px!important;line-height:30px!important;font-family:var(--font-dm-sans),sans-serif!important"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".text-body-1,.text-body-2",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".text-body-3",
+      "declarations": "font-size:20px;line-height:30px;font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".text-body-3\\!",
+      "declarations": "font-size:20px!important;line-height:30px!important;font-family:var(--font-dm-sans),sans-serif!important"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".text-body-4,.text-body-5",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".sm\\:text-body-3",
+      "declarations": "font-size:20px;line-height:30px;font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".md\\:text-body-1,.md\\:text-body-2",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".md\\:text-body-3,.md\\:text-body-4",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".md\\:text-body-5,.md\\:text-caption",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".lg\\:\\!text-body-1",
+      "declarations": "font-size:24px!important;line-height:36px!important;font-family:var(--font-dm-sans),sans-serif!important"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".lg\\:text-body-1,.lg\\:text-body-4",
+      "declarations": "font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".\\[\\&_p\\]\\:text-body-3 p",
+      "declarations": "font-size:20px;line-height:30px;font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".\\[\\&_strong\\]\\:text-body-5 strong",
+      "declarations": "font-size:16px;line-height:24px;font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ".\\[\\&\\>h4\\]\\:text-body-3>h4",
+      "declarations": "font-size:20px;line-height:30px;font-family:var(--font-dm-sans),sans-serif"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ":root",
+      "declarations": "--font-poppins:\"Poppins\";--font-dm-sans:\"DM Sans\";--bg-primary:#f7cd3d;--bg-primary-light:#fcebb1;--bg-secondary:#7a6e65;--bg-secondary-light:#a29a93;--bg-secondary-extra-light:#dedcd7;--bg-soft:#ffdd63;--bg-soft-medium:#ffeba1;--bg-soft-light:#fff5d0;--bg-soft-extra-light:#fffae8;--bg-base:#fefbf7;--bg-base-dark:#f7f3ee;--bg-tertiary:#d9d9d9;--bg-tertiary-light:#ececec;--bg-tertiary-extra-light:#f5f5f5;--bg-highlight:#1e7bac;--bg-highlight-light:#8fbdd6;--bg-inverse:#fff;--bg-disabled:#434343;--text-primary:#434343;--text-primary-medium:#696969;--text-primary-light:#b4b4b4;--text-heading:#5c524c;--text-heading-medium:#7a6155;--text-heading-light:#ae8a79;--text-error:#d0021b;--text-error-lig"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ":root",
+      "declarations": "--nav-h:76px;--current-breakpoint:768px;--container-padding-x:24px"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ":root",
+      "declarations": "--current-breakpoint:1024px;--container-padding-x:32px"
+    },
+    {
+      "source": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+      "selector": ":root",
+      "declarations": "--current-breakpoint:1280px;--container-padding-x:40px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Furbo｜#1 Best-selling Interactive Pet Camera Brand",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f7cd3d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "colors.secondary": {
+      "value": "#1e7bac",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "colors.accent": {
+      "value": "#f0836a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#434343",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "colors.body": {
+      "value": "#434343",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "colors.muted": {
+      "value": "#7d7d7d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.border": {
+      "value": "#ececec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#faf8f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fefaf6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.highlight": {
+      "value": "#fcebb1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/_next/static/css/722d1fb5067a4de7.css"
+      ]
+    },
+    "colors.on-secondary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://furbo.com/us"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": "36px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": "30px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": "24px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "DM Sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 600,
+        "lineHeight": "24px",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.secondary}",
+        "border": "1px solid {colors.secondary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.border}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "typography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.highlight}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.device-status-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.border}",
+        "accentColor": "{colors.secondary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#f7cd3d": {
+        "selector": ".css-1hhuki7.builder-block",
+        "property": "background-color",
+        "declaration": "rgba(247,205,61,1)",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "#434343": {
+        "selector": ".css-nc35x1.builder-block",
+        "property": "color",
+        "declaration": "rgba(67,67,67,1)",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "#1e7bac": {
+        "selector": ".css-vip2uc.builder-block",
+        "property": "background-color",
+        "declaration": "rgba(30,123,172,1)",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "#ffffff": {
+        "selector": ".css-vip2uc.builder-block",
+        "property": "color",
+        "declaration": "rgba(255,255,255,1)",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "#000000": {
+        "selector": ":host,:root",
+        "property": "--color-black",
+        "declaration": "#000",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#ececec": {
+        "selector": ".border-\\[\\#ececec\\]",
+        "property": "border-color",
+        "declaration": "#ececec",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#00000080": {
+        "selector": ".bg-\\[\\#00000080\\]",
+        "property": "background-color",
+        "declaration": "#00000080",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#e0e0e0": {
+        "selector": ".bg-\\[\\#E0E0E0\\]",
+        "property": "background-color",
+        "declaration": "#e0e0e0",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#f0836a": {
+        "selector": ".bg-\\[\\#F0836A\\]",
+        "property": "background-color",
+        "declaration": "#f0836a",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#faf8f5": {
+        "selector": ".bg-\\[\\#FAF8F5\\]",
+        "property": "background-color",
+        "declaration": "#faf8f5",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#fcebb1": {
+        "selector": ".bg-\\[\\#FCEBB1\\]",
+        "property": "background-color",
+        "declaration": "#fcebb1",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#fefaf6": {
+        "selector": ".bg-\\[\\#FEFAF6\\]",
+        "property": "background-color",
+        "declaration": "#fefaf6",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      },
+      "#7d7d7d": {
+        "selector": ".text-\\[\\#7D7D7D\\]",
+        "property": "color",
+        "declaration": "#7d7d7d",
+        "url": "https://furbo.com/_next/static/css/722d1fb5067a4de7.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "74034acd574f4f6e8abcf050d864a05a51036d7ae76a0a89c0a28c9610f19f31"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Poppins\"",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "sans-serif": {
+        "selector": ".css-nc35x1.builder-block",
+        "property": "font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      },
+      "DM Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"DM Sans\"",
+        "url": "https://furbo.com/us",
+        "snapshot": "homepage.html",
+        "sha256": "84540dab6877a4e754682a1c32fdee02bca68b652af024d494488a29866243e6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "/home/ivan/.npm-global/bin/playwright-mcp",
+      "args": ["--cdp-endpoint", "http://127.0.0.1:9222"]
+    }
+  }
+}

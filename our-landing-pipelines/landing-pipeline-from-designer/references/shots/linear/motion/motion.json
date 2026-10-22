@@ -1,0 +1,2361 @@
+{
+  "url": "https://linear.app/",
+  "date": "2026-10-06T09:32:29.658Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 9960
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "72px",
+          "height": 32,
+          "parentHeight": 9960,
+          "el": "a.LSqk9q_root «Skip to content →»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 73,
+          "parentHeight": 0,
+          "el": "header.TZTsQG_header.TZTsQG_header «Product Resources Customers Pricing Now Contact Lo»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 1,
+          "parentHeight": 32,
+          "el": "input#base-ui-_R_1ajqnacplei_-hidden-input"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y450.png",
+          "y": 450,
+          "moving": true
+        },
+        {
+          "frame": "002-y900.png",
+          "y": 900,
+          "moving": true
+        },
+        {
+          "frame": "003-y1350.png",
+          "y": 1350,
+          "moving": true
+        },
+        {
+          "frame": "004-y1800.png",
+          "y": 1800,
+          "moving": true
+        },
+        {
+          "frame": "005-y2250.png",
+          "y": 2250,
+          "moving": false
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": false
+        },
+        {
+          "frame": "007-y3150.png",
+          "y": 3150,
+          "moving": false
+        },
+        {
+          "frame": "008-y3600.png",
+          "y": 3600,
+          "moving": false
+        },
+        {
+          "frame": "009-y4050.png",
+          "y": 4050,
+          "moving": false
+        },
+        {
+          "frame": "010-y4500.png",
+          "y": 4500,
+          "moving": false
+        },
+        {
+          "frame": "011-y4950.png",
+          "y": 4950,
+          "moving": true
+        },
+        {
+          "frame": "012-y5400.png",
+          "y": 5400,
+          "moving": true
+        },
+        {
+          "frame": "013-y5850.png",
+          "y": 5850,
+          "moving": false
+        },
+        {
+          "frame": "014-y6300.png",
+          "y": 6300,
+          "moving": false
+        },
+        {
+          "frame": "015-y6750.png",
+          "y": 6750,
+          "moving": false
+        },
+        {
+          "frame": "016-y7200.png",
+          "y": 7200,
+          "moving": false
+        },
+        {
+          "frame": "017-y7650.png",
+          "y": 7650,
+          "moving": false
+        },
+        {
+          "frame": "018-y8100.png",
+          "y": 8100,
+          "moving": false
+        },
+        {
+          "frame": "019-y8550.png",
+          "y": 8550,
+          "moving": false
+        },
+        {
+          "frame": "020-y9000.png",
+          "y": 9000,
+          "moving": false
+        },
+        {
+          "frame": "021-y9060.png",
+          "y": 9060,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "qM9FAa_cursorBlink",
+          "duration": 1250,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.qM9FAa_cursor",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "-VOcTG_agentBorderSweep",
+          "duration": 2000,
+          "delay": -80,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.-VOcTG_badge «Working… Working…»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "-VOcTG_agentLabelSweep",
+          "duration": 2000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "span.sx-1n2onr6.sx-ln7xf2 «Working… Working…»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "sx-45fvhf-B",
+          "duration": 2400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.sx-iy17q3.sx-ce8rw5 «Working…»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «The product»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 433.00000000000006,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «development»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 466,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «system for teams»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 499,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «and agents»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.hide-mobile.QI8oKG_titleLine «The product development»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 500,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.hide-mobile.QI8oKG_titleLine «system for teams and agents»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.QI8oKG_description «Purpose-built for planning and building products. »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 850,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span «NewLoops →»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 2000,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span «New Loops →»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_background",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_shadows.hide-laptop",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_shade.hide-laptop",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_frameBackground",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "nav.Mmx1Wq_sidebar «Linear Pulse Inbox My issues Reviews Workspace Ini»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_view «DRV-8852 Faster app launch 1 / 84 Faster app launc»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 600.0000000000001,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.WS84WW_frameWrapper «Linear Pulse Inbox My issues Reviews Workspace Ini»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.aFfDra_conversation «add retry handling for failed image uploads descri»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.aFfDra_conversation «Review today’s mobile triage and group the issues »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "sx-45fvhf-B",
+          "duration": 2400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.sx-iy17q3.sx-ce8rw5 «Thinking…»",
+          "firstSeenAtY": 450
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.qM9FAa_sendButtonGroup",
+          "firstSeenAtY": 2700
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "fFDhtq_dotIn",
+          "duration": 420,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear",
+          "target": "circle.fFDhtq_dot",
+          "firstSeenAtY": 3600
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.q1lnWq_turn «Worked for 8 sec Three issues ranked by customer i»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.q1lnWq_turn «Worked for 1 min Updated the issue with requiremen»",
+          "firstSeenAtY": 4500
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Thinking...»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Started working on ENG-2844 Failed image upload an»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Worked for 12 sec»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Reviewed eight issues: two are ready for backlog, »",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Setting up DRV/rideshare-app… 00:07»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "linear(0 0%, 0.0411 3.4482758620689653%, 0.1342 6.896551724137931%, 0.2478 10.344827586206897%, 0.3638 13.793103448275863%, 0.4725 17.24137931034483%, 0.5692 20.689655172413794%, 0.6524 24.137931034482758%, 0.7222 27.586206896551722%, 0.7798 31.034482758620687%, 0.8267 34.48275862068965%, 0.8644 37.93103448275862%, 0.8944 41.37931034482759%, 0.9181 44.827586206896555%, 0.9367 48.27586206896552%, 0.9513 51.72413793103449%, 0.9626 55.17241379310346%, 0.9714 58.62068965517243%, 0.9782 62.068965517241395%, 0.9834 65.51724137931036%, 0.9874 68.96551724137933%, 0.9904 72.4137931034483%, 0.9927 75.86206896551727%, 0.9945 79.31034482758623%, 0.9959 82.7586206896552%, 0.9969 86.20689655172416%, 0.9976 89.65517241379311%, 0.9982 93.10344827586208%, 0.9987 96.55172413793105%, 1 100%)",
+          "target": "div «Backlog · 2 ENG-2521 Missing inbox status colors E»",
+          "firstSeenAtY": 4950
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.q1lnWq_turn «Thinking... Started working on ENG-2844 Failed ima»",
+          "firstSeenAtY": 6750
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 300,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.q1lnWq_turn «Thinking… Thinking…»",
+          "firstSeenAtY": 6750
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": false,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 5876
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "64px",
+          "height": 32,
+          "parentHeight": 5876,
+          "el": "a.LSqk9q_root «Skip to content →»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 65,
+          "parentHeight": 0,
+          "el": "header.TZTsQG_header.TZTsQG_header «Log in Sign up»"
+        },
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 0,
+          "parentHeight": 0,
+          "el": "input#base-ui-_R_1ajqnacplei_-hidden-input"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": false
+        },
+        {
+          "frame": "001-y422.png",
+          "y": 422,
+          "moving": true
+        },
+        {
+          "frame": "002-y844.png",
+          "y": 844,
+          "moving": true
+        },
+        {
+          "frame": "003-y1266.png",
+          "y": 1266,
+          "moving": false
+        },
+        {
+          "frame": "004-y1688.png",
+          "y": 1688,
+          "moving": false
+        },
+        {
+          "frame": "005-y2110.png",
+          "y": 2110,
+          "moving": false
+        },
+        {
+          "frame": "006-y2532.png",
+          "y": 2532,
+          "moving": false
+        },
+        {
+          "frame": "007-y2954.png",
+          "y": 2954,
+          "moving": false
+        },
+        {
+          "frame": "008-y3376.png",
+          "y": 3376,
+          "moving": false
+        },
+        {
+          "frame": "009-y3798.png",
+          "y": 3798,
+          "moving": false
+        },
+        {
+          "frame": "010-y4220.png",
+          "y": 4220,
+          "moving": false
+        },
+        {
+          "frame": "011-y4642.png",
+          "y": 4642,
+          "moving": false
+        },
+        {
+          "frame": "012-y5032.png",
+          "y": 5032,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSAnimation",
+          "name": "xt7VyG_scroll",
+          "duration": 30000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.xt7VyG_content",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "xt7VyG_scroll-abs",
+          "duration": 30000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.xt7VyG_content",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-upDown",
+          "duration": 2800,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-upDown",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-pong",
+          "duration": 1600,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-pong",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-0-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-0-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-1-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-1-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-2-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-2-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-3-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-3-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-0-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-0-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-1-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-1-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-2-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-2-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-3-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-3-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "grid-dot-4-4-agent",
+          "duration": 3200,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "circle.grid-dot-4-4-agent",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "qM9FAa_cursorBlink",
+          "duration": 1250,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.qM9FAa_cursor",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «The product»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 433.00000000000006,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «development»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 466,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «system for teams»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 499,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.show-mobile.QI8oKG_titleLine «and agents»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 400,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.hide-mobile.QI8oKG_titleLine «The product development»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 500,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.hide-mobile.QI8oKG_titleLine «system for teams and agents»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 600,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span.QI8oKG_description «Purpose-built for planning and building products. »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 850,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span «New Loops →»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1000,
+          "delay": 2000,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.25, 0.1, 0.25, 1)",
+          "target": "span «NewLoops →»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_background",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_shadows.hide-laptop",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_shade.hide-laptop",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_frameBackground",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "nav.Mmx1Wq_sidebar «Linear Pulse Inbox My issues Reviews Workspace Ini»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 1300,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+          "target": "div.WS84WW_view «DRV-8852 Faster app launch 1 / 84 Faster app launc»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 1500,
+          "delay": 600.0000000000001,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 500,
+          "delay": 200,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "div.WS84WW_frameWrapper «Linear Pulse Inbox My issues Reviews Workspace Ini»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.aFfDra_conversation «add retry handling for failed image uploads descri»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 350,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.16, 1, 0.3, 1)",
+          "target": "div.aFfDra_conversation «Review today’s mobile triage and group the issues »",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "sx-45fvhf-B",
+          "duration": 2400,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "span.sx-iy17q3.sx-ce8rw5 «Thinking…»",
+          "firstSeenAtY": 422
+        },
+        {
+          "kind": "Animation",
+          "name": "",
+          "duration": 800,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+          "target": "div.qM9FAa_sendButtonGroup",
+          "firstSeenAtY": 1688
+        }
+      ]
+    }
+  }
+}

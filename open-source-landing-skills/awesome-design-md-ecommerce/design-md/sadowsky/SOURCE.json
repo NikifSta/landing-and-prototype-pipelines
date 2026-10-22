@@ -1,0 +1,782 @@
+{
+  "source_url": "https://www.sadowsky.com",
+  "final_url": "https://sadowsky.com/",
+  "captured_at": "2026-09-28T09:33:02.642454+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.sadowsky.com",
+      "final_url": "https://sadowsky.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "final_url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Lato:wght@300;400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Lato:wght@300;400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "58d7608ee493f6f364eec436c75032dea25c9954d045f3c1f1810b1f423cd1e9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "final_url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "547a97285861331729b9b61ff718967428a88c46d8f4d7b14388e1f00c5bbdc3",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/v4-shims.min.css?ver=7.0.0",
+      "final_url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/v4-shims.min.css?ver=7.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d73fd098bcb5b37356a1472159360ef83ab92c760b52250d682f99b4be95bb2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0",
+      "final_url": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6af381577e0b4b3bd70dc4112668f082cef1b4b42b9a4534f17c5c6d1d39b6eb",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#313131": {
+      "count": 3,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 28,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 6,
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "#707070": {
+      "count": 4,
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 4,
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "#424242": {
+      "count": 3,
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 2,
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 3,
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://sadowsky.com/"
+    ],
+    "Lato": [
+      "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--preset-color1: #037fff;\n\t\t\t--preset-color2: #026fe0;\n\t\t\t--preset-color3: #071323;\n\t\t\t--preset-color4: #132133;\n\t\t\t--preset-color5: #34495e;\n\t\t\t--preset-color6: #787676;\n\t\t\t--preset-color7: #f0f2f3;\n\t\t\t--preset-color8: #f8f9fa;\n\t\t\t--preset-color9: #ffffff;"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--postx_preset_Base_1_color: #f4f4ff; --postx_preset_Base_2_color: #dddff8; --postx_preset_Base_3_color: #B4B4D6; --postx_preset_Primary_color: #3323f0; --postx_preset_Secondary_color: #4a5fff; --postx_preset_Tertiary_color: #FFFFFF; --postx_preset_Contrast_3_color: #545472; --postx_preset_Contrast_2_color: #262657; --postx_preset_Contrast_1_color: #10102e; --postx_preset_Over_Primary_color: #ffffff;"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--postx_preset_Primary_to_Secondary_to_Right_gradient: linear-gradient(90deg, var(--postx_preset_Primary_color) 0%, var(--postx_preset_Secondary_color) 100%); --postx_preset_Primary_to_Secondary_to_Bottom_gradient: linear-gradient(180deg, var(--postx_preset_Primary_color) 0%, var(--postx_preset_Secondary_color) 100%); --postx_preset_Secondary_to_Primary_to_Right_gradient: linear-gradient(90deg, var(--postx_preset_Secondary_color) 0%, var(--postx_preset_Primary_color) 100%); --postx_preset_Secondary_to_Primary_to_Bottom_gradient: linear-gradient(180deg, var(--postx_preset_Secondary_color) 0%, var(--postx_preset_Primary_color) 100%); --postx_preset_Cold_Evening_gradient: linear-gradient(0deg, "
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": ":root",
+      "declarations": "--postx_preset_Heading_typo_font_family: Helvetica; --postx_preset_Heading_typo_font_family_type: sans-serif; --postx_preset_Heading_typo_font_weight: 600; --postx_preset_Heading_typo_text_transform: capitalize; --postx_preset_Body_and_Others_typo_font_family: Helvetica; --postx_preset_Body_and_Others_typo_font_family_type: sans-serif; --postx_preset_Body_and_Others_typo_font_weight: 400; --postx_preset_Body_and_Others_typo_text_transform: lowercase; --postx_preset_body_typo_font_size_lg: 16px; --postx_preset_paragraph_1_typo_font_size_lg: 12px; --postx_preset_paragraph_2_typo_font_size_lg: 12px; --postx_preset_paragraph_3_typo_font_size_lg: 12px; --postx_preset_heading_h1_typo_font_size_lg:"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": "BODY .fancybox-bg",
+      "declarations": "background-color:#0f0f11"
+    },
+    {
+      "source": "https://sadowsky.com/",
+      "selector": "BODY .fancybox-thumbs",
+      "declarations": "background-color:#ffffff"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": "body,td,th",
+      "declarations": "font-family:'Lato', sans-serif;\n\tfont-size: 16px;\n\tfont-weight:300;\n\tline-height:20px;\n\tcolor:#313131;\n\tbackground-color:#f8f8f8;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": ".artists h1",
+      "declarations": "color:white;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": ".slantedguitar .blackbox h1",
+      "declarations": "color:#000000!important; margin-bottom: 20px;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": "h1",
+      "declarations": "font-family: 'Philosopher', sans-serif; font-size:45px; line-height:45px; font-weight:100;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": "#af-form-1674234707 .af-body input.text",
+      "declarations": "background-color: #35363a!important; border-width: 0px!important;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": "#af-form-1674234707 .af-body input.text:focus",
+      "declarations": "background-color:white!important;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+      "selector": "#af-form-1674234707 .buttonContainer input.submit",
+      "declarations": "font-family: 'Lato'!important; \n\tfont-size: 13px!important; \n\tfont-weight: 100!important; \n\ttext-transform: uppercase!important; \n\tbackground-color: #123f5c!important;\n\tmargin-top:-5px!important;"
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ".fa-tablet-button",
+      "declarations": "--fa:\"\\f10a\""
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ".fa-mobile-button",
+      "declarations": "--fa:\"\\f10b\""
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ".fa-header,.fa-heading",
+      "declarations": "--fa:\"\\f1dc\""
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ".fa-mobile-alt,.fa-mobile-screen-button",
+      "declarations": "--fa:\"\\f3cd\""
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ".fa-tablet-alt,.fa-tablet-screen-button",
+      "declarations": "--fa:\"\\f3fa\""
+    },
+    {
+      "source": "https://sadowsky.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=7.0.0",
+      "selector": ":host,:root",
+      "declarations": "--fa-family-brands:\"Font Awesome 7 Brands\";--fa-font-brands:normal 400 1em/1 var(--fa-family-brands)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sadowsky Guitars - Timeless & Cutting Edge",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#32373c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#313131",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#707070",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fbfbfb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#d4d4d4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "colors.neutral-mid": {
+      "value": "#b2b2b2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "colors.neutral-dark": {
+      "value": "#424242",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#0a0a0a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sadowsky.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 300,
+        "lineHeight": "20px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 300,
+        "lineHeight": "18px",
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "16px",
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Lato', sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border-subtle}",
+        "rounded": "{rounded.sm}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.neutral-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "hairlineColor": "{colors.hairline}",
+        "headerTypography": "{typography.title-md}",
+        "cellTypography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#dddddd": {
+        "selector": ":root",
+        "property": "--wp-editor-canvas-background",
+        "declaration": "#ddd",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#eeeeee": {
+        "selector": ":root .has-very-light-gray-background-color",
+        "property": "background-color",
+        "declaration": "#eee",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#313131": {
+        "selector": ":root .has-very-dark-gray-background-color",
+        "property": "background-color",
+        "declaration": "#313131",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#ffffff": {
+        "selector": ".wp-block-button__link",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#32373c": {
+        "selector": ".wp-block-button__link",
+        "property": "background-color",
+        "declaration": "#32373c",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#000000": {
+        "selector": ":root",
+        "property": "--wp--preset--color--black",
+        "declaration": "#000000",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#00000000": {
+        "selector": "a.vce-image-masonry-gallery-item",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#0a0a0a": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#0a0a0a",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "#707070": {
+        "selector": ".menu",
+        "property": "color",
+        "declaration": "#707070",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      },
+      "#b2b2b2": {
+        "selector": ".footer",
+        "property": "color",
+        "declaration": "#b2b2b2",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      },
+      "#424242": {
+        "selector": ".wrap",
+        "property": "border-bottom",
+        "declaration": "1px solid #424242",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      },
+      "#fbfbfb": {
+        "selector": ".search article",
+        "property": "background-color",
+        "declaration": "#fbfbfb",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      },
+      "#d4d4d4": {
+        "selector": "input",
+        "property": "border",
+        "declaration": "1px solid #d4d4d4",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--postx_preset_heading_typo_font_family_type",
+        "declaration": "sans-serif",
+        "url": "https://sadowsky.com/",
+        "snapshot": "homepage.html",
+        "sha256": "656501a6f2e064cc47ae692551cbb476802941854bdc799e71e965e24aa23f1a"
+      },
+      "Lato": {
+        "selector": "body,td,th",
+        "property": "font-family",
+        "declaration": "\"Lato\", sans-serif",
+        "url": "https://sadowsky.com/wp-content/themes/Sadowsky.com/css.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "e399b08f1c30f7eb162f2b346df3b399f26c2f0d1ae68f242a5646c95a76be5f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

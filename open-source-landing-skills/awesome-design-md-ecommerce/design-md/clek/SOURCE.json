@@ -1,0 +1,778 @@
+{
+  "source_url": "https://clekinc.com",
+  "final_url": "https://clekinc.com/",
+  "captured_at": "2026-09-28T10:15:21.226448+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://clekinc.com",
+      "final_url": "https://clekinc.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "final_url": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0f0d85c07a7c7fafb3c27bd7babb7be1182a70eade9be50d6b9031b728bccd30",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://clekinc.com/cdn/shop/t/66/assets/swatches.css?v=111599167899635472761774899523",
+      "final_url": "https://clekinc.com/cdn/shop/t/66/assets/swatches.css?v=111599167899635472761774899523",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fdce3a1b22c12e87e4caf7787b1d6a05a6a6b8fc864a039092cb56c93925eaed",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://clekinc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://clekinc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1451cd52a32ae34abc6533c11523f610d8f2001cc37580693008b86770a0c84f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://clekinc.com/cdn/shop/t/66/assets/video.css?v=52927323488706550131772463686",
+      "final_url": "https://clekinc.com/cdn/shop/t/66/assets/video.css?v=52927323488706550131772463686",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3d8fd6f52cbb33f1ab42570a5d2650d895fe79a75d566b83924b27132f5b2ee7",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 31,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#232323": {
+      "count": 6,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#bf570a": {
+      "count": 4,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#f4f6f8": {
+      "count": 1,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#4c4c4b": {
+      "count": 4,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#00800a": {
+      "count": 1,
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "#d90000": {
+      "count": 1,
+      "sources": [
+        "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686"
+      ]
+    },
+    "#fdfdfa": {
+      "count": 1,
+      "sources": [
+        "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://clekinc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#797874": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css"
+      ]
+    },
+    "#005293": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://clekinc.com/"
+    ],
+    "Futura": [
+      "https://clekinc.com/"
+    ],
+    "Inter": [
+      "https://clekinc.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://clekinc.com/",
+      "selector": ".klaviyo-bis-trigger.button",
+      "declarations": "width: 100%; font-family: Futura, sans-serif; background: #ffffff; color: #4c4c4b; border: 1.5px solid; min-height: 48px; box-sizing: border-box; width: 100%;"
+    },
+    {
+      "source": "https://clekinc.com/",
+      "selector": ".klaviyo-bis-trigger.button:hover,.klaviyo-bis-trigger.button:active,.klaviyo-bis-trigger.button:focus",
+      "declarations": "background: #4c4c4b; color: #ffffff; border-color: #4c4c4b;"
+    },
+    {
+      "source": "https://clekinc.com/",
+      "selector": "#content .button-color",
+      "declarations": "color: #FFFFFF;"
+    },
+    {
+      "source": "https://clekinc.com/",
+      "selector": "#button",
+      "declarations": "background-color: white;\n    width: 100%;\n    height: 50px;\n    border-radius: 6px;\n    border-color:black;\n    color: black;\n    font-size: 16px;\n    font-family: ;"
+    },
+    {
+      "source": "https://clekinc.com/",
+      "selector": "#button",
+      "declarations": "cursor: pointer ;\n    background-color: transparent;\n        border: 0;\n    color: black;\n    padding: 0;\n    font-size: 16px;\n    padding-top:2px;\n    font-family: ;"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-mobile);--container-pad-x: 16px;--carousel-edge: 40px;--theme-sticky-header-height: 0px;--space-unit: 4px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-desktop);--container-pad-x: 30px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 50px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-large)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 60px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "button",
+      "declarations": "margin:0;padding:0;border:0;background:transparent;color:inherit;font-family:inherit;font-size:inherit;font-weight:inherit;line-height:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn",
+      "declarations": "display:inline-block;height:auto;margin:0;padding:var(--input-btn-padding-top) 25px var(--input-btn-padding-bottom);transition:background-color .1s,color .1s,border-color .1s,opacity .1s;border:1.5px solid rgb(var(--btn-border-color));border-radius:var(--btn-border-radius);background:rgb(var(--btn-bg-color));color:rgb(var(--btn-text-color));font-family:var(--base-font-family);font-size:var(--button-text-size);font-style:var(--base-font-style);font-weight:var(--base-font-weight);letter-spacing:var(--btn-letter-spacing);line-height:1em;text-align:center;text-decoration:none!important;text-transform:var(--btn-text-transform);vertical-align:middle;cursor:pointer;-webkit-tap-highlight-color:trans"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn:active",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn:hover",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn--secondary",
+      "declarations": "--btn-text-color: var(--btn-alt-text-color);--btn-text-hover-color: var(--btn-alt-bg-color);--btn-bg-color: var(--btn-alt-bg-color);--btn-bg-hover-color: var(--btn-alt-text-color);--btn-border-color: var(--btn-alt-border-color);--btn-border-hover-color: var(--btn-alt-border-hover-color)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn--tertiary",
+      "declarations": "--btn-text-color: var(--btn-ter-text-color);--btn-text-hover-color: var(--btn-ter-text-hover-color);--btn-bg-color: var(--btn-ter-bg-color);--btn-bg-hover-color: var(--btn-ter-bg-hover-color);--btn-border-color: var(--btn-ter-bg-color);--btn-border-hover-color: var(--btn-ter-bg-hover-color);padding:.9em 20px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".btn--inherit",
+      "declarations": "--btn-text-color: var(--bg-color);--btn-text-hover-color: var(--bg-color);--btn-bg-color: var(--text-color);--btn-bg-hover-color: var(--text-color) / .85;--btn-border-color: var(--text-color);--btn-border-hover-color: var(--text-color) / .85"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: var(--btn-border-radius)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--icon-size: 24px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".height--full-ignore-header-height",
+      "declarations": "--image-height: 100vh"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".buttoned-input",
+      "declarations": "--buttoned-input-size: 44px;display:inline-flex;align-items:center;border:1px solid var(--input-border-color);border-radius:var(--btn-border-radius);background:var(--input-background-color);color:rgb(var(--input-text-color))"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".buttoned-input a",
+      "declarations": "display:flex;align-items:center;height:var(--buttoned-input-size);padding-inline-start:calc(var(--buttoned-input-size) / 3);padding-inline-end:calc(var(--buttoned-input-size) / 10);color:inherit;font-size:var(--input-text-size)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".buttoned-input--small",
+      "declarations": "--buttoned-input-size: 33px"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "body",
+      "declarations": "font-family:var(--base-font-family);font-style:var(--base-font-style);font-weight:var(--base-font-weight)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "font-family:var(--heading-font-family);font-style:var(--heading-font-style);font-weight:var(--heading-font-weight);letter-spacing:var(--heading-font-letter-spacing)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ".pageheader .logotext,#shoplogo .logotext",
+      "declarations": "font-family:var(--logo-font-family);font-style:var(--logo-font-style);font-weight:var(--logo-font-weight)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "margin-bottom:10px;color:rgb(var(--heading-color));line-height:1.2"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-text-size) - var(--base-text-size)) * .16)"
+    },
+    {
+      "source": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-mobile-text-size) - var(--base-text-size)) * .16)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Clek | Infant Car Seats, Convertible Car Seats, Booster Seats – Clek US Clek | Infant Car Seats, Convertible Car Seats, Booster Seats",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#005293",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#232323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#4c4c4b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#797874",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f4f6f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fdfdfa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#bf570a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#00800a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#d90000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://clekinc.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Futura, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Futura, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Futura, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": "1em",
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.compare-table": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "hairline": "{colors.hairline}",
+        "headerTypography": "{typography.title-md}",
+        "cellTypography": "{typography.body-sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--header-bg-col",
+        "declaration": "#ffffff",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#232323": {
+        "selector": ":root",
+        "property": "--logo-col",
+        "declaration": "#232323",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#bf570a": {
+        "selector": ":root",
+        "property": "--product-label-sale-text",
+        "declaration": "#bf570a",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#f4f6f8": {
+        "selector": "#section-id-sections--27059301286069__store-messages",
+        "property": "--background",
+        "declaration": "#f4f6f8",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#4c4c4b": {
+        "selector": "#section-id-sections--27059301286069__store-messages",
+        "property": "--text-2",
+        "declaration": "#4c4c4b",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "stroke",
+        "declaration": "black",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#00800a": {
+        "selector": "inline-style",
+        "property": "--free-shipping-bar-color",
+        "declaration": "#00800a",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "#d90000": {
+        "selector": ".label--contains-error",
+        "property": "color",
+        "declaration": "#d90000",
+        "url": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0f0d85c07a7c7fafb3c27bd7babb7be1182a70eade9be50d6b9031b728bccd30"
+      },
+      "#fdfdfa": {
+        "selector": ".skip-link:focus",
+        "property": "background-color",
+        "declaration": "#fdfdfa",
+        "url": "https://clekinc.com/cdn/shop/t/66/assets/main.css?v=90291128873000365371772463686",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "0f0d85c07a7c7fafb3c27bd7babb7be1182a70eade9be50d6b9031b728bccd30"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://clekinc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#797874": {
+        "selector": "#page-header .bh-sl-title",
+        "property": "color",
+        "declaration": "#797874",
+        "url": "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "1451cd52a32ae34abc6533c11523f610d8f2001cc37580693008b86770a0c84f"
+      },
+      "#005293": {
+        "selector": ".bh-sl-container .bh-sl-map-container a",
+        "property": "color",
+        "declaration": "#005293",
+        "url": "https://cdn.shopify.com/extensions/01a0d217-a4a8-78a9-b1eb-a1933407237b/store-locator-4-63/assets/storelocator.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "1451cd52a32ae34abc6533c11523f610d8f2001cc37580693008b86770a0c84f"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--base-font-family",
+        "declaration": "Jost, sans-serif",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "Futura": {
+        "selector": ".klaviyo-bis-trigger.button",
+        "property": "font-family",
+        "declaration": "Futura, sans-serif",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      },
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Inter",
+        "url": "https://clekinc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a531cc3d72c25e31244578eeb6c466647aaee7d8b01d62cbb500333dccee99fd"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,941 @@
+{
+  "source_url": "https://www.fi-exhaust.com",
+  "final_url": "https://www.fi-exhaust.com/home.jsp?lang=en",
+  "captured_at": "2026-09-29T04:19:00.993974+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.fi-exhaust.com",
+      "final_url": "https://www.fi-exhaust.com/home.jsp?lang=en",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "41ed577b4baa44c798e9f8dddc24df548068f2b5f135f4e225d9fb672b989c83",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.fi-exhaust.com/web/css/style.css",
+      "final_url": "https://www.fi-exhaust.com/web/css/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.fi-exhaust.com/web/css/responsive.css",
+      "final_url": "https://www.fi-exhaust.com/web/css/responsive.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fd212edd8c9b9959b028977b2e0f5d24f8b4eef8d2bdad7a78dddeeea5d0eb73",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e5e202e3c899507992952533f57b634722b69b34241d271963559d31aa33ef81",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+      "final_url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cc9a50dc535f21d2f766deb3c613cc9b6dfc150a728ac5859935fbf8e356ef9d",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://unpkg.com/swiper@14.3.0/swiper-bundle.min.css",
+      "final_url": "https://unpkg.com/swiper@14.3.0/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4760c4ff94aef279a5418e14a35d8b1637a4fb5b47aeec94ae273fc7798dd79",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://www.fi-exhaust.com/home.jsp?lang=en#computed-style-snapshot",
+      "final_url": "https://www.fi-exhaust.com/home.jsp?lang=en#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "b4509553770034f55fbb050e02c9cae4289a234c40d91306aad051c04f73ed37",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cc9a50dc535f21d2f766deb3c613cc9b6dfc150a728ac5859935fbf8e356ef9d",
+      "snapshot": "import-1.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 101,
+      "sources": [
+        "https://www.fi-exhaust.com/home.jsp?lang=en"
+      ]
+    },
+    "#ca1f3f": {
+      "count": 26,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 262,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#b2151b": {
+      "count": 3,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 29,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 3,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#212529": {
+      "count": 51,
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#28a745": {
+      "count": 28,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#343a40": {
+      "count": 19,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "#495057": {
+      "count": 14,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Exo": [
+      "https://www.fi-exhaust.com/web/css/style.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.fi-exhaust.com/web/css/style.css"
+    ],
+    "Roboto": [
+      "https://www.fi-exhaust.com/web/css/style.css"
+    ],
+    "Arial": [
+      "https://www.fi-exhaust.com/web/css/style.css"
+    ],
+    "sans-serif": [
+      "https://www.fi-exhaust.com/web/css/style.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": "@import url('https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;700&display=swap');\n\nbody, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6,",
+      "declarations": "font-family: 'Exo', \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,'Segoe UI', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\n    letter-spacing: 1.5px;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".btn-fi",
+      "declarations": "background-color: #ca1f3f;\n    color: #fff;\n    border: 1px solid #ca1f3f;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".btn-fi:hover",
+      "declarations": "background-color: #b2151b;\n    color: #fff;\n    border: 1px solid #b2151b;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".btn-fi-dark",
+      "declarations": "background-color: #000;\n    color: #fff;\n    border: 1px solid #fff;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".btn-fi-dark:hover",
+      "declarations": "background-color: #222;\n    color: #fff;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".mobile-filter .btn",
+      "declarations": "background-color: #000;\n    padding-top: .5rem;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-search-form .form-control,\n.product-search-history .form-control,\n.dealer-filterForm .form-control",
+      "declarations": "border-radius: 0;\n    border-color: #000;\n\n    appearance:none;\n    -moz-appearance:none;\n    -webkit-appearance:none;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-search-form .form-group::before,\n.product-search-history .form-group::before,\n.dealer-filterForm .form-group::before",
+      "declarations": "content: \"\\f0d7\";\n    display: inline-block;\n    font-style: normal;\n    font-variant: normal;\n    text-rendering: auto;\n    -webkit-font-smoothing: antialiased;\n    font-family: \"Font Awesome 5 Free\";\n    font-weight: 900;\n    color: #000;\n    position: absolute;\n    right: 30px;\n    margin-top: 8px;\n    pointer-events: none;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-card",
+      "declarations": "outline: 1px solid #000;\n    padding: 1.25rem;\n    margin-bottom: 2rem;\n    color: #000;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-card__brand,\n.product-card__car-year,\n.product-card__material",
+      "declarations": "color: #808080;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product__sku",
+      "declarations": "color: #4c4c4c;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": "#productCarousel:hover .carousel-control-next,\n#productCarousel:hover .carousel-control-prev",
+      "declarations": "visibility: visible;\n    background-color: rgba(0, 0, 0, .4);"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-carousel .carousel-indicators li",
+      "declarations": "width: .5rem;\n    height: .5rem;\n    margin-right: .25rem;\n    margin-left: .25rem;\n    text-indent: -999px;\n    cursor: pointer;\n    border-radius: 50%;\n    background-color: #4d4d4d;\n    border: 2px solid transparent;\n    opacity: 1;\n    transition: all .6s ease;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-carousel .carousel-indicators .active",
+      "declarations": "border: 2px solid #4d4d4d;\n    background-color: #fff;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-spec [class^='product-spec__'] h5 small",
+      "declarations": "color: #9d9d9d;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-spec [class^='product-spec__'] p",
+      "declarations": "color: #808080;\n    margin-bottom: 0;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product-available__btnGroup .btn:hover,\n.product-available__btnGroup .btn.active",
+      "declarations": "background-color: #000;\n    color: #fff;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".product__title a",
+      "declarations": "color: #212529;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".news-cateBtn .btn:hover,\n.news-cateBtn .btn.active",
+      "declarations": "background-color: #000;\n    border-radius: 0;\n    color: #fff;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".global-search .btn",
+      "declarations": "border-radius: 0;\n    border: 1px solid rgba(0, 0, 0, .6);\n    border-left: none;\n    background-color: #fff;\n    color: #000;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".faq-list .accordion > .card > .card-header",
+      "declarations": "margin-bottom: 0;\n    border-bottom: 1px solid #000;\n    border-radius: 0;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/style.css",
+      "selector": ".kol-item__product .list-group-item",
+      "declarations": "padding: 0;\n    border: 0;\n    margin-bottom: .75rem;\n    color: #000;\n    -webkit-transition-duration: 0.1s;\n    transition-duration: 0.1s;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/responsive.css",
+      "selector": ".index-featured .swiper-button-next,\n    .index-featured .swiper-button-prev",
+      "declarations": "color: #fff;\n        width: 6rem;"
+    },
+    {
+      "source": "https://www.fi-exhaust.com/web/css/responsive.css",
+      "selector": ".index-featured .swiper-button-next,\n    .index-featured .swiper-button-prev",
+      "declarations": "color: #000;\n        width: 6rem;"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-brands:\"Font Awesome 6 Brands\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-classic:\"Font Awesome 6 Free\";--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Co"
+    },
+    {
+      "source": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Fi EXHAUST",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "af289d9a96a29577e3eb47653395823433980afdebe0545e381035731eac4810"
+    }
+  ],
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ca1f3f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#b2151b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#212529",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/home.jsp?lang=en"
+      ]
+    },
+    "colors.body-secondary": {
+      "value": "#495057",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#808080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f9fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dee2e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.dark": {
+      "value": "#343a40",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.danger": {
+      "value": "#dc3545",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#28a745",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#17a2b8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffc107",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fi-exhaust.com/web/css/style.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Exo', 'Helvetica Neue', Roboto, Arial, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "1.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.primary-hover}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "border": "1px solid {colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.dark}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.body}",
+        "rounded": "{rounded.none}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "container": "{components.text-input}",
+        "icon": "Font Awesome caret glyph, positioned inset-right, {colors.body}",
+        "dropdownSurface": {
+          "backgroundColor": "{colors.canvas}",
+          "hairline": "{colors.hairline}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "itemSpacing": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "eyebrowTypography": "{typography.caption}",
+        "titleTypography": "{typography.display-xl}",
+        "ctaButton": "{components.button-primary}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.body}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.lg}",
+        "marginBottom": "{spacing.xl}",
+        "titleTypography": "{typography.title-md}",
+        "metaColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.product-spec": {
+      "value": {
+        "labelTypography": "{typography.caption}",
+        "labelColor": "{colors.muted}",
+        "valueTypography": "{typography.body-sm}",
+        "valueColor": "{colors.muted}",
+        "divider": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.carousel-indicator": {
+      "value": {
+        "size": "8px",
+        "rounded": "{rounded.full}",
+        "inactiveColor": "#4d4d4d",
+        "activeBackground": "{colors.canvas}",
+        "activeBorder": "#4d4d4d"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#000000",
+        "url": "https://www.fi-exhaust.com/home.jsp?lang=en",
+        "snapshot": "homepage.html",
+        "sha256": "41ed577b4baa44c798e9f8dddc24df548068f2b5f135f4e225d9fb672b989c83"
+      },
+      "#ca1f3f": {
+        "selector": ".btn-fi",
+        "property": "background-color",
+        "declaration": "#ca1f3f",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#ffffff": {
+        "selector": ".btn-fi",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#b2151b": {
+        "selector": ".btn-fi:hover",
+        "property": "background-color",
+        "declaration": "#b2151b",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#00000080": {
+        "selector": ".index-content.third .index-content__subTitle",
+        "property": "color",
+        "declaration": "rgba(0, 0, 0, .5)",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#dc3545": {
+        "selector": "#inqueryModal .form-control.is-invalid,\n#inqueryModal .was-validated .form-control:invalid",
+        "property": "border",
+        "declaration": "1px solid #dc3545",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#808080": {
+        "selector": ".product-card__brand,\n.product-card__car-year,\n.product-card__material",
+        "property": "color",
+        "declaration": "#808080",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#4d4d4d": {
+        "selector": ".product-carousel .carousel-indicators li",
+        "property": "background-color",
+        "declaration": "#4d4d4d",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#212529": {
+        "selector": ".product__title a",
+        "property": "color",
+        "declaration": "#212529",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "#ffc107": {
+        "selector": ":root",
+        "property": "--yellow",
+        "declaration": "#ffc107",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#28a745": {
+        "selector": ":root",
+        "property": "--green",
+        "declaration": "#28a745",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#17a2b8": {
+        "selector": ":root",
+        "property": "--cyan",
+        "declaration": "#17a2b8",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#343a40": {
+        "selector": ":root",
+        "property": "--gray-dark",
+        "declaration": "#343a40",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#f8f9fa": {
+        "selector": ":root",
+        "property": "--light",
+        "declaration": "#f8f9fa",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#dee2e6": {
+        "selector": ".img-thumbnail",
+        "property": "border",
+        "declaration": "1px solid #dee2e6",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      },
+      "#495057": {
+        "selector": ".table .thead-light th",
+        "property": "color",
+        "declaration": "#495057",
+        "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css",
+        "snapshot": "rendered-style-4.css",
+        "sha256": "5b0fbe5b7ad705f6a937c4998ad02f73d8f0d976fe231b74aef0ec996990c93a"
+      }
+    },
+    "font_families": {
+      "Exo": {
+        "selector": "body, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6, p, a, button, span",
+        "property": "font-family",
+        "declaration": "\"Exo\", \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,\"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "Helvetica Neue": {
+        "selector": "body, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6, p, a, button, span",
+        "property": "font-family",
+        "declaration": "\"Exo\", \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,\"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "Roboto": {
+        "selector": "body, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6, p, a, button, span",
+        "property": "font-family",
+        "declaration": "\"Exo\", \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,\"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "Arial": {
+        "selector": "body, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6, p, a, button, span",
+        "property": "font-family",
+        "declaration": "\"Exo\", \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,\"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      },
+      "sans-serif": {
+        "selector": "body, html, h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6, p, a, button, span",
+        "property": "font-family",
+        "declaration": "\"Exo\", \"Helvetica Neue\", Roboto, Arial, -apple-system, BlinkMacSystemFont,\"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.fi-exhaust.com/web/css/style.css",
+        "snapshot": "rendered-style-1.css",
+        "sha256": "a0ae1bac1525b6703e45cc556ad13daf782db1cacf69ee08563645e8ccc3586a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

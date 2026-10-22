@@ -1,0 +1,98 @@
+[
+  {
+    "ref": "studio-broadsheet",
+    "origin": "studio",
+    "mood": ["газетный", "уверенный", "плотный"],
+    "palette_family": "black-white",
+    "type_class": "serif-editorial",
+    "imagery_modes": ["type-only", "chart", "ui-code"],
+    "density": "high",
+    "motion_signature": "строки проявляются по колонкам сверху вниз, цифры — счётчиком; один красный акцент «правки» подчёркивает главное",
+    "fits": ["B2B-saas", "fintech", "service"],
+    "avoid": "холодная белая бумага и чёрная антиква с высоким контрастом, тонкие линейки колонок, один красный; нельзя: бежевый фон, мягкие белые карточки и тёплые фото (это «ИИ-стиль»), имитация конкретной газеты"
+  },
+  {
+    "ref": "studio-ink-night",
+    "origin": "studio",
+    "mood": ["тихий", "вечерний", "сосредоточенный"],
+    "palette_family": "graphite-teal",
+    "type_class": "serif-editorial",
+    "imagery_modes": ["ui-code", "chart", "illustration"],
+    "density": "low",
+    "motion_signature": "медленное проявление по словам и тонкие линии-графики, дорисовывающиеся за 1.5 с; автосцены по таймеру с длинной паузой",
+    "fits": ["consumer", "fintech", "B2B-saas"],
+    "avoid": "глубокий чернильно-синий фон (не градиент), светлая антиква средней контрастности, второй акцент — приглушённый медный; нельзя: синие градиенты «про технологии», свечения, звёзды"
+  },
+  {
+    "ref": "studio-workshop-earth",
+    "origin": "studio",
+    "mood": ["ремесленный", "честный", "земной"],
+    "palette_family": "earth",
+    "type_class": "humanist",
+    "imagery_modes": ["photo-objects", "illustration", "ui-code"],
+    "density": "medium",
+    "motion_signature": "предметы-слои въезжают на разную глубину внутри плиток, интерфейсы автопроигрываются короткими циклами",
+    "fits": ["service", "marketplace", "consumer"],
+    "avoid": "терракота, мох, глина на холодном светло-сером (не бежевом) поле, гуманистический гротеск с открытыми формами; нельзя: льняной фон + антиква + мягкие тени, крафт-текстуры «эко»"
+  },
+  {
+    "ref": "studio-pastel-clinic",
+    "origin": "studio",
+    "mood": ["спокойный", "заботливый", "ясный"],
+    "palette_family": "pastel",
+    "type_class": "humanist",
+    "imagery_modes": ["ui-code", "illustration", "chart"],
+    "density": "low",
+    "motion_signature": "мягкие состояния: цвет плитки меняется по статусу (мята — готово, сирень — ждёт, персик — внимание), переходы 0.6 с",
+    "fits": ["consumer", "service", "B2B-saas"],
+    "avoid": "три пастели как цвета состояний, гуманистический гротеск, тонкие контурные иконки; нельзя: пастель без контраста текста (минимум 4.5:1), стекло и 3D-иконки, медицинский крест/сердечки"
+  },
+  {
+    "ref": "studio-poster-acid",
+    "origin": "studio",
+    "mood": ["громкий", "плакатный", "дерзкий"],
+    "palette_family": "acid-contrast",
+    "type_class": "display-expressive",
+    "imagery_modes": ["type-only", "collage", "ui-code"],
+    "density": "medium",
+    "motion_signature": "заголовки, уходящие за край экрана, ленты-ряды и резкие смены цвета поля между секциями без плавных градиентов",
+    "fits": ["consumer", "marketplace", "devtools"],
+    "avoid": "узкий сверхжирный гротеск в 160+ px, кислотный лимонный или оранжевый на почти чёрном; нельзя: копировать связку cntrl (кислотный + display), граффити-стилизации, сломанные буквы"
+  },
+  {
+    "ref": "studio-signal-primary",
+    "origin": "studio",
+    "mood": ["инженерный", "бодрый", "сигнальный"],
+    "palette_family": "saturated-primary",
+    "type_class": "display-expressive",
+    "imagery_modes": ["illustration", "chart", "ui-code"],
+    "density": "medium",
+    "motion_signature": "схемы и карты кодом, по которым бегут маркеры; цвет — как в дорожных знаках, каждый цвет — тип объекта",
+    "fits": ["B2B-saas", "service", "marketplace"],
+    "avoid": "широкий дисплейный гротеск, три основных цвета (красный, синий, жёлтый) как система обозначений, белое поле; нельзя: фиолетовый + лайм (pitch), Баухаус-кружки-треугольники ради декора"
+  },
+  {
+    "ref": "studio-telemetry",
+    "origin": "studio",
+    "mood": ["точный", "технический", "живой"],
+    "palette_family": "graphite-teal",
+    "type_class": "mono-accent",
+    "imagery_modes": ["ui-code", "chart", "type-only"],
+    "density": "high",
+    "motion_signature": "табло и счётчики обновляются по таймеру, моно только в подписях и метках, данные «живут» постоянно короткими циклами",
+    "fits": ["devtools", "B2B-saas", "fintech"],
+    "avoid": "графитовый фон, моно в подписях и метках, основной текст — нейтральный гротеск; второй акцент — сигнальный янтарный; нельзя: моно в цифрах-доказательствах и заголовках, перечёркнутый ноль, бирюза monologue, зелёный «хакерский» текст"
+  },
+  {
+    "ref": "studio-blueprint-mono",
+    "origin": "studio",
+    "mood": ["строгий", "чертёжный", "собранный"],
+    "palette_family": "monochrome",
+    "type_class": "grotesk-neutral",
+    "imagery_modes": ["illustration", "3d", "ui-code"],
+    "density": "medium",
+    "motion_signature": "линии чертежа дорисовываются при появлении, предметы в разрезе с выносками, один цвет-акцент только для состояния",
+    "fits": ["B2B-saas", "service", "fintech"],
+    "avoid": "оттенки одного холодного серого + один акцент состояния, выноски и размерные линии; нельзя: синька-чертёж (синий фон с белыми линиями), направляющие сетки через текст, полную монохромность без акцента (правило 2–3 цветов)"
+  }
+]

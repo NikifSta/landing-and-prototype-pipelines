@@ -1,0 +1,851 @@
+{
+  "source_url": "https://eibach.com",
+  "final_url": "https://eibach.com/",
+  "captured_at": "2026-09-28T04:28:50.058823+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://eibach.com",
+      "final_url": "https://eibach.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "87c92d3688d1ea8f38a8fe0342301263beb17ec8a8d050ee8c7588375d7990b7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "final_url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://eibach.com/css/fontawesome.css",
+      "final_url": "https://eibach.com/css/fontawesome.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fd0cb98e460f790e0f79b7a4987e03e5cda594891efffb2cd489f539c4c066b7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://eibach.com/css/brands.css",
+      "final_url": "https://eibach.com/css/brands.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "195bcb322075ddb6bf27622ffb4b775d4fb31f62f0c7bf390f3e3a65c501ba8d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://eibach.com/css/solid.css",
+      "final_url": "https://eibach.com/css/solid.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4f814abde605891c6b9076d38208d6c453f3c24b7c50d5a85abcf0271a6cfea0",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#cccccc": {
+      "count": 11,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#ffffff": {
+      "count": 166,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 34,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 139,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#ed1c24": {
+      "count": 116,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#359e37": {
+      "count": 6,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#bb2124": {
+      "count": 4,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#969696": {
+      "count": 48,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#c61017": {
+      "count": 1,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "#131313": {
+      "count": 3,
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+    ],
+    "sans-serif": [
+      "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+    ],
+    "Inter": [
+      "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+    ],
+    "Inter Tight": [
+      "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+    ],
+    "Industry": [
+      "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".tablesorter-default tbody>tr.even:hover>td,.tablesorter-default tbody>tr.hover>td,.tablesorter-default tbody>tr.odd:hover>td,.tablesorter-default tbody>tr:hove",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": "body.page h1 span",
+      "declarations": "color:#969696;display:block;font-size:.75em"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".table-striped tbody>tr:nth-child(2n)",
+      "declarations": "background-color:#f2f2f2"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".ers-table>tbody>tr>th",
+      "declarations": "background-color:#ed1c24;color:#fff;font-size:1.125rem;padding:.5rem"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn",
+      "declarations": "background-color:transparent;border:none;box-sizing:border-box;cursor:pointer;display:inline-block;font-size:1rem;font-weight:700;line-height:1;text-align:center;text-decoration:none;text-transform:uppercase;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-a",
+      "declarations": "color:#ed1c24;font-weight:400;letter-spacing:-.025em;padding:0;text-transform:none"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-primary",
+      "declarations": "background-color:#ed1c24;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-primary:disabled,.btn-primary:disabled:hover",
+      "declarations": "background-color:#aaa;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-primary:hover",
+      "declarations": "background-color:#c61017;color:#e6e6e6"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-dark",
+      "declarations": "background-color:#2c2c2c;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-dark:disabled",
+      "declarations": "background-color:#aaa"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-dark:hover",
+      "declarations": "background-color:#131313;color:#e6e6e6"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-light",
+      "declarations": "background-color:#f2f2f2;color:#2c2c2c"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-light:hover",
+      "declarations": "background-color:#d9d9d9;color:#131313"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-white",
+      "declarations": "background-color:#fff;color:#ed1c24"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-white:hover",
+      "declarations": "background-color:#d9d9d9;color:#131313"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-light-hover",
+      "declarations": "color:#2c2c2c"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-light-hover:hover",
+      "declarations": "background-color:#f2f2f2"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-success",
+      "declarations": "background-color:#359e37;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-success:disabled",
+      "declarations": "background-color:#969696;border:1px solid #969696;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-success:disabled:hover",
+      "declarations": "background-color:#fff;border:1px solid #969696;color:#969696"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-success:hover",
+      "declarations": "background-color:#28782a;color:#e6e6e6"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-danger",
+      "declarations": "background-color:#bb2124;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-danger:disabled,.btn-danger:disabled:hover",
+      "declarations": "background-color:#fff;border:1px solid #969696;color:#969696"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-danger:hover",
+      "declarations": "background-color:#90191c;color:#e6e6e6"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-info",
+      "declarations": "background-color:#5bc0de;color:#fff"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-info:disabled,.btn-info:disabled:hover",
+      "declarations": "background-color:#fff;border:1px solid #969696;color:#969696"
+    },
+    {
+      "source": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+      "selector": ".btn-info:hover",
+      "declarations": "background-color:#31b0d5;color:#e6e6e6"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Eibach - The Leader in Performance Suspension",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ed1c24",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#c61017",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.ink": {
+      "value": "#2c2c2c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.ink-hover": {
+      "value": "#131313",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.muted": {
+      "value": "#969696",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d9d9d9",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2f2f2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.focus": {
+      "value": "#5897fb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.success": {
+      "value": "#359e37",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "colors.alert": {
+      "value": "#bb2124",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Industry, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Industry, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter Tight, Inter, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter Tight, Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "hover": {
+          "backgroundColor": "{colors.primary-hover}",
+          "textColor": "{colors.on-primary}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}",
+        "border": "1px solid {colors.hairline}",
+        "hover": {
+          "backgroundColor": "{colors.hairline}",
+          "textColor": "{colors.ink-hover}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "border": "1px solid {colors.hairline}",
+        "focus": {
+          "border": "1px solid {colors.focus}"
+        }
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.xl}",
+        "accent": "{colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "accentColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.display-xl}",
+        "accent": "{colors.primary}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}",
+        "linkColor": "{colors.on-primary}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}",
+        "typography": "{typography.body-md}",
+        "iconColor": "{colors.muted}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "headerBackgroundColor": "{colors.primary}",
+        "headerTextColor": "{colors.on-primary}",
+        "headerTypography": "{typography.title-md}",
+        "rowStripeColor": "{colors.surface-soft}",
+        "rowTextColor": "{colors.body}",
+        "padding": "{spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#cccccc": {
+        "selector": ".mfp-preloader",
+        "property": "color",
+        "declaration": "#ccc",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#ffffff": {
+        "selector": ".mfp-preloader a:hover",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#333333": {
+        "selector": ".mfp-close-btn-in .mfp-close",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#5897fb": {
+        "selector": ".select2-container--default .select2-results__option--highlighted.select2-results__option--selectable",
+        "property": "background-color",
+        "declaration": "#5897fb",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#f7f7f7": {
+        "selector": ".select2-container--classic .select2-selection--single",
+        "property": "background-color",
+        "declaration": "#f7f7f7",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#d9d9d9": {
+        "selector": ".tablesorter-default td.primary,.tablesorter-default tr.even td.primary,.tablesorter-default tr.odd td.secondary",
+        "property": "background-color",
+        "declaration": "#d9d9d9",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#f2f2f2": {
+        "selector": ".tablesorter-default td.tertiary,.tablesorter-default tr.even td.tertiary",
+        "property": "background-color",
+        "declaration": "#f2f2f2",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#2c2c2c": {
+        "selector": "form .select2-container--default .select2-selection--single .select2-selection__rendered",
+        "property": "color",
+        "declaration": "#2c2c2c",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#ed1c24": {
+        "selector": ".color-primary",
+        "property": "color",
+        "declaration": "#ed1c24",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#359e37": {
+        "selector": ".color-success",
+        "property": "color",
+        "declaration": "#359e37",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#bb2124": {
+        "selector": ".color-danger",
+        "property": "color",
+        "declaration": "#bb2124",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#969696": {
+        "selector": "body.page h1 span",
+        "property": "color",
+        "declaration": "#969696",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#c61017": {
+        "selector": ".btn-primary:hover",
+        "property": "background-color",
+        "declaration": "#c61017",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "#131313": {
+        "selector": ".btn-dark:hover",
+        "property": "background-color",
+        "declaration": "#131313",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      }
+    },
+    "font_families": {
+      "Arial": {
+        "selector": ".mfp-close",
+        "property": "font-family",
+        "declaration": "Arial,Baskerville,monospace",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "sans-serif": {
+        "selector": ".select2-container .select2-search--inline .select2-search__field",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "Inter": {
+        "selector": "*",
+        "property": "font-family",
+        "declaration": "Inter,Helvetica,Arial,sans-serif",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "Inter Tight": {
+        "selector": ".ul-plus-red",
+        "property": "font-family",
+        "declaration": "Inter Tight,sans-serif",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      },
+      "Industry": {
+        "selector": "#moto-banner h2,#moto-banner h2>span",
+        "property": "font-family",
+        "declaration": "Industry,sans-serif",
+        "url": "https://eibach.com/css/app.css?id=8e4de2d275e0df774b3e520a09edbceb",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "297ace5b8409102e955316490df31daa1f915be1d0188874302879f1e30620f9"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

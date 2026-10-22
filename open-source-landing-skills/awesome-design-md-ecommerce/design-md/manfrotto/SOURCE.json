@@ -1,0 +1,839 @@
+{
+  "source_url": "https://manfrotto.com",
+  "final_url": "https://www.manfrotto.com/",
+  "captured_at": "2026-09-28T09:13:20.358865+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://manfrotto.com",
+      "final_url": "https://www.manfrotto.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5e2ffa64ef31744488a7388a48bfbc626ea4f32d7427311bf2630ef89901fc23",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "final_url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#f51928": {
+      "count": 262,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#f8971d": {
+      "count": 4,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 19,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#006600": {
+      "count": 41,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 18,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 405,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 82,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 81,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 148,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#252525": {
+      "count": 36,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 44,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#505050": {
+      "count": 25,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 44,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 11,
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "sans-serif": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "-apple-system": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "Segoe UI": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "Roboto": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ],
+    "Arial": [
+      "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "@charset \"UTF-8\";\n:root",
+      "declarations": "font-family: 'Inter', sans-serif;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ":root",
+      "declarations": "--blue: #007bff;\n    --indigo: #6610f2;\n    --purple: #6f42c1;\n    --pink: #e83e8c;\n    --red: #f51928;\n    --orange: #f8971d;\n    --yellow: #ffc107;\n    --green: #006600;\n    --teal: #20c997;\n    --cyan: #17a2b8;\n    --white: #ffffff;\n    --gray: #6e6e6e;\n    --gray-dark: #3a3a3a;\n    --primary: #f51928;\n    --secondary: #6e6e6e;\n    --success: #006600;\n    --info: #17a2b8;\n    --warning: #ffc107;\n    --danger: #f51928;\n    --light: #f1f1f1;\n    --dark: #3a3a3a;\n    --breakpoint-xs: 0;\n    --breakpoint-sm: 576px;\n    --breakpoint-md: 768px;\n    --breakpoint-lg: 992px;\n    --breakpoint-xlg: 1024px;\n    --breakpoint-xl: 1200px;\n    --breakpoint-xxl: 1980px;\n    --font-family-sans-serif: \"Inte"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "body",
+      "declarations": "margin: 0;\n    font-family: \"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n    font-size: 16px;\n    font-size: 1rem;\n    font-weight: 400;\n    line-height: 1.5;\n    color: #252525;\n    text-align: left;\n    background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "input,\nbutton,\n.pdp-buy__btn-activate-wtb a.btn-activate-wtb,\nselect,\noptgroup,\ntextarea",
+      "declarations": "margin: 0;\n    font-family: inherit;\n    font-size: inherit;\n    line-height: inherit;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "h1, h2, h3, h4, h5, h6,\n.h1, .h2, .h3, .h4, .h5, .h6",
+      "declarations": "margin-bottom: 8px;\n    margin-bottom: 0.5rem;\n    font-family: inherit;\n    font-weight: 500;\n    line-height: 1.2;\n    color: inherit;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color: rgba(0, 0, 0, 0.05);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "background-color: rgba(0, 0, 0, 0.075);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color: rgba(255, 255, 255, 0.05);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.075);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "wermail .powermail_fieldwrap select, .tx-powermail body.checkout-index-index .checkout .powermail_fieldwrap select,\nbody.checkout-index-index .checkout .field s",
+      "declarations": "display: block;\n    width: 100%;\n    padding: 6px 12px;\n    padding: 0.375rem 0.75rem;\n    font-size: 16px;\n    font-size: 1rem;\n    line-height: 1.5;\n    color: #505050;\n    background-color: #ffffff;\n    background-clip: padding-box;\n    border: 1px solid #d1d1d1;\n    border-radius: 0.25rem;\n    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;\n    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;\n    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;\n    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".tx-powermail body.checkout-index-index .checkout .powermail_fieldwrap select::-ms-expand,\nbody.checkout-index-index .checkout .field select::-ms-expand, .block",
+      "declarations": "background-color: transparent;\n    border: 0;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "wrap select:focus, .tx-powermail body.checkout-index-index .checkout .powermail_fieldwrap select:focus,\nbody.checkout-index-index .checkout .field select:focus,",
+      "declarations": "color: #505050;\n    background-color: #ffffff;\n    border-color: #fa939a;\n    outline: 0;\n    -webkit-box-shadow: 0 0 0 0.2rem rgba(245, 25, 40, 0.25);\n    box-shadow: 0 0 0 0.2rem rgba(245, 25, 40, 0.25);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "ckout .powermail_fieldwrap select::-webkit-input-placeholder,\nbody.checkout-index-index .checkout .field select::-webkit-input-placeholder, .block-returns-comme",
+      "declarations": "color: #6e6e6e;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "y.checkout-index-index .checkout .powermail_fieldwrap select::-moz-placeholder,\nbody.checkout-index-index .checkout .field select::-moz-placeholder, .block-retu",
+      "declarations": "color: #6e6e6e;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "x-index .checkout .powermail_fieldwrap select::-ms-input-placeholder,\nbody.checkout-index-index .checkout .field select::-ms-input-placeholder, .block-returns-c",
+      "declarations": "color: #6e6e6e;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "x-powermail body.checkout-index-index .checkout .powermail_fieldwrap select::placeholder,\nbody.checkout-index-index .checkout .field select::placeholder, .block",
+      "declarations": "color: #6e6e6e;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "only], .tx-powermail body.checkout-index-index .checkout .powermail_fieldwrap select[readonly],\nbody.checkout-index-index .checkout .field select[readonly], .bl",
+      "declarations": "background-color: #f1f1f1;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "l_fieldwrap select:focus::-ms-value, .tx-powermail body.checkout-index-index .checkout .powermail_fieldwrap select:focus::-ms-value,\nbody.checkout-index-index .",
+      "declarations": "color: #505050;\n    background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "s, a.bg-primary:hover,\nbutton.bg-primary:focus,\n.pdp-buy__btn-activate-wtb a.bg-primary.btn-activate-wtb:focus,\nbutton.bg-primary:hover,\n.pdp-buy__btn-activate-",
+      "declarations": "background-color: #d20917 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "condary:hover,\nbutton.bg-secondary:focus,\n.pdp-buy__btn-activate-wtb a.bg-secondary.btn-activate-wtb:focus,\nbutton.bg-secondary:hover,\n.pdp-buy__btn-activate-wt",
+      "declarations": "background-color: #555454 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "s, a.bg-success:hover,\nbutton.bg-success:focus,\n.pdp-buy__btn-activate-wtb a.bg-success.btn-activate-wtb:focus,\nbutton.bg-success:hover,\n.pdp-buy__btn-activate-",
+      "declarations": "background-color: #003300 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "a.bg-info:focus, a.bg-info:hover,\nbutton.bg-info:focus,\n.pdp-buy__btn-activate-wtb a.bg-info.btn-activate-wtb:focus,\nbutton.bg-info:hover,\n.pdp-buy__btn-activat",
+      "declarations": "background-color: #117a8b !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "s, a.bg-warning:hover,\nbutton.bg-warning:focus,\n.pdp-buy__btn-activate-wtb a.bg-warning.btn-activate-wtb:focus,\nbutton.bg-warning:hover,\n.pdp-buy__btn-activate-",
+      "declarations": "background-color: #d39e00 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ":focus, a.bg-danger:hover,\nbutton.bg-danger:focus,\n.pdp-buy__btn-activate-wtb a.bg-danger.btn-activate-wtb:focus,\nbutton.bg-danger:hover,\n.pdp-buy__btn-activate",
+      "declarations": "background-color: #d20917 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "light:focus, a.bg-light:hover,\nbutton.bg-light:focus,\n.pdp-buy__btn-activate-wtb a.bg-light.btn-activate-wtb:focus,\nbutton.bg-light:hover,\n.pdp-buy__btn-activat",
+      "declarations": "background-color: #d8d7d7 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": "a.bg-dark:focus, a.bg-dark:hover,\nbutton.bg-dark:focus,\n.pdp-buy__btn-activate-wtb a.bg-dark.btn-activate-wtb:focus,\nbutton.bg-dark:hover,\n.pdp-buy__btn-activat",
+      "declarations": "background-color: #212020 !important;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".card-header",
+      "declarations": "padding: 12px 20px;\n    padding: 0.75rem 1.25rem;\n    margin-bottom: 0;\n    background-color: rgba(0, 0, 0, 0.03);\n    border-bottom: 1px solid rgba(0, 0, 0, 0.125);"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color: #ffffff;\n    background-color: #6e6e6e;\n    border-color: #6e6e6e;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color: #ffffff;\n    background-color: #5b5b5b;\n    border-color: #555454;"
+    },
+    {
+      "source": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+      "selector": ".btn-secondary.disabled, .btn-secondary:disabled",
+      "declarations": "background-color: #6e6e6e;\n    border-color: #6e6e6e;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Professional Photo & Video Tripods, Lighting, Bags | Manfrotto",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f51928",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#252525",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#505050",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6e6e6e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d1d1d1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f1f1f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.dark": {
+      "value": "#3a3a3a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.border": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#006600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value": "#ffc107",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.info": {
+      "value": "#17a2b8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#f8971d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Inter', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "placeholderColor": "{colors.muted}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "focusRingColor": "{colors.primary}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "height": "64px"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border}",
+        "rounded": "{rounded.md}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.dark}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.dark}",
+        "textColor": "{colors.surface-soft}",
+        "linkColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.success}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.bag-fit-finder": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.accent}",
+        "borderColor": "{colors.border}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#f51928": {
+        "selector": ":root",
+        "property": "--red",
+        "declaration": "#f51928",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#f8971d": {
+        "selector": ":root",
+        "property": "--orange",
+        "declaration": "#f8971d",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#ffc107": {
+        "selector": ":root",
+        "property": "--yellow",
+        "declaration": "#ffc107",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#006600": {
+        "selector": ":root",
+        "property": "--green",
+        "declaration": "#006600",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#17a2b8": {
+        "selector": ":root",
+        "property": "--cyan",
+        "declaration": "#17a2b8",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--white",
+        "declaration": "#ffffff",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#6e6e6e": {
+        "selector": ":root",
+        "property": "--gray",
+        "declaration": "#6e6e6e",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#3a3a3a": {
+        "selector": ":root",
+        "property": "--gray-dark",
+        "declaration": "#3a3a3a",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#f1f1f1": {
+        "selector": ":root",
+        "property": "--light",
+        "declaration": "#f1f1f1",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#252525": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#252525",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#e0e0e0": {
+        "selector": ".img-thumbnail",
+        "property": "border",
+        "declaration": "1px solid #e0e0e0",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#505050": {
+        "selector": ".table .thead-light th",
+        "property": "color",
+        "declaration": "#505050",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#d1d1d1": {
+        "selector": ".form-control, .tx-powermail .powermail_input,\n.tx-powermail .powermail_textarea,\n.tx-powermail .powermail_select, body.checkout-index-index .checkout .form-group select, body.checkout-index-index .checkout .tx-powermail .powermail_fieldwrap select, .tx-powermail body.checkout-index-index .checkout ",
+        "property": "border",
+        "declaration": "1px solid #d1d1d1",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "#fafafa": {
+        "selector": ".dropdown-item:focus, .dropdown-item:hover",
+        "property": "background-color",
+        "declaration": "#fafafa",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": ":root",
+        "property": "font-family",
+        "declaration": "\"Inter\", sans-serif",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "font-family",
+        "declaration": "\"Inter\", sans-serif",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "-apple-system": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "Segoe UI": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "Roboto": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "Helvetica Neue": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      },
+      "Arial": {
+        "selector": ":root",
+        "property": "--font-family-sans-serif",
+        "declaration": "\"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+        "url": "https://www.manfrotto.com/static/frontend/Hyva/manfrotto/en_US/css/splash-page.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "3d68b95edf243266b68487fb533131396c7ff0001929245e6e46cd19a4e94315"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

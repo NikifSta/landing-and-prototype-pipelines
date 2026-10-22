@@ -1,0 +1,796 @@
+{
+  "source_url": "https://bushwacker.com",
+  "final_url": "https://realtruck.com/b/bushwacker/",
+  "captured_at": "2026-09-28T10:18:47.587708+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bushwacker.com",
+      "final_url": "https://realtruck.com/b/bushwacker/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "final_url": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c71ca1323c0a520e17aceec06a4b2b612e93f6cdb00e12fd498cfffb38282288",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#767676": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#057dbc": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#ffffff": {
+      "count": 9,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#e50000": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#ffc600": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#15884f": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#fa6400": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#6c6c6c": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#23889b": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "#ecf6fd": {
+      "count": 4,
+      "sources": [
+        "https://realtruck.com/_nuxt/entry-CINSu8mM.css"
+      ]
+    },
+    "#fff8de": {
+      "count": 2,
+      "sources": [
+        "https://realtruck.com/_nuxt/entry-CINSu8mM.css"
+      ]
+    }
+  },
+  "font_families": {
+    "PlatformFont": [
+      "https://realtruck.com/b/bushwacker/"
+    ],
+    "PlatformBrandFont": [
+      "https://realtruck.com/b/bushwacker/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": ":root, :host, .light",
+      "declarations": "--ui-primary: var(--ui-color-primary-500);\n  --ui-secondary: var(--ui-color-secondary-500);\n  --ui-success: var(--ui-color-success-500);\n  --ui-info: var(--ui-color-info-500);\n  --ui-warning: var(--ui-color-warning-500);\n  --ui-error: var(--ui-color-error-500);\n  --ui-action: var(--ui-color-action-500);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": ":root",
+      "declarations": "--fontFamily: 'PlatformFont';--fontFamilyBrand: 'PlatformBrandFont';--fontWeightNormal: 400;--fontWeightBold: 700;--fontWeightExtrabold: 900;--colorDark: #333333;--colorGray: #767676;--colorInfo: #057DBC;--colorBlack: #1E1E1E;--colorLight: #f3f3f3;--colorWhite: #ffffff;--fontSizeLg: 18px;--fontSizeSm: 14px;--fontSizeXl: 20px;--fontSizeXs: 12px;--colorAction: #057DBC;--colorDanger: #e50000;--fontSize2xl: 24px;--fontSize3xl: 30px;--fontSize4xl: 36px;--fontSize5xl: 48px;--fontSize6xl: 72px;--fontSize7xl: 96px;--colorPrimary: #ffc600;--colorSuccess: #15884F;--colorWarning: #FA6400;--fontSizeBase: 16px;--colorGrayDark: #6c6c6c;--colorInfoDark: #23889b;--colorGrayLight: #d5d5d5;--colorInfoLight: #"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-header",
+      "declarations": "background-color: var(--colorGrayDarkest);\n  color: var(--colorWhite);\n  padding-bottom: 0.25rem;"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-mobile-header",
+      "declarations": "background-color: var(--colorBlack);\n  color: var(--colorWhite);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-header-link-bar",
+      "declarations": "background-color: var(--colorBlack);\n  color: var(--colorWhite);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-header-item",
+      "declarations": "color: var(--colorWhite);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-header-cart-icon",
+      "declarations": "color: var(--colorPrimary);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-footer-subscribe-button",
+      "declarations": "background-color: var(--colorSecondary);\n  border-color: var(--colorSecondary);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-product-listing-sale-price",
+      "declarations": "color: var(--colorDangerDark);"
+    },
+    {
+      "source": "https://realtruck.com/b/bushwacker/",
+      "selector": "#app .or-header-item-icon",
+      "declarations": "color: var(--colorPrimary);"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": ":host,:root",
+      "declarations": "--spacing:.25rem;--container-sm:24rem;--container-md:28rem;--container-3xl:48rem;--container-4xl:56rem;--container-6xl:72rem;--container-7xl:80rem;--text-xs--line-height:inherit;--text-sm--line-height:inherit;--text-base--line-height:inherit;--text-lg--line-height:inherit;--text-xl--line-height:inherit;--text-2xl--line-height:inherit;--text-3xl--line-height:inherit;--text-4xl--line-height:inherit;--text-5xl--line-height:inherit;--text-6xl--line-height:inherit;--text-7xl--line-height:inherit;--font-weight-medium:500;--font-weight-semibold:600;--tracking-tight:-.025em;--leading-tight:1.25;--leading-snug:1.375;--leading-normal:1.5;--ease-in:cubic-bezier(.4,0,1,1);--ease-out:cubic-bezier(0,0,.2,"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": ".light,:host,:root",
+      "declarations": "--ui-text-dimmed:var(--ui-color-neutral-400);--ui-text-muted:var(--ui-color-neutral-500);--ui-text-toned:var(--ui-color-neutral-600);--ui-text:var(--ui-color-neutral-700);--ui-text-highlighted:var(--ui-color-neutral-900);--ui-text-inverted:#fff;--ui-bg:#fff;--ui-bg-muted:var(--ui-color-neutral-50);--ui-bg-elevated:var(--ui-color-neutral-100);--ui-bg-accented:var(--ui-color-neutral-200);--ui-bg-inverted:var(--ui-color-neutral-900);--ui-border:var(--ui-color-neutral-200);--ui-border-muted:var(--ui-color-neutral-200);--ui-border-accented:var(--ui-color-neutral-300);--ui-border-inverted:var(--ui-color-neutral-900)"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "body",
+      "declarations": "background-color:var(--ui-bg);color:var(--ui-text);--lightningcss-light:initial;--lightningcss-dark: ;color-scheme:light"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "body:where(.dark,.dark *)",
+      "declarations": "--lightningcss-light: ;--lightningcss-dark:initial;color-scheme:dark"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--colorGrayLight)"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "body",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;z-index:1;background-color:var(--colorWhite);width:100%;font-size:var(--fontSizeBase);line-height:var(--tw-leading,var(--text-base--line-height));--tw-font-weight:var(--fontWeightNormal);font-weight:var(--fontWeightNormal);margin:0;padding:0"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "h1",
+      "declarations": "margin-block:calc(var(--spacing)*8);font-size:var(--fontSize3xl);line-height:var(--tw-leading,var(--text-3xl--line-height));--tw-font-weight:var(--fontWeightExtrabold);font-weight:var(--fontWeightExtrabold);text-transform:uppercase"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": "h1,h2,h3,h4",
+      "declarations": "margin-bottom:calc(var(--spacing)*6);--tw-leading:1;color:var(--colorBlack);line-height:1"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": ".hover\\:\\[\\&_\\.playButton\\]\\:bg-black:hover .playButton",
+      "declarations": "background-color:var(--colorBlack)"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": ".\\[\\&_h1\\]\\:text-inherit h1",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+      "selector": ":root",
+      "declarations": "--ui-primary:var(--colorPrimary);--ui-secondary:var(--colorSecondary);--ui-success:var(--colorSuccess);--ui-info:var(--colorInfo);--ui-warning:var(--colorWarning);--ui-error:var(--colorDanger);--ui-action:var(--colorAction);--ui-color-primary-400:var(--colorPrimaryLight);--ui-color-primary-500:var(--colorPrimary);--ui-color-primary-600:var(--colorPrimaryDark);--ui-color-action-400:var(--colorActionLight);--ui-color-action-500:var(--colorAction);--ui-color-action-600:var(--colorActionDark);--ui-color-neutral-50:var(--colorGrayLightest);--ui-color-neutral-100:var(--colorGrayLightest);--ui-color-neutral-200:var(--colorGrayLighter);--ui-color-neutral-300:var(--colorGrayLight);--ui-color-neutral-"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bushwacker Fender Flares, Armor & Accessories | Manufactured by RealTruck",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ffc600",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1e1e1e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#767676",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#d5d5d5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f3f3f3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#1e1e1e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.action": {
+      "value": "#057dbc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.action-dark": {
+      "value": "#23889b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#e50000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.success": {
+      "value": "#15884f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.warning": {
+      "value": "#fa6400",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "colors.surface-tint-blue": {
+      "value": "#ecf6fd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/_nuxt/entry-CINSu8mM.css"
+      ]
+    },
+    "colors.surface-tint-gold": {
+      "value": "#fff8de",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/_nuxt/entry-CINSu8mM.css"
+      ]
+    },
+    "colors.gray-dark": {
+      "value": "#6c6c6c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://realtruck.com/b/bushwacker/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'PlatformBrandFont', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 900,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'PlatformBrandFont', sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'PlatformFont', sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 700,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'PlatformFont', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'PlatformFont', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'PlatformFont', sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'PlatformFont', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 700,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "focusRing": "{colors.action}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "accentColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "salePriceColor": "{colors.danger}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "linkColor": "{colors.action}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-tint-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "iconColor": "{colors.gray-dark}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.fitment-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.hairline}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-md}",
+        "ctaBackground": "{colors.action}",
+        "ctaTextColor": "{colors.canvas}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#333333": {
+        "selector": ":root",
+        "property": "--colordark",
+        "declaration": "#333333",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#767676": {
+        "selector": ":root",
+        "property": "--colorgray",
+        "declaration": "#767676",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#057dbc": {
+        "selector": ":root",
+        "property": "--colorinfo",
+        "declaration": "#057DBC",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#1e1e1e": {
+        "selector": ":root",
+        "property": "--colorblack",
+        "declaration": "#1E1E1E",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#f3f3f3": {
+        "selector": ":root",
+        "property": "--colorlight",
+        "declaration": "#f3f3f3",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--colorwhite",
+        "declaration": "#ffffff",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#e50000": {
+        "selector": ":root",
+        "property": "--colordanger",
+        "declaration": "#e50000",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#ffc600": {
+        "selector": ":root",
+        "property": "--colorprimary",
+        "declaration": "#ffc600",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#15884f": {
+        "selector": ":root",
+        "property": "--colorsuccess",
+        "declaration": "#15884F",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#fa6400": {
+        "selector": ":root",
+        "property": "--colorwarning",
+        "declaration": "#FA6400",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#6c6c6c": {
+        "selector": ":root",
+        "property": "--colorgraydark",
+        "declaration": "#6c6c6c",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#23889b": {
+        "selector": ":root",
+        "property": "--colorinfodark",
+        "declaration": "#23889b",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#d5d5d5": {
+        "selector": ":root",
+        "property": "--colorgraylight",
+        "declaration": "#d5d5d5",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#fafafa": {
+        "selector": ":root",
+        "property": "--colorgraylightest",
+        "declaration": "#fafafa",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "#ecf6fd": {
+        "selector": ".bg-\\[\\#ECF6FD\\]",
+        "property": "background-color",
+        "declaration": "#ecf6fd",
+        "url": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c71ca1323c0a520e17aceec06a4b2b612e93f6cdb00e12fd498cfffb38282288"
+      },
+      "#fff8de": {
+        "selector": ".bg-\\[\\#FFF8DE\\]",
+        "property": "background-color",
+        "declaration": "#fff8de",
+        "url": "https://realtruck.com/_nuxt/entry-CINSu8mM.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "c71ca1323c0a520e17aceec06a4b2b612e93f6cdb00e12fd498cfffb38282288"
+      }
+    },
+    "font_families": {
+      "PlatformFont": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"PlatformFont\"",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      },
+      "PlatformBrandFont": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"PlatformBrandFont\"",
+        "url": "https://realtruck.com/b/bushwacker/",
+        "snapshot": "homepage.html",
+        "sha256": "2478677cbcc8a2e8d7de64f2d568939a2f78b8d4b166ccb17d328ab6333880bb"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

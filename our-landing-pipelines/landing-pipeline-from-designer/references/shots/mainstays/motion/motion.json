@@ -1,0 +1,617 @@
+{
+  "url": "https://yourmainstays.com/",
+  "date": "2026-10-06T13:52:11.940Z",
+  "viewports": {
+    "desktop": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 7916
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 96,
+          "parentHeight": 7916,
+          "el": "header.site-header.has-scrolled «ABOUT PRODUCTS RECIPES FIND US»"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 1013,
+          "parentHeight": 1013,
+          "el": "div.home-social_content «Mainstays in the wild YOURMAINSTAYS»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y439.png",
+          "y": 439,
+          "moving": true
+        },
+        {
+          "frame": "002-y865.png",
+          "y": 865,
+          "moving": true
+        },
+        {
+          "frame": "003-y1338.png",
+          "y": 1338,
+          "moving": true
+        },
+        {
+          "frame": "004-y1751.png",
+          "y": 1751,
+          "moving": true
+        },
+        {
+          "frame": "005-y2242.png",
+          "y": 2242,
+          "moving": true
+        },
+        {
+          "frame": "006-y2700.png",
+          "y": 2700,
+          "moving": true
+        },
+        {
+          "frame": "007-y3089.png",
+          "y": 3089,
+          "moving": true
+        },
+        {
+          "frame": "008-y3535.png",
+          "y": 3535,
+          "moving": true
+        },
+        {
+          "frame": "009-y4048.png",
+          "y": 4048,
+          "moving": true
+        },
+        {
+          "frame": "010-y4438.png",
+          "y": 4438,
+          "moving": true
+        },
+        {
+          "frame": "011-y4897.png",
+          "y": 4897,
+          "moving": true
+        },
+        {
+          "frame": "012-y5340.png",
+          "y": 5340,
+          "moving": true
+        },
+        {
+          "frame": "013-y5792.png",
+          "y": 5792,
+          "moving": true
+        },
+        {
+          "frame": "014-y6244.png",
+          "y": 6244,
+          "moving": true
+        },
+        {
+          "frame": "015-y6688.png",
+          "y": 6688,
+          "moving": true
+        },
+        {
+          "frame": "016-y6983.png",
+          "y": 6983,
+          "moving": true
+        },
+        {
+          "frame": "017-y7016.png",
+          "y": 7016,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_media",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 47525,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "ul.highlight-component_list «Crafted with care Jam-packed with flavour Pantry h»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 10000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.wave-component_wave",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 26575,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "ul.stockist-component_list",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «ABOUT PRODUCTS RECIPES FIND US»",
+          "firstSeenAtY": 439
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «ABOUT PRODUCTS RECIPES FIND US»",
+          "firstSeenAtY": 439
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «ABOUT PRODUCTS RECIPES FIND US»",
+          "firstSeenAtY": 439
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "width",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_media",
+          "firstSeenAtY": 865
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 865
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 865
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 1000,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease-out",
+          "target": "img",
+          "firstSeenAtY": 3535
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a.review-component «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_content «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-left-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_content «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-right-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_content «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-top-color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_content «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "box-shadow",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_content «Mike P. “Caesars, salads or subs — this bean is gi»",
+          "firstSeenAtY": 4438
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "filter",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "div.review-component_media.review-component_media--bg",
+          "firstSeenAtY": 4438
+        }
+      ]
+    },
+    "mobile": {
+      "tech": {
+        "gsap": false,
+        "scrollTrigger": false,
+        "lenis": true,
+        "lottie": false,
+        "three": false,
+        "framerMotion": false,
+        "videos": [],
+        "canvases": 0,
+        "scrollHeight": 6323
+      },
+      "pinned": [
+        {
+          "position": "fixed",
+          "top": "0px",
+          "height": 96,
+          "parentHeight": 6323,
+          "el": "header.site-header.has-scrolled «About Products Recipes Find us»"
+        },
+        {
+          "position": "sticky",
+          "top": "0px",
+          "height": 604,
+          "parentHeight": 604,
+          "el": "div.home-social_content «Mainstays in the wild YOURMAINSTAYS»"
+        }
+      ],
+      "frames": [
+        {
+          "frame": "000-y0.png",
+          "y": 0,
+          "moving": true
+        },
+        {
+          "frame": "001-y371.png",
+          "y": 371,
+          "moving": true
+        },
+        {
+          "frame": "002-y801.png",
+          "y": 801,
+          "moving": true
+        },
+        {
+          "frame": "003-y1217.png",
+          "y": 1217,
+          "moving": true
+        },
+        {
+          "frame": "004-y1651.png",
+          "y": 1651,
+          "moving": false
+        },
+        {
+          "frame": "005-y2094.png",
+          "y": 2094,
+          "moving": true
+        },
+        {
+          "frame": "006-y2514.png",
+          "y": 2514,
+          "moving": true
+        },
+        {
+          "frame": "007-y2932.png",
+          "y": 2932,
+          "moving": true
+        },
+        {
+          "frame": "008-y3367.png",
+          "y": 3367,
+          "moving": true
+        },
+        {
+          "frame": "009-y3760.png",
+          "y": 3760,
+          "moving": true
+        },
+        {
+          "frame": "010-y4180.png",
+          "y": 4180,
+          "moving": true
+        },
+        {
+          "frame": "011-y4596.png",
+          "y": 4596,
+          "moving": true
+        },
+        {
+          "frame": "012-y5013.png",
+          "y": 5013,
+          "moving": true
+        },
+        {
+          "frame": "013-y5437.png",
+          "y": 5437,
+          "moving": true
+        },
+        {
+          "frame": "014-y5479.png",
+          "y": 5479,
+          "moving": false
+        }
+      ],
+      "animations": [
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a.product-slide",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_media",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "opacity",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "transform",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 600,
+          "delay": 300,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.product-slide_ingredient",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button.embla-dot.embla-dot--selected",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "button.embla-dot",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 5000,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "div.wave-component_wave",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 47525,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "ul.highlight-component_list «Crafted with care Jam-packed with flavour Pantry h»",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSAnimation",
+          "name": "translateX",
+          "duration": 18725,
+          "delay": 0,
+          "iterations": "infinite",
+          "easing": "linear",
+          "target": "ul.stockist-component_list",
+          "firstSeenAtY": 0
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "background-color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «About Products Recipes Find us»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "border-bottom-color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «About Products Recipes Find us»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 250,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "header.site-header.has-scrolled «About Products Recipes Find us»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a.site-header_logo «The Mainstays»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a «About»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a «Products»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a «Recipes»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 150,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "target": "a «Find us»",
+          "firstSeenAtY": 371
+        },
+        {
+          "kind": "CSSTransition",
+          "name": "color",
+          "duration": 500,
+          "delay": 0,
+          "iterations": 1,
+          "easing": "ease",
+          "target": "div.wave-component.wave-component--bottom",
+          "firstSeenAtY": 371
+        }
+      ]
+    }
+  }
+}

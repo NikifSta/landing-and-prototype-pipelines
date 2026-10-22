@@ -1,0 +1,794 @@
+{
+  "source_url": "https://heimplanet.com",
+  "final_url": "https://heimplanet.com/",
+  "captured_at": "2026-09-29T04:10:16.635694+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://heimplanet.com",
+      "final_url": "https://heimplanet.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526",
+      "final_url": "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22ac67874a58ee983e645f17147ead0617f5d2a79da969222f39406cdb57e4c8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "final_url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "final_url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a28e404b02b2ac6502a4935c331921a9f1a665dcc6b306f9cd1327342100b0f6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://unpkg.com/beerslider/dist/BeerSlider.css",
+      "final_url": "https://unpkg.com/beerslider@1.0.3/dist/BeerSlider.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5949196267a33f149ed992ae7a886f49d9309a09999cc774b9323dd2890b93ba",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://heimplanet.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://heimplanet.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 67,
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "#000000": {
+      "count": 47,
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 31,
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "#ea384c": {
+      "count": 1,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "#758696": {
+      "count": 1,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "#111111": {
+      "count": 18,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://heimplanet.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526"
+    ],
+    "monospace": [
+      "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526"
+    ],
+    "Arial": [
+      "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+    ],
+    "Simplonnorm": [
+      "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+    ],
+    "Simplonmono": [
+      "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://heimplanet.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #000;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #000000;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "selector": "body",
+      "declarations": "margin:0;min-height:100%;background-color:#fff;font-family:Arial,sans-serif;font-size:14px;line-height:20px;color:#333"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "selector": ".w-button",
+      "declarations": "display:inline-block;padding:9px 15px;background-color:#3898ec;color:#fff;border:0;line-height:inherit;text-decoration:none;cursor:pointer;border-radius:0"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "selector": ":where(button.w-popover-trigger)",
+      "declarations": "background-color:transparent;border:0;color:inherit;cursor:pointer;font:inherit;line-height:inherit;margin:0;padding:0;text-align:inherit;text-decoration:inherit"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "selector": ".w-nav-button",
+      "declarations": "position:relative;float:right;padding:18px;font-size:24px;display:none;cursor:pointer;-webkit-tap-highlight-color:rgba(0,0,0,0);tap-highlight-color:rgba(0,0,0,0);-webkit-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+      "selector": ".w-nav-button.w--open",
+      "declarations": "background-color:#c8c8c8;color:#fff"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": "body",
+      "declarations": "color:var(--base-color-neutral--black);font-family:Simplonnorm,sans-serif;font-size:.9375rem;line-height:1.5"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": "h1",
+      "declarations": "text-transform:uppercase;margin-top:0;margin-bottom:0;font-family:Simplonnorm,sans-serif;font-size:4.375rem;font-weight:500;line-height:1"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button",
+      "declarations": "border:1px solid var(--base-color-neutral--black);background-color:var(--base-color-neutral--black);color:var(--text-color--text-alternate);text-align:center;letter-spacing:.2em;text-transform:uppercase;white-space:nowrap;padding:.85rem 1.75rem;font-size:.75rem;font-weight:400"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-secondary",
+      "declarations": "border:1px solid var(--base-color-neutral--black);color:#000;background-color:#0000"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-secondary.max-width-full.pointer-events-off",
+      "declarations": "border-color:var(--base-color-neutral--neutral-lighter)"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-secondary.is-white",
+      "declarations": "color:var(--text-color--text-alternate);background-color:#fff0"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-secondary.is-white:hover",
+      "declarations": "background-color:var(--base-color-neutral--white);color:var(--base-color-neutral--black)"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-outline",
+      "declarations": "color:#111;background-color:#0000;border:1px solid #111;transition:color .2s,background-color .2s"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-outline:hover",
+      "declarations": "color:#fff;background-color:#111"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-outline.is-white",
+      "declarations": "grid-column-gap:.2rem;grid-row-gap:.2rem;border-color:var(--base-color-neutral--white);color:var(--base-color-neutral--white);background-color:#fff0;justify-content:center;align-items:center;display:flex"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-small",
+      "declarations": "background-color:var(--base-color-neutral--white);color:var(--text-color--text-primary);padding:.5rem 1.25rem"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-text",
+      "declarations": "color:#000;background-color:#0000;border:2px solid #0000"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".button.is-white",
+      "declarations": "border-color:var(--base-color-neutral--white);background-color:var(--base-color-neutral--white);color:var(--text-color--text-primary)"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".cart_grid.is-header",
+      "declarations": "border-bottom:1px solid var(--base-color-neutral--black);color:var(--base-color-neutral--black);padding-top:1.1rem;padding-bottom:1.1rem"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".addresses_padding.is-header",
+      "declarations": "border-bottom:1px solid var(--base-color-neutral--black);color:var(--base-color-neutral--black);padding-top:1.1rem;padding-bottom:1.1rem"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".addresses_delete-button",
+      "declarations": "background-color:#0000;background-image:url(//heimplanet.com/cdn/shop/t/134/assets/trash.svg?v=62628156702599161781789571440);background-position:50%;background-repeat:no-repeat;background-size:contain;width:2rem;height:2rem;display:block"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".product-item_image-wrapper",
+      "declarations": "background-color:var(--base-color-neutral--neutral-lightest);width:100%;min-height:23rem;padding-top:100%;position:relative;overflow:hidden"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".swiper-slide.is-product-thumbnail.is-active",
+      "declarations": "border:1px solid var(--base-color-neutral--neutral-darkest);background-color:var(--base-color-neutral--neutral-lightest)"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".swiper_button",
+      "declarations": "border:1px solid var(--base-color-neutral--neutral-lightest);background-color:var(--base-color-neutral--neutral-lightest);text-align:center;border-radius:100vw;justify-content:center;align-items:center;width:3rem;height:3rem;transition:color .2s,background-color .2s;display:flex;position:relative"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".swiper_button:hover",
+      "declarations": "color:#1f1f1f"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".swiper_button-icon",
+      "declarations": "color:#1d1d1b;width:40%;height:55%"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".product_gallery-lightbox",
+      "declarations": "background-color:var(--base-color-neutral--neutral-lightest);width:100%;height:100%;position:relative"
+    },
+    {
+      "source": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+      "selector": ".product_gallery-image.is-swiper-video",
+      "declarations": "background-color:var(--base-color-neutral--black)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "HEIMPLANET offizieller Online Shop",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#758696",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#ea384c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "colors.neutral-mid": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526"
+      ]
+    },
+    "colors.neutral-dark": {
+      "value": "#1c1c1c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://heimplanet.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Simplonnorm, sans-serif",
+        "fontSize": "70px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Simplonnorm, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 500,
+        "lineHeight": 1.1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Simplonnorm, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Simplonnorm, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.43,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Simplonmono, monospace",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Simplonnorm, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0.2em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.neutral-dark}",
+        "textColor": "{colors.on-primary}",
+        "headingTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sale}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "labelTypography": "{typography.caption}",
+        "valueTypography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "::selection",
+        "property": "color",
+        "declaration": "#fff",
+        "url": "https://heimplanet.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d"
+      },
+      "#000000": {
+        "selector": "::selection",
+        "property": "background",
+        "declaration": "#000",
+        "url": "https://heimplanet.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d"
+      },
+      "#00000000": {
+        "selector": ".tl-select:focus-visible,\n  .tl-option:focus-visible,\n  .tl-selections:focus-visible,\n  .tl-close-btn:focus-visible,\n  .tl-submit-btn:focus-visible",
+        "property": "outline-color",
+        "declaration": "color-mix(in srgb, currentColor 40%, transparent)",
+        "url": "https://heimplanet.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d"
+      },
+      "#333333": {
+        "selector": ".tl-submit-btn",
+        "property": "background-color",
+        "declaration": "#333",
+        "url": "https://heimplanet.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d"
+      },
+      "#1c1c1c": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#1C1C1C",
+        "url": "https://heimplanet.com/",
+        "snapshot": "homepage.html",
+        "sha256": "b51908e973311b76d72f53953989146cfc9074fe05a526bf66b53c8bc9bd202d"
+      },
+      "#999999": {
+        "selector": ".w-input::placeholder,.w-select::placeholder",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0"
+      },
+      "#fafafa": {
+        "selector": ".w-file-upload-uploading-btn",
+        "property": "background-color",
+        "declaration": "#fafafa",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0"
+      },
+      "#ea384c": {
+        "selector": ".w-file-upload-error-msg",
+        "property": "color",
+        "declaration": "#ea384c",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0"
+      },
+      "#758696": {
+        "selector": ".w-widget-twitter-count-shim",
+        "property": "border",
+        "declaration": "#758696 solid 1px",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0"
+      },
+      "#111111": {
+        "selector": ":root",
+        "property": "--base-color-neutral--black",
+        "declaration": "#111",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "a28e404b02b2ac6502a4935c331921a9f1a665dcc6b306f9cd1327342100b0f6"
+      },
+      "#f5f5f5": {
+        "selector": ".videos_video_close",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "a28e404b02b2ac6502a4935c331921a9f1a665dcc6b306f9cd1327342100b0f6"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://heimplanet.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "22ac67874a58ee983e645f17147ead0617f5d2a79da969222f39406cdb57e4c8"
+      },
+      "monospace": {
+        "selector": "code,kbd,pre,samp",
+        "property": "font-family",
+        "declaration": "monospace,monospace",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/normalize.css?v=7230471698553888871789571526",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "22ac67874a58ee983e645f17147ead0617f5d2a79da969222f39406cdb57e4c8"
+      },
+      "Arial": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "Arial,sans-serif",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/components.css?v=71151180767614449651789571526",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "5f8ce3110ab8e5612e4ac336a5380b59821cc371e7bbbba6a3ddf6403b9f92d0"
+      },
+      "Simplonnorm": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Simplonnorm",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "a28e404b02b2ac6502a4935c331921a9f1a665dcc6b306f9cd1327342100b0f6"
+      },
+      "Simplonmono": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Simplonmono",
+        "url": "https://heimplanet.com/cdn/shop/t/134/assets/heimplanet-4-0.css?v=76414677939819468101789571527",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "a28e404b02b2ac6502a4935c331921a9f1a665dcc6b306f9cd1327342100b0f6"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

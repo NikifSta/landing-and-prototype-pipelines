@@ -1,0 +1,759 @@
+{
+  "source_url": "https://smalls.com",
+  "final_url": "https://www.smalls.com/",
+  "captured_at": "2026-09-28T04:17:17.873619+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://smalls.com",
+      "final_url": "https://www.smalls.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "12153704f1e0f0b7b5b1aefa7bf40190beafb13f8442932469691cb11b03138b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+      "final_url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "1f024fa731e7634fb2b1fc75690b6735bbb3436c9f4e07b7d8f274932bb316c0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "final_url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffec66": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#efece6": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c75100": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0a7b09": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#6a7282": {
+      "count": 3,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#155dfc": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#363b42": {
+      "count": 16,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#1a1d21": {
+      "count": 11,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#23272c": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#bbc692": {
+      "count": 4,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#61704d": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#f2ba36": {
+      "count": 3,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Yorick": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ],
+    "Monument": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ],
+    "Adieu": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--color-gray-200,currentcolor)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".\\[\\&\\>div\\:has\\(\\>button\\:focus-visible\\)\\+div\\>button\\]\\:border-t-transparent>div:has(>button:focus-visible)+div>button",
+      "declarations": "border-top-color:#0000"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:border-t-yellow[data-focused=true]>div[role=button]",
+      "declarations": "border-top-color:var(--color-yellow)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:border-dashed[data-focused=true]>div[role=button]:before",
+      "declarations": "content:var(--tw-content);--tw-border-style:dashed;border-style:dashed"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:border-t-black[data-focused=true]>div[role=button]:before",
+      "declarations": "content:var(--tw-content);border-top-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:content-\\[\\'\\'\\][data-focused=true]>div[role=button]:before",
+      "declarations": "--tw-content:\"\";content:var(--tw-content)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:border-b-yellow[data-focused=true]>div[role=button][aria-expanded=true]",
+      "declarations": "border-bottom-color:var(--color-yellow)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:border-dashed[data-focused=true]>div[role=button][aria-expanded=true]:after",
+      "declarations": "content:var(--tw-content);--tw-border-style:dashed;border-style:dashed"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:border-b-black[data-focused=true]>div[role=button][aria-expanded=true]:after",
+      "declarations": "content:var(--tw-content);border-bottom-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:content-\\[\\'\\'\\][data-focused=true]>div[role=button][aria-expanded=true]:aft",
+      "declarations": "--tw-content:\"\";content:var(--tw-content)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fresh Human-Grade Cat Food Delivery | Smalls",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#ffec66",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1d21",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#efece6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.body": {
+      "value": "#363b42",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6a7282",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#0000001a",
+      "value_status": "derived_opacity",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#1a1d21",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#f2ba36",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-sage": {
+      "value": "#bbc692",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-olive": {
+      "value": "#61704d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value": "#c75100",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#155dfc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.success": {
+      "value": "#0a7b09",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#23272c",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value": "#000000b3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Monument, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Monument, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Yorick, serif",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Adieu, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Adieu, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Adieu, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Adieu, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairlineBottom": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "rounded": "{rounded.md}",
+        "border": "1px solid {colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.surface-card}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-sage}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.plan-builder-step": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentBorder": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-md}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.xl}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "*,:before,:after,::backdrop",
+        "property": "--tw-ring-offset-color",
+        "declaration": "#fff",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#000000": {
+        "selector": ":root,:host",
+        "property": "--color-black",
+        "declaration": "#000",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#ffec66": {
+        "selector": ":root,:host",
+        "property": "--color-yellow",
+        "declaration": "#ffec66",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#efece6": {
+        "selector": ":root,:host",
+        "property": "--color-warm-grey",
+        "declaration": "#efece6",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#f6f6f6": {
+        "selector": ":root,:host",
+        "property": "--color-render-bg",
+        "declaration": "#f6f6f6",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#c75100": {
+        "selector": ":root,:host",
+        "property": "--color-alert",
+        "declaration": "#c75100",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#0a7b09": {
+        "selector": ":root,:host",
+        "property": "--color-green",
+        "declaration": "#0a7b09",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#6a7282": {
+        "selector": "input:where([type=text]),input:where(:not([type])),input:where([type=email]),input:where([type=url]),input:where([type=password]),input:where([type=number]),input:where([type=date]),input:where([type=datetime-local]),input:where([type=month]),input:where([type=search]),input:where([type=tel]),input:",
+        "property": "border-color",
+        "declaration": "#6a7282",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#155dfc": {
+        "selector": ":is(input:where([type=text]),input:where(:not([type])),input:where([type=email]),input:where([type=url]),input:where([type=password]),input:where([type=number]),input:where([type=date]),input:where([type=datetime-local]),input:where([type=month]),input:where([type=search]),input:where([type=tel]),in",
+        "property": "--tw-ring-color",
+        "declaration": "oklch(54.6% .245 262.881)",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#363b42": {
+        "selector": ".border-\\[\\#363b42\\]",
+        "property": "border-color",
+        "declaration": "#363b42",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#1a1d21": {
+        "selector": ".bg-\\[\\#1a1d21\\]",
+        "property": "background-color",
+        "declaration": "#1a1d21",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#23272c": {
+        "selector": ".bg-\\[\\#23272c\\]",
+        "property": "background-color",
+        "declaration": "#23272c",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#bbc692": {
+        "selector": ".bg-\\[\\#BBC692\\]",
+        "property": "background-color",
+        "declaration": "#bbc692",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#000000b3": {
+        "selector": ".bg-black\\/70",
+        "property": "background-color",
+        "declaration": "#000000b3",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#61704d": {
+        "selector": ".from-\\[\\#61704D\\]",
+        "property": "--tw-gradient-from",
+        "declaration": "#61704d",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      },
+      "#f2ba36": {
+        "selector": ".hover\\:bg-\\[\\#F2BA36\\]:where([data-rac])[data-hovered],.hover\\:bg-\\[\\#F2BA36\\]:where(:not([data-rac])):hover",
+        "property": "background-color",
+        "declaration": "#f2ba36",
+        "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a"
+      }
+    },
+    "font_families": {
+      "Yorick": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Yorick",
+        "url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1f024fa731e7634fb2b1fc75690b6735bbb3436c9f4e07b7d8f274932bb316c0"
+      },
+      "Monument": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Monument",
+        "url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1f024fa731e7634fb2b1fc75690b6735bbb3436c9f4e07b7d8f274932bb316c0"
+      },
+      "Adieu": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Adieu",
+        "url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "1f024fa731e7634fb2b1fc75690b6735bbb3436c9f4e07b7d8f274932bb316c0"
+      }
+    }
+  },
+  "derived_colors": {
+    "#0000001a": {
+      "base": "#000000",
+      "status": "proposed_opacity",
+      "alpha": 0.10196078431372549
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

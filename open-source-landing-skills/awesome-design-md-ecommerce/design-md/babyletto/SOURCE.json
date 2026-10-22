@@ -1,0 +1,858 @@
+{
+  "source_url": "https://babyletto.com",
+  "final_url": "https://babyletto.com/",
+  "captured_at": "2026-09-28T04:22:55.739142+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://babyletto.com",
+      "final_url": "https://babyletto.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://babyletto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://babyletto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://babyletto.com/cdn/shop/t/290/assets/extend.css?v=169961874320600070681788201942",
+      "final_url": "https://babyletto.com/cdn/shop/t/290/assets/extend.css?v=169961874320600070681788201942",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "377e65c3e61f0eea747edad23ac5319e27994b8832a55882be3f96a20666303d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://babyletto.com/cdn/shop/t/290/assets/component-predictive-search.css?v=30675025326596233411754388306",
+      "final_url": "https://babyletto.com/cdn/shop/t/290/assets/component-predictive-search.css?v=30675025326596233411754388306",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e62d821059686b18eb34b1fb06857d864ced12453d8d747e3e5c20162f6c268",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+      "final_url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d98b65b1261bd97bc3804da6b878780d2ab098699b2f2d39e0baaa35755796ce",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://babyletto.com/cdn/shop/t/290/assets/desktop.css?v=49212576710055053201763460646",
+      "final_url": "https://babyletto.com/cdn/shop/t/290/assets/desktop.css?v=49212576710055053201763460646",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b05e1439c8926370c49f5af5f2dd3d8baf42032922d30eaf5eec07b3386608a6",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 65,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#1a172c": {
+      "count": 4,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 13,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#fbf9f7": {
+      "count": 14,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#f9f4ee": {
+      "count": 8,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#853a2d": {
+      "count": 31,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 52,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#81321c": {
+      "count": 16,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#e5b878": {
+      "count": 11,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#f2e8df": {
+      "count": 1,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "#131121": {
+      "count": 1,
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    },
+    "#157347": {
+      "count": 1,
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    },
+    "#b42318": {
+      "count": 1,
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    }
+  },
+  "font_families": {
+    "GT Walsheim": [
+      "https://babyletto.com/"
+    ],
+    "sans-serif": [
+      "https://babyletto.com/"
+    ],
+    "Baskerville": [
+      "https://babyletto.com/"
+    ],
+    "serif": [
+      "https://babyletto.com/"
+    ],
+    "Nothing You Could Do": [
+      "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://babyletto.com/",
+      "selector": ":root",
+      "declarations": "--hambourger-icon-size: ;\n    --hambourger-icon-size-halved: 0;"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ":root",
+      "declarations": "--screen-break: 1024px;--announcement-bar-height: 40px;--header-height: 50px;--header-height-desktop: 115px;--header-border-bottom-width: 0px;--grid-gap:10px;--grid-gap-desktop:20px;--indent: 20px;--indent-desktop: 100px;--body-font: GT Walsheim, sans-serif;--body-font-size: 14px;--text-color: #000;--color-dark: #1a172c;--border-color: #B7B7B7;--background-color: #FBF9F7;--header-background-color: #F9F4EE;--icon-size: 24px;--drawer-menu-icon-size:20px;--header-font: var(--body-font);--header-font-size: 14px;--header-font-weight: 500;--header-letter-spacing: normal;--header-text-transform: none;--header-color: #000;--accent-color: #853A2D;--accent-color-inverted: #fff"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ":root",
+      "declarations": "--body-font-size: 14px"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".block-newsletter .field .field__button.button",
+      "declarations": "border-radius:200px !important;margin:4px 6px;background-color:#853a2d !important;border-color:#853a2d !important;color:#fbf9f7 !important;font-size:12px !important;padding:7px 28px !important;min-width:auto"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".card-product.simple .product-title",
+      "declarations": "font-family:\"GT Walsheim\",sans-serif;font-size:14px"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".card-product.card-product-general .text-container>*:not(.product-title)",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "body",
+      "declarations": "font-family:\"GT Walsheim\",sans-serif;font-size:14px;font-style:normal;font-weight:normal;line-height:normal;letter-spacing:normal;background-color:#fbf9f7;color:#000"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ":root",
+      "declarations": "--section-announcement-bar: 0"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color:not(.button-link):not(.secondary):not(.button-icon)",
+      "declarations": "background:var(--button-custom-color);border-color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color:not(.button-link):not(.secondary):not(.button-icon):hover",
+      "declarations": "background:var(--button-custom-color);border-color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color.secondary",
+      "declarations": "color:var(--button-custom-color);border-color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color.secondary:hover",
+      "declarations": "color:var(--button-custom-color);border-color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color.button-link",
+      "declarations": "color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-color.button-link:hover",
+      "declarations": "color:var(--button-custom-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-hover-color:not(.button-link):not(.secondary):not(.button-icon):hover",
+      "declarations": "background:var(--button-custom-hover-color);border-color:var(--button-custom-hover-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-hover-color.secondary:hover",
+      "declarations": "color:var(--button-custom-hover-color);border-color:var(--button-custom-hover-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-custom-hover-color.button-link:hover",
+      "declarations": "color:var(--button-custom-hover-color)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".button.button-square-corner",
+      "declarations": "border-bottom-right-radius:0 !important;background-color:#fff !important;color:#81321c !important;font-size:14px !important;font-weight:500 !important;padding-top:4px !important;padding-bottom:5px !important;border:1px solid #e5b878 !important;outline:1px solid rgba(0,0,0,0) !important"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".header3upRightBorder ::after",
+      "declarations": "content:\"\";position:absolute;top:12px;right:0;bottom:12px;width:1px;background-color:rgba(129,50,28,.2);z-index:1"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".header3upRightBorder ::after",
+      "declarations": "background-color:rgba(129,50,28,.5019607843)"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "dusk-video+video-control-button",
+      "declarations": "cursor:pointer;position:absolute;z-index:2;color:var(--custom-color, #000);display:flex;justify-content:center;align-items:center;outline:2px solid currentColor;border-radius:100px;opacity:0;transition:opacity .2s ease-in-out;width:24px;height:24px"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "dusk-video+video-control-button button",
+      "declarations": "width:100%;height:100%;padding:0;border:0;border-radius:inherit;background:rgba(0,0,0,0);color:inherit;cursor:inherit"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": ".item.playable-slide .dusk-content .button:hover",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "body.template-suffix-nate-berkus",
+      "declarations": "background-color:#f9f4ee"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "h1,.h1",
+      "declarations": "font-family:\"Columbia Sans W\",sans-serif;font-style:normal;text-shadow:none;text-transform:none;font-size:22px;font-weight:normal;letter-spacing:normal;line-height:normal;margin-top:1.25em;margin-bottom:1.25em"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "n__button:not(.button-link):not(.secondary):not(.button-icon),.shopify-challenge__button:not(.button-link):not(.secondary):not(.button-icon),.button:not(.button",
+      "declarations": "display:inline-flex;align-items:center;gap:8px;white-space:nowrap;background:#81321c;color:#fff;border:1px solid #81321c;border-radius:100px;padding:10px 16px;font-family:\"GT Walsheim\",sans-serif;font-size:12px;font-weight:500;letter-spacing:.01em;line-height:20px;text-transform:none;justify-content:center;cursor:pointer;transition:all .4s ease"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "con):hover,.button:not(.button-link):not(.secondary):not(.button-icon).shopify-payment-button__button--unbranded:hover:not([disabled]),.button:not(.button-link)",
+      "declarations": "background:rgba(0,0,0,0);color:#81321c;border-color:#81321c"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "button.shopify-payment-button__button.secondary,.shopify-challenge__button.secondary,.button.secondary",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;background:#fff;color:#000;border:1px solid #fff;border-radius:100px;padding:10px 16px;font-family:\"GT Walsheim\",sans-serif;font-size:12px;font-weight:500;letter-spacing:.01em;line-height:20px;text-transform:none;transition:all .4s ease"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "button.shopify-payment-button__button.secondary:hover,.shopify-challenge__button.secondary:hover,.button.secondary:hover",
+      "declarations": "background:rgba(0,0,0,0);color:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://babyletto.com/",
+      "selector": "button.shopify-payment-button__button.button-link,.shopify-challenge__button.button-link,.button.button-link",
+      "declarations": "background:rgba(0,0,0,0);border:0;display:inline-flex;flex-direction:row;align-items:center;gap:8px;color:currentColor;padding:0 8px;font-family:\"GT Walsheim\",sans-serif;font-size:16px;font-weight:500;letter-spacing:.15em;line-height:normal;text-transform:capitalize;text-decoration:underline;transition:all .4s ease"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Modern Baby & Kids Furniture\n – Babyletto",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#853A2D",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1A172C",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#FBF9F7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#B7B7B7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#F9F4EE",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#FFFFFF",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#FFFFFF",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#E5B878",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.terracotta-deep": {
+      "value": "#81321C",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.cream": {
+      "value": "#F2E8DF",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#157347",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    },
+    "colors.danger": {
+      "value": "#B42318",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    },
+    "colors.dark-navy": {
+      "value": "#131121",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Baskerville, serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Baskerville, serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "GT Walsheim, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "GT Walsheim, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "GT Walsheim, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "GT Walsheim, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "GT Walsheim, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.2,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.script-accent": {
+      "value": {
+        "fontFamily": "Nothing You Could Do, cursive",
+        "fontSize": "24px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "normal"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.terracotta-deep}",
+        "borderColor": "{colors.accent-gold}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xs} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.dark-navy}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.accent-gold}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.terracotta-deep}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "rounded": "{rounded.sm}",
+        "typography": "{typography.body-md}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "value": {
+        "borderColor": "{colors.hairline}",
+        "selectedBorderColor": "{colors.primary}",
+        "size": "{spacing.xl}",
+        "rounded": "{rounded.full}",
+        "backgroundColor": "{colors.surface-card}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--text-color",
+        "declaration": "#000",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#1a172c": {
+        "selector": ":root",
+        "property": "--color-dark",
+        "declaration": "#1a172c",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#b7b7b7": {
+        "selector": ":root",
+        "property": "--border-color",
+        "declaration": "#B7B7B7",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#fbf9f7": {
+        "selector": ":root",
+        "property": "--background-color",
+        "declaration": "#FBF9F7",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#f9f4ee": {
+        "selector": ":root",
+        "property": "--header-background-color",
+        "declaration": "#F9F4EE",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#853a2d": {
+        "selector": ":root",
+        "property": "--accent-color",
+        "declaration": "#853A2D",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--accent-color-inverted",
+        "declaration": "#fff",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#81321c": {
+        "selector": ".button.button-square-corner",
+        "property": "color",
+        "declaration": "#81321c",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#e5b878": {
+        "selector": ".button.button-square-corner",
+        "property": "border",
+        "declaration": "1px solid #e5b878",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#f2e8df": {
+        "selector": ":root",
+        "property": "--oke-stars-backgroundcolor",
+        "declaration": "#f2e8df",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#666666": {
+        "selector": ".ai-tabbed-collections-empty-aadzdrlrithjma2fvtaigenblockb58aa39bzkcal",
+        "property": "color",
+        "declaration": "#666",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "#131121": {
+        "selector": ".fav-copyright",
+        "property": "background",
+        "declaration": "#131121",
+        "url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "d98b65b1261bd97bc3804da6b878780d2ab098699b2f2d39e0baaa35755796ce"
+      },
+      "#157347": {
+        "selector": ".upsell-notify-modal .upsell-notify-status.is-success",
+        "property": "color",
+        "declaration": "#157347",
+        "url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "d98b65b1261bd97bc3804da6b878780d2ab098699b2f2d39e0baaa35755796ce"
+      },
+      "#b42318": {
+        "selector": ".upsell-notify-modal .upsell-notify-status.is-error",
+        "property": "color",
+        "declaration": "#b42318",
+        "url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "d98b65b1261bd97bc3804da6b878780d2ab098699b2f2d39e0baaa35755796ce"
+      }
+    },
+    "font_families": {
+      "GT Walsheim": {
+        "selector": ".card-product.simple .product-title",
+        "property": "font-family",
+        "declaration": "\"GT Walsheim\",sans-serif",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "sans-serif": {
+        "selector": ".card-product.simple .product-title",
+        "property": "font-family",
+        "declaration": "\"GT Walsheim\",sans-serif",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "Baskerville": {
+        "selector": ".oke-w,.oke-modal",
+        "property": "--oke-title-fontfamily",
+        "declaration": "Columbia Sans Regular,Raleway,Baskerville,sans-serif",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "serif": {
+        "selector": "div.okeReviews[data-oke-container] .oke-modal .oke-reviewContent-title",
+        "property": "font-family",
+        "declaration": "\"Columbia Sans Regular\",\"Raleway\",\"Baskerville\",serif",
+        "url": "https://babyletto.com/",
+        "snapshot": "homepage.html",
+        "sha256": "62cb4494b6e85efc60b20996beae20a7165acbf54727da9af29231528d5905f8"
+      },
+      "Nothing You Could Do": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Nothing You Could Do",
+        "url": "https://babyletto.com/cdn/shop/t/290/assets/mobile.css?v=18570616342836245811790280565",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "d98b65b1261bd97bc3804da6b878780d2ab098699b2f2d39e0baaa35755796ce"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

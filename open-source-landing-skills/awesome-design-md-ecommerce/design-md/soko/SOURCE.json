@@ -1,0 +1,811 @@
+{
+  "source_url": "https://shopsoko.com",
+  "final_url": "https://shopsoko.com/",
+  "captured_at": "2026-09-28T10:08:58.137811+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shopsoko.com",
+      "final_url": "https://shopsoko.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "final_url": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38d677ae651d38ab1b4ff02fa029aa39253ff0761ca2afd23da00cd11a66e9c1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://shopsoko.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shopsoko.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/b7752177-db47-49e4-b0b9-f16b14d7e760/sales-countup-3/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/b7752177-db47-49e4-b0b9-f16b14d7e760/sales-countup-3/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b49f84f1416aa223f198b7702a6aebec2a1f85c888fb4c5359a439fffdda7c56",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d7b2-75e7-79c7-a2f3-3769df0f4183/trident_ab_testing-37/assets/style.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d7b2-75e7-79c7-a2f3-3769df0f4183/trident_ab_testing-37/assets/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://shopsoko.com/cdn/shop/t/114/assets/partial-flag-icons.css?v=164190940160091988681775813964",
+      "final_url": "https://shopsoko.com/cdn/shop/t/114/assets/partial-flag-icons.css?v=164190940160091988681775813964",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "913da5b2aa79be12ad49f12c4fd22b4db2454fe23c5b631459960f3f19c72bb1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#d02f2e": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#478947": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 39,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#bf9b30": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#7e6b45": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#603021": {
+      "count": 3,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#452318": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970"
+      ]
+    }
+  },
+  "font_families": {
+    "Cabin": [
+      "https://shopsoko.com/"
+    ],
+    "Outfit": [
+      "https://shopsoko.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shopsoko.com/",
+      "selector": ":root",
+      "declarations": "--logo-font-size: \n2.23125rem\n;\n      --font-size-heading-display-1: \n5.203125rem\n;\n      --font-size-heading-display-2: \n4.62384375rem\n;\n      --font-size-heading-display-3: \n4.04664375rem\n;\n      --font-size-heading-1-base: \n3.46875rem\n;\n      --font-size-heading-2-base: \n3.03515625rem\n;\n      --font-size-heading-3-base: \n2.6015625rem\n;\n      --font-size-heading-4-base: \n2.02228125rem\n;\n      --font-size-heading-5-base: \n1.734375rem\n;\n      --font-size-heading-6-base: \n1.443rem\n;\n      --font-size-body-400: \n2.23348125rem\n;\n      --font-size-body-350: \n2.084671875rem\n;\n      --font-size-body-300: \n1.9358625rem\n;\n      --font-size-body-250: \n1.787053125rem\n;\n      --font-size-body-200: \n1.6"
+    },
+    {
+      "source": "https://shopsoko.com/",
+      "selector": ".product-badge[data-handle=\"responsible\"]",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://shopsoko.com/",
+      "selector": ".product-badge[data-handle=\"best-seller\"]",
+      "declarations": "color: #7e6b45;"
+    },
+    {
+      "source": "https://shopsoko.com/",
+      "selector": ".product-badge[data-handle=\"new\"]",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://shopsoko.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://shopsoko.com/",
+      "selector": "ty:1;\nfill:#142FBD;fill:color(display-p3 0.0784 0.1843 0.7412);fill-opacity:1;\nfill:#1532CB;fill:color(display-p3 0.0824 0.1961 0.7961);fill-opacity:1;\nfill:whi",
+      "declarations": "color: orangered !important;"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:27px;width:calc(var(--swiper-navigation-size)/ 44 * 27);height:44px;height:var(--swiper-navigation-size);margin-top:-22px;margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#007aff;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:44px;font-size:var(--swiper-navigation-size);letter-spacing:0;font-feature-settings:;font-variant:normal;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--media-below-480:(max-width: 479px);--media-above-480:(min-width: 480px);--media-below-720:(max-width: 719px);--media-above-720:(min-width: 720px);--media-below-960:(max-width: 959px);--media-above-960:(min-width: 960px);--media-below-1200:(max-width: 1199px);--media-above-1200:(min-width: 1200px);--media-below-1400:(max-width: 1399px);--media-above-1400:(min-width: 1400px);--max-width:1400px;--max-width-narrow:747px;--flyout-mobile-gap:var(--spacing-9);--flyout-width:calc(375px + var(--flyout-mobile-gap))"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--flyout-width:460px"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--spacing-unit:4px;--spacing-unit-half:2px;--spacing-1:calc(var(--spacing-unit) * 1);--spacing-2:calc(var(--spacing-unit) * 2);--spacing-3:calc(var(--spacing-unit) * 3);--spacing-4:calc(var(--spacing-unit) * 4);--spacing-5:calc(var(--spacing-unit) * 5);--spacing-6:calc(var(--spacing-unit) * 6);--spacing-7:calc(var(--spacing-unit) * 7);--spacing-8:calc(var(--spacing-unit) * 8);--spacing-9:calc(var(--spacing-unit) * 9);--spacing-10:calc(var(--spacing-unit) * 10);--spacing-11:calc(var(--spacing-unit) * 11);--spacing-12:calc(var(--spacing-unit) * 12);--spacing-15:calc(var(--spacing-unit) * 15);--spacing-16:calc(var(--spacing-unit) * 16);--spacing-17:calc(var(--spacing-unit) * 17);--spacing-18:ca"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--z-index-quick-search:520"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--space-outer:3.3vw"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--space-outer:max(18px, min(3.3vw, 3.3vw))"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ":root",
+      "declarations": "--height-input:48px;--quick-buy-button-height:60px;--easing:cubic-bezier(.33, 0, 0, 1);--duration-ultra-fast:.1s;--duration-fast:.3s;--duration-normal:.5s;--duration-slow:1.2s;--delay-small:33ms;--delay-normal:67ms;--delay-long:133ms;--aspect-ratio-square:1;--aspect-ratio-portrait:2 / 3;--aspect-ratio-portrait-alt:4 / 5;--aspect-ratio-landscape:3 / 2;--aspect-ratio-landscape-alt:5 / 4;--aspect-ratio-widescreen:16 / 9;--aspect-ratio-ultrawide:21 / 9"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": "html:not(.no-js) body.user-is-tabbing :focus",
+      "declarations": "outline-color:var(--color-text-link)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);font-size:var(--font-size-body-100);line-height:var(--line-height-body);color:var(--color-text);letter-spacing:var(--font-body-base-letter-spacing);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": "body>.page",
+      "declarations": "background-color:var(--color-background);margin:0 auto;width:100%;min-height:100vh;display:flex;flex-direction:column"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".rte p,.rte li,.shopify-policy__body p,.shopify-policy__body li",
+      "declarations": "font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);line-height:var(--line-height-body);letter-spacing:var(--font-body-base-letter-spacing)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".rte table th,.shopify-policy__body table th",
+      "declarations": "background-color:var(--color-background-meta);text-align:left;font-weight:inherit;background:var(--color-background-meta)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".rte hr,.shopify-policy__body hr",
+      "declarations": "background-color:var(--color-border);border:none;height:1px;margin:32px 0;margin:var(--spacing-8) 0"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.shopify-policy__body h1,.shopify-policy__body h2,.shopify-policy__body h3,.shopify-policy__body h4,.shopify-pol",
+      "declarations": "margin-top:32px;margin-top:var(--spacing-8);margin-bottom:16px;margin-bottom:var(--spacing-4);font-family:var(--font-heading);line-height:var(--line-height-heading);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-base-letter-spacing);text-transform:var(--font-heading-text-transform);color:var(--color-text)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".rte a,.shopify-policy__body a",
+      "declarations": "color:var(--color-text-link);-webkit-text-decoration:underline;text-decoration:underline;transition:opacity .25s"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".footer__header",
+      "declarations": "width:100%;display:flex;justify-content:space-between;align-items:center;padding:16px 0;padding:var(--spacing-4) 0;transition:padding .2s ease;text-align:left;color:var(--color-text-footer)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".footer__newsletter .footer__newsletter-button",
+      "declarations": "position:absolute;right:0;bottom:0;height:100%;text-transform:uppercase;font-size:var(--font-size-body-50);letter-spacing:.075em;color:var(--color-text-footer);transition:color .2s ease-in-out,-webkit-text-decoration .2s ease-in-out;transition:color .2s ease-in-out,text-decoration .2s ease-in-out;transition:color .2s ease-in-out,text-decoration .2s ease-in-out,-webkit-text-decoration .2s ease-in-out"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".footer__newsletter .footer__newsletter-button:hover",
+      "declarations": "color:var(--color-text-footer-subdued)"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".header",
+      "declarations": "--size-icon-touch:40px;--size-icon-touch-mobile:41px;background-color:var(--color-background-header);color:var(--color-text-header);transition:background-color .5s cubic-bezier(.33,0,0,1);transition:background-color var(--duration-normal) var(--easing);-webkit-transform:translate3d(0,0,0);-webkit-backface-visibility:hidden;-webkit-perspective:0"
+    },
+    {
+      "source": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+      "selector": ".header .image",
+      "declarations": "background-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SOKO | Ethically made, modern jewelry and accessories",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#aaaaaa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e8e8e8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fcfcfc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#bf9b30",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-brass": {
+      "value": "#7e6b45",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-wood": {
+      "value": "#603021",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-wood-dark": {
+      "value": "#452318",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value": "#478947",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value": "#d02f2e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shopsoko.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": 600,
+        "lineHeight": 1.05,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Cabin, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Cabin, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Cabin, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.body-md}",
+        "priceTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.material-badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.accent-brass}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.accent-sale}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.xs}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--color-text",
+        "declaration": "#000000",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#d02f2e": {
+        "selector": ":root",
+        "property": "--color-text-error",
+        "declaration": "#D02F2E",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#478947": {
+        "selector": ":root",
+        "property": "--color-text-success",
+        "declaration": "#478947",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-background",
+        "declaration": "#ffffff",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#aaaaaa": {
+        "selector": ":root",
+        "property": "--color-border",
+        "declaration": "#aaaaaa",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#f5f5f5": {
+        "selector": ":root",
+        "property": "--color-background-meta",
+        "declaration": "#f5f5f5",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#e8e8e8": {
+        "selector": ":root",
+        "property": "--color-background-darker-meta",
+        "declaration": "#e8e8e8",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#bf9b30": {
+        "selector": ":root",
+        "property": "--color-products-stock-medium",
+        "declaration": "#bf9b30",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#7e6b45": {
+        "selector": ".product-badge[data-handle=\"best-seller\"]",
+        "property": "color",
+        "declaration": "#7e6b45",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#111111": {
+        "selector": "inline-style",
+        "property": "--color-background",
+        "declaration": "#111111",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#603021": {
+        "selector": "inline-style",
+        "property": "--color-text",
+        "declaration": "#603021",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#452318": {
+        "selector": "inline-style",
+        "property": "--color-background-overlay-button-hover",
+        "declaration": "#452318",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#333333": {
+        "selector": "inline-style",
+        "property": "--color-background-overlay-button-hover",
+        "declaration": "#333333",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "#fcfcfc": {
+        "selector": "html.do-anim .animation--lazy-load:not(.loaded):after,html.do-anim .animation--lazy-load:not(.loaded):before",
+        "property": "background",
+        "declaration": "linear-gradient(180deg,#fff0 0 5%,#fcfcfc 50%,#fff0 95%,#fff0)",
+        "url": "https://shopsoko.com/cdn/shop/t/114/assets/theme.css?v=161679664375647105691775813970",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "38d677ae651d38ab1b4ff02fa029aa39253ff0761ca2afd23da00cd11a66e9c1"
+      }
+    },
+    "font_families": {
+      "Cabin": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Cabin",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      },
+      "Outfit": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Outfit",
+        "url": "https://shopsoko.com/",
+        "snapshot": "homepage.html",
+        "sha256": "d19d9e26d3ce68246558c269717934cf3f2ab534b175997023936e21a662efb3"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

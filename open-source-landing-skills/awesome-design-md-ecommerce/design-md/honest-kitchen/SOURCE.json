@@ -1,0 +1,828 @@
+{
+  "source_url": "https://thehonestkitchen.com",
+  "final_url": "https://www.thehonestkitchen.com/",
+  "captured_at": "2026-09-28T09:02:55.235790+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thehonestkitchen.com",
+      "final_url": "https://www.thehonestkitchen.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "final_url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.thehonestkitchen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.thehonestkitchen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.gstatic.com/gecx/chat-widget/theme.css",
+      "final_url": "https://www.gstatic.com/gecx/chat-widget/theme.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6718f699456210b29d8435a361e662c95d039f555c93ca5bcb6b11e8ebf4452d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#1f1f1f": {
+      "count": 4,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#e39d4d": {
+      "count": 1,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#bf0d3e": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#950a30": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#d96e8b": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 15,
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "#f2e7d4": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "#fbf7f1": {
+      "count": 1,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#303030": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/gecx/chat-widget/theme.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Graphik Regular": [
+      "https://www.thehonestkitchen.com/"
+    ],
+    "Publish Gothic Condensed": [
+      "https://www.thehonestkitchen.com/"
+    ],
+    "Golden Plains": [
+      "https://www.thehonestkitchen.com/"
+    ],
+    "sans-serif": [
+      "https://www.thehonestkitchen.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.thehonestkitchen.com/",
+      "selector": ":root",
+      "declarations": "--primary-font: Graphik Regular;\n      --heading-font: Publish Gothic Condensed;\n      --accent-font: Golden Plains;"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/",
+      "selector": "logo-width: 55px;\n    --border-width: 0px;\n    --nav-height: 4rem;\n    --rounding-general: 0.5rem;\n    --rounding-buttons: 0.5rem;\n    --color-alternate: 242, 2",
+      "declarations": "--logo-width: 80px;\n      --nav-height: 5.75rem;"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ":root",
+      "declarations": "--lh-95: 95%;--lh-100: 100%;--lh-115: 115%;--lh-120: 120%;--lh-125: 125%;--lh-140: 140%;--lh-150: 150%;--fs-xl: 2rem;--fs-lg: 1.75rem;--fs-ml: 1.563rem;--fs-accent-xl: 2rem;--fs-accent-lg: 1.75rem;--fs-accent-ml: 1.375rem;--fs-md: 1.375rem;--fs-sm: 1.25rem;--fs-xs: 1.125rem;--fs-subheading: 1rem;--fs-body: .875rem;--fs-smaller: .75rem;--fs-caption: .75rem;--fs-button: .875rem"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ":root",
+      "declarations": "--fs-xl: 4rem;--fs-lg: 2.5rem;--fs-ml: 2rem;--fs-accent-xl: 3.125rem;--fs-accent-lg: 2.5rem;--fs-accent-md: 2rem;--fs-md: 1.625rem;--fs-sm: 1.375rem;--fs-xs: 1.25rem;--fs-subheading: 1rem;--fs-body: 1rem;--fs-smaller: .875rem;--fs-caption: .875rem;--fs-button: 1rem"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--scheme-background));font-family:var(--primary-font),sans-serif,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:var(--fs-body);line-height:var(--lh-150);color:rgb(var(--scheme-text))"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--heading-font),ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ":root",
+      "declarations": "--touch-target-size: 32px"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ":root",
+      "declarations": "--touch-target-size: 44px"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn",
+      "declarations": "min-height:var(--touch-target-size);min-width:var(--touch-target-size);cursor:pointer;display:inline-flex;min-height:40px;align-items:center;justify-content:center;gap:1ch;border-radius:var(--rounding-buttons);border-width:2px;border-color:rgb(var(--scheme-accent));background-color:rgb(var(--scheme-accent));padding:.5rem;text-align:center;font-size:var(--fs-button);line-height:var(--lh-150);font-weight:500;color:rgb(var(--scheme-on-accent));text-decoration-line:none;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.2s"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn:disabled",
+      "declarations": "cursor:not-allowed;border-color:transparent;background-color:rgb(var(--scheme-disabled));color:rgb(var(--scheme-disabled-accent))"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-primary",
+      "declarations": "min-height:var(--touch-target-size);min-width:var(--touch-target-size);cursor:pointer;display:inline-flex;min-height:40px;align-items:center;justify-content:center;gap:1ch;border-radius:var(--rounding-buttons);border-width:2px;border-color:rgb(var(--scheme-accent));background-color:rgb(var(--scheme-accent));padding:.5rem;text-align:center;font-size:var(--fs-button);line-height:var(--lh-150);font-weight:500;color:rgb(var(--scheme-on-accent));text-decoration-line:none;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.2s"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-primary:disabled",
+      "declarations": "cursor:not-allowed;border-color:transparent;background-color:rgb(var(--scheme-disabled));color:rgb(var(--scheme-disabled-accent))"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-primary:before,.btn-primary:after",
+      "declarations": "width:calc(var(--icon-size) / 2);flex-shrink:0;background-color:currentColor;--tw-content: \"\";content:var(--tw-content);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-primary:hover:not(:disabled),.btn-primary:focus:not(:disabled),.btn-primary:active:not(:disabled)",
+      "declarations": "border-color:color-mix(in srgb,rgb(var(--scheme-accent)) 100%,black 40%);background-color:color-mix(in srgb,rgb(var(--scheme-accent)) 100%,black 40%)"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-primary:hover:not(:disabled):after,.btn-primary:focus:not(:disabled):after,.btn-primary:active:not(:disabled):after",
+      "declarations": "content:var(--tw-content);display:inline-block;height:var(--icon-size);width:var(--icon-size);background-color:currentColor"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "min-height:var(--touch-target-size);min-width:var(--touch-target-size);cursor:pointer;display:inline-flex;min-height:40px;align-items:center;justify-content:center;gap:1ch;border-radius:var(--rounding-buttons);border-width:2px;border-color:rgb(var(--scheme-accent));background-color:rgb(var(--scheme-accent));padding:.5rem;text-align:center;font-size:var(--fs-button);line-height:var(--lh-150);font-weight:500;color:rgb(var(--scheme-on-accent));text-decoration-line:none;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.2s"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary:disabled",
+      "declarations": "cursor:not-allowed;border-color:transparent;background-color:rgb(var(--scheme-disabled));color:rgb(var(--scheme-disabled-accent))"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "background-color:transparent;color:rgb(var(--scheme-accent))"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary:before,.btn-secondary:after",
+      "declarations": "width:calc(var(--icon-size) / 2);flex-shrink:0;background-color:currentColor;--tw-content: \"\";content:var(--tw-content);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary:hover:not(:disabled),.btn-secondary:focus:not(:disabled),.btn-secondary:active:not(:disabled)",
+      "declarations": "border-color:color-mix(in srgb,rgb(var(--scheme-accent)) 100%,black 40%);color:color-mix(in srgb,rgb(var(--scheme-accent)) 100%,black 40%)"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-secondary:hover:not(:disabled):after,.btn-secondary:focus:not(:disabled):after,.btn-secondary:active:not(:disabled):after",
+      "declarations": "content:var(--tw-content);display:inline-block;height:var(--icon-size);width:var(--icon-size);background-color:currentColor"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-icon-before:before,.btn-icon-before:after",
+      "declarations": "width:calc(var(--icon-size) / 2);flex-shrink:0;background-color:currentColor;--tw-content: \"\";content:var(--tw-content);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-icon-before:before",
+      "declarations": "content:var(--tw-content);display:inline-block;height:var(--icon-size);width:var(--icon-size);background-color:currentColor"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-icon-after:before,.btn-icon-after:after",
+      "declarations": "width:calc(var(--icon-size) / 2);flex-shrink:0;background-color:currentColor;--tw-content: \"\";content:var(--tw-content);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-icon-after:after",
+      "declarations": "content:var(--tw-content);display:inline-block;height:var(--icon-size);width:var(--icon-size);background-color:currentColor"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-external:before,.btn-external:after",
+      "declarations": "width:calc(var(--icon-size) / 2);flex-shrink:0;background-color:currentColor;--tw-content: \"\";content:var(--tw-content);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-external:after",
+      "declarations": "content:var(--tw-content);display:inline-block;height:var(--icon-size);width:var(--icon-size);background-color:currentColor"
+    },
+    {
+      "source": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+      "selector": ".btn-error",
+      "declarations": "min-height:var(--touch-target-size);min-width:var(--touch-target-size);cursor:pointer;display:inline-flex;min-height:40px;align-items:center;justify-content:center;gap:1ch;border-radius:var(--rounding-buttons);border-width:2px;border-color:rgb(var(--scheme-accent));background-color:rgb(var(--scheme-accent));padding:.5rem;text-align:center;font-size:var(--fs-button);line-height:var(--lh-150);font-weight:500;color:rgb(var(--scheme-on-accent));text-decoration-line:none;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.2s"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Honest Kitchen – Healthy, High Quality, Human Grade Food for Dogs",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#bf0d3e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#950a30",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1f1f1f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#f9f8f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#303030",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gstatic.com/gecx/chat-widget/theme.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b7280",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f2e7d4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fbf7f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#e39d4d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.accent-rose": {
+      "value": "#d96e8b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/"
+      ]
+    },
+    "colors.border": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "colors.disabled": {
+      "value": "#9ca3af",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Publish Gothic Condensed', sans-serif",
+        "fontSize": "64px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Publish Gothic Condensed', sans-serif",
+        "fontSize": "40px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-accent": {
+      "value": {
+        "fontFamily": "'Golden Plains', cursive",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Publish Gothic Condensed', sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'Graphik Regular', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'Graphik Regular', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'Graphik Regular', sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'Graphik Regular', sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "2px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "height": "5.75rem",
+        "hairline": "{colors.hairline}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subheadTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.on-primary}",
+        "borderColor": "{colors.border}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xs} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.diet-claim-tag": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#1f1f1f": {
+        "selector": "inline-style",
+        "property": "--gecx-agent-button-color",
+        "declaration": "#1f1f1f",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#e39d4d": {
+        "selector": "inline-style",
+        "property": "--gecx-agent-button-background",
+        "declaration": "linear-gradient(90deg, #eec27f 0%, #e39d4d 100%)",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#f9f8f4": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-app-background",
+        "declaration": "#F9F8F4",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#bf0d3e": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand",
+        "declaration": "#BF0D3E",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#950a30": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand-120",
+        "declaration": "#950a30",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#d96e8b": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-color-brand-40",
+        "declaration": "#d96e8b",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#ffffff": {
+        "selector": ".recharge-theme",
+        "property": "--recharge-cards-background",
+        "declaration": "#FFFFFF",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "#9ca3af": {
+        "selector": "input::-moz-placeholder,textarea::-moz-placeholder",
+        "property": "color",
+        "declaration": "#9ca3af",
+        "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151"
+      },
+      "#6b7280": {
+        "selector": "input:where([type=text]),input:where(:not([type])),input:where([type=email]),input:where([type=url]),input:where([type=password]),input:where([type=number]),input:where([type=date]),input:where([type=datetime-local]),input:where([type=month]),input:where([type=search]),input:where([type=tel]),input:",
+        "property": "border-color",
+        "declaration": "#6b7280",
+        "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151"
+      },
+      "#f2e7d4": {
+        "selector": ".bg-\\[\\#F2E7D4\\]",
+        "property": "background-color",
+        "declaration": "rgb(242 231 212 / var(--tw-bg-opacity, 1))",
+        "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151",
+        "bindings": {
+          "--tw-bg-opacity": "1"
+        }
+      },
+      "#fbf7f1": {
+        "selector": ".bg-\\[\\#fbf7f1\\]",
+        "property": "background-color",
+        "declaration": "rgb(251 247 241 / var(--tw-bg-opacity, 1))",
+        "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151",
+        "bindings": {
+          "--tw-bg-opacity": "1"
+        }
+      },
+      "#cccccc": {
+        "selector": ".swiper-pagination-progressbar .swiper-pagination-progressbar-fill",
+        "property": "background-color",
+        "declaration": "#ccc",
+        "url": "https://www.thehonestkitchen.com/cdn/shop/t/657/assets/theme.BpMpUrW1.asset.min.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "8c152fd26bd85fdd2756b14d2472186c673d76006150377243e47844e3caf151"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.thehonestkitchen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#303030": {
+        "selector": ":root",
+        "property": "--chat-messenger-color--primary",
+        "declaration": "#303030",
+        "url": "https://www.gstatic.com/gecx/chat-widget/theme.css",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "6718f699456210b29d8435a361e662c95d039f555c93ca5bcb6b11e8ebf4452d"
+      }
+    },
+    "font_families": {
+      "Graphik Regular": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Graphik Regular\"",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "Publish Gothic Condensed": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Publish Gothic Condensed\"",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "Golden Plains": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Golden Plains\"",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      },
+      "sans-serif": {
+        "selector": "inline-style",
+        "property": "--gecx-agent-button-font-family",
+        "declaration": "\"Graphik Regular\", sans-serif, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "url": "https://www.thehonestkitchen.com/",
+        "snapshot": "homepage.html",
+        "sha256": "2eeea2e1c9839ea7eaff835d410aec8f88c1cabacb85b508a5ec1965ddb20918"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

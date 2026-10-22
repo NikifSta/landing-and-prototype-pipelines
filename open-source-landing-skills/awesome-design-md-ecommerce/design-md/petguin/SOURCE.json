@@ -1,0 +1,759 @@
+{
+  "source_url": "https://petguin.com",
+  "final_url": "https://petguin.com/",
+  "captured_at": "2026-09-28T09:53:18.110935+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petguin.com",
+      "final_url": "https://petguin.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "final_url": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fd3042d8592f4c8913afafc94da63eedc68533c8bfe2b7fb23fb2ed9e260cc07",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 39,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#1c1b1b": {
+      "count": 8,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 4,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#f6a429": {
+      "count": 5,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#363636": {
+      "count": 3,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cb2b2b": {
+      "count": 1,
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    },
+    "#307a07": {
+      "count": 1,
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 2,
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://petguin.com/"
+    ],
+    "sans-serif": [
+      "https://petguin.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://petguin.com/",
+      "selector": "; max-width: 370px; --aspect-ratio: 1.608695652173913\nbackground: url(//petguin.com/cdn/shop/files/archie-dog-bowl_1x1.png.jpg?v=1662666750); max-width: 370px; ",
+      "declarations": "--use-sticky-header: 1;\n    --use-unsticky-header: 0;"
+    },
+    {
+      "source": "https://petguin.com/",
+      "selector": ":root",
+      "declarations": "--header-is-not-transparent: 1;\n      --header-is-transparent: 0;"
+    },
+    {
+      "source": "https://petguin.com/",
+      "selector": "#section-template--16465124098305__slideshow .Button",
+      "declarations": "color: #363636;\n    border-color: #ffffff;"
+    },
+    {
+      "source": "https://petguin.com/",
+      "selector": "#section-template--16465124098305__slideshow .Button::before",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://petguin.com/",
+      "selector": "#section-template--16465124098305__slideshow .Button:hover",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Link--primary.is-active,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button,.supports-hover .Link--primary:hover,body",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--text-font-family);font-weight:var(--text-font-weight);font-style:var(--text-font-style);line-height:1.65"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Heading,.Rte h1,.Rte h2,.Rte h3,.Rte h4,.Rte h5,.Rte h6",
+      "declarations": "font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);color:var(--heading-color);transition:color .2s ease-in-out"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button,.Form__Label,.shopify-payment-button__button--unbranded,.spr-form-label",
+      "declarations": "text-transform:uppercase;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);letter-spacing:.2em"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button,.shopify-payment-button__button--unbranded",
+      "declarations": "position:relative;display:inline-block;padding:14px 28px;line-height:normal;border:1px solid transparent;border-radius:0;font-size:calc(var(--base-text-font-size) - (var(--default-text-font-size) - 12px));text-align:center;background-color:transparent;transition:color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86);z-index:1;-webkit-tap-highlight-color:initial"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button--primary,.shopify-payment-button__button--unbranded",
+      "declarations": "color:var(--button-text-color);border-color:var(--button-background)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button--primary:before,.shopify-payment-button__button--unbranded:before",
+      "declarations": "background-color:var(--button-background)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button--secondary,.spr-pagination-next>a,.spr-pagination-prev>a",
+      "declarations": "color:var(--text-color-light);border:1px solid rgba(var(--text-color-light-rgb),.2)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Button--secondary:before,.spr-pagination-next>a:before,.spr-pagination-prev>a:before",
+      "declarations": "background-color:var(--button-background);transform-origin:right center;transform:scaleX(0)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".RoundButton,.flickity-prev-next-button",
+      "declarations": "position:relative;width:45px;height:45px;border:none;border-radius:50%;background:var(--button-text-color);color:var(--button-background);cursor:pointer;text-align:center;z-index:1;box-shadow:0 2px 10px #36363626;vertical-align:middle;line-height:0;transform:scale(1.001);transition:background .15s ease-in-out,opacity .15s ease-in-out,transform .2s ease-in-out,color .2s ease-in-out;overflow:hidden"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".RoundButton.is-active,.flickity-prev-next-button.is-active",
+      "declarations": "background:var(--button-background);color:var(--button-text-color);outline:0"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".RoundButton--flat",
+      "declarations": "box-shadow:0 1px 5px #36363626;color:rgba(var(--button-background-rgb),.5)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".Select--transparent select,.SelectButton",
+      "declarations": "border:none;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);text-transform:uppercase"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".SelectButton",
+      "declarations": "position:relative;color:currentColor;padding:2px 18px 2px 0;background:0 0"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer",
+      "declarations": "background:var(--light-background);border-color:rgba(var(--text-color-rgb),.05)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": "ol:hover,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopi",
+      "declarations": "color:rgba(var(--text-color-rgb),.55)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": "-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify",
+      "declarations": "color:rgba(var(--text-color-rgb),.55);background:rgba(var(--text-color-rgb),.05)"
+    },
+    {
+      "source": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:not(:last-child):after",
+      "declarations": "border-color:rgba(var(--text-color-rgb),.05)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Modern Cat Tower, Dog Crate Furniture - Petguin",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value": "#f6a429",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1c1b1b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#363636",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6a6a6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f9fa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#307a07",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    },
+    "colors.error": {
+      "value": "#cb2b2b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.65,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0.2em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "salePriceColor": "{colors.error}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.ink}",
+        "ctaButton": "button-primary",
+        "padding": "{spacing.section}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "linkColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.shipping-banner": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--light-background",
+        "declaration": "#ffffff",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#1c1b1b": {
+        "selector": ":root",
+        "property": "--heading-color",
+        "declaration": "#1c1b1b",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#6a6a6a": {
+        "selector": ":root",
+        "property": "--text-color-light",
+        "declaration": "#6a6a6a",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#f6a429": {
+        "selector": ":root",
+        "property": "--product-star-rating",
+        "declaration": "#f6a429",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#363636": {
+        "selector": "#section-template--16465124098305__slideshow .Button",
+        "property": "color",
+        "declaration": "#363636",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "stroke",
+        "declaration": "black",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "#00000000": {
+        "selector": ".shopify-payment-button__button",
+        "property": "box-shadow",
+        "declaration": "0 0 #0000",
+        "url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://petguin.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#cb2b2b": {
+        "selector": ".Alert--error,.spr-form-message-error",
+        "property": "color",
+        "declaration": "#cb2b2b",
+        "url": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fd3042d8592f4c8913afafc94da63eedc68533c8bfe2b7fb23fb2ed9e260cc07"
+      },
+      "#307a07": {
+        "selector": ".Alert--success,.spr-form-message-success",
+        "property": "color",
+        "declaration": "#307a07",
+        "url": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fd3042d8592f4c8913afafc94da63eedc68533c8bfe2b7fb23fb2ed9e260cc07"
+      },
+      "#f8f9fa": {
+        "selector": ".BlogStuff__TableOfContents",
+        "property": "background",
+        "declaration": "#f8f9fa",
+        "url": "https://petguin.com/cdn/shop/t/31/assets/theme.css?v=183358861883214249801678211202",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "fd3042d8592f4c8913afafc94da63eedc68533c8bfe2b7fb23fb2ed9e260cc07"
+      }
+    },
+    "font_families": {
+      "Poppins": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Poppins",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--heading-font-family",
+        "declaration": "Poppins,sans-serif",
+        "url": "https://petguin.com/",
+        "snapshot": "homepage.html",
+        "sha256": "f24c6953f697b882a40d9a544b65675f1085a17fd3d6ca64837faed0b2fd373a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

@@ -1,0 +1,834 @@
+{
+  "source_url": "https://statebags.com",
+  "final_url": "https://statebags.com/",
+  "captured_at": "2026-09-28T09:48:36.989860+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://statebags.com",
+      "final_url": "https://statebags.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "95482d9f6501bcbcb3fb9309e776cf547d3553ed4dbb95c595223cf876277684",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://statebags.com/cdn/shop/t/547/assets/cross_sell.css?v=83211301946441798231789575430",
+      "final_url": "https://statebags.com/cdn/shop/t/547/assets/cross_sell.css?v=83211301946441798231789575430",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "48a8da7ad6933a7847b90d2ad33689edd379d08b0209f07387b15246aa8c6b92",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://statebags.com/cdn/shop/t/547/assets/customily-cart.css?v=131372914487327003651789575430",
+      "final_url": "https://statebags.com/cdn/shop/t/547/assets/customily-cart.css?v=131372914487327003651789575430",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b49d57ba49059beba4f8f5fb07c3743663f494309fb84af28d888d66387a715b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://statebags.com/cdn/shop/t/547/assets/reviews.css?v=22526660984402405471789575430",
+      "final_url": "https://statebags.com/cdn/shop/t/547/assets/reviews.css?v=22526660984402405471789575430",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5a2d301577db7571e42e32b34fabac837c26070d01737249dc71b8795b1b20d6",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#f9f7ec": {
+      "count": 2,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 17,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#fffefa": {
+      "count": 1,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#4e9fe3": {
+      "count": 20,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#f8bed6": {
+      "count": 27,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 27,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#1f75fe": {
+      "count": 6,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#00ad00": {
+      "count": 6,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#197f66": {
+      "count": 48,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#403f6f": {
+      "count": 48,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#e3c10d": {
+      "count": 37,
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://statebags.com/cdn/shop/t/547/assets/cross_sell.css?v=83211301946441798231789575430"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "JudgemeStar": [
+      "https://statebags.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://statebags.com/",
+      "selector": ".header-outer",
+      "declarations": "--header-logo-width: 14rem;\n      --header-logo-margin-vertical: 1.5rem;\n      --header-logo-margin-horizontal: 7.4rem;\n      --header-links-margin-horizontal: 0.5rem;\n      --header-links-margin-vertical: 2.6rem;\n      --header-links-size: 100%;\n      --header-links-transform: uppercase;\n      --header-links-letter-spacing:0.0em;\n      --header-top-utils-icons-size: 100%;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": ".header-outer",
+      "declarations": "--header-logo-width: 15.5rem;\n      --header-logo-margin-vertical: 1.125rem;\n      --header-top-utils-icons-size: 100%;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "#shopify-section-template--22271986532542__hero_carousel_qieMwm .btn",
+      "declarations": "background-color: #fffefa; border-color: #000000; color: #000000;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "#shopify-section-template--22271986532542__featured_products_multi_h8xhE3",
+      "declarations": "--border-radius: 0em;--section-padding-top: calc(var(--global-sections-padding) * 0.0);\n    --section-padding-bottom: calc(var(--global-sections-padding) * 0.0);\n    --text-padding: calc(var(--global-sections-padding) * 0.0);"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "#shopify-section-template--22271986532542__featured_products_multi_h8xhE3",
+      "declarations": "--text-padding: calc(var(--global-sections-padding) * 0.0);"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "06\"] product-swatch label.color-affogato,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-affogato,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15558793406\"] product-swatch label.color-olive,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-olive,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15558793406\"] product-swatch label.color-brown,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-brown,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "06\"] product-swatch label.color-burgundy,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-burgundy,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "\"8915558793406\"] product-swatch label.color-sand,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-sand,\n           ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "06\"] product-swatch label.color-pristine,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-pristine,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15558793406\"] product-swatch label.color-black,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-black,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "06\"] product-swatch label.color-cinnamon,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-cinnamon,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "30\"] product-swatch label.color-affogato,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-affogato,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15550372030\"] product-swatch label.color-olive,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-olive,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15550372030\"] product-swatch label.color-brown,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-brown,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "30\"] product-swatch label.color-burgundy,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-burgundy,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "\"8915550372030\"] product-swatch label.color-sand,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-sand,\n           ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "30\"] product-swatch label.color-pristine,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-pristine,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "15550372030\"] product-swatch label.color-black,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-black,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "30\"] product-swatch label.color-cinnamon,\n                .product-card[data-product-id=\"8915550372030\"] .product-custom-colors .color-cinnamon,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "50\"] product-swatch label.color-affogato,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-affogato,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "19664271550\"] product-swatch label.color-olive,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-olive,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "19664271550\"] product-swatch label.color-brown,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-brown,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "50\"] product-swatch label.color-burgundy,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-burgundy,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "\"8519664271550\"] product-swatch label.color-sand,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-sand,\n           ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "50\"] product-swatch label.color-pristine,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-pristine,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "19664271550\"] product-swatch label.color-black,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-black,\n            ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "50\"] product-swatch label.color-cinnamon,\n                .product-card[data-product-id=\"8519664271550\"] .product-custom-colors .color-cinnamon,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    },
+    {
+      "source": "https://statebags.com/",
+      "selector": "86\"] product-swatch label.color-affogato,\n                .product-card[data-product-id=\"8705235255486\"] .product-custom-colors .color-affogato,\n               ",
+      "declarations": "background-color: #e3c10d;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "STATE Bags | Backpacks, Totes & Bags for Women, Men & Kids",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#197f66",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#fffefa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#121212",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#737373",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/cdn/shop/t/547/assets/cross_sell.css?v=83211301946441798231789575430"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f9f7ec",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value": "#e3c10d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value": "#403f6f",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#4e9fe3",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value": "#f8bed6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#00ad00",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.focus-ring": {
+      "value": "#1f75fe",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#c0c0c0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://statebags.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "JudgemeStar, system-ui, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "borderColor": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.body}",
+        "textColor": "{colors.canvas}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xxl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-gold}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.border-strong}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":not(.jdgm-prev-badge__stars)>.jdgm-star",
+        "property": "color",
+        "declaration": "#000000",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#eeeeee": {
+        "selector": ".jdgm-spinner",
+        "property": "border-top",
+        "declaration": "2px solid #eee",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#f9f7ec": {
+        "selector": "#shopify-section-template--22271986532542__hero_carousel_qieMwm .block-slide_DUe7Mi",
+        "property": "--background-color",
+        "declaration": "#f9f7ec",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#ffffff": {
+        "selector": "#shopify-section-template--22271986532542__hero_carousel_qieMwm .block-slide_DUe7Mi",
+        "property": "--buttons-background",
+        "declaration": "#ffffff",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#fffefa": {
+        "selector": "#shopify-section-template--22271986532542__hero_carousel_qieMwm .btn",
+        "property": "background-color",
+        "declaration": "#fffefa",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#4e9fe3": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-butterfly,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-butterfly,\n                collection-filters span.color-butterfly",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #4E9FE3 55%, #484E40 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#f8bed6": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-pink-silver,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-pink-silver,\n                collection-filters span.color-pink-silver",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #F8BED6 55%, #c0c0c0 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#c0c0c0": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-pink-silver,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-pink-silver,\n                collection-filters span.color-pink-silver",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #F8BED6 55%, #c0c0c0 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#1f75fe": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-blue-checkerboard,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-blue-checkerboard,\n                collection-filters span.color-blue-checkerboard",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #1f75fe 55%, #00ad00 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#00ad00": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-blue-checkerboard,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-blue-checkerboard,\n                collection-filters span.color-blue-checkerboard",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #1f75fe 55%, #00ad00 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#197f66": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-green-navy,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-green-navy,\n                collection-filters span.color-green-navy",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #197F66 55%, #403F6F 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#403f6f": {
+        "selector": ".product-card[data-product-id=\"8519643824318\"] product-swatch label.color-green-navy,\n                .product-card[data-product-id=\"8519643824318\"] .product-custom-colors .color-green-navy,\n                collection-filters span.color-green-navy",
+        "property": "background",
+        "declaration": "linear-gradient(to right bottom, #197F66 55%, #403F6F 45%)",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#e3c10d": {
+        "selector": ".product-card[data-product-id=\"8915558793406\"] product-swatch label.color-affogato,\n                .product-card[data-product-id=\"8915558793406\"] .product-custom-colors .color-affogato,\n                collection-filters span.color-affogato",
+        "property": "background-color",
+        "declaration": "#e3c10d",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      },
+      "#737373": {
+        "selector": "essential-upsell-cross-sell-app-block [data-essential-upsell-element=discounted-price]+[data-essential-upsell-element=regular-price]",
+        "property": "color",
+        "declaration": "#737373",
+        "url": "https://statebags.com/cdn/shop/t/547/assets/cross_sell.css?v=83211301946441798231789575430",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "48a8da7ad6933a7847b90d2ad33689edd379d08b0209f07387b15246aa8c6b92"
+      },
+      "#121212": {
+        "selector": ".shopify-payment-button__button .path",
+        "property": "stroke",
+        "declaration": "#121212",
+        "url": "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://statebags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      }
+    },
+    "font_families": {
+      "JudgemeStar": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"JudgemeStar\"",
+        "url": "https://statebags.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7e92945917b4b5cbee9795d8ae6d875cee0ef0a3f2b0237fdbb85d0ff58c3bb8"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

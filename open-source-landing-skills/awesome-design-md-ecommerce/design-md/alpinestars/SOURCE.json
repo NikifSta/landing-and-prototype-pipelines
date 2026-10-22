@@ -1,0 +1,819 @@
+{
+  "source_url": "https://alpinestars.com",
+  "final_url": "https://www.alpinestars.com/",
+  "captured_at": "2026-09-28T10:19:37.158154+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://alpinestars.com",
+      "final_url": "https://www.alpinestars.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "final_url": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d3eab6aeb92ee24b92bd08658dc200575ec0d1abf9c434835d95ac8ab949a41d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.alpinestars.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.alpinestars.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086",
+      "final_url": "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f15e344e0f0418a29392fb74bb6459a3e0637c134f3d65425d29e4cd73bfc0ec",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.alpinestars.com/cdn/shop/t/196/assets/overflow-list.css?v=101911674359793798601784987668",
+      "final_url": "https://www.alpinestars.com/cdn/shop/t/196/assets/overflow-list.css?v=101911674359793798601784987668",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c53eef3d57b3a31ddbd257d367d0967a93f0056eca61bb29a0fb221f810dfd7d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 122,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#d0112b": {
+      "count": 4,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#747474": {
+      "count": 1,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 115,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 9,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 20,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 18,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#1d3686": {
+      "count": 1,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#d66305": {
+      "count": 4,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#29b5c2": {
+      "count": 8,
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "#c81e1e": {
+      "count": 2,
+      "sources": [
+        "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086"
+      ]
+    },
+    "#1b9500": {
+      "count": 1,
+      "sources": [
+        "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://www.alpinestars.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.alpinestars.com/",
+      "selector": "25px;\n    --variant-picker-button-border-width: 1px;\n\n    \n    --variant-grid-columns: 5;\n    --variant-grid-gap: 8px;\n    --variant-grid-padding-block: 10px 10",
+      "declarations": "--variant-grid-columns: 5;\n        --variant-grid-gap: 6px;\n        --variant-grid-padding-block: 10px 10px;"
+    },
+    {
+      "source": "https://www.alpinestars.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7, .color-scheme-58084d4c-a86e-4d0a-85",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);accent-color:var(--color-foreground);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0;overflow-x:clip"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "body,.paragraph:not(.button),.paragraph>*",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "h1,.h1.h1,.text-block.h1>*",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-primary,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.butto",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "t(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-primary,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.b",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);justify-content:space-between;text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax(clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr) )"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".drawer-header",
+      "declarations": "background-color:var(--color-background);color:var(--color-foreground);position:sticky;top:0;display:flex;justify-content:space-between;align-items:center;padding-block:var(--padding-xs);padding-inline-start:var(--drawer-padding);padding-inline-end:var(--padding-2xs);border-block-end:var(--style-border-width) solid var(--color-border);z-index:var(--layer-sticky)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var(--button-border-width) var(--button-borde"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button:not(.button-secondary,.button-unstyled)",
+      "declarations": "outline-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "button.shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--button-color: var(--color-primary-button-text);--button-background-color: var(--color-primary-button-background);--button-border-color: var(--color-primary-button-border);--button-border-width: var(--style-border-width-primary);font-style:var(--button-font-style-hover)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button:hover,button.shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "--button-color: var(--color-primary-button-hover-text);--button-background-color: var(--color-primary-button-hover-background);--button-border-color: var(--color-primary-button-hover-border);font-style:var(--button-font-style-hover)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-secondary",
+      "declarations": "--button-color: var(--color-secondary-button-text);--button-background-color: var(--color-secondary-button-background);--button-border-color: var(--color-secondary-button-border);--button-border-width: var(--style-border-width-secondary)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-secondary:hover",
+      "declarations": "--button-color: var(--color-secondary-button-hover-text);--button-background-color: var(--color-secondary-button-hover-background);--button-border-color: var(--color-secondary-button-hover-border)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": "button.shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-unstyled",
+      "declarations": "display:block;padding:0;background-color:inherit;color:inherit;border:0;border-radius:0;overflow:hidden;box-shadow:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-size:var(--font-paragraph--size)"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-unstyled:hover",
+      "declarations": "background-color:inherit"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-unstyled--with-icon",
+      "declarations": "color:var(--color-foreground);display:flex;gap:var(--gap-2xs);align-items:center"
+    },
+    {
+      "source": "https://www.alpinestars.com/cdn/shop/t/196/assets/base.css?v=161168684008590410351789545257",
+      "selector": ".button-unstyled--transparent",
+      "declarations": "background-color:transparent;box-shadow:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Alpinestars® Official Site",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#d0112b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#747474",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e6e6e6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value": "#29b5c2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value": "#1d3686",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#1b9500",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086"
+      ]
+    },
+    "colors.warning": {
+      "value": "#d66305",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.danger": {
+      "value": "#c81e1e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#00000080",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.alpinestars.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 700,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.45,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.35,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.3px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairlineColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "priceColor": "{colors.primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.lg}",
+        "gap": "{spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "overlay": "{colors.overlay}",
+        "displayTypography": "{typography.display-xl}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "hairlineColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.danger}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.variant-picker": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "selectedBorderColor": "{colors.primary}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.xs}",
+        "gap": "{spacing.xs}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root",
+        "property": "--link-color-primary",
+        "declaration": "#000000",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#d0112b": {
+        "selector": ":root",
+        "property": "--link-hover-color-primary",
+        "declaration": "#d0112b",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#747474": {
+        "selector": ":root",
+        "property": "--color-grey-200",
+        "declaration": "#747474",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#333333": {
+        "selector": ":root",
+        "property": "--color-grey-500",
+        "declaration": "#333333",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--color-white",
+        "declaration": "#FFFFFF",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#00000080": {
+        "selector": ":root",
+        "property": "--gradient-image-overlay",
+        "declaration": "linear-gradient(to top, rgb(0 0 0 / 0.5), transparent)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#f5f5f5": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-variant-hover-background",
+        "declaration": "rgb(245 245 245 / 1.0)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#e6e6e6": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-variant-hover-border",
+        "declaration": "rgb(230 230 230 / 1.0)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#1a1a1a": {
+        "selector": ":root,\n    \n    \n    \n    .color-scheme-1",
+        "property": "--color-selected-variant-hover-background",
+        "declaration": "rgb(26 26 26 / 1.0)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#1d3686": {
+        "selector": ".color-scheme-4",
+        "property": "--color-primary-button-border",
+        "declaration": "rgb(29 54 134 / 1.0)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#fafafa": {
+        "selector": ".color-scheme-6",
+        "property": "--color-input-hover-background",
+        "declaration": "rgb(250 250 250 / 1.0)",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#d66305": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#D66305",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#29b5c2": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#29B5C2",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      },
+      "#c81e1e": {
+        "selector": ".product-form-buttons__size-required-message",
+        "property": "color",
+        "declaration": "var(--color-error, #c81e1e)",
+        "url": "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "f15e344e0f0418a29392fb74bb6459a3e0637c134f3d65425d29e4cd73bfc0ec"
+      },
+      "#1b9500": {
+        "selector": ".klaviyo-bis-dialog__status[data-variant=success]",
+        "property": "color",
+        "declaration": "var(--color-success, #1b9500)",
+        "url": "https://www.alpinestars.com/cdn/shop/t/196/compiled_assets/styles.css?v=80133241772736523681790326086",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "f15e344e0f0418a29392fb74bb6459a3e0637c134f3d65425d29e4cd73bfc0ec"
+      }
+    },
+    "font_families": {
+      "Inter": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Inter",
+        "url": "https://www.alpinestars.com/",
+        "snapshot": "homepage.html",
+        "sha256": "a837bd8667999e2f6cf29fe72e6d90706c5bf9f0cd9d4fffb65002a5a1f8a919"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

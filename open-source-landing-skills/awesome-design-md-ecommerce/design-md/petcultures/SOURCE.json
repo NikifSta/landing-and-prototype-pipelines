@@ -1,0 +1,728 @@
+{
+  "source_url": "https://petcultures.com",
+  "final_url": "https://petcultures.com/",
+  "captured_at": "2026-09-28T09:36:44.987240+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petcultures.com",
+      "final_url": "https://petcultures.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "final_url": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "77b7413533017b539551b6c5fa51357c4943cd14a2daf47c3ee8781c25b54c65",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://petcultures.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://petcultures.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#f6f7f8": {
+      "count": 3,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#a0abb5": {
+      "count": 1,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#002b3e": {
+      "count": 7,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#8ad2d8": {
+      "count": 2,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#087e67": {
+      "count": 2,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 17,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 8,
+      "sources": [
+        "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://petcultures.com/"
+    ],
+    "sans-serif": [
+      "https://petcultures.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://petcultures.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 80px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: inherit; \n  font-feature-settings: inherit; \n  font-variation-settings: inherit; \n  font-size: 100%; \n  font-weight: inherit; \n  line-height: inherit; \n  letter-spacing: inherit; \n  color: inherit; \n  margin: 0; \n  padding: 0;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": "button,\ninput:where([type='button']),\ninput:where([type='reset']),\ninput:where([type='submit'])",
+      "declarations": "-webkit-appearance: button; \n  background-color: transparent; \n  background-image: none;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": "body",
+      "declarations": "background-color: var(--color__background-body);\n    color: var(--color__text-default);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": "html,\n  body,\n  blockquote,\n  dl,\n  dd,\n  hr,\n  figure,\n  p,\n  pre,\n  span",
+      "declarations": "font-family: var(--type__font-body-family);\n    font-style: var(--type__font-body-style);\n    font-weight: var(--type__font-body-weight);\n    line-height: 1.625;\n    letter-spacing: 0em;\n    text-underline-offset: 1px;\n    font-size: 1rem;\n    line-height: 1.5rem;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": "h1,\n  .h1,\n  h1 > *",
+      "declarations": "font-family: var(--type__font-header-family);\n    font-style: var(--type__font-header-style);\n    font-weight: var(--type__font-header-weight);\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n    letter-spacing: 0em;\n    text-underline-offset: 2px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".color__bg-body",
+      "declarations": "background-color: var(--color__background-body);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".type__body",
+      "declarations": "font-family: var(--type__font-body-family);\n    font-style: var(--type__font-body-style);\n    font-weight: var(--type__font-body-weight);\n    line-height: 1.625;\n    letter-spacing: 0em;\n    text-underline-offset: 1px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".type__body--bold",
+      "declarations": "font-family: var(--type__font-body-family);\n    font-weight: 700;\n    line-height: 1.625;\n    letter-spacing: 0em;\n    text-underline-offset: 1px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn",
+      "declarations": "display: inline-flex;\n  width: auto;\n  cursor: pointer;\n  align-items: center;\n  justify-content: center;\n  overflow: hidden;\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  text-align: center;\n  text-decoration-line: none;\n    background-color: var(--color__background-primary);\n    border-color: var(--color__border-primary);\n    color: var(--color__foreground-primary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn *",
+      "declarations": "color: var(--color__foreground-primary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn",
+      "declarations": "border-width: var(--size__border-button-width);\n    border-radius: var(--size__button-radius);\n    font-family: var(--type__font-nav-family);\n    font-style: var(--type__font-nav-style);\n    font-weight: var(--type__font-nav-weight);\n    line-height: 1.5;\n    letter-spacing: 0.025em;\n    text-underline-offset: 1px;\n    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n    transition-property: color, background-color, border-co"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn *",
+      "declarations": "font-family: var(--type__font-nav-family);\n    font-style: var(--type__font-nav-style);\n    font-weight: var(--type__font-nav-weight);\n    line-height: 1.5;\n    letter-spacing: 0.025em;\n    text-underline-offset: 1px;\n      text-transform: var(--type__button-capiliziation);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn__content",
+      "declarations": "display: flex;\n  align-items: center;\n    font-family: var(--type__font-nav-family);\n    font-style: var(--type__font-nav-style);\n    font-weight: var(--type__font-nav-weight);\n    line-height: 1.5;\n    letter-spacing: 0.025em;\n    text-underline-offset: 1px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--secondary",
+      "declarations": "background-color: var(--color__background-secondary);\n    border-color: var(--color__border-secondary);\n    color: var(--color__foreground-secondary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--secondary *",
+      "declarations": "color: var(--color__foreground-secondary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color: var(--color__background-tertiary);\n    border-color: var(--color__border-tertiary);\n    color: var(--color__foreground-tertiary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--tertiary *",
+      "declarations": "color: var(--color__foreground-tertiary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--neutral",
+      "declarations": "background-color: var(--color__background-neutral);\n    border-color: var(--color__border-neutral);\n    color: var(--color__foreground-neutral);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--neutral *",
+      "declarations": "color: var(--color__foreground-neutral);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--plain",
+      "declarations": "background-color: var(--color__background-plain);\n    border-color: var(--color__border-plain);\n    color: var(--color__foreground-plain);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn--plain *",
+      "declarations": "color: var(--color__foreground-plain);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".btn__spinner",
+      "declarations": "visibility: hidden;\n  position: absolute;\n  left: 50%;\n  top: 50%;\n  display: flex;\n  width: 91.666667%;\n  --tw-translate-y: -50%;\n  --tw-translate-x: -50%;\n  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));\n  align-items: center;\n  justify-content: center;\n  background-color: inherit;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "font-family: var(--type__font-nav-family);\n    font-style: var(--type__font-nav-style);\n    font-weight: var(--type__font-nav-weight);\n    line-height: 1.5;\n    letter-spacing: 0.025em;\n    text-underline-offset: 1px;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "padding-left: 1.5rem !important;\n  padding-right: 1.5rem !important;\n  padding-top: 0.5rem !important;\n  padding-bottom: 0.5rem !important;\n    background-color: var(--color__background-secondary) !important;\n    color: var(--color__foreground-secondary) !important;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover",
+      "declarations": "opacity: 0.75;\n    background-color: var(--color__background-secondary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".shopify-payment-button__button--branded:hover",
+      "declarations": "opacity: 0.75;\n    background-color: var(--color__background-secondary);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "padding-left: 1.5rem;\n  padding-right: 1.5rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n    background-color: var(--color__background-overlay-1) !important;"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".after\\:color__bg-body::after",
+      "declarations": "content: var(--tw-content);\n    background-color: var(--color__background-body);"
+    },
+    {
+      "source": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+      "selector": ".group\\/product:focus-within .group-focus-within\\/product\\:translate-y-0",
+      "declarations": "--tw-translate-y: 0px;\n  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "PetCultures: Unlock Your Dog's Best Life: It Starts in the Gut.\n | PetCultures",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#087e67",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.primary-accent": {
+      "value": "#8ad2d8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#002b3e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#232323",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6b7280",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e7eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f7f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#f1f1f1",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value": "#a0abb5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "colors.on-dark": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcultures.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 700,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": 700,
+        "lineHeight": "40px",
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 600,
+        "lineHeight": 1.4,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": "24px",
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Montserrat, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.025em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "accent": "{colors.primary}",
+        "headingTypography": "{typography.display-md}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-dark}",
+        "linkColor": "{colors.primary-accent}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.subscription-selector": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.primary}",
+        "activeBackgroundColor": "{colors.primary}",
+        "activeTextColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.md} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#f6f7f8": {
+        "selector": ":root",
+        "property": "--color__background-body",
+        "declaration": "#f6f7f8",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#a0abb5": {
+        "selector": ":root",
+        "property": "--color__background-overlay-3",
+        "declaration": "#a0abb5",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#002b3e": {
+        "selector": ":root",
+        "property": "--color__background-primary",
+        "declaration": "#002b3e",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#8ad2d8": {
+        "selector": ":root",
+        "property": "--color__background-secondary",
+        "declaration": "#8ad2d8",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#087e67": {
+        "selector": ":root",
+        "property": "--color__background-tertiary",
+        "declaration": "#087e67",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#ffffff": {
+        "selector": ":root",
+        "property": "--shopify-chat-bg-color",
+        "declaration": "#FFFFFF",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#f1f1f1": {
+        "selector": ".video-testimonial-slider-template--25395780583714__video_testimonial_slider_pGrhJh .swiper-slide",
+        "property": "background-color",
+        "declaration": "#f1f1f1",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#232323": {
+        "selector": "inline-style",
+        "property": "fill",
+        "declaration": "#232323",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "#e5e7eb": {
+        "selector": "*,\n::before,\n::after",
+        "property": "border-color",
+        "declaration": "#e5e7eb",
+        "url": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "77b7413533017b539551b6c5fa51357c4943cd14a2daf47c3ee8781c25b54c65"
+      },
+      "#6b7280": {
+        "selector": "[type=\"text\"],input:where(:not([type])),[type=\"email\"],[type=\"url\"],[type=\"password\"],[type=\"number\"],[type=\"date\"],[type=\"datetime-local\"],[type=\"month\"],[type=\"search\"],[type=\"tel\"],[type=\"time\"],[type=\"week\"],[multiple],textarea,select",
+        "property": "border-color",
+        "declaration": "#6b7280",
+        "url": "https://petcultures.com/cdn/shop/t/78/assets/styles-4053edd5.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "77b7413533017b539551b6c5fa51357c4943cd14a2daf47c3ee8781c25b54c65"
+      }
+    },
+    "font_families": {
+      "Montserrat": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Montserrat",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--type__font-body-family",
+        "declaration": "Montserrat, sans-serif",
+        "url": "https://petcultures.com/",
+        "snapshot": "homepage.html",
+        "sha256": "90b8678601e00fcf9fb9e7d899c2652ea88ae3c0a2fd404c5d2ea840f132cf7d"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

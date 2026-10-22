@@ -1,0 +1,855 @@
+{
+  "source_url": "https://artoftea.com",
+  "final_url": "https://www.artoftea.com/",
+  "captured_at": "2026-09-28T05:00:25.491270+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://artoftea.com",
+      "final_url": "https://www.artoftea.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/lah1slf.css",
+      "final_url": "https://use.typekit.net/lah1slf.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "c40f9b4dae30a90d0b84c9c3138802c5d8c205ec06ad85a127a333f6d309f21a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990",
+      "final_url": "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e68edfdb8e44e21cabc031f3aed0d46cc428d089271a4a30ab3feb342f9db7f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+      "final_url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "12002640e4ad5cddcd77a078c739a427b26ec7e3c8cfc3ad4a3a629690984045",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.artoftea.com/cdn/shop/t/180/assets/app-overrides.css?v=36633628092461137441790030911",
+      "final_url": "https://www.artoftea.com/cdn/shop/t/180/assets/app-overrides.css?v=36633628092461137441790030911",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8626454082eecf851045dc31d889bf8baaa95d48230559c217098c2456b7017b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 31,
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "#231f20": {
+      "count": 13,
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "#f8f7f5": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "#c8894b": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "#6a7282": {
+      "count": 6,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "#155dfc": {
+      "count": 4,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "#f4eee7": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "#0f8354": {
+      "count": 3,
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/app-overrides.css?v=36633628092461137441790030911"
+      ]
+    }
+  },
+  "font_families": {
+    "Cormorant": [
+      "https://www.artoftea.com/"
+    ],
+    "proxima-nova": [
+      "https://www.artoftea.com/"
+    ],
+    "sans-serif": [
+      "https://www.artoftea.com/"
+    ],
+    "serif": [
+      "https://www.artoftea.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--font-body--family: \"proxima-nova\", sans-serif;\n    --font-body--weight: 400;\n    --font-body--weight-bolder: 500;\n\n    --font-subheading--family: Cormorant, serif;\n    --font-subheading--weight: 400;\n    --font-subheading--weight-bolder: 600;\n\n    --font-heading--family: Cormorant, serif;\n    --font-heading--weight: 400;\n    --font-heading--weight-bolder: 500;\n\n    --font-accent--family: Cormorant, serif;\n    --font-accent--weight: 400;\n    --font-accent--weight-bolder: 100;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--font-size-value: 20;\n    --font-size-base: 1.25rem;\n    --theme-font-weight-base: 400;\n    --prose-width: 90ch;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "weight-bolder: var(--font-body--weight-bolder);--type-size-paragraph: 16px;--type-line-height-paragraph: 1.6;--type-letter-spacing-paragraph: 0px;--type-casing-",
+      "declarations": "--type-font-paragraph--family: var(--font-body--family); --type-font-paragraph--style: var(--font-body--style); --type-font-paragraph--weight: var(--font-body--weight); --type-font-paragraph--weight-bolder: var(--font-body--weight-bolder);--type-size-paragraph: 18px;--type-line-height-paragraph: 1.6;--type-letter-spacing-paragraph: 0px;--type-casing-paragraph: none;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "weight); --type-font-h1--weight-bolder: var(--font-heading--weight-bolder);--type-size-h1: 34px;--type-line-height-h1: 1.2;--type-letter-spacing-h1: 0px;--type-",
+      "declarations": "--type-font-h1--family: var(--font-heading--family); --type-font-h1--style: var(--font-heading--style); --type-font-h1--weight: var(--font-heading--weight); --type-font-h1--weight-bolder: var(--font-heading--weight-bolder);--type-size-h1: 50px;--type-line-height-h1: 1.2;--type-letter-spacing-h1: 0px;--type-casing-h1: none;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--page-margin: 1.0rem;\n    --theme-page-width-custom: 82rem;\n\n    \n    --page-width-narrow: 64rem;\n    --page-width-normal: 76rem;\n    --page-width-wide: 94rem;\n\n    \n    --no-gap: 0rem;\n    --tight-gap: 0.3rem;\n    --snug-gap: 0.5rem;\n    --normal-gap: 1rem;\n    --loose-gap: 2rem;\n    --vloose-gap: 3rem;\n\n    \n    --section-height-short: 15rem;\n    --section-height-medium: 25rem;\n    --section-height-tall: 35rem;\n\n    \n    --max-width--body-none: none;\n    --max-width--body-narrow: 50ch;\n    --max-width--body-normal: var(--prose-width, 65ch);\n    --max-width--body-wide: 110ch;\n\n    --max-width--heading-none: none;\n    --max-width--heading-narrow: 60ch;\n    --max-width--heading-normal: 75ch;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--page-margin: 2.0rem;\n\n      --section-height-short: 40svh;\n      --section-height-medium: 55svh;\n      --section-height-tall: 70svh;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--section-height-short: 50svh;\n      --section-height-medium: 65svh;\n      --section-height-tall: 80svh;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "ar(--font-body--family);\n        font-size: 1rem;\n        line-height: 1.3;\n        letter-spacing: 1px;\n        text-transform: uppercase;\n        text-wrap: n",
+      "declarations": "border-radius: calc(0 * var(--spacing));\n          padding-top: calc(4 * var(--spacing));\n          padding-bottom: calc(4 * var(--spacing));\n          padding-left: calc(10 * var(--spacing));\n          padding-right: calc(10 * var(--spacing));\n          font-family: var(--font-body--family);\n          font-size: 1rem;\n          line-height: 1.5;\n          letter-spacing: 1px;\n          text-transform: uppercase;\n          text-wrap: nowrap;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "var(--font-body--family);\n        font-size: 1rem;\n        line-height: 1.3;\n        letter-spacing: 1px;\n        text-transform: uppercase;\n        text-wrap: ",
+      "declarations": "border-radius: calc(0 * var(--spacing));\n          padding-top: calc(4 * var(--spacing));\n          padding-bottom: calc(4 * var(--spacing));\n          padding-left: calc(10 * var(--spacing));\n          padding-right: calc(10 * var(--spacing));\n          font-family: var(--font-body--family);\n          font-size: 1rem;\n          line-height: 1.5;\n          letter-spacing: 1px;\n          text-transform: uppercase;\n          text-wrap: nowrap;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ":root",
+      "declarations": "--form-input-rounding: calc(0 * var(--spacing, 0.25rem));\n    --form-input-padding-top: calc(3 * var(--spacing, 0.25rem));\n    --form-input-padding-bottom: calc(3 * var(--spacing, 0.25rem));\n    --form-input-padding-left: calc(3 * var(--spacing, 0.25rem));\n    --form-input-padding-right: calc(3 * var(--spacing, 0.25rem));\n    --form-input-font-family: var(--font-body--family);\n    --form-input-font-size: 0.75rem;\n    --form-input-line-height: 1.5;\n    --form-input-letter-spacing: 0px;\n    --form-input-text-transform: none;--form-input-rounding-lg: calc(0 * var(--spacing, 0.25rem));\n    --form-input-padding-top-lg: calc(3 * var(--spacing, 0.25rem));\n    --form-input-padding-bottom-lg: calc(3 "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "t: 0px;--padding-right: 0px;\n    --truncate-past: 3;\n    --truncate-past-lg: 3;\n    --width: fit-content;--max-width: var(--max-width--body-normal);\n    \n    \n ",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "nu-group-padding-top: 0px;\n    --menu-group-padding-bottom: 20px;\n    --menu-group-gap: 10px;\n    --menu-padding-x: 24px;\n  \n\n  [id*=AUkdxUVNjUXgyMTZId__header_",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-heading--family);\n          \n            --type-font-custom--weight: var(--font-heading--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-heading--weight-bolder);\n\n          --type-size-custom: 24px;\n          --type-line-height-custom: 1.4;\n          --type-letter-spacing-custom: 0px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-paddi"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "[id*=AUkdxUVNjUXgyMTZId__header_mobile_drawer_menu_qgkVEm] .child-link",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-heading--family);\n          \n            --type-font-custom--weight: var(--font-heading--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-heading--weight-bolder);\n\n          --type-size-custom: 24px;\n          --type-line-height-custom: 1.4;\n          --type-letter-spacing-custom: 0px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-paddi"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "[id*=AUkdxUVNjUXgyMTZId__header_mobile_drawer_menu_qgkVEm] .grandchild-link",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 16px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 0px;\n          --type-casing-custom: none;\n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0px;\n          --text-setting-padding-bottom: 0px;\n        "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ";--mobile-padding-right: 20px;--padding-top: 4px;--padding-bottom: 4px;--padding-left: 20px;--padding-right: 20px;; --bg-rounding: calc(0 * var(--spacing))\n\n  [",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--button-radius: calc(0 * var(--spacing));\n    --button-width: 100%;\n    \n  \n\n  [id*=Ad0dyc1Vub3EwYTBJN__button_HTf8Fx]",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": ";--mobile-padding-right: 20px;--padding-top: 4px;--padding-bottom: 4px;--padding-left: 20px;--padding-right: 20px;; --bg-rounding: calc(0 * var(--spacing))\n\n  [",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "-mobile-padding-right: 20px;--padding-top: 16px;--padding-bottom: 16px;--padding-left: 20px;--padding-right: 20px;; --bg-rounding: calc(0 * var(--spacing))\n\n  [",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: center;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1.5px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-t"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--override-padding-lg-top: 4;\n      --override-padding-lg-bottom: 4;\n      --override-padding-lg-left: 6;\n      --override-padding-lg-right: 6;\n    \n  \n\n  [id*=",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: center;\n\n    \n      --type-font-custom--color: var(--color-button-label);\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 14px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1.5px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0px;\n "
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--truncate-past: 3;\n    --truncate-past-lg: 3;\n    --width: 100%;--max-width: var(--max-width--body-none);\n    \n      --text-align: center;\n    \n    \n  \n\n  [id*",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: center;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 13px;\n          --type-line-height-custom: 1.6;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "padding-bottom: 0px;--padding-left: 0px;--padding-right: 0px;\n  \n--mega-menu-style: uppercase;\npadding: 30px 16px 30px 16px;\n\n  [id*=AMU5yUVBrKzZ3Zy9YO__header_",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--padding-top: 16px;--padding-bottom: 16px;--padding-left: 16px;--padding-right: 16px;\n\n  [id*=AWWZxSzZHM3hmSlZ3S__header_mega_menu_single_link_rGLXp6] a",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-foreground));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "padding: 30px 16px 30px 16px;\n\n  [id*=AV2RnVllZdGhkOHUvO__header_mega_menu_item_JVK9Am] > :is(a, button)",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--padding-top: 16px;--padding-bottom: 16px;--padding-left: 16px;--padding-right: 16px;\n\n  [id*=ANnRGUTd1U055QkRoM__header_mega_menu_single_link_xheeBy] a",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--padding-top: 16px;--padding-bottom: 16px;--padding-left: 16px;--padding-right: 16px;\n\n  [id*=ARng2M0doalQvdnZ0Y__header_mega_menu_single_link_VTwNDy] a",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--padding-top: 16px;--padding-bottom: 16px;--padding-left: 16px;--padding-right: 16px;\n\n  [id*=AbTc3Z3kyakNlaEk2W__header_mega_menu_single_link_Qwxtff] a",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "--padding-top: 16px;--padding-bottom: 16px;--padding-left: 16px;--padding-right: 16px;\n\n  [id*=AaE5qQUtlRHJQVHFnM__header_mega_menu_single_link_ixEAXN] a",
+      "declarations": "--type-text-width: fit-content;\n    --type-text-align: left;\n\n    \n      --type-font-custom--color: rgb(var(--color-scheme-heading));\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.5;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: none;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: pretty;\n        \n\n\n          --text-setting-padding-top: 0"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "#shopify-block-AREJ4WmVKQ3d4MTRCM__header_mega_menu_w4t3nw .mega-menu-item:hover,\n      #shopify-block-AREJ4WmVKQ3d4MTRCM__header_mega_menu_w4t3nw .mega-menu-it",
+      "declarations": "border-block-color: #231f20;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "#shopify-block-AREJ4WmVKQ3d4MTRCM__header_mega_menu_w4t3nw .mega-menu-single-link:hover,\n      #shopify-block-AREJ4WmVKQ3d4MTRCM__header_mega_menu_w4t3nw .mega-",
+      "declarations": "border-top-color: #231f20;"
+    },
+    {
+      "source": "https://www.artoftea.com/",
+      "selector": "dding-right: 0px;\n  \n\n    --box-radius: calc(0 * var(--spacing));\n    --padding-top: 0px;--padding-bottom: 0px;--padding-left: 0px;--padding-right: 0px;\n  \n\n  [",
+      "declarations": "--type-text-width: 100%;\n    --type-text-align: center;\n\n    \n      --type-font-custom--color: var(--color-button-label);\n      \n      \n          --type-font-custom--family: var(--font-body--family);\n          \n            --type-font-custom--weight: var(--font-body--weight);\n          \n          --type-font-custom--weight-bolder: var(--font-body--weight-bolder);\n\n          --type-size-custom: 12px;\n          --type-line-height-custom: 1.6;\n          --type-letter-spacing-custom: 1px;\n          --type-casing-custom: uppercase;\n          \n            --type-decoration: none;\n            \n          \n          --text-wrap-custom: nowrap;\n        \n\n\n          --text-setting-padding-top: 0px;\n   "
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Organic Loose Leaf Teas, Tea Bags & Tea Gift | Art of Tea",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value": "#0f8354",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/app-overrides.css?v=36633628092461137441790030911"
+      ]
+    },
+    "colors.accent": {
+      "value": "#c8894b",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "colors.ink": {
+      "value": "#231f20",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#1a1a1a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6a7282",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dedede",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f7f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f4eee7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#cccccc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990"
+      ]
+    },
+    "colors.focus": {
+      "value": "#155dfc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "colors.info": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.info-deep": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value": "#000000cc",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "50px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "34px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Cormorant, serif",
+        "fontSize": "24px",
+        "fontWeight": 500,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "proxima-nova, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "proxima-nova, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "proxima-nova, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "proxima-nova, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 500,
+        "lineHeight": 1.5,
+        "letterSpacing": "1px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.none}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.caption}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.sm} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "textColor": "{colors.ink}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.canvas}",
+        "linkTypography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#000000": {
+        "selector": ":root,\n    .main",
+        "property": "color",
+        "declaration": "rgb(var(--color-scheme-foreground))",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f",
+        "bindings": {
+          "--color-scheme-foreground": "0 0 0 / 1.0"
+        }
+      },
+      "#ffffff": {
+        "selector": ".scheme-87fd99e1-dc64-4573-bf7d-5c66289fa6c1",
+        "property": "--payment-terms-background-color",
+        "declaration": "rgb(255 255 255)",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      },
+      "#231f20": {
+        "selector": ".scheme-e33b666e-1884-41b0-8526-2aa5b8990f83",
+        "property": "color",
+        "declaration": "rgb(var(--color-scheme-foreground))",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f",
+        "bindings": {
+          "--color-scheme-foreground": "35 31 32 / 1.0"
+        }
+      },
+      "#f8f7f5": {
+        "selector": ".scheme-e8064b5c-e6db-4625-bc17-78d55a288fb8",
+        "property": "--payment-terms-background-color",
+        "declaration": "rgb(248 247 245)",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#dedede": {
+        "selector": ".shopify-payment-button__skeleton",
+        "property": "background-color",
+        "declaration": "var(--shopify-accelerated-checkout-skeleton-background-color,#dedede)",
+        "url": "https://www.artoftea.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#cccccc": {
+        "selector": "ul.nested-tree.with-lines:before",
+        "property": "border-left",
+        "declaration": "var(--line-width, 1px) solid var(--line-color, #ccc)",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "7e68edfdb8e44e21cabc031f3aed0d46cc428d089271a4a30ab3feb342f9db7f"
+      },
+      "#c8894b": {
+        "selector": ".blog-pagination",
+        "property": "--pg-active-bg",
+        "declaration": "#c8894b",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "7e68edfdb8e44e21cabc031f3aed0d46cc428d089271a4a30ab3feb342f9db7f"
+      },
+      "#1a1a1a": {
+        "selector": ".blog-pagination",
+        "property": "--pg-arrow-color",
+        "declaration": "#1a1a1a",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/compiled_assets/styles.css?v=125580895330778902381790030990",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "7e68edfdb8e44e21cabc031f3aed0d46cc428d089271a4a30ab3feb342f9db7f"
+      },
+      "#6a7282": {
+        "selector": ":root,:host",
+        "property": "--color-gray-500",
+        "declaration": "oklch(55.1% .027 264.364)",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "12002640e4ad5cddcd77a078c739a427b26ec7e3c8cfc3ad4a3a629690984045"
+      },
+      "#155dfc": {
+        "selector": ":is(input:where([type=text]),input:where(:not([type])),input:where([type=email]),input:where([type=url]),input:where([type=password]),input:where([type=number]),input:where([type=date]),input:where([type=datetime-local]),input:where([type=month]),input:where([type=search]),input:where([type=tel]),in",
+        "property": "--tw-ring-color",
+        "declaration": "oklch(54.6% .245 262.881)",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "12002640e4ad5cddcd77a078c739a427b26ec7e3c8cfc3ad4a3a629690984045"
+      },
+      "#f4eee7": {
+        "selector": "select.light-arrow",
+        "property": "background-image",
+        "declaration": "url(\"data:image/svg+xml;charset=UTF-8,%3csvg width='10' height='7' viewBox='0 0 10 7' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9 1L5 5L1 1' stroke='rgb(244, 238, 231)' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E%0A\")",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "12002640e4ad5cddcd77a078c739a427b26ec7e3c8cfc3ad4a3a629690984045"
+      },
+      "#000000cc": {
+        "selector": ".backdrop\\:bg-black\\/80::backdrop",
+        "property": "background-color",
+        "declaration": "#000c",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/assets/main.css?v=159493085543288619041790030914",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "12002640e4ad5cddcd77a078c739a427b26ec7e3c8cfc3ad4a3a629690984045"
+      },
+      "#0f8354": {
+        "selector": "recharge-subscription-widget",
+        "property": "--rc-widget-badge-bg-color",
+        "declaration": "#0f8354",
+        "url": "https://www.artoftea.com/cdn/shop/t/180/assets/app-overrides.css?v=36633628092461137441790030911",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "8626454082eecf851045dc31d889bf8baaa95d48230559c217098c2456b7017b"
+      }
+    },
+    "font_families": {
+      "Cormorant": {
+        "selector": "}\n  \n\n\n    @font-face",
+        "property": "font-family",
+        "declaration": "Cormorant",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      },
+      "proxima-nova": {
+        "selector": ":root",
+        "property": "--font-body--family",
+        "declaration": "\"proxima-nova\", sans-serif",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      },
+      "sans-serif": {
+        "selector": ":root",
+        "property": "--font-body--family",
+        "declaration": "\"proxima-nova\", sans-serif",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      },
+      "serif": {
+        "selector": ":root",
+        "property": "--font-subheading--family",
+        "declaration": "Cormorant, serif",
+        "url": "https://www.artoftea.com/",
+        "snapshot": "homepage.html",
+        "sha256": "25c5c56a0a843c51061b2819e393041fc0483bd8d67eccae286523b2bf18883f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

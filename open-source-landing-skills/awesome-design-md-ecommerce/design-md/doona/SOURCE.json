@@ -1,0 +1,919 @@
+{
+  "source_url": "https://doona.com",
+  "final_url": "https://www.doona.com/",
+  "captured_at": "2026-09-28T09:06:02.501414+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://doona.com",
+      "final_url": "https://www.doona.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "final_url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "final_url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.doona.com/_next/static/css/c44b6cb22daae68a.css",
+      "final_url": "https://www.doona.com/_next/static/css/c44b6cb22daae68a.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a03f8d7e26408b84b2d3d4a3cf972b0f7460c58119385c305f77a075cd0cccc5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.doona.com/_next/static/css/f69401eb13ff78e2.css",
+      "final_url": "https://www.doona.com/_next/static/css/f69401eb13ff78e2.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b4b5e83e87c14bc8d63c51698a34d7468a4324c999f4256801ccac308629433b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.doona.com/_next/static/css/4f9630f962c11292.css",
+      "final_url": "https://www.doona.com/_next/static/css/4f9630f962c11292.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9423e3deaaa9badc6275c1f5b9f9f244de7d277940d446dff208b8468d3088f8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 45,
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "#f7f5f4": {
+      "count": 4,
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#707070": {
+      "count": 3,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#3c3f41": {
+      "count": 2,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "#228b22": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "#fed100": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "#37504d": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "#ed0303": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "#deb887": {
+      "count": 1,
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    }
+  },
+  "font_families": {
+    "century-gothic-std": [
+      "https://www.doona.com/"
+    ],
+    "sans-serif": [
+      "https://www.doona.com/"
+    ],
+    "-apple-system": [
+      "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+    ],
+    "Segoe UI": [
+      "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+    ],
+    "Roboto": [
+      "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ":root",
+      "declarations": "--header:6rem;--preHeader:3.6rem;--thumbnailHeightDesktop:16.5rem"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ".icon-button:after",
+      "declarations": "position:absolute;left:50%;top:50%;aspect-ratio:1/1;width:max(44px,100%);--tw-translate-x:-50%;--tw-translate-y:-50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));--tw-content:\"\";content:var(--tw-content)"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ":root",
+      "declarations": "--column:1.5625rem;--white:#fff;z-index:10"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ":root",
+      "declarations": "--column:7.2rem"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": "body",
+      "declarations": "font-family:century-gothic-std,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;line-height:1;color:#000;background-color:#fff;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:rgba(0,0,0,0);overflow-x:hidden;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": "a,button",
+      "declarations": "cursor:pointer;color:inherit;font-family:inherit;font-size:inherit;text-decoration:none;border:none;background:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": "a,button,div,input,li,select,textarea,ul",
+      "declarations": "-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ".\\[\\&_button\\]\\:\\!bg-black button",
+      "declarations": "--tw-bg-opacity:1!important;background-color:rgb(0 0 0/var(--tw-bg-opacity,1))!important"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ".\\[\\&_button\\]\\:\\!text-white button",
+      "declarations": "--tw-text-opacity:1!important;color:rgb(255 255 255/var(--tw-text-opacity,1))!important"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_filledWhiteHover__cQGLG",
+      "declarations": "background-color:var(--bgColor);color:var(--fontColor);font-weight:var(--fontWeight)!important"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_filledWhiteHover__cQGLG:hover",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_filledBlackHover__Z6c2d",
+      "declarations": "background-color:var(--bgColor);color:var(--fontColor);font-weight:var(--fontWeight)!important"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_filledBlackHover__Z6c2d:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_filledBrighterHover__uyQoR",
+      "declarations": "background-color:var(--bgColor);color:var(--fontColor);font-weight:var(--fontWeight)!important"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_default__EXDu2",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_default__EXDu2:hover",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_clear___3SB_",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_clear___3SB_:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_bgGrey__YQxIW",
+      "declarations": "background-color:#f8f8f8;color:#8f8f8f;border:1px solid #8f8f8f"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_bgGrey__YQxIW:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_wolfGrey__q_BOZ",
+      "declarations": "background-color:#5c5a59;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparent__ESE7z",
+      "declarations": "border:1px solid #000;color:#000"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparent__ESE7z:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparentWhite__dHNZK",
+      "declarations": "border:1px solid #fff;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparentWhite__dHNZK:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparentWhiteInvertedHover__l2Fwm",
+      "declarations": "border:1px solid #fff;color:#fff"
+    },
+    {
+      "source": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+      "selector": ".button_transparentWhiteInvertedHover__l2Fwm:hover",
+      "declarations": "background-color:#fff;color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Doona™ Official Website - Doona Car Seat and Stroller, Liki Trike",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#3c3f41",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#707070",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e5e7eb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f8f8f8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#f7f5f4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/"
+      ]
+    },
+    "colors.accent": {
+      "value": "#007aff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.disabled": {
+      "value": "#9ca3af",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/9935308fd8b456d9.css"
+      ]
+    },
+    "colors.swatch-yellow": {
+      "value": "#fed100",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "colors.swatch-green": {
+      "value": "#228b22",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "colors.swatch-red": {
+      "value": "#ed0303",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "colors.swatch-tan": {
+      "value": "#deb887",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "colors.swatch-forest": {
+      "value": "#37504d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doona.com/_next/static/css/27410cdddba3f591.css"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 500,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "century-gothic-std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 600,
+        "lineHeight": 1,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "border": "1px solid {colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-filled-white-hover": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "hoverBackgroundColor": "{colors.canvas}",
+        "hoverTextColor": "{colors.ink}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.border-soft}",
+        "textColor": "{colors.ink}",
+        "placeholderColor": "{colors.muted}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "hairline": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "height": "6rem"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "ctaComponent": "button-primary"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "metaTypography": "{typography.caption}"
+      },
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "swatchSize": "{spacing.lg}",
+        "swatchRounded": "{rounded.full}",
+        "selectedBorder": "2px solid {colors.ink}",
+        "availableColors": [
+          "{colors.swatch-yellow}",
+          "{colors.swatch-green}",
+          "{colors.swatch-red}",
+          "{colors.swatch-tan}",
+          "{colors.swatch-forest}"
+        ]
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "hairline": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "border": "1px solid {colors.border-soft}",
+        "textColor": "{colors.ink}",
+        "iconColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "--fontcolor",
+        "declaration": "white",
+        "url": "https://www.doona.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "--bgcolor",
+        "declaration": "black",
+        "url": "https://www.doona.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2"
+      },
+      "#f7f5f4": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#f7f5f4",
+        "url": "https://www.doona.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2"
+      },
+      "#e5e7eb": {
+        "selector": "*,:after,:before",
+        "property": "border",
+        "declaration": "0 solid #e5e7eb",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "#9ca3af": {
+        "selector": "input::-moz-placeholder,textarea::-moz-placeholder",
+        "property": "color",
+        "declaration": "#9ca3af",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "#707070": {
+        "selector": ".border-\\[\\#707070\\]",
+        "property": "border-color",
+        "declaration": "rgb(112 112 112/var(--tw-border-opacity,1))",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa",
+        "bindings": {
+          "--tw-border-opacity": "1"
+        }
+      },
+      "#e0e0e0": {
+        "selector": ".border-\\[\\#E0E0E0\\]",
+        "property": "border-color",
+        "declaration": "rgb(224 224 224/var(--tw-border-opacity,1))",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa",
+        "bindings": {
+          "--tw-border-opacity": "1"
+        }
+      },
+      "#f8f8f8": {
+        "selector": ".bg-grey-7",
+        "property": "background-color",
+        "declaration": "rgb(248 248 248/var(--tw-bg-opacity,1))",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa",
+        "bindings": {
+          "--tw-bg-opacity": "1"
+        }
+      },
+      "#3c3f41": {
+        "selector": ".md\\:border-grey-2",
+        "property": "border-color",
+        "declaration": "rgb(60 63 65/var(--tw-border-opacity,1))",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa",
+        "bindings": {
+          "--tw-border-opacity": "1"
+        }
+      },
+      "#007aff": {
+        "selector": ":root",
+        "property": "--swiper-theme-color",
+        "declaration": "#007aff",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "#228b22": {
+        "selector": ".preview_preview__vpqbe",
+        "property": "background",
+        "declaration": "#228b22",
+        "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119"
+      },
+      "#fed100": {
+        "selector": ".icons_cartWrapper__z7AIA .icons_numberOfItems__gKtlk",
+        "property": "background-color",
+        "declaration": "#fed100",
+        "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119"
+      },
+      "#37504d": {
+        "selector": ".footer_subscribeMsg__Bu0xd",
+        "property": "color",
+        "declaration": "#37504d",
+        "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119"
+      },
+      "#ed0303": {
+        "selector": ".footer_subscribeMsg__Bu0xd.footer_error__reKsz",
+        "property": "color",
+        "declaration": "#ed0303",
+        "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119"
+      },
+      "#deb887": {
+        "selector": ".recommendedProducts_item__aTzlh .recommendedProducts_imageDummy__3656V",
+        "property": "background-color",
+        "declaration": "#deb887",
+        "url": "https://www.doona.com/_next/static/css/27410cdddba3f591.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "0556e5b5be41a15afac0b5b6a1addea5a65aed924e8ee2cc86467825f4ab0119"
+      }
+    },
+    "font_families": {
+      "century-gothic-std": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"century-gothic-std\"",
+        "url": "https://www.doona.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2"
+      },
+      "sans-serif": {
+        "selector": ".tk-century-gothic-std",
+        "property": "font-family",
+        "declaration": "\"century-gothic-std\",sans-serif",
+        "url": "https://www.doona.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1ba2649e66af64735b8de377fdf54a2b1a27fa2d1e77940f161b6ad94b79eaa2"
+      },
+      "-apple-system": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "century-gothic-std,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "BlinkMacSystemFont": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "century-gothic-std,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "Segoe UI": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "century-gothic-std,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      },
+      "Roboto": {
+        "selector": "body",
+        "property": "font-family",
+        "declaration": "century-gothic-std,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif",
+        "url": "https://www.doona.com/_next/static/css/9935308fd8b456d9.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "252ddd5c034f40843c0465fec664f6d93c6c1119981c7a7481fe4d8491b4edfa"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

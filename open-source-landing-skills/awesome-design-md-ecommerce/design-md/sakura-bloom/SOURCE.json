@@ -1,0 +1,795 @@
+{
+  "source_url": "https://sakurabloom.com",
+  "final_url": "https://sakurabloom.com/",
+  "captured_at": "2026-09-28T09:40:04.588314+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sakurabloom.com",
+      "final_url": "https://sakurabloom.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sakurabloom.com/cdn/shop/t/89/assets/bss-lock-settings.css?v=88099084028022090781769604864",
+      "final_url": "https://sakurabloom.com/cdn/shop/t/89/assets/bss-lock-settings.css?v=88099084028022090781769604864",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2daff38151e91435de52c70ab6ccdd8a66f36ad814e430660f3ca594c539eb47",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sakurabloom.com/cdn/shop/t/89/assets/theme.css?v=177564957196309676181724618150",
+      "final_url": "https://sakurabloom.com/cdn/shop/t/89/assets/theme.css?v=177564957196309676181724618150",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "03c59d708920b577220fc588bfafe20e9a424d5e5dbe35c15383fadcd821ee78",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sakurabloom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sakurabloom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sakurabloom.com/cdn/shop/t/89/assets/country-flags.css",
+      "final_url": "https://sakurabloom.com/cdn/shop/t/89/assets/country-flags.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eaffe456daf876cec1caf51c26ae068ecc4d54d4b7aa4d1e39515f4490d118c8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0dcf9-a80f-71c6-874e-5b46af5b9a5d/variant-image-swatch-273/assets/variant-swatch-king-11-54.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0dcf9-a80f-71c6-874e-5b46af5b9a5d/variant-image-swatch-273/assets/variant-swatch-king-11-54.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d8c0dbe47ede16d3d93b150aedfd3920f9da47dba799f83006ea7692c3cc475f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 185,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#7396a2": {
+      "count": 2,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#5487a0": {
+      "count": 1,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 51,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 76,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#202020": {
+      "count": 9,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#c86800": {
+      "count": 16,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#aa0000": {
+      "count": 2,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#303030": {
+      "count": 72,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#29845a": {
+      "count": 2,
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://sakurabloom.com/cdn/shop/t/89/assets/theme.css?v=177564957196309676181724618150"
+      ]
+    }
+  },
+  "font_families": {
+    "Tenor Sans": [
+      "https://sakurabloom.com/"
+    ],
+    "Outfit": [
+      "https://sakurabloom.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: \"Tenor Sans\";\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 28px;\n    --typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:Outfit;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 15px;\n    --typeBaseWeight: 300;\n    --typeBaseSpacing: 0.025em;\n    --typeBaseLineHeight: 1.4;\n    --typeBaselineHeightMinus01: 1.3;\n\n    --typeCollectionTitle: 20px;\n\n    --iconWeight: 2px;\n    --iconLinecaps: miter;\n\n    \n        --buttonRadius: 0;\n    \n\n    --colorGridOverlayOpacity: 0.1;"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "html button#passcodebtn",
+      "declarations": "background:#7396a2 !important;color:#ffffff !important"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "html button#backbtn",
+      "declarations": "background:#7396a2 !important;color:#ffffff !important"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "html .smt-button",
+      "declarations": "background:#5487a0 !important;color:#fff !important;cursor:pointer;padding:10px 20px;border-radius:5px;text-decoration:none !important"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-39277 div.star-set-btn div.swatch-button-title-text",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A;text-transform:none;font-size:13px;font-weight:inherit;border-bottom:0px solid #000;padding:8.7px 10px"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-39277 div.star-set-btn div.swatch-button-price",
+      "declarations": "color:#7A7A7A;font-size:13px;font-weight:inherit;background-color:#fff;padding:0px 10px 8.7px 10px;display:flex;justify-content:center"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-39277 div.star-set-btn.swatch-selected div.swatch-button-title-text",
+      "declarations": "color:#292929;background-color:#fff;text-decoration-color:#292929"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-39277 div.star-set-btn.swatch-selected div.swatch-button-price",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-39277 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-title-",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-39277 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-price",
+      "declarations": "color:#7A7A7A;background-color:#fff;text-decoration-color:#7A7A7A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "set-btn div.swatch-button-title-text::before,variant-swatch-king div.swatches div.swatch-preset-1493335 li.swatch-view-item.swatch-item-unavailable div.star-set",
+      "declarations": "content:\"_\" !important;color:transparent;color:transparent"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "set-btn div.swatch-button-title-text::before,variant-swatch-king div.swatches div.swatch-preset-1493332 li.swatch-view-item.swatch-item-unavailable div.star-set",
+      "declarations": "content:\"_\" !important;color:transparent;color:transparent"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493330 div.star-set-btn div.swatch-button-title-text",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A;text-transform:none;font-size:13px;font-weight:inherit;border-bottom:0px solid #000;padding:8.7px 10px"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493330 div.star-set-btn div.swatch-button-price",
+      "declarations": "color:#7A7A7A;font-size:13px;font-weight:inherit;background-color:#fff;padding:0px 10px 8.7px 10px;display:flex;justify-content:center"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493330 div.star-set-btn.swatch-selected div.swatch-button-title-text",
+      "declarations": "color:#292929;background-color:#fff;text-decoration-color:#292929"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493330 div.star-set-btn.swatch-selected div.swatch-button-price",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-1493330 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-titl",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-1493330 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-pric",
+      "declarations": "color:#7A7A7A;background-color:#fff;text-decoration-color:#7A7A7A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "set-btn div.swatch-button-title-text::before,variant-swatch-king div.swatches div.swatch-preset-1493330 li.swatch-view-item.swatch-item-unavailable div.star-set",
+      "declarations": "content:\"_\" !important;color:transparent;color:transparent"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493319 div.star-set-btn div.swatch-button-title-text",
+      "declarations": "color:#C9C9C9;background-color:#fff;text-decoration-color:#C9C9C9;text-transform:capitalize;font-size:13px;font-weight:inherit;border-bottom:0px solid #000;padding:-.8px 4px"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493319 div.star-set-btn div.swatch-button-price",
+      "declarations": "color:#7A7A7A;font-size:13px;font-weight:inherit;background-color:#fff;padding:0px 4px -.8px 4px;display:flex;justify-content:center"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493319 div.star-set-btn.swatch-selected div.swatch-button-title-text",
+      "declarations": "color:#000;background-color:#fff;text-decoration-color:#000"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-1493319 div.star-set-btn.swatch-selected div.swatch-button-price",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-1493319 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-titl",
+      "declarations": "color:#000;background-color:#fff;text-decoration-color:#000"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatches.hover-enabled div.swatch-preset-1493319 li.swatch-view-item:hover div.star-set-btn:not(.swatch-selected) div.swatch-button-pric",
+      "declarations": "color:#7A7A7A;background-color:#fff;text-decoration-color:#7A7A7A"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "-set-btn div.swatch-button-title-text::before,variant-swatch-king div.swatches div.swatch-preset-496655 li.swatch-view-item.swatch-item-unavailable div.star-set",
+      "declarations": "content:\"_\" !important;color:transparent;color:transparent"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-496654 div.star-set-btn div.swatch-button-title-text",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A;text-transform:uppercase;font-size:10px;font-weight:inherit;border-bottom:0px solid #000;padding:1px 4px"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-496654 div.star-set-btn div.swatch-button-price",
+      "declarations": "color:#7A7A7A;font-size:13px;font-weight:inherit;background-color:#fff;padding:0px 4px 1px 4px;display:flex;justify-content:center"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-496654 div.star-set-btn.swatch-selected div.swatch-button-title-text",
+      "declarations": "color:#000;background-color:#fff;text-decoration-color:#000"
+    },
+    {
+      "source": "https://sakurabloom.com/",
+      "selector": "variant-swatch-king div.swatch-preset-496654 div.star-set-btn.swatch-selected div.swatch-button-price",
+      "declarations": "color:#6A6A6A;background-color:#fff;text-decoration-color:#6A6A6A"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sakura Bloom Baby Carriers",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#7396a2",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.primary-alt": {
+      "value": "#5487a0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#202020",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#303030",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#6a6a6a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#fafafa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/cdn/shop/t/89/assets/theme.css?v=177564957196309676181724618150"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value": "#c86800",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.error": {
+      "value": "#aa0000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.success": {
+      "value": "#29845a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value": "#e0e0e0",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sakurabloom.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "28px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Tenor Sans', sans-serif",
+        "fontSize": "20px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 300,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.025em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 300,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.025em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 300,
+        "lineHeight": 1.3,
+        "letterSpacing": "0.03em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Outfit, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1,
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.primary}",
+        "border": "1px solid {colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.none}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.md}",
+        "typography": "{typography.body-md}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.base} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-sm}",
+        "priceColor": "{colors.muted}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "hairline": "{colors.hairline}",
+        "padding": "{spacing.xxl} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.accent-warm}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "border": "1px solid {colors.hairline}",
+        "rounded": "{rounded.xs}",
+        "typography": "{typography.body-md}",
+        "iconColor": "{colors.muted}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    },
+    "components.fabric-swatch-selector": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "defaultTextColor": "{colors.muted}",
+        "selectedTextColor": "{colors.ink}",
+        "priceColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "border": "1px solid {colors.hairline}",
+        "selectedBorder": "1px solid {colors.ink}",
+        "padding": "{spacing.sm} {spacing.md}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".placeholder-content",
+        "property": "background-image",
+        "declaration": "linear-gradient(100deg, #ffffff 40%, #f7f7f7 63%, #ffffff 79%)",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#7396a2": {
+        "selector": "html button#passcodebtn",
+        "property": "background",
+        "declaration": "#7396a2",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#5487a0": {
+        "selector": "html .smt-button",
+        "property": "background",
+        "declaration": "#5487a0",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#dddddd": {
+        "selector": "variant-swatch-king div.swatch-preset-39271 .swatch-image-wrapper",
+        "property": "border-color",
+        "declaration": "#ddd",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#6a6a6a": {
+        "selector": "variant-swatch-king div.swatch-preset-1493328 .swatch-selected .swatch-price-adjacent",
+        "property": "color",
+        "declaration": "#6A6A6A",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#f5f5f5": {
+        "selector": "variant-swatch-king div.swatch-preset-39274 .swatch-drop-down-list .swatch-drop-down-list-item.swatch-item-unavailable::after",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#202020": {
+        "selector": "variant-swatch-king div.swatch-preset-39274 .dropdown-swatch-price",
+        "property": "color",
+        "declaration": "#202020",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#c86800": {
+        "selector": "variant-swatch-king div.swatch-preset-1493335 div.star-set-btn.swatch-selected",
+        "property": "color",
+        "declaration": "#C86800",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#aa0000": {
+        "selector": "#bss-lock-suspension-notice a",
+        "property": "color",
+        "declaration": "#a00",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#303030": {
+        "selector": ".bogos-bundles-widget .bogos-bundles-widget-title",
+        "property": "color",
+        "declaration": "#303030",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#e0e0e0": {
+        "selector": ".bogos-volume-discount-widget.table-layout, .bogos-volume-discount-widget.table-layout .bogos-volume-discount-item, .bogos-volume-discount-widget-body .bogos-volume-discount-tier-info, .bogos-volume-discount-widget.table-layout .bogos-volume-discount-widget-header",
+        "property": "border-color",
+        "declaration": "#E0E0E0",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#29845a": {
+        "selector": ".bogos-mix-match-widget .bogos-mix-match-badge-item.success .bogos-mix-match-badge-title",
+        "property": "color",
+        "declaration": "#29845A",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "#fafafa": {
+        "selector": ":root",
+        "property": "--colorbodylightdim",
+        "declaration": "#fafafa",
+        "url": "https://sakurabloom.com/cdn/shop/t/89/assets/theme.css?v=177564957196309676181724618150",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "03c59d708920b577220fc588bfafe20e9a424d5e5dbe35c15383fadcd821ee78"
+      }
+    },
+    "font_families": {
+      "Tenor Sans": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Tenor Sans\"",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      },
+      "Outfit": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Outfit",
+        "url": "https://sakurabloom.com/",
+        "snapshot": "homepage.html",
+        "sha256": "1784902e65f728d8104320eba0ca33339a7e714eea85748dcd01778d0cf9d63f"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

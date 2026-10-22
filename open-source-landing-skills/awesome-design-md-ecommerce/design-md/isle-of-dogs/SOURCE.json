@@ -1,0 +1,838 @@
+{
+  "source_url": "https://iodogs.com",
+  "final_url": "https://iodogs.com/",
+  "captured_at": "2026-09-29T03:57:41.664371+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://iodogs.com",
+      "final_url": "https://iodogs.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "10d2c6666cd1e021cf3d5bd0f019a8065d2b762d4af84f2eb42b1503288cb6e8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8d321d88cb97fdedc3189506c25de9292c6e73a60ebaab496243346c6404480e",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "final_url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://iodogs.com/cdn/shop/t/44/assets/custom.css?v=167566979429099684071702503837",
+      "final_url": "https://iodogs.com/cdn/shop/t/44/assets/custom.css?v=167566979429099684071702503837",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "91629e8ba3aecab8300170dcf9c16555ea5d32d6169e2fc5281cf20f75c8b56b",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 98,
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "#00bbb4": {
+      "count": 38,
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "#494949": {
+      "count": 72,
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      ]
+    },
+    "#939393": {
+      "count": 5,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 76,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#262626": {
+      "count": 31,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#3cfff8": {
+      "count": 5,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#d60000": {
+      "count": 5,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#108144": {
+      "count": 2,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "#005552": {
+      "count": 1,
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    }
+  },
+  "font_families": {
+    "Questrial": [
+      "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+    ],
+    "Figtree": [
+      "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+    ],
+    "Source Sans Pro": [
+      "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+    ],
+    "sans-serif": [
+      "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+    ],
+    "Arial": [
+      "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "-list .mega-nav-list-title-link,.product-title,.home-masonry-feature-title,th,.section-title,.page-title,.shopify-policy__title h1,h1,h2,h3,h4,h5,h6,.home-slide",
+      "declarations": "font-family:Questrial,sans-serif;font-style:normal;font-weight:400;color:#494949"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "-payment-button__button--unbranded,noscript .shopify-localization-form .disclosure__submit,.pxs-newsletter-form-button,.pxs-image-with-text-button,.button,.subm",
+      "declarations": "font-family:Figtree,sans-serif;font-style:normal;font-weight:500;padding:0;cursor:pointer;background:transparent;border:0;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "igation-desktop .has-mega-nav summary:after,input[type=submit].header-search-button,.product-thumbnails-navigation-previous,.product-thumbnails-navigation-next,",
+      "declarations": "font-family:chiko-icons;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".header-branding .logo-link,.template-password .password-branding .logo-link",
+      "declarations": "display:inline-block;max-width:100%;font-size:0;color:#494949;word-break:break-word"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".header-branding h1,.template-password .password-branding h1",
+      "declarations": "font-family:Questrial,sans-serif;font-style:normal;font-weight:400;margin:0;font-size:2.1428571429rem"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "-price,.mini-cart-item-details .product-price__unit-price,.product .product-price__tax,.product .product-price__unit-price,.cart-item .product-price__unit-price",
+      "declarations": "font-size:13px;color:#939393"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".flickity-prev-next-button.no-svg",
+      "declarations": "color:#000;font-size:1.8571428571rem"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "body",
+      "declarations": "margin:0;color:#262626;background-color:#fff;background-size:100% auto"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "body",
+      "declarations": "font-family:Source Sans Pro,sans-serif;font-style:normal;font-weight:400;color:#262626;font-size:16px;line-height:1.625"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "noscript .shopify-localization-form .disclosure__submit,.pxs-newsletter-form-button,.pxs-image-with-text-button,.button,.submit,input[type=submit],input[type=bu",
+      "declarations": "font-family:Figtree,sans-serif;font-style:normal;font-weight:500;background:#00bbb4;color:#fff;display:inline-block;text-align:center;line-height:normal;padding:15px 20px;border-radius:2px;font-size:1rem;transition:opacity .2s cubic-bezier(.25,.46,.45,.94),background-color .2s cubic-bezier(.25,.46,.45,.94),color .2s cubic-bezier(.25,.46,.45,.94)"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "t .shopify-localization-form .disclosure__submit:hover,.pxs-newsletter-form-button:hover,.pxs-image-with-text-button:hover,.button:hover,.submit:hover,input[typ",
+      "declarations": "color:#fff;background:#00dad1"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".secondary.disclosure__submit,.secondary.pxs-newsletter-form-button,.secondary.pxs-image-with-text-button,.secondary.button,.secondary.submit,input.secondary[ty",
+      "declarations": "background:#00bbb4;color:#fff"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "ndary.pxs-newsletter-form-button:hover,.secondary.pxs-image-with-text-button:hover,.secondary.button:hover,.secondary.submit:hover,input.secondary[type=submit]:",
+      "declarations": "color:#fff;background:"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": "on-form .disabled.disclosure__submit,.disabled.pxs-newsletter-form-button,.disabled.pxs-image-with-text-button,.disabled.button,.disabled.submit,input.disabled[",
+      "declarations": "background:#ccc;color:#888;cursor:not-allowed"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".video-section__overlay-header",
+      "declarations": "position:absolute;top:0;left:0;display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;padding:.5rem;margin:auto;text-align:center;background-color:var(--overlay-color)"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".video-section__play-button--primary",
+      "declarations": "color:#fff;background-color:var(--shopify-editor-setting-accent-color)"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".product-zoom",
+      "declarations": "position:absolute;background-color:#fff;background-repeat:no-repeat;display:none;top:0;right:0;bottom:0;left:0;z-index:10;cursor:pointer;cursor:zoom-out"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".product-title a",
+      "declarations": "font-size:inherit;color:inherit;text-decoration:inherit"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".product-tabs__radio:checked+.product-tabs__label",
+      "declarations": "border-color:#e4e4e4"
+    },
+    {
+      "source": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+      "selector": ".product-price-compare",
+      "declarations": "margin-left:8px;display:none;color:#939393;text-decoration:line-through"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Quality Dog Grooming Supplies | Professional Pet Grooming Products\n\n    \n\n    \n\n    \n      – Isle of Dogs",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#00bbb4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#262626",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#494949",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#939393",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#e4e4e4",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f7f7f7",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/"
+      ]
+    },
+    "colors.accent-bright": {
+      "value": "#3cfff8",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.accent-deep": {
+      "value": "#005552",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.link": {
+      "value": "#1990c6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value": "#136f99",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.alert": {
+      "value": "#d60000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "colors.success": {
+      "value": "#108144",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "Questrial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "Questrial, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "Questrial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 400,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "Source Sans Pro, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Source Sans Pro, Arial, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Source Sans Pro, Arial, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "Figtree, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": 500,
+        "lineHeight": 1,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.ink}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "hairlineColor": "{colors.hairline}",
+        "height": "72px"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.caption}",
+        "priceColor": "{colors.muted}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "headlineTypography": "{typography.display-xl}",
+        "bodyTypography": "{typography.body-md}",
+        "textColor": "{colors.body}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.alert}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "iconColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.coat-finder-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "accentColor": "{colors.primary}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}",
+        "rounded": "{rounded.lg}",
+        "padding": "{spacing.lg}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#ffffff",
+        "url": "https://iodogs.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10d2c6666cd1e021cf3d5bd0f019a8065d2b762d4af84f2eb42b1503288cb6e8"
+      },
+      "#00bbb4": {
+        "selector": "inline-style",
+        "property": "background-color",
+        "declaration": "#00bbb4",
+        "url": "https://iodogs.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10d2c6666cd1e021cf3d5bd0f019a8065d2b762d4af84f2eb42b1503288cb6e8"
+      },
+      "#494949": {
+        "selector": "inline-style",
+        "property": "color",
+        "declaration": "#494949",
+        "url": "https://iodogs.com/",
+        "snapshot": "homepage.html",
+        "sha256": "10d2c6666cd1e021cf3d5bd0f019a8065d2b762d4af84f2eb42b1503288cb6e8"
+      },
+      "#1990c6": {
+        "selector": ".shopify-payment-button__button--unbranded",
+        "property": "background-color",
+        "declaration": "#1990c6",
+        "url": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#136f99": {
+        "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+        "property": "background-color",
+        "declaration": "#136f99",
+        "url": "https://iodogs.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "snapshot": "stylesheet-1.css",
+        "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d"
+      },
+      "#eeeeee": {
+        "selector": ".fa-border",
+        "property": "border",
+        "declaration": "var(--fa-border-width,.08em) var(--fa-border-style,solid) var(--fa-border-color,#eee)",
+        "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "snapshot": "stylesheet-2.css",
+        "sha256": "8d321d88cb97fdedc3189506c25de9292c6e73a60ebaab496243346c6404480e"
+      },
+      "#939393": {
+        "selector": ".product-list-item .product-price__unit-price,.product-grid-masonry-sizer .product-price__unit-price,.mini-cart-item-details .product-price__unit-price,.product .product-price__tax,.product .product-price__unit-price,.cart-item .product-price__unit-price,.order-price .product-price__unit-price",
+        "property": "color",
+        "declaration": "#939393",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#e4e4e4": {
+        "selector": ".placeholder-svg",
+        "property": "background-color",
+        "declaration": "#e4e4e4",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#262626": {
+        "selector": "body",
+        "property": "color",
+        "declaration": "#262626",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#3cfff8": {
+        "selector": "a:hover",
+        "property": "color",
+        "declaration": "#3cfff8",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#d60000": {
+        "selector": "input[type=text].error,input[type=email].error,input[type=password].error,input[type=search].error,input[type=telephone].error,input[type=tel].error,input[type=number].error,textarea.error",
+        "property": "color",
+        "declaration": "#d60000",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#f7f7f7": {
+        "selector": ".home-masonry-feature .no-image",
+        "property": "background",
+        "declaration": "#f7f7f7",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#108144": {
+        "selector": ".surface-pick-up-embed",
+        "property": "--surface-pick-up-embed-theme-success-color",
+        "declaration": "#108144",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "#005552": {
+        "selector": ".pagination li.active,.pagination li:hover,.pagination .next.active,.pagination .next:hover,.pagination .previous.active,.pagination .previous:hover,.single-post-pagination li.active,.single-post-pagination li:hover,.single-post-pagination .next.active,.single-post-pagination .next:hover,.single-pos",
+        "property": "border-color",
+        "declaration": "#005552",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      }
+    },
+    "font_families": {
+      "Questrial": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Questrial",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "Figtree": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Figtree",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "Source Sans Pro": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "Source Sans Pro",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      },
+      "Arial": {
+        "selector": ".pagination .ellipsis,.single-post-pagination .ellipsis",
+        "property": "font-family",
+        "declaration": "Helvetica,Arial,sans-serif",
+        "url": "https://iodogs.com/cdn/shop/t/44/assets/theme.css?v=156723451409048708951762445091",
+        "snapshot": "stylesheet-3.css",
+        "sha256": "20b874af09abae27309fe68ac83a9fe5987912a859a39d85b7094317ce6815d4"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

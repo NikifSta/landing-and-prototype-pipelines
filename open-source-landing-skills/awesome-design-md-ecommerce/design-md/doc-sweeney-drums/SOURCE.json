@@ -1,0 +1,821 @@
+{
+  "source_url": "https://www.docsweeneydrums.com",
+  "final_url": "https://docsweeneydrums.com/",
+  "captured_at": "2026-09-29T03:53:12.900443+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.docsweeneydrums.com",
+      "final_url": "https://docsweeneydrums.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "8250c748b9d5b48a95a370521999dbc213dfd60a96585a1b7a9ade4f53b56cb1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/e5ff9c51-04dd-4898-965a-f00405185b81_1264/website.components.spacer.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/e5ff9c51-04dd-4898-965a-f00405185b81_1264/website.components.spacer.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "79cf11e511b4d35a376b07a268e704c15d8f8935b64de4c3a152f5ceb05cf96a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ecb4d6d01d535788189bc6ea40c9e2e3bba6adcfc7f5a79aa69fc76fa64c9b68",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "final_url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 351,
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "#000000": {
+      "count": 177,
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "#222222": {
+      "count": 105,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#111111": {
+      "count": 21,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 22,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 13,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#f0523d": {
+      "count": 12,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#999999": {
+      "count": 8,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#dddddd": {
+      "count": 30,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 6,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "#ebebeb": {
+      "count": 10,
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    }
+  },
+  "font_families": {
+    "sans-serif": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ],
+    "Helvetica Neue": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ],
+    "Helvetica": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ],
+    "Arial": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ],
+    "proxima-nova": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ],
+    "din-condensed-web": [
+      "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+      "declarations": "font-family:'Helvetica Neue',Helvetica,Sans-serif;font-size:12px;line-height:1.5em;font-weight:normal;font-style:normal;letter-spacing:.05em;margin:10px !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.DARK p,.sqs-cookie-banner-v2.DARK button,.sqs-cookie-banner-v2.DARK a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject),.sqsp-tooltip .buttons a:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):focus,.sqsp-tooltip .buttons a:not(.reject)>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject,.sqsp-tooltip .buttons a.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:focus,.sqsp-tooltip .buttons a.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover,.sqsp-tooltip .buttons a.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject),.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):focus,.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:focus,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation.danger-zone .sqs-widgets-confirmation-content .buttons .confirmation-button",
+      "declarations": "background-color:#f0523d;color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation.danger-zone .sqs-widgets-confirmation-content .buttons .confirmation-button:hover",
+      "declarations": "background-color:#e4351e"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Doc Sweeney Drums",
+  "schema_version": 2,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value": "#f0523d",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.ink": {
+      "value": "#111111",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "colors.muted": {
+      "value": "#999999",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f6f6f6",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ebebeb",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value": "#000000",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://docsweeneydrums.com/"
+      ]
+    },
+    "colors.text-secondary": {
+      "value": "#3e3e3e",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.border-dark": {
+      "value": "#2a2a2a",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-alt": {
+      "value": "#eeeeee",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "din-condensed-web, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": 600,
+        "lineHeight": 1.1,
+        "letterSpacing": "-0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "din-condensed-web, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": 600,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "proxima-nova, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "22px",
+        "fontWeight": 600,
+        "lineHeight": 1.25,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "proxima-nova, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "Helvetica Neue, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.5,
+        "letterSpacing": "0.02em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "Helvetica Neue, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": "1.5em",
+        "letterSpacing": "0.05em"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "proxima-nova, Helvetica Neue, Arial, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": 500,
+        "lineHeight": "22px",
+        "letterSpacing": "0.5px",
+        "textTransform": "uppercase"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.lg}",
+        "hairline": "{colors.border-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.lg}",
+        "titleTypography": "{typography.title-md}",
+        "bodyTypography": "{typography.body-sm}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.on-primary}",
+        "titleTypography": "{typography.display-xl}",
+        "subtitleTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-dark}",
+        "textColor": "{colors.muted}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.lg}",
+        "hairline": "{colors.border-dark}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.shell-config-swatch": {
+      "value": {
+        "backgroundColor": "{colors.surface-alt}",
+        "borderColor": "{colors.hairline}",
+        "selectedBorderColor": "{colors.primary}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.xs}",
+        "typography": "{typography.caption}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#00000000": {
+        "selector": "0%, 99%",
+        "property": "color",
+        "declaration": "transparent",
+        "url": "https://docsweeneydrums.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8250c748b9d5b48a95a370521999dbc213dfd60a96585a1b7a9ade4f53b56cb1"
+      },
+      "#ffffff": {
+        "selector": "inline-style",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://docsweeneydrums.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8250c748b9d5b48a95a370521999dbc213dfd60a96585a1b7a9ade4f53b56cb1"
+      },
+      "#000000": {
+        "selector": "inline-style",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://docsweeneydrums.com/",
+        "snapshot": "homepage.html",
+        "sha256": "8250c748b9d5b48a95a370521999dbc213dfd60a96585a1b7a9ade4f53b56cb1"
+      },
+      "#222222": {
+        "selector": ".sqs-block[data-definition-name=\"website.components.socialLinks\"] .sqs-block-socialaccountlinks-content",
+        "property": "--social-links-solid-icon-dark",
+        "declaration": "#222",
+        "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "snapshot": "stylesheet-4.css",
+        "sha256": "ecb4d6d01d535788189bc6ea40c9e2e3bba6adcfc7f5a79aa69fc76fa64c9b68"
+      },
+      "#eeeeee": {
+        "selector": ".sqs-cookie-banner-v2.LIGHT",
+        "property": "background-color",
+        "declaration": "#eee",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#111111": {
+        "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+        "property": "color",
+        "declaration": "#111",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#3e3e3e": {
+        "selector": ".sqs-system-error",
+        "property": "color",
+        "declaration": "#3e3e3e",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#f6f6f6": {
+        "selector": ".sqsp-tooltip",
+        "property": "background-color",
+        "declaration": "#f6f6f6",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#f0523d": {
+        "selector": ".sqsp-tooltip .buttons a.reject:hover",
+        "property": "background-color",
+        "declaration": "#f0523d",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#999999": {
+        "selector": ".sqs-loading-overlay-node.has-title .title",
+        "property": "color",
+        "declaration": "#999",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#dddddd": {
+        "selector": "#list-paging a.disabled,#item-paging a.disabled",
+        "property": "color",
+        "declaration": "#ddd",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#2a2a2a": {
+        "selector": ".tweak-product-item-details-add-to-cart-button-style-raised .mixin-add-to-cart-button-style:hover",
+        "property": "background-color",
+        "declaration": "#2a2a2a",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "#ebebeb": {
+        "selector": ".medium-button-style-raised .sqs-alternate-block-style-container .sqs-block-button .sqs-block-button-element--medium",
+        "property": "box-shadow",
+        "declaration": "0 2px 0 0 #ebebeb",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      }
+    },
+    "font_families": {
+      "sans-serif": {
+        "selector": "html",
+        "property": "font-family",
+        "declaration": "sans-serif",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "Helvetica Neue": {
+        "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Sans-serif",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "Helvetica": {
+        "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+        "property": "font-family",
+        "declaration": "\"Helvetica Neue\",Helvetica,Sans-serif",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "Arial": {
+        "selector": ".sqs-blockStatus-box",
+        "property": "font-family",
+        "declaration": "\"Clarkson\",\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "proxima-nova": {
+        "selector": ".Blog-meta",
+        "property": "font-family",
+        "declaration": "proxima-nova",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      },
+      "din-condensed-web": {
+        "selector": ".BlogList-item-title",
+        "property": "font-family",
+        "declaration": "din-condensed-web",
+        "url": "https://static1.squarespace.com/static/sitecss/56c78504f699bb77fbd911db/239/55f0aac0e4b0f0a5b7e0b22e/5b35d56b0e2e720f5f1fd2d5/360/site.css?nocustom=true",
+        "snapshot": "stylesheet-5.css",
+        "sha256": "bc95fc39f21a3e42df87a24d1f8e130cfccf2e6ea4078ac82e8c25b9d5d6da33"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}

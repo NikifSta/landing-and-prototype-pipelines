@@ -1,0 +1,540 @@
+{
+  "source_url": "https://grayhillwoodworkingllc.com",
+  "final_url": "https://www.grayhillwoodworkingllc.com/",
+  "captured_at": "2026-09-28T09:13:34.317603+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://grayhillwoodworkingllc.com",
+      "final_url": "https://www.grayhillwoodworkingllc.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6b5fd9b8af2d32b19f4e31f5ea6db1496a6fa10f6bff4ef9f1c11d90e88f703c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/3d7cd87b-e4c9-439e-9e04-31b0ed05736b_308/website.components.horizontalrule.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/3d7cd87b-e4c9-439e-9e04-31b0ed05736b_308/website.components.horizontalrule.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "16728fc007853637c7768b0c79c377bcc59811904609cfa1954475b58a32c109",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "PT Serif": [
+      "https://www.grayhillwoodworkingllc.com/"
+    ],
+    "Gilda Display": [
+      "https://www.grayhillwoodworkingllc.com/"
+    ]
+  },
+  "css_rules": [],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Grayhill Woodworking LLC Home Décor & Fine Woodwoodworking  I  New Jersey",
+  "schema_version": 2,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.ink": {
+      "value": "#222222",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.body": {
+      "value": "#333333",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.muted": {
+      "value": "#666666",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value": "#dddddd",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value": "#f5f5f5",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value": "#ffffff",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "colors.subtle": {
+      "value": "#aaaaaa",
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grayhillwoodworkingllc.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "value": {
+        "fontFamily": "'Gilda Display', serif",
+        "fontSize": "48px",
+        "fontWeight": 400,
+        "lineHeight": 1.15,
+        "letterSpacing": "-0.25px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "value": {
+        "fontFamily": "'Gilda Display', serif",
+        "fontSize": "32px",
+        "fontWeight": 400,
+        "lineHeight": 1.2,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "value": {
+        "fontFamily": "'Gilda Display', serif",
+        "fontSize": "22px",
+        "fontWeight": 400,
+        "lineHeight": 1.3,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "value": {
+        "fontFamily": "'PT Serif', serif",
+        "fontSize": "16px",
+        "fontWeight": 400,
+        "lineHeight": 1.6,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "value": {
+        "fontFamily": "'PT Serif', serif",
+        "fontSize": "14px",
+        "fontWeight": 400,
+        "lineHeight": 1.55,
+        "letterSpacing": "0px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "value": {
+        "fontFamily": "'PT Serif', serif",
+        "fontSize": "12px",
+        "fontWeight": 400,
+        "lineHeight": 1.4,
+        "letterSpacing": "0.2px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "value": {
+        "fontFamily": "'PT Serif', serif",
+        "fontSize": "14px",
+        "fontWeight": 700,
+        "lineHeight": 1.2,
+        "letterSpacing": "0.5px"
+      },
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "value": "9999px",
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "value": "0px",
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "value": "2px",
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "value": "4px",
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "value": "8px",
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "value": "12px",
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "value": "16px",
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "value": "24px",
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "value": "32px",
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "value": "48px",
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "value": "64px",
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "value": {
+        "backgroundColor": "{colors.primary}",
+        "textColor": "{colors.on-primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "value": {
+        "backgroundColor": "transparent",
+        "textColor": "{colors.primary}",
+        "borderColor": "{colors.primary}",
+        "typography": "{typography.button-md}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.md} {spacing.lg}"
+      },
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "placeholderColor": "{colors.subtle}",
+        "typography": "{typography.body-md}",
+        "rounded": "{rounded.xs}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "value": {
+        "backgroundColor": "{colors.canvas}",
+        "textColor": "{colors.ink}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.base} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "titleTypography": "{typography.title-md}",
+        "priceTypography": "{typography.body-md}",
+        "metaTypography": "{typography.caption}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.hero": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.ink}",
+        "headlineTypography": "{typography.display-xl}",
+        "subTypography": "{typography.body-md}",
+        "padding": "{spacing.section} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.footer": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.muted}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.body-sm}",
+        "padding": "{spacing.xxl} {spacing.xl}"
+      },
+      "status": "inferred"
+    },
+    "components.badge": {
+      "value": {
+        "backgroundColor": "{colors.surface-soft}",
+        "textColor": "{colors.body}",
+        "borderColor": "{colors.hairline}",
+        "typography": "{typography.caption}",
+        "rounded": "{rounded.full}",
+        "padding": "{spacing.xxs} {spacing.sm}"
+      },
+      "status": "inferred"
+    },
+    "components.search": {
+      "value": {
+        "backgroundColor": "{colors.surface-card}",
+        "borderColor": "{colors.hairline}",
+        "textColor": "{colors.body}",
+        "typography": "{typography.body-sm}",
+        "rounded": "{rounded.sm}",
+        "padding": "{spacing.sm} {spacing.base}"
+      },
+      "status": "inferred"
+    },
+    "components.custom-order-cta": {
+      "value": {
+        "backgroundColor": "{colors.ink}",
+        "textColor": "{colors.on-primary}",
+        "headlineTypography": "{typography.display-md}",
+        "bodyTypography": "{typography.body-md}",
+        "rounded": "{rounded.md}",
+        "padding": "{spacing.xl}"
+      },
+      "status": "inferred"
+    }
+  },
+  "observations": {
+    "colors": {
+      "#ffffff": {
+        "selector": ".sqs-search-preview-ui",
+        "property": "background-color",
+        "declaration": "#fff",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#dddddd": {
+        "selector": ".sqs-search-preview-ui .sqs-search-ui-result",
+        "property": "border",
+        "declaration": "1px solid #ddd",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#333333": {
+        "selector": ".sqs-search-preview-ui .search-result-notice",
+        "property": "color",
+        "declaration": "#333",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#f5f5f5": {
+        "selector": ".sqs-search-preview-ui .search-result.selected,\n      .sqs-search-preview-ui .search-result:hover",
+        "property": "background-color",
+        "declaration": "#f5f5f5",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#222222": {
+        "selector": ".sqs-search-preview-ui .sqs-search-ui-item em",
+        "property": "color",
+        "declaration": "#222",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#aaaaaa": {
+        "selector": "#block-yui_3_17_2_1_1735449888023_63087",
+        "property": "--search-theme-border-color",
+        "declaration": "#aaa",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#666666": {
+        "selector": "#block-yui_3_17_2_1_1735449888023_63087",
+        "property": "--search-theme-placeholder-color",
+        "declaration": "#666",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#000000": {
+        "selector": "#block-yui_3_17_2_1_1750783611203_109512 .fluid-image-container.visitor-mode",
+        "property": "-webkit-mask-image",
+        "declaration": "-webkit-radial-gradient(white, black)",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "#00000000": {
+        "selector": "#block-yui_3_17_2_1_1740188023760_100527 .sqs-svg-icon--wrapper",
+        "property": "--si-fill-mask",
+        "declaration": "transparent",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      }
+    },
+    "font_families": {
+      "PT Serif": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"PT Serif\"",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      },
+      "Gilda Display": {
+        "selector": "@font-face",
+        "property": "font-family",
+        "declaration": "\"Gilda Display\"",
+        "url": "https://www.grayhillwoodworkingllc.com/",
+        "snapshot": "homepage.html",
+        "sha256": "7838772822832813f16bef0d0417a49eb5e982c718b54397a21fe31c78cf177a"
+      }
+    }
+  },
+  "layout_status": "proposed_not_measured",
+  "recreation_verified": false
+}
